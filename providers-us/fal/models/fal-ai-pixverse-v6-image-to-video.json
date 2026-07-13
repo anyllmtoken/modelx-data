@@ -1,0 +1,35 @@
+{
+  "id": "fal-ai/pixverse/v6/image-to-video",
+  "name": "PixVerse V6 Image To Video",
+  "created_by": "fal",
+  "source": "official",
+  "description": "Pixverse's latest V6 Model",
+  "status": "active",
+  "release_date": "2026-03-29",
+  "model_type": "video",
+  "page_url": "https://fal.run/fal-ai/pixverse/v6/image-to-video",
+  "tagline": "Pixverse's latest V6 Model",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["video"]
+  },
+  "endpoints": ["video"],
+  "last_seen_at": "2026-06-17",
+  "_generated": {
+    "name": "ae84e2ca",
+    "description": "e197ec36",
+    "status": "379ac110",
+    "release_date": "c019c0fb",
+    "model_type": "4d1b75ca",
+    "page_url": "d716305e",
+    "tagline": "e197ec36",
+    "capabilities": "d3117eb0",
+    "modalities": "85fd0565",
+    "endpoints": "7a78c070",
+    "last_seen_at": "e050aed5"
+  },
+  "last_updated": "2026-06-18"
+}

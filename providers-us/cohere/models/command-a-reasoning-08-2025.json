@@ -1,0 +1,48 @@
+{
+  "id": "command-a-reasoning-08-2025",
+  "name": "command-a-reasoning-08-2025",
+  "created_by": "cohere",
+  "source": "official",
+  "last_updated": "2026-03-24",
+  "description": "Command A Reasoning is Cohere’s first reasoning model, able to ‘think’ before generating an output in a way that allows it to perform well in certain kinds of nuanced problem-solving and agent-based tasks in 23 languages.",
+  "status": "active",
+  "context_window": 256000,
+  "max_output_tokens": 32000,
+  "model_type": "reasoning",
+  "tagline": "Command A Reasoning is Cohere’s first reasoning model, able to ‘think’ before generating an output in a way that allows it to perform well in certain kinds of nuanced problem-solving and agent-based t",
+  "capabilities": {
+    "streaming": true,
+    "reasoning": true,
+    "fine_tuning": true
+  },
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 1,
+    "output": 2
+  },
+  "endpoints": ["chat"],
+  "_generated": {
+    "name": "d85605c3",
+    "description": "6cbfab73",
+    "status": "379ac110",
+    "context_window": "2fd324cb",
+    "max_output_tokens": "10e4d788",
+    "model_type": "17475f7f",
+    "tagline": "a9218253",
+    "capabilities": "034b2f91",
+    "modalities": "68e53d93",
+    "pricing": "ac91204c",
+    "endpoints": "75df3f1c",
+    "family": "8e3865ab",
+    "license": "2c8e76b8",
+    "open_weight": "b326b506",
+    "page_url": "6ca328ac"
+  },
+  "family": "command-a",
+  "license": "cc-by-nc-4.0",
+  "open_weight": true,
+  "page_url": "https://docs.cohere.com/docs/models#command-a-reasoning-08-2025"
+}

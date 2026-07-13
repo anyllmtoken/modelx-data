@@ -1,0 +1,79 @@
+{
+  "id": "gpt-5.1-codex-mini",
+  "name": "GPT-5.1-Codex mini",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-06-10",
+  "family": "gpt-5.1",
+  "description": "GPT-5.1-Codex mini is a smaller, more cost-effective, less-capable version of GPT-5.1-Codex.",
+  "status": "deprecated",
+  "knowledge_cutoff": "2024-09",
+  "context_window": 400000,
+  "max_output_tokens": 128000,
+  "model_type": "reasoning",
+  "reasoning_tokens": true,
+  "performance": 4,
+  "reasoning": 4,
+  "speed": 3,
+  "tagline": "Smaller, more cost-effective, less-capable version of GPT-5.1-Codex",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "json_mode": true,
+    "fine_tuning": false
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 0.25,
+    "output": 2,
+    "cached_input": 0.025,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": ["Input", "Cached input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [0.25, 0.025, 2]
+          }
+        ]
+      }
+    ]
+  },
+  "tools": ["function_calling", "web_search"],
+  "endpoints": ["responses"],
+  "snapshots": ["gpt-5.1-codex-mini"],
+  "_generated": {
+    "name": "9ea33db6",
+    "family": "2089aff2",
+    "description": "2bb48e31",
+    "status": "2e2f74dc",
+    "knowledge_cutoff": "b0196d6e",
+    "context_window": "2a3a2d28",
+    "max_output_tokens": "34434798",
+    "model_type": "17475f7f",
+    "reasoning_tokens": "b326b506",
+    "performance": "a87ff679",
+    "reasoning": "a87ff679",
+    "speed": "eccbc87e",
+    "tagline": "d5a54e6b",
+    "capabilities": "07de7920",
+    "modalities": "6399757e",
+    "pricing": "a26d26b5",
+    "tools": "4db09141",
+    "endpoints": "acb164ea",
+    "license": "9186c466",
+    "page_url": "a6276159",
+    "open_weight": "68934a3e"
+  },
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-5.1-codex-mini",
+  "open_weight": false
+}

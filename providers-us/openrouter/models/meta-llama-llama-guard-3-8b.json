@@ -1,0 +1,36 @@
+{
+  "id": "meta-llama/llama-guard-3-8b",
+  "name": "Llama Guard 3 8B",
+  "created_by": "meta-llama",
+  "source": "official",
+  "last_updated": "2026-05-23",
+  "family": "llama-guard",
+  "description": "Llama Guard 3 is a Llama-3.1-8B pretrained model, fine-tuned for content safety classification.",
+  "context_window": 131072,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 0.484,
+    "output": 0.03
+  },
+  "_generated": {
+    "name": "acaa09f0",
+    "family": "3190be28",
+    "description": "1df555e6",
+    "context_window": "f7de594e",
+    "modalities": "68e53d93",
+    "pricing": "1f80e353",
+    "model_type": "1e7a7b87",
+    "parameters": "c9f0f895",
+    "release_date": "fbc10550",
+    "tagline": "1df555e6",
+    "max_output_tokens": "f7de594e"
+  },
+  "model_type": "moderation",
+  "parameters": 8,
+  "release_date": "2025-02-12",
+  "tagline": "Llama Guard 3 is a Llama-3.1-8B pretrained model, fine-tuned for content safety classification.",
+  "max_output_tokens": 131072
+}

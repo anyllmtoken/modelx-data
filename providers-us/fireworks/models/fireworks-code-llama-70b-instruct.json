@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/code-llama-70b-instruct",
+  "name": "code-llama-70b-instruct",
+  "created_by": "meta",
+  "source": "official",
+  "last_updated": "2026-05-10",
+  "context_window": 4090,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "d2ce7cff",
+    "context_window": "ae31ee95",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "parameters": "7cbbc409",
+    "page_url": "500da49a"
+  },
+  "parameters": 70,
+  "page_url": "https://fireworks.ai/models/fireworks/code-llama-70b-instruct"
+}

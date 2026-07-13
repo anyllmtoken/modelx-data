@@ -1,0 +1,51 @@
+{
+  "id": "magistral-medium",
+  "name": "magistral-medium",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-06-10",
+  "status": "deprecated",
+  "context_window": 40000,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 5
+  },
+  "snapshots": [
+    "magistral-medium-2509",
+    "magistral-medium-2507",
+    "magistral-medium-2506"
+  ],
+  "_generated": {
+    "name": "6a1eea51",
+    "status": "2e2f74dc",
+    "context_window": "7c77f048",
+    "capabilities": "fc36814c",
+    "modalities": "6399757e",
+    "pricing": "383111d1",
+    "model_type": "17475f7f",
+    "family": "b2c75a88",
+    "license": "9186c466",
+    "page_url": "5416d411",
+    "open_weight": "68934a3e",
+    "description": "017a1b9c",
+    "tagline": "50bb3b65",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "reasoning",
+  "family": "magistral",
+  "license": "proprietary",
+  "page_url": "https://docs.mistral.ai/models/model-cards/magistral-medium-1-0-25-06",
+  "open_weight": false,
+  "description": "Our first frontier-class reasoning model released June 2025.",
+  "tagline": "Our frontier-class multimodal reasoning model update of September 2025.",
+  "tools": ["function_calling"]
+}

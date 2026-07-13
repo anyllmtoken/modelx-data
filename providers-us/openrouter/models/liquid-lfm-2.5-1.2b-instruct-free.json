@@ -1,0 +1,32 @@
+{
+  "id": "liquid/lfm-2.5-1.2b-instruct:free",
+  "name": "LiquidAI: LFM2.5-1.2B-Instruct (free)",
+  "created_by": "liquid",
+  "source": "official",
+  "last_updated": "2026-06-18",
+  "description": "LFM2.5-1.2B-Instruct is a compact, high-performance instruction-tuned model built for fast on-device AI.",
+  "context_window": 32768,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "_generated": {
+    "name": "407303d7",
+    "description": "493db1d6",
+    "context_window": "f4376436",
+    "modalities": "68e53d93",
+    "parameters": "56765472",
+    "release_date": "76120ca1",
+    "tagline": "493db1d6",
+    "model_type": "d669f408",
+    "capabilities": "dbb5b7fe"
+  },
+  "parameters": 1.2,
+  "release_date": "2026-01-20",
+  "tagline": "LFM2.5-1.2B-Instruct is a compact, high-performance instruction-tuned model built for fast on-device AI.",
+  "model_type": "chat",
+  "capabilities": {
+    "structured_output": true,
+    "json_mode": true
+  }
+}

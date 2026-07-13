@@ -1,0 +1,40 @@
+{
+  "id": "qwen/qwen-vl-plus",
+  "name": "Qwen: Qwen VL Plus",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-03-24",
+  "family": "qwen",
+  "description": "Qwen's Enhanced Large Visual Language Model.",
+  "context_window": 131072,
+  "max_output_tokens": 8192,
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "capabilities": {
+    "structured_output": true,
+    "json_mode": true
+  },
+  "pricing": {
+    "input": 0.137,
+    "output": 0.41,
+    "cached_input": 0.027
+  },
+  "_generated": {
+    "name": "a599cc7f",
+    "family": "a3af76f3",
+    "description": "d2245f48",
+    "context_window": "f7de594e",
+    "max_output_tokens": "77441296",
+    "modalities": "6399757e",
+    "capabilities": "dbb5b7fe",
+    "pricing": "d5c6ff2a",
+    "model_type": "d669f408",
+    "release_date": "6d791f55",
+    "tagline": "d2245f48"
+  },
+  "model_type": "chat",
+  "release_date": "2025-02-05",
+  "tagline": "Qwen's Enhanced Large Visual Language Model."
+}

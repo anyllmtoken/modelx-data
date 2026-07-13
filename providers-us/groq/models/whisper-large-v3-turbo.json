@@ -1,0 +1,23 @@
+{
+  "id": "whisper-large-v3-turbo",
+  "name": "Whisper Large V3 Turbo",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "whisper",
+  "status": "active",
+  "model_type": "transcription",
+  "modalities": {
+    "input": ["audio"],
+    "output": ["text"]
+  },
+  "_generated": {
+    "name": "134833fb",
+    "family": "7fbc43e3",
+    "status": "379ac110",
+    "model_type": "5e12d29a",
+    "modalities": "b8e84832",
+    "page_url": "1a524436"
+  },
+  "page_url": "https://console.groq.com/docs/models#whisper-large-v3-turbo"
+}

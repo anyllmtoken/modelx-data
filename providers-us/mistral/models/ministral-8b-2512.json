@@ -1,0 +1,46 @@
+{
+  "id": "ministral-8b-2512",
+  "name": "ministral-8b-2512",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-06-03",
+  "family": "ministral",
+  "status": "active",
+  "context_window": 256000,
+  "alias": "ministral-8b",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "fine_tuning": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 0.15,
+    "output": 0.15
+  },
+  "_generated": {
+    "name": "3a51fcca",
+    "family": "d6661e63",
+    "status": "379ac110",
+    "context_window": "2fd324cb",
+    "capabilities": "62b3fd83",
+    "modalities": "6399757e",
+    "pricing": "16a72b67",
+    "model_type": "d669f408",
+    "license": "60245731",
+    "parameters": "c9f0f895",
+    "page_url": "9917afd0",
+    "open_weight": "b326b506",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "license": "apache-2.0",
+  "parameters": 8,
+  "page_url": "https://docs.mistral.ai/models/model-cards/ministral-3-8b-25-12",
+  "open_weight": true,
+  "tools": ["function_calling"]
+}

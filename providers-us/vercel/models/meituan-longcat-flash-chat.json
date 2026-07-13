@@ -1,0 +1,31 @@
+{
+  "id": "meituan/longcat-flash-chat",
+  "name": "longcat-flash-chat",
+  "created_by": "meituan",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "context_window": 128000,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "_generated": {
+    "name": "317190b4",
+    "context_window": "34434798",
+    "capabilities": "48995a4e",
+    "pricing": "9a7a9781",
+    "tools": "f0c1dc7e",
+    "model_type": "d669f408",
+    "modalities": "68e53d93"
+  },
+  "tools": ["function_calling"],
+  "model_type": "chat",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

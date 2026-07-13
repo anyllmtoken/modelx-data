@@ -1,0 +1,51 @@
+{
+  "id": "mistral-medium",
+  "name": "mistral-medium",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-06-10",
+  "family": "mistral-medium",
+  "status": "deprecated",
+  "context_window": 32000,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true
+  },
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 0.4,
+    "output": 2
+  },
+  "snapshots": [
+    "mistral-medium-2508",
+    "mistral-medium-2505",
+    "mistral-medium-2312"
+  ],
+  "_generated": {
+    "name": "a57f1b52",
+    "family": "a57f1b52",
+    "status": "2e2f74dc",
+    "context_window": "10e4d788",
+    "capabilities": "fc36814c",
+    "modalities": "68e53d93",
+    "pricing": "70b90c36",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "page_url": "3dac022c",
+    "open_weight": "68934a3e",
+    "description": "4731588a",
+    "tagline": "8255637f",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "license": "proprietary",
+  "page_url": "https://docs.mistral.ai/models/model-cards/mistral-medium-1-0-23-12",
+  "open_weight": false,
+  "description": "Our first SOTA enterprise grade model.",
+  "tagline": "Our frontier-class multimodal model released August 2025.",
+  "tools": ["function_calling"]
+}

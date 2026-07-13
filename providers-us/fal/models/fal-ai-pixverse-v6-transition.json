@@ -1,0 +1,35 @@
+{
+  "id": "fal-ai/pixverse/v6/transition",
+  "name": "PixVerse V6 Transition",
+  "created_by": "fal",
+  "source": "official",
+  "description": "Pixverse's latest v6 Model.",
+  "status": "active",
+  "release_date": "2026-03-29",
+  "model_type": "video",
+  "page_url": "https://fal.run/fal-ai/pixverse/v6/transition",
+  "tagline": "Pixverse's latest v6 Model.",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["video"]
+  },
+  "endpoints": ["video"],
+  "last_seen_at": "2026-07-01",
+  "_generated": {
+    "name": "1dbb83b9",
+    "description": "c22d6506",
+    "status": "379ac110",
+    "release_date": "c019c0fb",
+    "model_type": "4d1b75ca",
+    "page_url": "2a2ee69a",
+    "tagline": "c22d6506",
+    "capabilities": "d3117eb0",
+    "modalities": "85fd0565",
+    "endpoints": "7a78c070",
+    "last_seen_at": "97e5b4c6"
+  },
+  "last_updated": "2026-07-08"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "jina-embeddings-v2-base-es",
+  "name": "Jina Embeddings v2 Base ES",
+  "created_by": "jina",
+  "source": "official",
+  "last_updated": "2026-06-03",
+  "family": "jina-embeddings",
+  "description": "Jina Embeddings v2 Base Spanish is a groundbreaking bilingual text embedding model that addresses the critical challenge of cross-lingual information retrieval and analysis between Spanish and English content. Unlike traditional multilingual models that often show bias towards specific languages, this model delivers truly balanced performance across both Spanish and English, making it indispensable for organizations operating in Spanish-speaking markets or handling bilingual content. The model's most remarkable feature is its ability to generate geometrically aligned embeddings - when texts in Spanish and English express the same meaning, their vector representations naturally cluster together in the embedding space, enabling seamless cross-language search and analysis.",
+  "tagline": "Spanish-English bilingual embeddings.",
+  "status": "active",
+  "model_type": "embed",
+  "context_window": 8192,
+  "release_date": "2024-02-14",
+  "license": "apache-2.0",
+  "open_weight": true,
+  "modalities": {
+    "input": ["text"],
+    "output": []
+  },
+  "endpoints": ["embeddings"],
+  "pricing": {
+    "input": 0.05
+  },
+  "output_dimensions": [768],
+  "_generated": {
+    "name": "413cac77",
+    "family": "04ec6848",
+    "description": "408c3d18",
+    "tagline": "1e36a473",
+    "status": "379ac110",
+    "model_type": "764cb3de",
+    "context_window": "77441296",
+    "release_date": "9dbb6bac",
+    "license": "60245731",
+    "open_weight": "b326b506",
+    "modalities": "afb3de08",
+    "endpoints": "5845adda",
+    "pricing": "0f2b1541",
+    "output_dimensions": "437516b7"
+  }
+}

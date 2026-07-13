@@ -1,0 +1,32 @@
+{
+  "id": "s/glm-4-7",
+  "name": "Glm 4 7",
+  "created_by": "zhipu",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "context_window": 202000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.45,
+    "output": 2
+  },
+  "_generated": {
+    "name": "18e9e789",
+    "context_window": "035efc14",
+    "capabilities": "0fa77dc6",
+    "pricing": "e9d4566b",
+    "family": "b85f9b4b",
+    "model_type": "d669f408",
+    "page_url": "b024b9e6",
+    "modalities": "68e53d93"
+  },
+  "family": "glm-4",
+  "model_type": "chat",
+  "page_url": "https://www.together.ai/models/glm-4-7",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

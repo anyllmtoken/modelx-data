@@ -1,0 +1,50 @@
+{
+  "id": "glm-4-32b-0414-128k",
+  "name": "GLM-4-32B-0414-128K",
+  "created_by": "zhipu",
+  "source": "official",
+  "last_updated": "2026-06-18",
+  "context_window": 128000,
+  "max_output_tokens": 16000,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "fine_tuning": true,
+    "json_mode": true
+  },
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "_generated": {
+    "name": "cec63846",
+    "context_window": "34434798",
+    "max_output_tokens": "67510c89",
+    "capabilities": "d844d624",
+    "modalities": "68e53d93",
+    "model_type": "d669f408",
+    "family": "b85f9b4b",
+    "license": "3c4c3ba5",
+    "parameters": "6364d3f0",
+    "open_weight": "b326b506",
+    "tools": "f0c1dc7e",
+    "page_url": "64d4549b",
+    "pricing": "dabb026f",
+    "description": "4db83603",
+    "tagline": "d6058184"
+  },
+  "model_type": "chat",
+  "family": "glm-4",
+  "license": "mit",
+  "parameters": 32,
+  "open_weight": true,
+  "tools": ["function_calling"],
+  "page_url": "https://docs.z.ai/guides/llm/glm-4-32b-0414-128k",
+  "pricing": {
+    "input": 0.1,
+    "output": 0.1
+  },
+  "description": "GLM-4-32B-0414-128K is a highly cost-effective foundation language model. It can efficiently perform complex tasks and has significantly enhanced capabilities in tool use, online search, and code-related intelligent tasks.",
+  "tagline": "GLM-4-32B-0414-128K is a highly cost-effective foundation language model."
+}

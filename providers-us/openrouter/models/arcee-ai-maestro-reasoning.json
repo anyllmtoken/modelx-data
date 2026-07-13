@@ -1,0 +1,32 @@
+{
+  "id": "arcee-ai/maestro-reasoning",
+  "name": "Arcee AI: Maestro Reasoning",
+  "created_by": "arcee-ai",
+  "source": "official",
+  "last_updated": "2026-04-07",
+  "description": "Maestro Reasoning is Arcee's flagship analysis model: a 32 B‑parameter derivative of Qwen 2.5‑32 B tuned with DPO and chain‑of‑thought RL for step‑by‑step logic.",
+  "context_window": 131072,
+  "max_output_tokens": 32000,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 0.9,
+    "output": 3.3
+  },
+  "_generated": {
+    "name": "dd985e0d",
+    "description": "25e07443",
+    "context_window": "f7de594e",
+    "max_output_tokens": "10e4d788",
+    "modalities": "68e53d93",
+    "pricing": "e6c61d00",
+    "model_type": "17475f7f",
+    "release_date": "be9965ce",
+    "tagline": "e6658ffb"
+  },
+  "model_type": "reasoning",
+  "release_date": "2025-05-05",
+  "tagline": "Maestro Reasoning is Arcee's flagship analysis model: a 32 B‑parameter derivative of Qwen 2.5‑32 B tuned with DPO and chain‑of‑thought RL for step‑by‑step logic."
+}

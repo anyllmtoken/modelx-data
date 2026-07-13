@@ -1,0 +1,26 @@
+{
+  "id": "yi-01-ai/yi-34b",
+  "name": "yi-34b",
+  "created_by": "yi-01-ai",
+  "source": "official",
+  "last_updated": "2026-05-10",
+  "context_window": 4090,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "bbaf4535",
+    "context_window": "ae31ee95",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "parameters": "e369853d",
+    "page_url": "e5973d99"
+  },
+  "parameters": 34,
+  "page_url": "https://fireworks.ai/models/yi-01-ai/yi-34b"
+}

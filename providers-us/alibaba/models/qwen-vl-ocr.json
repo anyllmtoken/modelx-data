@@ -1,0 +1,46 @@
+{
+  "id": "qwen-vl-ocr",
+  "name": "qwen-vl-ocr",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-04-21",
+  "family": "qwen",
+  "context_window": 38192,
+  "max_output_tokens": 8192,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "fine_tuning": true
+  },
+  "modalities": {
+    "input": ["text", "image", "video"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 0.07,
+    "output": 0.16
+  },
+  "endpoints": ["chat"],
+  "_generated": {
+    "name": "862da9e5",
+    "family": "a3af76f3",
+    "context_window": "00e28177",
+    "max_output_tokens": "77441296",
+    "model_type": "d669f408",
+    "capabilities": "91e36286",
+    "modalities": "3ad4060a",
+    "pricing": "783709db",
+    "endpoints": "75df3f1c",
+    "license": "60245731",
+    "open_weight": "b326b506",
+    "description": "81e85556",
+    "page_url": "23162829",
+    "tagline": "3bb63476"
+  },
+  "license": "apache-2.0",
+  "open_weight": true,
+  "description": "Qwen-OCR is a model specifically designed for text extraction. Compared to Qwen-VL models, it focuses more on extracting text from documents, tables, test questions, and handwritten images. It can recognize multiple languages, including English, French, Japanese, Korean, German, Russian, and Italian.[Usage](https://www.alibabacloud.com/help/en/document_detail/2860683.html) \\| [API reference](https://www.alibabacloud.com/help/en/document_detail/2996283.html) \\| [Try online](https://modelstudio.console.alibabacloud.com/?tab=playground#/efm/prompt) #### International If you select the [International](https://www.alibabacloud.com/help/en/document_detail/3004398.html#080da663a75xh) deployment scope, model inference compute resources are dynamically scheduled worldwide, excluding the Chinese mainland. Static data is stored in your selected region. Supported region: Singapore.",
+  "page_url": "https://www.alibabacloud.com/help/en/model-studio/models",
+  "tagline": "Qwen-OCR is a model that specializes in text extraction."
+}

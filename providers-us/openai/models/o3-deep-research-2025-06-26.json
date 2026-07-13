@@ -1,0 +1,86 @@
+{
+  "id": "o3-deep-research-2025-06-26",
+  "name": "o3-deep-research-2025-06-26",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-03-24",
+  "family": "o3",
+  "description": "o3-deep-research is our most advanced model for deep research,",
+  "status": "active",
+  "knowledge_cutoff": "2024-06",
+  "context_window": 200000,
+  "max_output_tokens": 100000,
+  "model_type": "chat",
+  "reasoning_tokens": true,
+  "alias": "o3-deep-research",
+  "performance": 5,
+  "reasoning": 5,
+  "speed": 1,
+  "tagline": "o3-deep-research is our most advanced model for deep research,",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "reasoning": true,
+    "tool_call": false,
+    "structured_output": false,
+    "json_mode": false,
+    "fine_tuning": false,
+    "batch": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 10,
+    "output": 40,
+    "cached_input": 2.5,
+    "batch_input": 5,
+    "batch_output": 20,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": ["Input", "Cached input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [10, 2.5, 40]
+          },
+          {
+            "label": "Batch",
+            "values": [5, null, 20]
+          }
+        ]
+      }
+    ]
+  },
+  "endpoints": ["responses", "batch"],
+  "_generated": {
+    "name": "c7c5eedf",
+    "family": "193049bc",
+    "description": "e446c1c2",
+    "status": "379ac110",
+    "knowledge_cutoff": "b087cb52",
+    "context_window": "03e6c616",
+    "max_output_tokens": "14ee22ea",
+    "model_type": "d669f408",
+    "reasoning_tokens": "b326b506",
+    "performance": "e4da3b7f",
+    "reasoning": "e4da3b7f",
+    "speed": "c4ca4238",
+    "tagline": "e446c1c2",
+    "capabilities": "0651f887",
+    "modalities": "6399757e",
+    "pricing": "03b07ed1",
+    "endpoints": "6f01fd6c",
+    "license": "9186c466",
+    "release_date": "f083d14e",
+    "page_url": "4e37da0f",
+    "open_weight": "68934a3e"
+  },
+  "license": "proprietary",
+  "release_date": "2025-06-26",
+  "page_url": "https://developers.openai.com/api/docs/models/o3-deep-research?snapshot=o3-deep-research-2025-06-26",
+  "open_weight": false
+}

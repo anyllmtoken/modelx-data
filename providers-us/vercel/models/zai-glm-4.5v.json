@@ -1,0 +1,35 @@
+{
+  "id": "zai/glm-4.5v",
+  "name": "glm-4.5v",
+  "created_by": "zhipu",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "context_window": 66000,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.6,
+    "output": 1.8
+  },
+  "_generated": {
+    "name": "25a7af7e",
+    "context_window": "8b4ac866",
+    "capabilities": "a19166f1",
+    "pricing": "b6a09cab",
+    "family": "e8ea1e1e",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "family": "glm-4.5",
+  "model_type": "chat",
+  "tools": ["function_calling"],
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

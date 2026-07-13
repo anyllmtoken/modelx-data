@@ -1,0 +1,196 @@
+import { fetchText, stripHtml } from "./parse.ts";
+import {
+  assertParsed,
+  inferFamily,
+  inferParameters,
+  type ModelEntry,
+  readSources,
+  runGenerate,
+  upsertWithSnapshot,
+} from "./shared.ts";
+
+/**
+ * Fetch Together AI models from their website.
+ * No API key needed — scrapes public pages.
+ */
+
+const sources = readSources("together");
+const MODELS_PAGE = sources.docs as string;
+const MODEL_DETAIL_BASE = `${(sources.docs as string).replace(/\/$/, "")}/`;
+
+interface TogetherModel {
+  slug: string;
+  id?: string;
+  name: string;
+  created_by: string;
+  description?: string;
+  context_window?: number;
+  pricing_input?: number;
+  pricing_output?: number;
+  page_url: string;
+}
+
+// ── Get model slugs from listing page ──
+
+async function fetchModelSlugs(): Promise<string[]> {
+  const html = await fetchText(MODELS_PAGE);
+  return [
+    ...new Set(
+      [...html.matchAll(/href="\/models\/([\w.-]+)"/g)].map((m) => m[1]),
+    ),
+  ];
+}
+
+// ── Fetch model detail page ──
+
+async function fetchDetail(slug: string): Promise<TogetherModel | null> {
+  const pageUrl = `${MODEL_DETAIL_BASE}${slug}`;
+  let html: string;
+  try {
+    html = await fetchText(pageUrl);
+  } catch {
+    return null;
+  }
+  const text = stripHtml(html);
+
+  // Extract description from meta tags
+  const descMatch =
+    html.match(
+      /<meta\s+name=["']description["']\s+content=["']([^"']+)["']/i,
+    ) ??
+    html.match(
+      /<meta\s+property=["']og:description["']\s+content=["']([^"']+)["']/i,
+    );
+  const description = descMatch?.[1]?.trim() || undefined;
+
+  // Find API model ID — pattern like "Qwen/Qwen3.5-397B-A17B"
+  const apiIdMatch = html.match(
+    /(?:model|api)[_\s-]*(?:id|name)?[":\s]*["']?([\w-]+\/[\w.-]+)["']?/i,
+  );
+
+  // Find pricing — "$0.60" patterns
+  const dollars = [...text.matchAll(/\$([\d.]+)/g)].map((m) => Number(m[1]));
+  // Typically first 2 dollar values for a model are: some other price, then input, output
+  // Or they appear as pairs. Find the most likely input/output pair.
+  let pricingInput: number | undefined;
+  let pricingOutput: number | undefined;
+  if (dollars.length >= 2) {
+    // Filter reasonable per-M-token prices (< $20)
+    const reasonable = dollars.filter((d) => d > 0 && d < 20);
+    if (reasonable.length >= 2) {
+      // Last pair is usually the model's own pricing
+      pricingInput = reasonable[reasonable.length - 2];
+      pricingOutput = reasonable[reasonable.length - 1];
+    }
+  }
+
+  // Find context window
+  const ctxMatch = text.match(/Context\s*(?:length|window)?\s*(\d[\d,]*)\s*K/i);
+  const contextWindow = ctxMatch
+    ? Number(ctxMatch[1].replace(/,/g, "")) * 1000
+    : undefined;
+
+  // Infer creator from slug or page content
+  const _nameMatch = text.match(
+    /(?:by|from|created by|publisher)\s+([\w\s]+?)(?:\s*[·|,]|\s+\d)/i,
+  );
+
+  // Simple creator inference from slug
+  let createdBy = "unknown";
+  const s = slug.toLowerCase();
+  if (s.includes("qwen")) createdBy = "qwen";
+  else if (s.includes("llama") || s.includes("maverick")) createdBy = "meta";
+  else if (s.includes("deepseek")) createdBy = "deepseek";
+  else if (s.includes("mistral") || s.includes("ministral"))
+    createdBy = "mistral";
+  else if (s.includes("gemma")) createdBy = "google";
+  else if (s.includes("nemotron")) createdBy = "nvidia";
+  else if (s.includes("minimax")) createdBy = "minimax";
+  else if (s.includes("glm")) createdBy = "zhipu";
+  else if (s.includes("kimi")) createdBy = "moonshot";
+  else if (s.includes("gpt-oss") || s.includes("gpt-image"))
+    createdBy = "openai";
+  else if (s.includes("flux")) createdBy = "black-forest-labs";
+  else if (s.includes("lfm")) createdBy = "liquid";
+
+  // Build display name from slug
+  const displayName = slug
+    .replace(/-/g, " ")
+    .replace(/\b\w/g, (c) => c.toUpperCase());
+
+  return {
+    slug,
+    id: apiIdMatch?.[1],
+    name: displayName,
+    created_by: createdBy,
+    description,
+    context_window: contextWindow,
+    pricing_input: pricingInput,
+    pricing_output: pricingOutput,
+    page_url: pageUrl,
+  };
+}
+
+// ── Main ──
+
+async function main() {
+  console.log("Fetching Together AI models...");
+
+  const slugs = await fetchModelSlugs();
+  console.log(`Found ${slugs.length} model slugs`);
+  assertParsed(slugs.length, "together");
+
+  // Filter out non-model slugs
+  const modelSlugs = slugs.filter(
+    (s) =>
+      !["pricing", "docs", "blog", "about", "contact", "terms"].includes(s),
+  );
+
+  // Fetch details in parallel batches
+  const details: TogetherModel[] = [];
+  for (let i = 0; i < modelSlugs.length; i += 5) {
+    const batch = modelSlugs.slice(i, i + 5);
+    const results = await Promise.all(batch.map(fetchDetail));
+    for (const r of results) {
+      if (r) details.push(r);
+    }
+  }
+  console.log(`Fetched ${details.length} model details`);
+
+  let written = 0;
+  for (const m of details) {
+    const modelId = m.id ?? m.slug;
+
+    const params = inferParameters(modelId);
+
+    const entry: ModelEntry = {
+      id: modelId,
+      name: m.name,
+      created_by: m.created_by,
+      family: inferFamily(modelId),
+      description: m.description,
+      context_window: m.context_window,
+      capabilities: { streaming: true },
+      parameters: params?.parameters,
+      active_parameters: params?.active_parameters,
+      page_url: m.page_url,
+    };
+
+    if (m.pricing_input != null && m.pricing_output != null) {
+      entry.pricing = {
+        input: m.pricing_input,
+        output: m.pricing_output,
+      };
+    }
+
+    written += upsertWithSnapshot("together", entry);
+  }
+
+  console.log(`Wrote ${written} models`);
+  runGenerate();
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

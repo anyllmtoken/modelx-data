@@ -1,0 +1,44 @@
+{
+  "id": "minimax-m2.1-highspeed",
+  "name": "MiniMax-M2.1-highspeed",
+  "created_by": "minimax",
+  "source": "official",
+  "last_updated": "2026-03-24",
+  "family": "minimax",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "fine_tuning": true
+  },
+  "pricing": {
+    "input": 0.6,
+    "output": 2.4,
+    "cached_input": 0.03,
+    "cache_write": 0.375
+  },
+  "_generated": {
+    "name": "3263ca67",
+    "family": "c85916f0",
+    "capabilities": "5780d00a",
+    "pricing": "712e1041",
+    "model_type": "d669f408",
+    "license": "3c4c3ba5",
+    "open_weight": "b326b506",
+    "tools": "f0c1dc7e",
+    "description": "7184a5a1",
+    "context_window": "65d646a4",
+    "tagline": "7184a5a1",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "license": "mit",
+  "open_weight": true,
+  "tools": ["function_calling"],
+  "description": "Faster and More Agile",
+  "context_window": 204800,
+  "tagline": "Faster and More Agile",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

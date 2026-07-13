@@ -1,0 +1,46 @@
+{
+  "id": "anthropic/claude-3.7-sonnet:thinking",
+  "name": "Anthropic: Claude 3.7 Sonnet (thinking)",
+  "created_by": "anthropic",
+  "source": "official",
+  "last_updated": "2026-05-06",
+  "family": "claude-sonnet",
+  "description": "Claude 3.7 Sonnet is an advanced large language model with improved reasoning, coding, and problem-solving capabilities.",
+  "status": "deprecated",
+  "deprecation_date": "2026-05-11",
+  "context_window": 200000,
+  "max_output_tokens": 64000,
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 3,
+    "output": 15,
+    "cached_input": 0.3
+  },
+  "_generated": {
+    "name": "73e8aa67",
+    "family": "68d1c457",
+    "description": "4054881d",
+    "status": "2e2f74dc",
+    "deprecation_date": "0681b584",
+    "context_window": "03e6c616",
+    "max_output_tokens": "762e98db",
+    "modalities": "6399757e",
+    "capabilities": "05723a3e",
+    "pricing": "0deaf3da",
+    "model_type": "d669f408",
+    "release_date": "81185fd7",
+    "tagline": "4054881d",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "release_date": "2025-02-24",
+  "tagline": "Claude 3.7 Sonnet is an advanced large language model with improved reasoning, coding, and problem-solving capabilities.",
+  "tools": ["function_calling"]
+}

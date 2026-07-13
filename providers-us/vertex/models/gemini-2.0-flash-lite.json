@@ -1,0 +1,67 @@
+{
+  "id": "gemini-2.0-flash-lite",
+  "name": "gemini-2.0-flash-lite",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-06-02",
+  "family": "gemini-2.0",
+  "status": "deprecated",
+  "knowledge_cutoff": "2024-08",
+  "context_window": 1048576,
+  "max_output_tokens": 8192,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "batch": true,
+    "vision": true,
+    "json_mode": true
+  },
+  "modalities": {
+    "input": ["text", "image", "video", "audio"],
+    "output": ["text", "image", "audio"]
+  },
+  "pricing": {
+    "input": 0.25,
+    "output": 0.075,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": ["Input", "Cached input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [0.075, null, 0.3]
+          }
+        ]
+      }
+    ]
+  },
+  "tools": ["function_calling"],
+  "endpoints": ["generateContent", "streamGenerateContent"],
+  "_generated": {
+    "name": "dd8205b1",
+    "family": "dc4aadf6",
+    "status": "2e2f74dc",
+    "knowledge_cutoff": "22d6f9d6",
+    "context_window": "7d28a051",
+    "max_output_tokens": "77441296",
+    "capabilities": "fdff467b",
+    "modalities": "0b49b61e",
+    "pricing": "1432648c",
+    "tools": "f0c1dc7e",
+    "endpoints": "20e16908",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "deprecation_date": "80eaf594",
+    "successor": "d9e5c54d"
+  },
+  "model_type": "chat",
+  "license": "proprietary",
+  "open_weight": false,
+  "deprecation_date": "2026-06-01",
+  "successor": "gemini-3.1-flash-lite"
+}

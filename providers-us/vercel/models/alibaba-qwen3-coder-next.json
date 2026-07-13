@@ -1,0 +1,34 @@
+{
+  "id": "alibaba/qwen3-coder-next",
+  "name": "qwen3-coder-next",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "qwen3",
+  "context_window": 256000,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.5,
+    "output": 1.2
+  },
+  "_generated": {
+    "name": "164de14e",
+    "family": "48c385a0",
+    "context_window": "2fd324cb",
+    "capabilities": "a281e83a",
+    "pricing": "bff6af62",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "tools": ["function_calling"],
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "adept/fuyu-8b",
+  "name": "fuyu-8b",
+  "created_by": "adept",
+  "source": "official",
+  "last_updated": "2026-03-21",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "7b26f6c6",
+    "capabilities": "0fa77dc6"
+  },
+  "parameters": 8
+}

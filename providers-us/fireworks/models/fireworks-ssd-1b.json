@@ -1,0 +1,24 @@
+{
+  "id": "fireworks/SSD-1B",
+  "name": "SSD-1B",
+  "created_by": "stability",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "ffa1b642",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "parameters": "c4ca4238",
+    "page_url": "6447ad8e"
+  },
+  "parameters": 1,
+  "page_url": "https://fireworks.ai/models/fireworks/SSD-1B"
+}

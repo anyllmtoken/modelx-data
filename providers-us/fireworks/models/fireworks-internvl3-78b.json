@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/internvl3-78b",
+  "name": "internvl3-78b",
+  "created_by": "fireworks",
+  "source": "official",
+  "last_updated": "2026-05-10",
+  "context_window": 16300,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "f0cbc5ed",
+    "context_window": "6c880a6d",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "parameters": "35f4a8d4",
+    "page_url": "ecf2b5c6"
+  },
+  "parameters": 78,
+  "page_url": "https://fireworks.ai/models/fireworks/internvl3-78b"
+}

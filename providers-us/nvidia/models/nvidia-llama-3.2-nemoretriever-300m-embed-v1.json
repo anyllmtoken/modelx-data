@@ -1,0 +1,18 @@
+{
+  "id": "nvidia/llama-3.2-nemoretriever-300m-embed-v1",
+  "name": "llama-3.2-nemoretriever-300m-embed-v1",
+  "created_by": "nvidia",
+  "source": "official",
+  "last_updated": "2026-03-21",
+  "family": "llama-3.2",
+  "capabilities": {
+    "streaming": true
+  },
+  "model_type": "embed",
+  "_generated": {
+    "name": "a06b65ae",
+    "model_type": "764cb3de",
+    "family": "d4c42ce9",
+    "capabilities": "0fa77dc6"
+  }
+}

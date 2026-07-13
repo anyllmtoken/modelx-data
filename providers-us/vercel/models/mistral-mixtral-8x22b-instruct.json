@@ -1,0 +1,30 @@
+{
+  "id": "mistral/mixtral-8x22b-instruct",
+  "name": "mixtral-8x22b-instruct",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "mixtral",
+  "context_window": 65500,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1.2,
+    "output": 1.2
+  },
+  "_generated": {
+    "name": "0b1dd449",
+    "family": "3c47d372",
+    "context_window": "90c532bc",
+    "capabilities": "0fa77dc6",
+    "pricing": "e8b0a8a5",
+    "model_type": "d669f408",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

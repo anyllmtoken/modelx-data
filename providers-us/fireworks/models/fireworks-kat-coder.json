@@ -1,0 +1,24 @@
+{
+  "id": "fireworks/kat-coder",
+  "name": "kat-coder",
+  "created_by": "fireworks",
+  "source": "official",
+  "last_updated": "2026-05-10",
+  "context_window": 262000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "6bbe34db",
+    "context_window": "4ed74017",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "page_url": "c877ef8e"
+  },
+  "page_url": "https://fireworks.ai/models/fireworks/kat-coder"
+}

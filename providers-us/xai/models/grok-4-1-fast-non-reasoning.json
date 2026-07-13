@@ -1,0 +1,50 @@
+{
+  "id": "grok-4-1-fast-non-reasoning",
+  "name": "grok-4-1-fast-non-reasoning",
+  "created_by": "xai",
+  "source": "official",
+  "last_updated": "2026-05-17",
+  "release_date": "2025-11-19",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "json_mode": true,
+    "batch": true,
+    "vision": true
+  },
+  "family": "grok-4",
+  "context_window": 2000000,
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 0.2,
+    "output": 0.5,
+    "cached_input": 0.05
+  },
+  "_generated": {
+    "name": "0eda431f",
+    "release_date": "e4be41d6",
+    "capabilities": "3c639632",
+    "family": "0d5416ff",
+    "context_window": "805f7438",
+    "modalities": "6399757e",
+    "pricing": "25a4c630",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "page_url": "577fdad6",
+    "open_weight": "68934a3e",
+    "tools": "f0c1dc7e",
+    "knowledge_cutoff": "88ec15a4",
+    "status": "2e2f74dc"
+  },
+  "model_type": "chat",
+  "license": "proprietary",
+  "page_url": "https://docs.x.ai/developers/models/grok-4-1-fast-non-reasoning",
+  "open_weight": false,
+  "tools": ["function_calling"],
+  "knowledge_cutoff": "2024-11",
+  "status": "deprecated"
+}

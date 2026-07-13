@@ -1,0 +1,21 @@
+{
+  "id": "stability.sd3-5-large-v1:0",
+  "name": "Stable Diffusion 3.5 Large",
+  "created_by": "stability",
+  "source": "official",
+  "last_updated": "2026-03-22",
+  "model_type": "image",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": [],
+    "output": ["image"]
+  },
+  "_generated": {
+    "name": "741f0034",
+    "model_type": "db8857fe",
+    "capabilities": "d3117eb0",
+    "modalities": "09b7b646"
+  }
+}

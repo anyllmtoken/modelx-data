@@ -1,0 +1,25 @@
+{
+  "id": "perplexity/sonar-reasoning",
+  "name": "sonar-reasoning",
+  "created_by": "perplexity",
+  "source": "official",
+  "last_updated": "2026-03-21",
+  "context_window": 127000,
+  "capabilities": {
+    "streaming": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 5
+  },
+  "_generated": {
+    "name": "6337b50b",
+    "context_window": "3b764336",
+    "pricing": "5b5c2081",
+    "capabilities": "b011c6b4",
+    "model_type": "17475f7f"
+  },
+  "model_type": "reasoning",
+  "family": "sonar"
+}

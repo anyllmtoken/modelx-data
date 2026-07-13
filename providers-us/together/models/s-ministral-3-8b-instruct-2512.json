@@ -1,0 +1,35 @@
+{
+  "id": "s/ministral-3-8b-instruct-2512",
+  "name": "Ministral 3 8b Instruct 2512",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-04-10",
+  "family": "ministral",
+  "context_window": 256000,
+  "alias": "s/ministral-3-8b-instruct",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.5,
+    "output": 2.8
+  },
+  "_generated": {
+    "name": "c2774417",
+    "family": "d6661e63",
+    "context_window": "2fd324cb",
+    "capabilities": "0fa77dc6",
+    "pricing": "3a47d26f",
+    "model_type": "d669f408",
+    "parameters": "c9f0f895",
+    "page_url": "86e467da",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "parameters": 8,
+  "page_url": "https://www.together.ai/models/ministral-3-8b-instruct-2512",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

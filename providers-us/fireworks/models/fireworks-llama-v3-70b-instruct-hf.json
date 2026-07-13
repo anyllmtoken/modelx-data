@@ -1,0 +1,33 @@
+{
+  "id": "fireworks/llama-v3-70b-instruct-hf",
+  "name": "llama-v3-70b-instruct-hf",
+  "created_by": "meta",
+  "source": "official",
+  "last_updated": "2026-05-10",
+  "context_window": 8190,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "40bdb254",
+    "context_window": "16bb35ba",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "model_type": "d669f408",
+    "parameters": "7cbbc409",
+    "page_url": "add00cde",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "parameters": 70,
+  "page_url": "https://fireworks.ai/models/fireworks/llama-v3-70b-instruct-hf",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

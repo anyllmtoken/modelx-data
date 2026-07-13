@@ -1,0 +1,44 @@
+{
+  "id": "openai/o1",
+  "name": "OpenAI: o1",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-03-24",
+  "family": "o1",
+  "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.",
+  "context_window": 200000,
+  "max_output_tokens": 100000,
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "json_mode": true
+  },
+  "pricing": {
+    "input": 15,
+    "output": 60,
+    "cached_input": 7.5
+  },
+  "_generated": {
+    "name": "bc1d0dd7",
+    "family": "e1ab0820",
+    "description": "2e644f69",
+    "context_window": "03e6c616",
+    "max_output_tokens": "14ee22ea",
+    "modalities": "6399757e",
+    "capabilities": "03fbefb4",
+    "pricing": "b5de8110",
+    "model_type": "17475f7f",
+    "release_date": "4a83ff32",
+    "tagline": "2e644f69",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "reasoning",
+  "release_date": "2024-12-17",
+  "tagline": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.",
+  "tools": ["function_calling"]
+}

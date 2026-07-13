@@ -1,0 +1,26 @@
+{
+  "id": "grok-code-fast-1",
+  "name": "grok-code-fast-1 Preview",
+  "created_by": "xai",
+  "source": "official",
+  "last_updated": "2026-04-21",
+  "family": "grok-code",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "_generated": {
+    "name": "f8e00956",
+    "family": "378ba70c",
+    "capabilities": "48995a4e",
+    "modalities": "68e53d93",
+    "model_type": "b6cc3ff4",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "code",
+  "tools": ["function_calling"]
+}

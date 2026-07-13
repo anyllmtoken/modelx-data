@@ -1,0 +1,24 @@
+{
+  "id": "gpt-image-1.5",
+  "name": "gpt-image-1.5",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-03-21",
+  "family": "gpt-image-1.5",
+  "capabilities": {
+    "streaming": true,
+    "vision": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "model_type": "image",
+  "_generated": {
+    "name": "864c34a6",
+    "model_type": "db8857fe",
+    "family": "864c34a6",
+    "capabilities": "8a3b232e",
+    "modalities": "6399757e"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "glm-4.7",
+  "name": "glm-4.7",
+  "created_by": "zhipu",
+  "source": "official",
+  "last_updated": "2026-05-23",
+  "capabilities": {
+    "streaming": true,
+    "fine_tuning": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "_generated": {
+    "name": "02d3d929",
+    "capabilities": "dcffc891",
+    "family": "02d3d929",
+    "model_type": "d669f408",
+    "description": "b958d207",
+    "release_date": "13396b7f",
+    "page_url": "c9e3c92a",
+    "tagline": "b958d207",
+    "context_window": "6ea395a4",
+    "license": "6327aaea",
+    "open_weight": "b326b506",
+    "modalities": "68e53d93",
+    "reasoning_tokens": "b326b506",
+    "tools": "f0c1dc7e"
+  },
+  "family": "glm-4.7",
+  "model_type": "chat",
+  "description": "Advancing the Coding Capability",
+  "release_date": "2025-12-22",
+  "page_url": "https://ollama.com/library/glm-4.7",
+  "tagline": "Advancing the Coding Capability",
+  "context_window": 202752,
+  "license": "open-weight",
+  "open_weight": true,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "reasoning_tokens": true,
+  "tools": ["function_calling"]
+}

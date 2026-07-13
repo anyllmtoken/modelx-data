@@ -1,0 +1,45 @@
+{
+  "id": "kimi-k2-0905-preview",
+  "name": "Kimi K2 (0905)",
+  "created_by": "moonshot",
+  "source": "official",
+  "last_updated": "2026-03-24",
+  "family": "kimi",
+  "description": "Enhanced agentic coding, front-end aesthetics, context understanding.",
+  "context_window": 256000,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "fine_tuning": true
+  },
+  "tagline": "Enhanced agentic coding, front-end aesthetics, context understanding.",
+  "_generated": {
+    "name": "b0afd595",
+    "family": "0740f86b",
+    "description": "2d592e94",
+    "context_window": "2fd324cb",
+    "capabilities": "5780d00a",
+    "tagline": "2d592e94",
+    "model_type": "d669f408",
+    "license": "3c4c3ba5",
+    "open_weight": "b326b506",
+    "tools": "f0c1dc7e",
+    "max_output_tokens": "f4376436",
+    "parameters": "a9b7ba70",
+    "active_parameters": "6364d3f0",
+    "architecture": "c2d4b00d",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "license": "mit",
+  "open_weight": true,
+  "tools": ["function_calling"],
+  "max_output_tokens": 32768,
+  "parameters": 1000,
+  "active_parameters": 32,
+  "architecture": "MoE",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

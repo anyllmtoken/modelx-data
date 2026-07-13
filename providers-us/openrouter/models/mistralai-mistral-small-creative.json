@@ -1,0 +1,43 @@
+{
+  "id": "mistralai/mistral-small-creative",
+  "name": "Mistral: Mistral Small Creative",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "mistral-small",
+  "description": "Mistral Small Creative is an experimental small model designed for creative writing, narrative generation, roleplay and character-driven dialogue, general-purpose instruction following, and conversati",
+  "status": "deprecated",
+  "deprecation_date": "2026-04-30",
+  "context_window": 32768,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "capabilities": {
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 0.1,
+    "output": 0.3,
+    "cached_input": 0.01
+  },
+  "_generated": {
+    "name": "98b1a4b2",
+    "family": "275918a5",
+    "description": "8e30f966",
+    "status": "2e2f74dc",
+    "deprecation_date": "a53a2b69",
+    "context_window": "f4376436",
+    "modalities": "68e53d93",
+    "capabilities": "ce9e2425",
+    "pricing": "8e470dd0",
+    "model_type": "d669f408",
+    "release_date": "799b50a0",
+    "tagline": "8e30f966",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "release_date": "2025-12-16",
+  "tagline": "Mistral Small Creative is an experimental small model designed for creative writing, narrative generation, roleplay and character-driven dialogue, general-purpose instruction following, and conversati",
+  "tools": ["function_calling"]
+}

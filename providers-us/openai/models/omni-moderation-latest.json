@@ -1,0 +1,65 @@
+{
+  "id": "omni-moderation-latest",
+  "name": "omni-moderation",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-03-24",
+  "description": "Moderation models are free models designed to detect harmful content.",
+  "status": "active",
+  "model_type": "moderation",
+  "performance": 3,
+  "speed": 3,
+  "tagline": "Identify potentially harmful content in text and images",
+  "capabilities": {
+    "vision": true,
+    "streaming": false,
+    "tool_call": false,
+    "structured_output": false,
+    "json_mode": false,
+    "fine_tuning": false,
+    "reasoning": false,
+    "batch": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "tiers": [
+      {
+        "label": "Moderation",
+        "unit": "",
+        "columns": ["Cost"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [null]
+          }
+        ]
+      }
+    ]
+  },
+  "endpoints": ["batch", "moderation"],
+  "snapshots": ["omni-moderation-2024-09-26"],
+  "_generated": {
+    "name": "5da37138",
+    "description": "8206f271",
+    "status": "379ac110",
+    "model_type": "1e7a7b87",
+    "performance": "eccbc87e",
+    "speed": "eccbc87e",
+    "tagline": "e2c28ff4",
+    "capabilities": "e0c55e93",
+    "modalities": "6399757e",
+    "pricing": "8f4ac140",
+    "endpoints": "5692bd6c",
+    "family": "5da37138",
+    "license": "9186c466",
+    "page_url": "291c4430",
+    "open_weight": "68934a3e"
+  },
+  "family": "omni-moderation",
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/omni-moderation-latest",
+  "open_weight": false
+}

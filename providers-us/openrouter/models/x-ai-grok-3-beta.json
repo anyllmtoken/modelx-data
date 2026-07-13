@@ -1,0 +1,45 @@
+{
+  "id": "x-ai/grok-3-beta",
+  "name": "xAI: Grok 3 Beta",
+  "created_by": "xai",
+  "source": "official",
+  "last_updated": "2026-05-07",
+  "family": "grok-3",
+  "description": "Grok 3 is the latest model from xAI.",
+  "context_window": 131072,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "json_mode": true
+  },
+  "pricing": {
+    "input": 3,
+    "output": 15,
+    "cached_input": 0.75
+  },
+  "_generated": {
+    "name": "5a650696",
+    "family": "c41798c6",
+    "description": "d4641309",
+    "context_window": "f7de594e",
+    "modalities": "68e53d93",
+    "capabilities": "6c9aa67e",
+    "pricing": "f6abd316",
+    "model_type": "d669f408",
+    "release_date": "a9d448cf",
+    "tagline": "d4641309",
+    "tools": "f0c1dc7e",
+    "status": "2e2f74dc",
+    "deprecation_date": "7f8d7956"
+  },
+  "model_type": "chat",
+  "release_date": "2025-04-09",
+  "tagline": "Grok 3 is the latest model from xAI.",
+  "tools": ["function_calling"],
+  "status": "deprecated",
+  "deprecation_date": "2026-05-15"
+}

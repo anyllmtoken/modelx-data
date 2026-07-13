@@ -1,0 +1,30 @@
+{
+  "id": "@cf/openai/whisper",
+  "name": "whisper",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-04-16",
+  "family": "whisper",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "_generated": {
+    "name": "7fbc43e3",
+    "family": "7fbc43e3",
+    "capabilities": "48995a4e",
+    "model_type": "5c212ca7",
+    "status": "127aecde",
+    "page_url": "8118a4c9",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "translation",
+  "status": "preview",
+  "page_url": "https://developers.cloudflare.com/workers-ai/models/#whisper",
+  "tools": ["function_calling"],
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

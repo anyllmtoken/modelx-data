@@ -1,0 +1,33 @@
+{
+  "id": "xai/grok-4-1-fast-non-reasoning",
+  "name": "xai/grok-4-1-fast-non-reasoning",
+  "created_by": "xai",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "grok-4",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.2,
+    "output": 0.5,
+    "cached_input": 0.05
+  },
+  "_generated": {
+    "name": "b05d0c05",
+    "family": "0d5416ff",
+    "capabilities": "0fa77dc6",
+    "pricing": "25a4c630",
+    "model_type": "17475f7f",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "reasoning",
+  "license": "proprietary",
+  "open_weight": false,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

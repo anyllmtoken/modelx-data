@@ -1,0 +1,36 @@
+{
+  "id": "fireworks/ministral-3-8b-instruct",
+  "name": "ministral-3-8b-instruct-2512",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "ministral",
+  "context_window": 256000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "snapshots": ["fireworks/ministral-3-8b-instruct-2512"],
+  "_generated": {
+    "name": "83c8e0cf",
+    "family": "d6661e63",
+    "context_window": "2fd324cb",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "model_type": "d669f408",
+    "parameters": "c9f0f895",
+    "page_url": "581abdbc",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "parameters": 8,
+  "page_url": "https://fireworks.ai/models/fireworks/ministral-3-8b-instruct-2512",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

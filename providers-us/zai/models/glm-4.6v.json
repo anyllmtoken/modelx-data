@@ -1,0 +1,45 @@
+{
+  "id": "glm-4.6v",
+  "name": "GLM-4.6V",
+  "created_by": "zhipu",
+  "source": "official",
+  "last_updated": "2026-06-18",
+  "context_window": 128000,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "fine_tuning": true
+  },
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "_generated": {
+    "name": "b051c20e",
+    "context_window": "34434798",
+    "capabilities": "5780d00a",
+    "modalities": "68e53d93",
+    "family": "5a2dc6aa",
+    "model_type": "d669f408",
+    "license": "3c4c3ba5",
+    "open_weight": "b326b506",
+    "tools": "f0c1dc7e",
+    "page_url": "fc1c38b3",
+    "pricing": "407d1fb7",
+    "description": "ac7a6f19",
+    "tagline": "84336faf"
+  },
+  "family": "glm-4.6",
+  "model_type": "chat",
+  "license": "mit",
+  "open_weight": true,
+  "tools": ["function_calling"],
+  "page_url": "https://docs.z.ai/guides/vlm/glm-4.6v",
+  "pricing": {
+    "input": 0.3,
+    "output": 0.9,
+    "cached_input": 0.05
+  },
+  "description": "GLM-4.6V series are Z.ai's iterations in a multimodal large language model. GLM-4.6V scales its context window to 128k tokens in training, and achieves SoTA performance in visual understanding among models of similar parameter scales. Crucially, GLM-4.6V integrate native Function Calling capabilities for the first time. This effectively bridges the gap between \"visual perception\" and \"executable action,\" providing a unified technical foundation for multimodal agents in real-world business sce...",
+  "tagline": "GLM-4.6V series are Z.ai's iterations in a multimodal large language model."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "zai-glm-4.7",
+  "name": "Z.ai GLM 4.7",
+  "created_by": "zhipu",
+  "source": "official",
+  "last_updated": "2026-06-03",
+  "context_window": 131000,
+  "max_output_tokens": 40000,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "prompt_caching": true,
+    "json_mode": true
+  },
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 2.25,
+    "output": 2.75
+  },
+  "_generated": {
+    "name": "895cf6b8",
+    "context_window": "834bd590",
+    "max_output_tokens": "7c77f048",
+    "capabilities": "b8626b7e",
+    "modalities": "68e53d93",
+    "pricing": "c31ca41c",
+    "status": "127aecde",
+    "model_type": "d669f408",
+    "endpoints": "d8fa1080",
+    "model_card_url": "18a4a917",
+    "tokens_per_second": "a9b7ba70",
+    "parameters": "82cec960",
+    "precision": "c851ef38",
+    "huggingface_url": "18a4a917",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "b326b506",
+    "tools": "f0c1dc7e"
+  },
+  "status": "preview",
+  "model_type": "chat",
+  "endpoints": ["chat_completions"],
+  "model_card_url": "https://huggingface.co/zai-org/GLM-4.7",
+  "tokens_per_second": 1000,
+  "parameters": 355,
+  "precision": "FP16/FP8 (weights only)",
+  "huggingface_url": "https://huggingface.co/zai-org/GLM-4.7",
+  "reasoning_tokens": true,
+  "open_weight": true,
+  "tools": ["function_calling"]
+}

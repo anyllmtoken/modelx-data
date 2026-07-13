@@ -1,0 +1,32 @@
+{
+  "id": "s/minimax-m2-5",
+  "name": "Minimax M2 5",
+  "created_by": "minimax",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "context_window": 192000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.06,
+    "output": 1.2
+  },
+  "_generated": {
+    "name": "3baa99a4",
+    "context_window": "31c9d89f",
+    "capabilities": "0fa77dc6",
+    "pricing": "154bd04c",
+    "family": "c85916f0",
+    "model_type": "d669f408",
+    "page_url": "7778ec4b",
+    "modalities": "68e53d93"
+  },
+  "family": "minimax",
+  "model_type": "chat",
+  "page_url": "https://www.together.ai/models/minimax-m2-5",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

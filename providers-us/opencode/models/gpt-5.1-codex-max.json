@@ -1,0 +1,33 @@
+{
+  "id": "gpt-5.1-codex-max",
+  "name": "GPT 5.1 Codex Max",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-04-26",
+  "family": "gpt-5.1",
+  "status": "deprecated",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1.25,
+    "output": 10,
+    "cached_input": 0.125
+  },
+  "_generated": {
+    "name": "8a940bfd",
+    "family": "2089aff2",
+    "status": "2e2f74dc",
+    "capabilities": "0fa77dc6",
+    "pricing": "50bb1323",
+    "model_type": "d669f408",
+    "modalities": "68e53d93",
+    "deprecation_date": "26fc75d3"
+  },
+  "model_type": "chat",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "deprecation_date": "2026-07-23"
+}

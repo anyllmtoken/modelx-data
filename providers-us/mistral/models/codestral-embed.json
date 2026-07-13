@@ -1,0 +1,39 @@
+{
+  "id": "codestral-embed",
+  "name": "codestral-embed",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-06-03",
+  "family": "codestral",
+  "status": "active",
+  "context_window": 8000,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "fine_tuning": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "snapshots": ["codestral-embed-2505"],
+  "model_type": "embed",
+  "_generated": {
+    "name": "341fa67d",
+    "family": "a0734f6e",
+    "status": "379ac110",
+    "context_window": "67ff32d4",
+    "capabilities": "62b3fd83",
+    "modalities": "6399757e",
+    "model_type": "764cb3de",
+    "license": "ab728f55",
+    "page_url": "dcea2099",
+    "open_weight": "b326b506",
+    "tools": "f0c1dc7e"
+  },
+  "license": "mnpl",
+  "page_url": "https://docs.mistral.ai/models/model-cards/codestral-embed-25-05",
+  "open_weight": true,
+  "tools": ["function_calling"]
+}

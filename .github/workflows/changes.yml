@@ -1,0 +1,62 @@
+name: Detect Changes
+
+on:
+  push:
+    branches: [master, main]
+    paths:
+      - "providers-cn/**"
+      - "providers-us/**"
+
+permissions:
+  contents: write
+
+jobs:
+  changes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Detect changes
+        id: detect
+        run: |
+          bun scripts/detect-changes.ts -- HEAD~1 --dry-run
+          OUTPUT=$(bun scripts/detect-changes.ts -- HEAD~1 --dry-run 2>&1)
+          if echo "$OUTPUT" | grep -q "No changes detected"; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Write changes
+        if: steps.detect.outputs.changed == 'true'
+        run: |
+          SHA=$(git rev-parse HEAD)
+
+          bun scripts/detect-changes.ts -- HEAD~1
+
+          # Backfill commit SHA into new entries
+          node -e "
+            const fs = require('fs');
+            const f = 'packages/data/changes.jsonl';
+            const lines = fs.readFileSync(f, 'utf-8').trimEnd().split('\n');
+            const out = lines.map(l => {
+              const e = JSON.parse(l);
+              if (!e.commit) e.commit = '${SHA}';
+              return JSON.stringify(e);
+            }).join('\n') + '\n';
+            fs.writeFileSync(f, out);
+          "
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add packages/data/changes.jsonl
+          git commit -m "data(changes): update"
+          git push

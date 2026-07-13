@@ -1,0 +1,48 @@
+{
+  "id": "codestral-2508",
+  "name": "codestral-2508",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-06-03",
+  "family": "codestral",
+  "status": "active",
+  "context_window": 128000,
+  "alias": "codestral",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "fine_tuning": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 0.3,
+    "output": 0.9
+  },
+  "model_type": "code",
+  "_generated": {
+    "name": "d2f3d216",
+    "family": "a0734f6e",
+    "status": "379ac110",
+    "context_window": "34434798",
+    "capabilities": "62b3fd83",
+    "modalities": "6399757e",
+    "pricing": "8eb8395f",
+    "model_type": "b6cc3ff4",
+    "license": "ab728f55",
+    "page_url": "412c0ac0",
+    "open_weight": "b326b506",
+    "description": "af0f0276",
+    "tagline": "af0f0276",
+    "tools": "f0c1dc7e"
+  },
+  "license": "mnpl",
+  "page_url": "https://docs.mistral.ai/models/model-cards/codestral-25-08",
+  "open_weight": true,
+  "description": "Our cutting-edge language model for code completion released end of July 2025, Codestral specializes in low-latency, high-frequency tasks such as fill-in-the-middle (FIM) and code generation.",
+  "tagline": "Our cutting-edge language model for code completion released end of July 2025, Codestral specializes in low-latency, high-frequency tasks such as fill-in-the-middle (FIM) and code generation.",
+  "tools": ["function_calling"]
+}

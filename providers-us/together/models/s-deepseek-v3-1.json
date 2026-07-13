@@ -1,0 +1,32 @@
+{
+  "id": "s/deepseek-v3-1",
+  "name": "Deepseek V3 1",
+  "created_by": "deepseek",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "deepseek",
+  "context_window": 128000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.6,
+    "output": 1.7
+  },
+  "_generated": {
+    "name": "800faf07",
+    "family": "4b81b92d",
+    "context_window": "34434798",
+    "capabilities": "0fa77dc6",
+    "pricing": "9279a29c",
+    "page_url": "a693004c",
+    "model_type": "d669f408",
+    "modalities": "68e53d93"
+  },
+  "page_url": "https://www.together.ai/models/deepseek-v3-1",
+  "model_type": "chat",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

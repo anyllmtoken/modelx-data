@@ -1,0 +1,33 @@
+{
+  "id": "anthropic/claude-haiku-4-5",
+  "name": "anthropic/claude-haiku-4-5",
+  "created_by": "anthropic",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "claude-haiku",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 5,
+    "cached_input": 0.1
+  },
+  "_generated": {
+    "name": "52bb3b76",
+    "family": "1cfb9795",
+    "capabilities": "0fa77dc6",
+    "pricing": "cc700ee3",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "license": "proprietary",
+  "open_weight": false,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

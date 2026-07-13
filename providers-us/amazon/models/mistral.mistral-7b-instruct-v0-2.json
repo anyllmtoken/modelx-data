@@ -1,0 +1,31 @@
+{
+  "id": "mistral.mistral-7b-instruct-v0:2",
+  "name": "Mistral 7B Instruct",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-06-03",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "_generated": {
+    "name": "0414e787",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "parameters": "8f14e45f",
+    "release_date": "182b5357",
+    "context_window": "10e4d788",
+    "max_output_tokens": "1bd69c7d",
+    "page_url": "d086d711"
+  },
+  "parameters": 7,
+  "release_date": "2023-09-28",
+  "context_window": 32000,
+  "max_output_tokens": 4000,
+  "page_url": "https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-mistral-ai-mistral-7b-instruct"
+}

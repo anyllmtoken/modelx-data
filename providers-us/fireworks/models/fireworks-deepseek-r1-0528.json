@@ -1,0 +1,33 @@
+{
+  "id": "fireworks/deepseek-r1-0528",
+  "name": "deepseek-r1-0528",
+  "created_by": "deepseek",
+  "source": "official",
+  "last_updated": "2026-05-10",
+  "family": "deepseek-r1",
+  "context_window": 163000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "1f6a0822",
+    "family": "c74cfb8e",
+    "context_window": "839154f9",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "model_type": "17475f7f",
+    "page_url": "478052bd",
+    "modalities": "68e53d93"
+  },
+  "model_type": "reasoning",
+  "page_url": "https://fireworks.ai/models/fireworks/deepseek-r1-0528",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

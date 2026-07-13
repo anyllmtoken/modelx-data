@@ -1,0 +1,99 @@
+{
+  "id": "o3",
+  "name": "o3",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-06-18",
+  "family": "o3",
+  "description": "o3 is a well-rounded and powerful model across domains. It sets a new",
+  "status": "active",
+  "knowledge_cutoff": "2024-06",
+  "context_window": 200000,
+  "max_output_tokens": 100000,
+  "model_type": "reasoning",
+  "reasoning_tokens": true,
+  "performance": 5,
+  "reasoning": 5,
+  "speed": 1,
+  "tagline": "Reasoning model for complex tasks, succeeded by GPT-5",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "json_mode": true,
+    "fine_tuning": false,
+    "batch": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 8,
+    "cached_input": 0.5,
+    "batch_input": 1,
+    "batch_output": 4,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": ["Input", "Cached input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [2, 0.5, 8]
+          },
+          {
+            "label": "Batch",
+            "values": [1, null, 4]
+          },
+          {
+            "label": "Flex",
+            "values": [1, 0.25, 4]
+          }
+        ]
+      }
+    ]
+  },
+  "tools": [
+    "function_calling",
+    "file_search",
+    "image_generation",
+    "code_interpreter",
+    "mcp",
+    "web_search"
+  ],
+  "endpoints": ["chat_completions", "responses", "batch"],
+  "snapshots": ["o3-2025-04-16"],
+  "_generated": {
+    "name": "193049bc",
+    "family": "193049bc",
+    "description": "0cbff98e",
+    "status": "379ac110",
+    "knowledge_cutoff": "b087cb52",
+    "context_window": "03e6c616",
+    "max_output_tokens": "14ee22ea",
+    "model_type": "17475f7f",
+    "reasoning_tokens": "b326b506",
+    "performance": "e4da3b7f",
+    "reasoning": "e4da3b7f",
+    "speed": "c4ca4238",
+    "tagline": "4105e408",
+    "capabilities": "6295d8b9",
+    "modalities": "6399757e",
+    "pricing": "5e39d62f",
+    "tools": "87bd8291",
+    "endpoints": "ec55a017",
+    "license": "9186c466",
+    "page_url": "e2ccf3a7",
+    "open_weight": "68934a3e",
+    "release_date": "67604092"
+  },
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/o3",
+  "open_weight": false,
+  "release_date": "2025-04-16"
+}

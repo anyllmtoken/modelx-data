@@ -1,0 +1,40 @@
+{
+  "id": "arcee-ai/trinity-large-thinking",
+  "name": "Arcee AI: Trinity Large Thinking",
+  "created_by": "arcee-ai",
+  "source": "official",
+  "description": "Trinity Large Thinking is a powerful open source reasoning model from the team at Arcee AI.",
+  "release_date": "2026-04-01",
+  "context_window": 262144,
+  "max_output_tokens": 80000,
+  "tagline": "Trinity Large Thinking is a powerful open source reasoning model from the team at Arcee AI.",
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "json_mode": true
+  },
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 0.25,
+    "output": 0.8,
+    "cached_input": 0.06
+  },
+  "tools": ["function_calling"],
+  "_generated": {
+    "name": "abc833b2",
+    "description": "56b106cb",
+    "release_date": "f68ebedb",
+    "context_window": "4a1d32eb",
+    "max_output_tokens": "144fdd8b",
+    "tagline": "56b106cb",
+    "capabilities": "03fbefb4",
+    "modalities": "68e53d93",
+    "pricing": "cc199840",
+    "tools": "f0c1dc7e"
+  },
+  "last_updated": "2026-06-29"
+}

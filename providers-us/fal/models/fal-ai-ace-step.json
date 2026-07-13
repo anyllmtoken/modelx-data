@@ -1,0 +1,24 @@
+{
+  "id": "fal-ai/ace-step",
+  "name": "ACE Step",
+  "created_by": "fal",
+  "source": "official",
+  "description": "Generate music with lyrics from text using ACE-Step",
+  "status": "active",
+  "release_date": "2025-05-08",
+  "model_type": "other",
+  "page_url": "https://fal.run/fal-ai/ace-step",
+  "tagline": "Generate music with lyrics from text using ACE-Step",
+  "last_seen_at": "2026-06-24",
+  "_generated": {
+    "name": "30562b44",
+    "description": "62e05c88",
+    "status": "379ac110",
+    "release_date": "4949ef58",
+    "model_type": "ddb0b7bc",
+    "page_url": "a5d006b1",
+    "tagline": "62e05c88",
+    "last_seen_at": "b7ac61f6"
+  },
+  "last_updated": "2026-06-29"
+}

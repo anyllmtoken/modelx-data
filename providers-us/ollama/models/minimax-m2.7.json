@@ -1,0 +1,44 @@
+{
+  "id": "minimax-m2.7",
+  "name": "minimax-m2.7",
+  "created_by": "minimax",
+  "source": "official",
+  "last_updated": "2026-04-01",
+  "capabilities": {
+    "streaming": true,
+    "fine_tuning": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "_generated": {
+    "name": "9dc6e0e4",
+    "capabilities": "dcffc891",
+    "family": "c85916f0",
+    "model_type": "d669f408",
+    "description": "568e1a1e",
+    "release_date": "e6131053",
+    "page_url": "e7966a4a",
+    "tagline": "568e1a1e",
+    "context_window": "65d646a4",
+    "license": "6327aaea",
+    "open_weight": "b326b506",
+    "modalities": "68e53d93",
+    "reasoning_tokens": "b326b506",
+    "tools": "f0c1dc7e"
+  },
+  "family": "minimax",
+  "model_type": "chat",
+  "description": "MiniMax&#39;s M2-series model for coding, agentic workflows, and professional productivity.",
+  "release_date": "2026-03-18",
+  "page_url": "https://ollama.com/library/minimax-m2.7",
+  "tagline": "MiniMax&#39;s M2-series model for coding, agentic workflows, and professional productivity.",
+  "context_window": 204800,
+  "license": "open-weight",
+  "open_weight": true,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "reasoning_tokens": true,
+  "tools": ["function_calling"]
+}

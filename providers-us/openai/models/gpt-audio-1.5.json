@@ -1,0 +1,85 @@
+{
+  "id": "gpt-audio-1.5",
+  "name": "gpt-audio-1.5",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-03-24",
+  "family": "gpt-audio",
+  "description": "The gpt-audio model is our first generally available audio model. It accepts",
+  "status": "active",
+  "knowledge_cutoff": "2024-09",
+  "context_window": 128000,
+  "max_output_tokens": 16384,
+  "model_type": "chat",
+  "performance": 4,
+  "speed": 3,
+  "tagline": "The best voice model for audio in, audio out with Chat Completions.",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "vision": false,
+    "structured_output": false,
+    "json_mode": false,
+    "fine_tuning": false,
+    "reasoning": false
+  },
+  "modalities": {
+    "input": ["text", "audio"],
+    "output": ["text", "audio"]
+  },
+  "pricing": {
+    "input": 2.5,
+    "output": 10,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": ["Input", "Cached input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [2.5, null, 10]
+          }
+        ]
+      },
+      {
+        "label": "Audio tokens",
+        "unit": "Per 1M tokens",
+        "columns": ["Input", "Cached input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [32, null, 64]
+          }
+        ]
+      }
+    ]
+  },
+  "endpoints": ["chat_completions"],
+  "snapshots": ["gpt-audio-1.5"],
+  "_generated": {
+    "name": "a649f503",
+    "family": "29debdf1",
+    "description": "cbfdc684",
+    "status": "379ac110",
+    "knowledge_cutoff": "b0196d6e",
+    "context_window": "34434798",
+    "max_output_tokens": "c76fe1d8",
+    "model_type": "d669f408",
+    "performance": "a87ff679",
+    "speed": "eccbc87e",
+    "tagline": "550f51f9",
+    "capabilities": "e8cba1a0",
+    "modalities": "cf05925d",
+    "pricing": "6013bf87",
+    "endpoints": "d8fa1080",
+    "license": "9186c466",
+    "page_url": "65b35ecc",
+    "open_weight": "68934a3e",
+    "tools": "f0c1dc7e"
+  },
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-audio-1.5",
+  "open_weight": false,
+  "tools": ["function_calling"]
+}

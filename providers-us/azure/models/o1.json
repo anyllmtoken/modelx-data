@@ -1,0 +1,36 @@
+{
+  "id": "o1",
+  "name": "o1",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-03-24",
+  "family": "o1",
+  "knowledge_cutoff": "2023-10",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "vision": true,
+    "json_mode": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "model_type": "reasoning",
+  "_generated": {
+    "name": "e1ab0820",
+    "family": "e1ab0820",
+    "knowledge_cutoff": "ffb42dbe",
+    "capabilities": "d1034176",
+    "modalities": "6399757e",
+    "model_type": "17475f7f",
+    "tools": "f0c1dc7e",
+    "description": "a1f8d1dc",
+    "tagline": "77926f78"
+  },
+  "tools": ["function_calling"],
+  "description": "- Enhanced reasoning abilities . - Structured outputs. - Text and image processing. - Functions and tools.",
+  "tagline": "- Enhanced reasoning abilities ."
+}

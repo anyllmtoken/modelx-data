@@ -1,0 +1,44 @@
+{
+  "id": "openai/gpt-5.1",
+  "name": "OpenAI: GPT-5.1",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-04-12",
+  "family": "gpt-5.1",
+  "description": "GPT-5.1 is the latest frontier-grade model in the GPT-5 series, offering stronger general-purpose reasoning, improved instruction adherence, and a more natural conversational style compared to GPT-5.",
+  "context_window": 400000,
+  "max_output_tokens": 128000,
+  "modalities": {
+    "input": ["image", "text"],
+    "output": ["text"]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "json_mode": true
+  },
+  "pricing": {
+    "input": 1.25,
+    "output": 10,
+    "cached_input": 0.13
+  },
+  "_generated": {
+    "name": "1678f065",
+    "family": "2089aff2",
+    "description": "b2c5dc69",
+    "context_window": "2a3a2d28",
+    "max_output_tokens": "34434798",
+    "modalities": "8b8b28d1",
+    "capabilities": "03fbefb4",
+    "pricing": "be72adc3",
+    "model_type": "d669f408",
+    "release_date": "c4b1d0fd",
+    "tagline": "b2c5dc69",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "release_date": "2025-11-13",
+  "tagline": "GPT-5.1 is the latest frontier-grade model in the GPT-5 series, offering stronger general-purpose reasoning, improved instruction adherence, and a more natural conversational style compared to GPT-5.",
+  "tools": ["function_calling"]
+}

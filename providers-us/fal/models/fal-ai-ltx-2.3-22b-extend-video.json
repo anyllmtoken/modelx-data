@@ -1,0 +1,24 @@
+{
+  "id": "fal-ai/ltx-2.3-22b/extend-video",
+  "name": "LTX-2.3 22B",
+  "created_by": "fal",
+  "source": "official",
+  "description": "Extend video with audio using LTX-2.3",
+  "status": "active",
+  "release_date": "2026-03-14",
+  "model_type": "other",
+  "page_url": "https://fal.run/fal-ai/ltx-2.3-22b/extend-video",
+  "tagline": "Extend video with audio using LTX-2.3",
+  "last_seen_at": "2026-06-22",
+  "_generated": {
+    "name": "16ac7d08",
+    "description": "10c2b3f2",
+    "status": "379ac110",
+    "release_date": "cdabf952",
+    "model_type": "ddb0b7bc",
+    "page_url": "cb798773",
+    "tagline": "10c2b3f2",
+    "last_seen_at": "1413cbcd"
+  },
+  "last_updated": "2026-06-29"
+}

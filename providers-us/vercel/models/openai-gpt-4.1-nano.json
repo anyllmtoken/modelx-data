@@ -1,0 +1,34 @@
+{
+  "id": "openai/gpt-4.1-nano",
+  "name": "gpt-4.1-nano",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "gpt-4.1",
+  "context_window": 1000000,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 0.1,
+    "output": 0.4
+  },
+  "_generated": {
+    "name": "edfe1c02",
+    "family": "d240daf4",
+    "context_window": "8155bc54",
+    "capabilities": "fc36814c",
+    "pricing": "aa5a4e42",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "tools": ["function_calling"],
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

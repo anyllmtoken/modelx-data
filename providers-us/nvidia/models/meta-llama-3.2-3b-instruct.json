@@ -1,0 +1,28 @@
+{
+  "id": "meta/llama-3.2-3b-instruct",
+  "name": "llama-3.2-3b-instruct",
+  "created_by": "meta",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "llama-3.2",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "_generated": {
+    "name": "ef4a287a",
+    "family": "d4c42ce9",
+    "capabilities": "48995a4e",
+    "model_type": "d669f408",
+    "parameters": "eccbc87e",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "parameters": 3,
+  "tools": ["function_calling"],
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

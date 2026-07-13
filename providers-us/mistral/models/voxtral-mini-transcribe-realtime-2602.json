@@ -1,0 +1,41 @@
+{
+  "id": "voxtral-mini-transcribe-realtime-2602",
+  "name": "voxtral-mini-transcribe-realtime-2602",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-06-10",
+  "status": "active",
+  "alias": "voxtral-mini-transcribe-realtime",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "fine_tuning": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "model_type": "transcription",
+  "_generated": {
+    "name": "42e7691c",
+    "status": "379ac110",
+    "capabilities": "62b3fd83",
+    "modalities": "6399757e",
+    "model_type": "5e12d29a",
+    "family": "88a5dabd",
+    "license": "60245731",
+    "page_url": "b96c1870",
+    "open_weight": "b326b506",
+    "description": "9a7bb228",
+    "tagline": "c51d263e",
+    "tools": "f0c1dc7e"
+  },
+  "family": "voxtral",
+  "license": "apache-2.0",
+  "page_url": "https://docs.mistral.ai/models/model-cards/voxtral-mini-transcribe-realtime-26-02",
+  "open_weight": true,
+  "description": "An efficient audio input model, pre-trained and optimized for live transcription purposes only.",
+  "tagline": "An efficient audio input model, fine-tuned and optimized for live transcription purposes only.",
+  "tools": ["function_calling"]
+}

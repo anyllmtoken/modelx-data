@@ -1,0 +1,85 @@
+{
+  "id": "computer-use-preview-2025-03-11",
+  "name": "computer-use-preview-2025-03-11",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-03-24",
+  "description": "The computer-use-preview model is a specialized model for the computer use",
+  "status": "active",
+  "knowledge_cutoff": "2023-10",
+  "context_window": 8192,
+  "max_output_tokens": 1024,
+  "reasoning_tokens": true,
+  "alias": "computer-use-preview",
+  "performance": 2,
+  "reasoning": 2,
+  "speed": 2,
+  "tagline": "The computer-use-preview model is a specialized model for the computer use",
+  "capabilities": {
+    "tool_call": true,
+    "reasoning": true,
+    "streaming": false,
+    "vision": false,
+    "structured_output": false,
+    "json_mode": false,
+    "fine_tuning": false,
+    "batch": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 3,
+    "output": 12,
+    "batch_input": 1.5,
+    "batch_output": 6,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": ["Input", "Cached input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [3, null, 12]
+          },
+          {
+            "label": "Batch",
+            "values": [1.5, null, 6]
+          }
+        ]
+      }
+    ]
+  },
+  "endpoints": ["responses", "batch"],
+  "_generated": {
+    "name": "e83b4a65",
+    "description": "859cd790",
+    "status": "379ac110",
+    "knowledge_cutoff": "ffb42dbe",
+    "context_window": "77441296",
+    "max_output_tokens": "021bbc7e",
+    "reasoning_tokens": "b326b506",
+    "performance": "c81e728d",
+    "reasoning": "c81e728d",
+    "speed": "c81e728d",
+    "tagline": "859cd790",
+    "capabilities": "ee90b87a",
+    "modalities": "6399757e",
+    "pricing": "def0b895",
+    "endpoints": "6f01fd6c",
+    "license": "9186c466",
+    "release_date": "53813ccd",
+    "page_url": "6589c5de",
+    "open_weight": "68934a3e",
+    "tools": "f0c1dc7e",
+    "model_type": "d669f408"
+  },
+  "license": "proprietary",
+  "release_date": "2025-03-11",
+  "page_url": "https://developers.openai.com/api/docs/models/computer-use-preview?snapshot=computer-use-preview-2025-03-11",
+  "open_weight": false,
+  "tools": ["function_calling"],
+  "model_type": "chat"
+}

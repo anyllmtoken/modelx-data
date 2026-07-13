@@ -1,0 +1,34 @@
+{
+  "id": "xai/grok-2-vision",
+  "name": "grok-2-vision",
+  "created_by": "xai",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "grok-2",
+  "context_window": 32800,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 2,
+    "output": 10
+  },
+  "_generated": {
+    "name": "92709c89",
+    "family": "78b98e57",
+    "context_window": "74a190a6",
+    "capabilities": "fc36814c",
+    "pricing": "783da94d",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "tools": ["function_calling"],
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

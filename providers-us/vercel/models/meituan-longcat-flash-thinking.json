@@ -1,0 +1,33 @@
+{
+  "id": "meituan/longcat-flash-thinking",
+  "name": "longcat-flash-thinking-2601",
+  "created_by": "meituan",
+  "source": "official",
+  "last_updated": "2026-03-26",
+  "context_window": 32800,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "snapshots": ["meituan/longcat-flash-thinking-2601"],
+  "_generated": {
+    "name": "94ab86ea",
+    "context_window": "74a190a6",
+    "capabilities": "a281e83a",
+    "pricing": "9a7a9781",
+    "tools": "f0c1dc7e",
+    "model_type": "d669f408",
+    "modalities": "68e53d93"
+  },
+  "tools": ["function_calling"],
+  "model_type": "chat",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

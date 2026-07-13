@@ -1,0 +1,33 @@
+{
+  "id": "xai/grok-3-mini-fast",
+  "name": "grok-3-mini-fast",
+  "created_by": "xai",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "grok-3",
+  "context_window": 131100,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 0.6,
+    "output": 4
+  },
+  "_generated": {
+    "name": "4c66bbcf",
+    "family": "c41798c6",
+    "context_window": "a683b9ae",
+    "capabilities": "48995a4e",
+    "pricing": "4dff21a3",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "tools": ["function_calling"],
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

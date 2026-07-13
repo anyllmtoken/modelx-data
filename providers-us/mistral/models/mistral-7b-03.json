@@ -1,0 +1,40 @@
+{
+  "id": "mistral-7b-03",
+  "name": "mistral-7b-03",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-06-03",
+  "status": "active",
+  "context_window": 32000,
+  "capabilities": {
+    "streaming": true,
+    "fine_tuning": true
+  },
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "_generated": {
+    "name": "ba5f537e",
+    "status": "379ac110",
+    "context_window": "10e4d788",
+    "capabilities": "9c665f5d",
+    "modalities": "68e53d93",
+    "model_type": "d669f408",
+    "family": "33212289",
+    "license": "60245731",
+    "parameters": "8f14e45f",
+    "page_url": "30d20719",
+    "open_weight": "b326b506",
+    "description": "2efd8028",
+    "tagline": "2efd8028"
+  },
+  "model_type": "chat",
+  "family": "mistral-7b",
+  "license": "apache-2.0",
+  "parameters": 7,
+  "page_url": "https://docs.mistral.ai/models/model-cards/mistral-7b-0-3",
+  "open_weight": true,
+  "description": "A minor update to our first open model.",
+  "tagline": "A minor update to our first open model."
+}

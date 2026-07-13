@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/llava-yi-34b",
+  "name": "llava-yi-34b",
+  "created_by": "fireworks",
+  "source": "official",
+  "last_updated": "2026-05-10",
+  "context_window": 4090,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "02d6ee5b",
+    "context_window": "ae31ee95",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "parameters": "e369853d",
+    "page_url": "c5de4cdb"
+  },
+  "parameters": 34,
+  "page_url": "https://fireworks.ai/models/fireworks/llava-yi-34b"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "gpt-4-turbo-2024-04-09",
+  "name": "gpt-4-turbo-2024-04-09",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-03-24",
+  "family": "gpt-4-turbo",
+  "status": "active",
+  "knowledge_cutoff": "2023-12",
+  "context_window": 128000,
+  "max_output_tokens": 4096,
+  "alias": "gpt-4-turbo",
+  "performance": 2,
+  "speed": 3,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "structured_output": false,
+    "json_mode": false,
+    "fine_tuning": false,
+    "reasoning": false,
+    "batch": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "endpoints": ["chat_completions", "responses", "assistants", "batch"],
+  "_generated": {
+    "name": "22a386bf",
+    "family": "e55097d8",
+    "status": "379ac110",
+    "knowledge_cutoff": "06c60023",
+    "context_window": "34434798",
+    "max_output_tokens": "f7efa4f8",
+    "performance": "c81e728d",
+    "speed": "eccbc87e",
+    "capabilities": "5dc39f53",
+    "modalities": "6399757e",
+    "endpoints": "1c48b50a",
+    "description": "43471c17",
+    "model_type": "d669f408",
+    "tagline": "787c2f45",
+    "pricing": "3a544d6c",
+    "license": "9186c466",
+    "release_date": "b283eaaa",
+    "page_url": "b920d448",
+    "open_weight": "68934a3e",
+    "tools": "f0c1dc7e"
+  },
+  "description": "GPT-4 Turbo is the next generation of GPT-4, an older high-intelligence GPT model. It was designed to be a cheaper, better version of GPT-4. Today, we recommend using a newer model like GPT-4o.",
+  "model_type": "chat",
+  "tagline": "GPT-4 Turbo is the next generation of GPT-4, an older high-intelligence GPT model.",
+  "pricing": {
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "",
+        "columns": ["Input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [10, 30]
+          },
+          {
+            "label": "Batch",
+            "values": [5, 15]
+          }
+        ]
+      }
+    ],
+    "input": 10,
+    "output": 30,
+    "batch_input": 5,
+    "batch_output": 15
+  },
+  "license": "proprietary",
+  "release_date": "2024-04-09",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-4-turbo?snapshot=gpt-4-turbo-2024-04-09",
+  "open_weight": false,
+  "tools": ["function_calling"]
+}

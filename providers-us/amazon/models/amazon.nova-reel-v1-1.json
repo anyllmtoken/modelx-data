@@ -1,0 +1,21 @@
+{
+  "id": "amazon.nova-reel-v1:1",
+  "name": "Nova Reel",
+  "created_by": "amazon",
+  "source": "official",
+  "last_updated": "2026-03-22",
+  "model_type": "video",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": [],
+    "output": ["video"]
+  },
+  "_generated": {
+    "name": "39be8a8b",
+    "model_type": "4d1b75ca",
+    "capabilities": "d3117eb0",
+    "modalities": "b69a2faa"
+  }
+}

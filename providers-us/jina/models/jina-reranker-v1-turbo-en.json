@@ -1,0 +1,39 @@
+{
+  "id": "jina-reranker-v1-turbo-en",
+  "name": "Jina Reranker v1 Turbo EN",
+  "created_by": "jina",
+  "source": "official",
+  "last_updated": "2026-06-03",
+  "family": "jina-reranker",
+  "description": "Jina Reranker v1 Turbo English addresses a critical challenge in production search systems: the trade-off between result quality and computational efficiency. While traditional rerankers offer improved search accuracy, their computational demands often make them impractical for real-time applications. This model breaks that barrier by delivering 95% of the base model's accuracy while processing documents three times faster and using 75% less memory. For organizations struggling with search latency or computational costs, this model offers a compelling solution that maintains high-quality search refinement while significantly reducing infrastructure requirements and operational costs.",
+  "tagline": "Fast English reranker.",
+  "status": "active",
+  "model_type": "rerank",
+  "context_window": 8192,
+  "release_date": "2024-04-18",
+  "license": "apache-2.0",
+  "open_weight": true,
+  "modalities": {
+    "input": ["text"],
+    "output": []
+  },
+  "endpoints": ["rerank"],
+  "pricing": {
+    "input": 0.05
+  },
+  "_generated": {
+    "name": "44b694f0",
+    "family": "1085b236",
+    "description": "f37263a0",
+    "tagline": "a531e2c5",
+    "status": "379ac110",
+    "model_type": "477930e6",
+    "context_window": "77441296",
+    "release_date": "3aec6636",
+    "license": "60245731",
+    "open_weight": "b326b506",
+    "modalities": "afb3de08",
+    "endpoints": "9a7b4962",
+    "pricing": "0f2b1541"
+  }
+}

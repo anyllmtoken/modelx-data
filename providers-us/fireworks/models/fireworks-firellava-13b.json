@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/firellava-13b",
+  "name": "firellava-13b",
+  "created_by": "fireworks",
+  "source": "official",
+  "last_updated": "2026-05-10",
+  "context_window": 4090,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "b757b1a0",
+    "context_window": "ae31ee95",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "parameters": "c51ce410",
+    "page_url": "47ac1334"
+  },
+  "parameters": 13,
+  "page_url": "https://fireworks.ai/models/fireworks/firellava-13b"
+}

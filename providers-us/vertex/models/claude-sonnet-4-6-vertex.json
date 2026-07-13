@@ -1,0 +1,57 @@
+{
+  "id": "claude-sonnet-4-6@vertex",
+  "name": "Claude Sonnet 4.6",
+  "created_by": "anthropic",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "claude-sonnet",
+  "context_window": 1000000,
+  "max_output_tokens": 64000,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 3.3,
+    "output": 16.5,
+    "cached_input": 0.33,
+    "batch_input": 1.65,
+    "batch_output": 8.25,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": ["Input", "Cached input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [3.3, 0.33, 16.5]
+          },
+          {
+            "label": "Batch",
+            "values": [1.65, null, 8.25]
+          }
+        ]
+      }
+    ]
+  },
+  "_generated": {
+    "name": "50184618",
+    "family": "68d1c457",
+    "context_window": "8155bc54",
+    "max_output_tokens": "762e98db",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
+    "pricing": "d722c770",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "tools": ["function_calling"]
+}

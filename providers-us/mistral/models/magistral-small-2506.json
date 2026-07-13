@@ -1,0 +1,50 @@
+{
+  "id": "magistral-small-2506",
+  "name": "magistral-small-2506",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-06-03",
+  "status": "deprecated",
+  "deprecation_date": "2025-10-31",
+  "context_window": 40000,
+  "alias": "magistral-small",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "fine_tuning": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 0.5,
+    "output": 1.5
+  },
+  "_generated": {
+    "name": "836408f3",
+    "status": "2e2f74dc",
+    "deprecation_date": "2bddea11",
+    "context_window": "7c77f048",
+    "capabilities": "62b3fd83",
+    "modalities": "6399757e",
+    "pricing": "2c3abb73",
+    "model_type": "17475f7f",
+    "family": "b2c75a88",
+    "license": "60245731",
+    "page_url": "c226a75e",
+    "open_weight": "b326b506",
+    "description": "c04738a6",
+    "tagline": "c04738a6",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "reasoning",
+  "family": "magistral",
+  "license": "apache-2.0",
+  "page_url": "https://docs.mistral.ai/models/model-cards/magistral-small-1-0-25-06",
+  "open_weight": true,
+  "description": "Our small reasoning model released July 2025.",
+  "tagline": "Our small reasoning model released July 2025.",
+  "tools": ["function_calling"]
+}

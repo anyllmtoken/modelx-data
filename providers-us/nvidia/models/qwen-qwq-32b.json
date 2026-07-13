@@ -1,0 +1,25 @@
+{
+  "id": "qwen/qwq-32b",
+  "name": "qwq-32b",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "qwq",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "2d469a71",
+    "family": "3a976110",
+    "capabilities": "0fa77dc6",
+    "model_type": "d669f408",
+    "parameters": "6364d3f0",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "parameters": 32,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "fireworks/devstral-small-2505",
+  "name": "devstral-small-2505",
+  "created_by": "fireworks",
+  "source": "official",
+  "last_updated": "2026-05-10",
+  "family": "devstral",
+  "context_window": 131000,
+  "alias": "fireworks/devstral-small",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "bc607ece",
+    "family": "e626e93e",
+    "context_window": "834bd590",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "model_type": "b6cc3ff4",
+    "page_url": "77ba09e3",
+    "modalities": "68e53d93"
+  },
+  "model_type": "code",
+  "page_url": "https://fireworks.ai/models/fireworks/devstral-small-2505",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

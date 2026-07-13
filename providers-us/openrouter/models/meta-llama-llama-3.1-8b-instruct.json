@@ -1,0 +1,44 @@
+{
+  "id": "meta-llama/llama-3.1-8b-instruct",
+  "name": "Meta: Llama 3.1 8B Instruct",
+  "created_by": "meta-llama",
+  "source": "official",
+  "last_updated": "2026-06-10",
+  "family": "llama-3.1",
+  "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors.",
+  "context_window": 131072,
+  "max_output_tokens": 16384,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "json_mode": true
+  },
+  "pricing": {
+    "input": 0.02,
+    "output": 0.03
+  },
+  "_generated": {
+    "name": "a3e3a54f",
+    "family": "83ec32db",
+    "description": "7847fd3f",
+    "context_window": "f7de594e",
+    "max_output_tokens": "c76fe1d8",
+    "modalities": "68e53d93",
+    "capabilities": "6c9aa67e",
+    "pricing": "8780d348",
+    "model_type": "d669f408",
+    "parameters": "c9f0f895",
+    "release_date": "7be3efeb",
+    "tagline": "7847fd3f",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "parameters": 8,
+  "release_date": "2024-07-23",
+  "tagline": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors.",
+  "tools": ["function_calling"]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sentientfoundation/dobby-unhinged-llama-3-3-70b-new",
+  "name": "dobby-unhinged-llama-3-3-70b-new",
+  "created_by": "meta",
+  "source": "official",
+  "last_updated": "2026-05-10",
+  "context_window": 131000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "bc5fc2d6",
+    "context_window": "834bd590",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "parameters": "7cbbc409",
+    "page_url": "2ef2b6d0"
+  },
+  "parameters": 70,
+  "page_url": "https://fireworks.ai/models/sentientfoundation/dobby-unhinged-llama-3-3-70b-new"
+}

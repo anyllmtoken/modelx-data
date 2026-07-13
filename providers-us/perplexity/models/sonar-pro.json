@@ -1,0 +1,43 @@
+{
+  "id": "sonar-pro",
+  "name": "sonar-pro",
+  "created_by": "perplexity",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "sonar",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 3,
+    "output": 15
+  },
+  "_generated": {
+    "name": "e40022c7",
+    "family": "8b8f2acb",
+    "capabilities": "48995a4e",
+    "pricing": "7939f0ff",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "tools": "f0c1dc7e",
+    "description": "1c8d1788",
+    "context_window": "03e6c616",
+    "tagline": "0a4f1ecd",
+    "page_url": "394f66a6",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "license": "proprietary",
+  "open_weight": false,
+  "tools": ["function_calling"],
+  "description": "An advanced search model designed for complex queries, delivering deeper content understanding with enhanced search result accuracy and 2x more search results than standard Sonar.",
+  "context_window": 200000,
+  "tagline": "Advanced search with enhanced search results",
+  "page_url": "https://docs.perplexity.ai/docs/sonar/models/sonar-pro",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

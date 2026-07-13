@@ -1,0 +1,36 @@
+{
+  "id": "s/qwen3-5-397b-a17b",
+  "name": "Qwen3 5 397b A17b",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-06-10",
+  "family": "qwen3",
+  "context_window": 256000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.35,
+    "output": 3.6
+  },
+  "_generated": {
+    "name": "4ce226ce",
+    "family": "48c385a0",
+    "context_window": "2fd324cb",
+    "capabilities": "0fa77dc6",
+    "pricing": "705f3f44",
+    "model_type": "d669f408",
+    "parameters": "e46de7e1",
+    "active_parameters": "70efdf2e",
+    "page_url": "0694e3cc",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "parameters": 397,
+  "active_parameters": 17,
+  "page_url": "https://www.together.ai/models/qwen3-5-397b-a17b",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

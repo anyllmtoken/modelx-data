@@ -1,0 +1,77 @@
+{
+  "id": "gemini-3-pro-image-preview",
+  "name": "gemini-3-pro-image-preview",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-06-29",
+  "family": "gemini-3",
+  "status": "deprecated",
+  "knowledge_cutoff": "2025-01",
+  "context_window": 65536,
+  "max_output_tokens": 32768,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "batch": true,
+    "vision": true,
+    "json_mode": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 12,
+    "batch_input": 1,
+    "batch_output": 6,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": ["Input", "Cached input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [2, null, 12]
+          },
+          {
+            "label": "Priority",
+            "values": [null, null, null]
+          },
+          {
+            "label": "Flex",
+            "values": [1, null, 6]
+          }
+        ]
+      }
+    ]
+  },
+  "tools": ["function_calling"],
+  "endpoints": ["generateContent", "streamGenerateContent"],
+  "_generated": {
+    "name": "3073a562",
+    "family": "eb14e598",
+    "status": "2e2f74dc",
+    "knowledge_cutoff": "3f358a56",
+    "context_window": "297ce0b3",
+    "max_output_tokens": "f4376436",
+    "capabilities": "fdff467b",
+    "modalities": "6399757e",
+    "pricing": "ba427e0c",
+    "tools": "f0c1dc7e",
+    "endpoints": "20e16908",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "deprecation_date": "247162b6",
+    "successor": "1f41d2e6"
+  },
+  "model_type": "chat",
+  "license": "proprietary",
+  "open_weight": false,
+  "deprecation_date": "2026-06-25",
+  "successor": "gemini-3-pro-image"
+}

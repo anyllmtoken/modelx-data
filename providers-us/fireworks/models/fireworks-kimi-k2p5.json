@@ -1,0 +1,33 @@
+{
+  "id": "fireworks/kimi-k2p5",
+  "name": "kimi-k2p5",
+  "created_by": "moonshot",
+  "source": "official",
+  "last_updated": "2026-06-18",
+  "context_window": 262000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "d5929361",
+    "context_window": "4ed74017",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "family": "0f7256d5",
+    "model_type": "d669f408",
+    "page_url": "7bad66c1",
+    "modalities": "68e53d93"
+  },
+  "family": "kimi-k2",
+  "model_type": "chat",
+  "page_url": "https://fireworks.ai/models/fireworks/kimi-k2p5",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

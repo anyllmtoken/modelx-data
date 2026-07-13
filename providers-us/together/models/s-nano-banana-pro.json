@@ -1,0 +1,23 @@
+{
+  "id": "s/nano-banana-pro",
+  "name": "Nano Banana Pro",
+  "created_by": "unknown",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "context_window": 32000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.03,
+    "output": 0.134
+  },
+  "_generated": {
+    "name": "005ed6a5",
+    "context_window": "10e4d788",
+    "capabilities": "0fa77dc6",
+    "pricing": "d88aeb9d",
+    "page_url": "efea55d5"
+  },
+  "page_url": "https://www.together.ai/models/nano-banana-pro"
+}

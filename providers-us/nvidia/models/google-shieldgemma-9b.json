@@ -1,0 +1,15 @@
+{
+  "id": "google/shieldgemma-9b",
+  "name": "shieldgemma-9b",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-03-21",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "af8bd3ea",
+    "capabilities": "0fa77dc6"
+  },
+  "parameters": 9
+}

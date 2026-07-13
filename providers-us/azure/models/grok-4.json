@@ -1,0 +1,26 @@
+{
+  "id": "grok-4",
+  "name": "grok-4",
+  "created_by": "xai",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "grok-4",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "_generated": {
+    "name": "0d5416ff",
+    "family": "0d5416ff",
+    "capabilities": "48995a4e",
+    "modalities": "68e53d93",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "tools": ["function_calling"]
+}

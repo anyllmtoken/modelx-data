@@ -1,0 +1,93 @@
+{
+  "id": "o3-pro",
+  "name": "o3-pro",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-06-18",
+  "family": "o3",
+  "description": "The o-series of models are trained with reinforcement learning to think",
+  "status": "active",
+  "knowledge_cutoff": "2024-06",
+  "context_window": 200000,
+  "max_output_tokens": 100000,
+  "model_type": "reasoning",
+  "reasoning_tokens": true,
+  "performance": 5,
+  "reasoning": 5,
+  "speed": 1,
+  "tagline": "Version of o3 with more compute for better responses",
+  "capabilities": {
+    "vision": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "json_mode": true,
+    "streaming": false,
+    "fine_tuning": false,
+    "batch": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 20,
+    "output": 80,
+    "batch_input": 10,
+    "batch_output": 40,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": ["Input", "Cached input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [20, null, 80]
+          },
+          {
+            "label": "Batch",
+            "values": [10, null, 40]
+          }
+        ]
+      }
+    ]
+  },
+  "tools": [
+    "function_calling",
+    "file_search",
+    "image_generation",
+    "mcp",
+    "web_search"
+  ],
+  "endpoints": ["responses", "batch"],
+  "snapshots": ["o3-pro-2025-06-10"],
+  "_generated": {
+    "name": "363d2093",
+    "family": "193049bc",
+    "description": "e1a4ec5e",
+    "status": "379ac110",
+    "knowledge_cutoff": "b087cb52",
+    "context_window": "03e6c616",
+    "max_output_tokens": "14ee22ea",
+    "model_type": "17475f7f",
+    "reasoning_tokens": "b326b506",
+    "performance": "e4da3b7f",
+    "reasoning": "e4da3b7f",
+    "speed": "c4ca4238",
+    "tagline": "cca16069",
+    "capabilities": "91876c96",
+    "modalities": "6399757e",
+    "pricing": "0b2c1347",
+    "tools": "a7dce5fd",
+    "endpoints": "6f01fd6c",
+    "license": "9186c466",
+    "page_url": "b1230bef",
+    "open_weight": "68934a3e",
+    "release_date": "298b4e52"
+  },
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/o3-pro",
+  "open_weight": false,
+  "release_date": "2025-06-10"
+}

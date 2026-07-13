@@ -1,0 +1,25 @@
+{
+  "id": "s/flux-2-pro",
+  "name": "Flux 2 Pro",
+  "created_by": "black-forest-labs",
+  "source": "official",
+  "last_updated": "2026-04-12",
+  "context_window": 32000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.134,
+    "output": 0.03
+  },
+  "_generated": {
+    "name": "a1fc10aa",
+    "context_window": "10e4d788",
+    "capabilities": "0fa77dc6",
+    "pricing": "502fe45f",
+    "model_type": "db8857fe",
+    "page_url": "ce8c6e8c"
+  },
+  "model_type": "image",
+  "page_url": "https://www.together.ai/models/flux-2-pro"
+}

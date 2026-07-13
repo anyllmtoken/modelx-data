@@ -1,0 +1,105 @@
+{
+  "id": "gpt-5",
+  "name": "GPT-5",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-06-18",
+  "family": "gpt-5",
+  "description": "GPT-5 is our previous model for coding, reasoning, and agentic tasks across domains.",
+  "status": "active",
+  "knowledge_cutoff": "2024-09",
+  "context_window": 400000,
+  "max_output_tokens": 128000,
+  "max_input_tokens": 272000,
+  "model_type": "reasoning",
+  "reasoning_tokens": true,
+  "performance": 4,
+  "reasoning": 4,
+  "speed": 3,
+  "tagline": "Previous intelligent reasoning model for coding and agentic tasks with configurable reasoning effort",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "json_mode": true,
+    "fine_tuning": false,
+    "batch": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 1.25,
+    "output": 10,
+    "cached_input": 0.125,
+    "batch_input": 0.625,
+    "batch_output": 5,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": ["Input", "Cached input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [1.25, 0.125, 10]
+          },
+          {
+            "label": "Batch",
+            "values": [0.625, 0.0625, 5]
+          },
+          {
+            "label": "Flex",
+            "values": [0.625, 0.0625, 5]
+          },
+          {
+            "label": "Priority",
+            "values": [2.5, 0.25, 20]
+          }
+        ]
+      }
+    ]
+  },
+  "tools": [
+    "function_calling",
+    "web_search",
+    "file_search",
+    "image_generation",
+    "code_interpreter",
+    "mcp"
+  ],
+  "endpoints": ["chat_completions", "responses", "batch"],
+  "snapshots": ["gpt-5-2025-08-07"],
+  "_generated": {
+    "name": "7a178da6",
+    "family": "aa904c16",
+    "description": "0dff623c",
+    "status": "379ac110",
+    "knowledge_cutoff": "b0196d6e",
+    "context_window": "2a3a2d28",
+    "max_output_tokens": "34434798",
+    "max_input_tokens": "3f9281a0",
+    "model_type": "17475f7f",
+    "reasoning_tokens": "b326b506",
+    "performance": "a87ff679",
+    "reasoning": "a87ff679",
+    "speed": "eccbc87e",
+    "tagline": "d54914e7",
+    "capabilities": "6295d8b9",
+    "modalities": "6399757e",
+    "pricing": "a6f9ea96",
+    "tools": "1d5a765f",
+    "endpoints": "ec55a017",
+    "license": "9186c466",
+    "page_url": "2237ba95",
+    "open_weight": "68934a3e",
+    "release_date": "79c30d0c"
+  },
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-5",
+  "open_weight": false,
+  "release_date": "2025-08-07"
+}

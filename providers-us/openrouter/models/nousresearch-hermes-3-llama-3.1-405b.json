@@ -1,0 +1,39 @@
+{
+  "id": "nousresearch/hermes-3-llama-3.1-405b",
+  "name": "Nous: Hermes 3 405B Instruct",
+  "created_by": "nousresearch",
+  "source": "official",
+  "last_updated": "2026-04-07",
+  "description": "Hermes 3 is a generalist language model with many improvements over Hermes 2, including advanced agentic capabilities, much better roleplaying, reasoning, multi-turn conversation, long context coheren",
+  "context_window": 131072,
+  "max_output_tokens": 16384,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "capabilities": {
+    "structured_output": true,
+    "json_mode": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1
+  },
+  "_generated": {
+    "name": "5edbae4c",
+    "description": "a936cce1",
+    "context_window": "f7de594e",
+    "max_output_tokens": "c76fe1d8",
+    "modalities": "68e53d93",
+    "capabilities": "dbb5b7fe",
+    "pricing": "5418a9a1",
+    "model_type": "d669f408",
+    "parameters": "bbcbff5c",
+    "release_date": "a5d49865",
+    "tagline": "a936cce1"
+  },
+  "model_type": "chat",
+  "parameters": 405,
+  "release_date": "2024-08-16",
+  "tagline": "Hermes 3 is a generalist language model with many improvements over Hermes 2, including advanced agentic capabilities, much better roleplaying, reasoning, multi-turn conversation, long context coheren"
+}

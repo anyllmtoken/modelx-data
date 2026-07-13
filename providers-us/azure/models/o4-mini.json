@@ -1,0 +1,36 @@
+{
+  "id": "o4-mini",
+  "name": "o4-mini",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-03-24",
+  "family": "o4",
+  "knowledge_cutoff": "2024-05-31",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "vision": true,
+    "json_mode": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "model_type": "reasoning",
+  "_generated": {
+    "name": "0ad044e2",
+    "family": "a842f941",
+    "knowledge_cutoff": "83e324a8",
+    "capabilities": "d1034176",
+    "modalities": "6399757e",
+    "model_type": "17475f7f",
+    "tools": "f0c1dc7e",
+    "description": "d3824eee",
+    "tagline": "0738aacf"
+  },
+  "tools": ["function_calling"],
+  "description": "- New reasoning model, offering enhanced reasoning abilities . - Chat Completions API. - Responses API . - Structured outputs. - Text and image processing. - Functions and tools. Full summary of capabilities .",
+  "tagline": "- New reasoning model, offering enhanced reasoning abilities ."
+}

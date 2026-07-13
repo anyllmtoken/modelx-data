@@ -1,0 +1,26 @@
+{
+  "id": "moonshotai/kimi-k2-instruct-0905",
+  "name": "kimi-k2-instruct-0905",
+  "created_by": "moonshot",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "_generated": {
+    "name": "bf268858",
+    "capabilities": "48995a4e",
+    "family": "0f7256d5",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "family": "kimi-k2",
+  "model_type": "chat",
+  "tools": ["function_calling"],
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "liquid/lfm-2.2-6b",
+  "name": "LiquidAI: LFM2-2.6B",
+  "created_by": "liquid",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "description": "LFM2 is a new generation of hybrid models developed by Liquid AI, specifically designed for edge AI and on-device deployment.",
+  "context_window": 32768,
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 0.01,
+    "output": 0.02
+  },
+  "_generated": {
+    "name": "a50a7a1d",
+    "description": "bdc0bcc2",
+    "context_window": "f4376436",
+    "modalities": "68e53d93",
+    "pricing": "c22b9895",
+    "parameters": "1679091c",
+    "release_date": "ba1efbec",
+    "tagline": "bdc0bcc2",
+    "model_type": "d669f408"
+  },
+  "parameters": 6,
+  "release_date": "2025-10-20",
+  "tagline": "LFM2 is a new generation of hybrid models developed by Liquid AI, specifically designed for edge AI and on-device deployment.",
+  "model_type": "chat"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "mistralai/pixtral-12b",
+  "name": "Mistral: Pixtral 12B",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "pixtral",
+  "description": "The first multi-modal, text+image-to-text model from Mistral AI.",
+  "context_window": 32768,
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 0.1,
+    "output": 0.1
+  },
+  "_generated": {
+    "name": "ae9dec07",
+    "family": "c606df51",
+    "description": "cf01b51c",
+    "context_window": "f4376436",
+    "modalities": "6399757e",
+    "pricing": "dabb026f",
+    "model_type": "d669f408",
+    "parameters": "c20ad4d7",
+    "release_date": "2da0d696",
+    "tagline": "cf01b51c"
+  },
+  "model_type": "chat",
+  "parameters": 12,
+  "release_date": "2024-09-10",
+  "tagline": "The first multi-modal, text+image-to-text model from Mistral AI."
+}

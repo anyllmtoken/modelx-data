@@ -1,0 +1,32 @@
+{
+  "id": "@cf/qwen/qwen1.5-14b-chat-awq",
+  "name": "qwen1.5-14b-chat-awq",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "qwen1.5",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "_generated": {
+    "name": "3908310b",
+    "family": "5b9bfb4a",
+    "capabilities": "48995a4e",
+    "model_type": "d669f408",
+    "parameters": "aab32389",
+    "status": "379ac110",
+    "page_url": "aa970e7a",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "parameters": 14,
+  "status": "active",
+  "page_url": "https://developers.cloudflare.com/workers-ai/models/#qwen1.5-14b-chat-awq",
+  "tools": ["function_calling"],
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

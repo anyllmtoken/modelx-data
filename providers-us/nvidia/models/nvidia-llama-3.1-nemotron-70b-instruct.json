@@ -1,0 +1,28 @@
+{
+  "id": "nvidia/llama-3.1-nemotron-70b-instruct",
+  "name": "llama-3.1-nemotron-70b-instruct",
+  "created_by": "nvidia",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "llama-3.1",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "_generated": {
+    "name": "ea44b27a",
+    "family": "83ec32db",
+    "capabilities": "48995a4e",
+    "model_type": "d669f408",
+    "parameters": "7cbbc409",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "parameters": 70,
+  "tools": ["function_calling"],
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

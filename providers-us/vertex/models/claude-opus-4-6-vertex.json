@@ -1,0 +1,57 @@
+{
+  "id": "claude-opus-4-6@vertex",
+  "name": "Claude Opus 4.6",
+  "created_by": "anthropic",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "claude-opus",
+  "context_window": 1000000,
+  "max_output_tokens": 128000,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["text"]
+  },
+  "pricing": {
+    "input": 5.5,
+    "output": 27.5,
+    "cached_input": 0.55,
+    "batch_input": 2.75,
+    "batch_output": 13.75,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": ["Input", "Cached input", "Output"],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [5.5, 0.55, 27.5]
+          },
+          {
+            "label": "Batch",
+            "values": [2.75, null, 13.75]
+          }
+        ]
+      }
+    ]
+  },
+  "_generated": {
+    "name": "3b695ed7",
+    "family": "4e4c4b18",
+    "context_window": "8155bc54",
+    "max_output_tokens": "34434798",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
+    "pricing": "24493fba",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "tools": ["function_calling"]
+}

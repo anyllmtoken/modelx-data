@@ -1,0 +1,33 @@
+{
+  "id": "deepseek/deepseek-v3",
+  "name": "deepseek-v3",
+  "created_by": "deepseek",
+  "source": "official",
+  "last_updated": "2026-06-02",
+  "family": "deepseek",
+  "context_window": 163800,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 0.27,
+    "output": 1.12
+  },
+  "_generated": {
+    "name": "61b133fc",
+    "family": "4b81b92d",
+    "context_window": "df026689",
+    "capabilities": "48995a4e",
+    "pricing": "3b5f37f0",
+    "tools": "f0c1dc7e",
+    "model_type": "d669f408",
+    "modalities": "68e53d93"
+  },
+  "tools": ["function_calling"],
+  "model_type": "chat",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

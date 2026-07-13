@@ -1,0 +1,32 @@
+{
+  "id": "prime-intellect/intellect-3",
+  "name": "intellect-3",
+  "created_by": "prime-intellect",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "context_window": 131100,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.2,
+    "output": 1.1
+  },
+  "_generated": {
+    "name": "a37b1963",
+    "context_window": "a683b9ae",
+    "capabilities": "a281e83a",
+    "pricing": "f6965509",
+    "tools": "f0c1dc7e",
+    "model_type": "d669f408",
+    "modalities": "68e53d93"
+  },
+  "tools": ["function_calling"],
+  "model_type": "chat",
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}
