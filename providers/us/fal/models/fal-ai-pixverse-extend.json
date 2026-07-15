@@ -12,7 +12,9 @@
   "capabilities": {
     "tool_call": true
   },
-  "tools": ["function_calling"],
+  "tools": [
+    "function_calling"
+  ],
   "last_seen_at": "2026-06-17",
   "_generated": {
     "name": "536f4e67",
@@ -26,5 +28,5 @@
     "tools": "f0c1dc7e",
     "last_seen_at": "e050aed5"
   },
-  "last_updated": "2026-06-18"
+  "last_updated": "2026-07-15"
 }

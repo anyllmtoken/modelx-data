@@ -11,10 +11,16 @@
   "page_url": "https://fal.run/fal-ai/wan-pro/text-to-video",
   "tagline": "Wan-2.1 Pro is a premium text-to-video model that generates high-quality 1080p videos at 30fps with up to 6 seconds duration, delivering exceptional visual quality and motion diversity from text promp",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-01-26",
   "_generated": {
     "name": "0cd73ce0",
@@ -29,5 +35,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "5c252aee"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

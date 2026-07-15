@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/speech-to-text/turbo",
   "tagline": "Leverage the rapid processing capabilities of AI models to enable accurate and efficient real-time speech-to-text transcription.",
   "modalities": {
-    "input": ["audio"],
-    "output": ["text"]
+    "input": [
+      "audio"
+    ],
+    "output": [
+      "text"
+    ]
   },
-  "endpoints": ["audio_transcriptions"],
+  "endpoints": [
+    "audio_transcriptions"
+  ],
   "last_seen_at": "2026-01-26",
   "_generated": {
     "name": "060261e7",
@@ -27,5 +33,5 @@
     "endpoints": "30248ee0",
     "last_seen_at": "5c252aee"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

@@ -13,10 +13,17 @@
     "vision": true
   },
   "modalities": {
-    "input": ["text", "image"],
-    "output": ["image"]
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
   },
-  "endpoints": ["images"],
+  "endpoints": [
+    "images"
+  ],
   "last_seen_at": "2026-03-10",
   "_generated": {
     "name": "7926a276",
@@ -31,5 +38,5 @@
     "endpoints": "9a7c17cc",
     "last_seen_at": "49946764"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

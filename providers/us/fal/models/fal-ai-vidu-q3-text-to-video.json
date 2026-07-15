@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/vidu/q3/text-to-video",
   "tagline": "Vidu's latest Q3 pro models",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-07-01",
   "_generated": {
     "name": "30f11e01",
@@ -27,5 +33,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "97e5b4c6"
   },
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-07-15"
 }

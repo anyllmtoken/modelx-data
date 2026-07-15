@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/resemble-ai/chatterboxhd/text-to-speech",
   "tagline": "Generate expressive, natural speech with Resemble AI's Chatterbox.",
   "modalities": {
-    "input": ["text"],
-    "output": ["audio"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
   },
-  "endpoints": ["audio_speech"],
+  "endpoints": [
+    "audio_speech"
+  ],
   "last_seen_at": "2026-01-26",
   "_generated": {
     "name": "02418d7c",
@@ -27,5 +33,5 @@
     "endpoints": "0d745ead",
     "last_seen_at": "5c252aee"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

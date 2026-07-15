@@ -10,10 +10,17 @@
   "page_url": "https://fal.run/bytedance/seedance-2.0/text-to-video",
   "tagline": "ByteDance's most advanced text-to-video model.",
   "modalities": {
-    "input": ["text", "audio"],
-    "output": ["video"]
+    "input": [
+      "text",
+      "audio"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-07-10",
   "_generated": {
     "name": "ce663f75",
@@ -27,5 +34,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "cc3b8614"
   },
-  "last_updated": "2026-07-12"
+  "last_updated": "2026-07-15"
 }

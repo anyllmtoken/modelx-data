@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/argil/avatars/text-to-video",
   "tagline": "High-quality avatar videos that feel real, generated from your text",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-06-24",
   "_generated": {
     "name": "93986605",
@@ -27,5 +33,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "b7ac61f6"
   },
-  "last_updated": "2026-06-29"
+  "last_updated": "2026-07-15"
 }

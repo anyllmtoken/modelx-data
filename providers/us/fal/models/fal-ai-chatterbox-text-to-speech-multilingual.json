@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/chatterbox/text-to-speech/multilingual",
   "tagline": "Whether you're working on memes, videos, games, or AI agents, Chatterbox brings your content to life.",
   "modalities": {
-    "input": ["text"],
-    "output": ["audio"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
   },
-  "endpoints": ["audio_speech"],
+  "endpoints": [
+    "audio_speech"
+  ],
   "last_seen_at": "2026-06-24",
   "_generated": {
     "name": "e7f69c35",
@@ -27,5 +33,5 @@
     "endpoints": "0d745ead",
     "last_seen_at": "b7ac61f6"
   },
-  "last_updated": "2026-06-29"
+  "last_updated": "2026-07-15"
 }

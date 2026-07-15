@@ -11,14 +11,19 @@
   "tagline": "SOTA Open source model trained on licensed data, transforming intent into structured control for precise, high-quality AI image generation in enterprise and agentic workflows.",
   "capabilities": {
     "vision": true,
-    "structured_output": true,
-    "json_mode": true
+    "structured_output": true
   },
   "modalities": {
-    "input": ["text"],
-    "output": ["image"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
   },
-  "endpoints": ["images"],
+  "endpoints": [
+    "images"
+  ],
   "last_seen_at": "2026-05-20",
   "_generated": {
     "name": "1fec9187",
@@ -28,10 +33,10 @@
     "model_type": "db8857fe",
     "page_url": "4aaba22b",
     "tagline": "34f85b19",
-    "capabilities": "42538baa",
+    "capabilities": "2c435f66",
     "modalities": "814867b9",
     "endpoints": "9a7c17cc",
     "last_seen_at": "7a81e6e3"
   },
-  "last_updated": "2026-06-03"
+  "last_updated": "2026-07-15"
 }

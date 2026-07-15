@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/veo3.1",
   "tagline": "Veo 3.1 by Google, the most advanced AI video generation model in the world.",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-04-28",
   "_generated": {
     "name": "7db5be58",
@@ -27,5 +33,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "52326430"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

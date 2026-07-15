@@ -11,14 +11,20 @@
   "tagline": "Ideogram Layerize takes an existing flat graphic, removes text, and returns structured text containers you can edit/recompose in html or json format.",
   "capabilities": {
     "vision": true,
-    "structured_output": true,
-    "json_mode": true
+    "structured_output": true
   },
   "modalities": {
-    "input": ["text", "image"],
-    "output": ["image"]
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
   },
-  "endpoints": ["images"],
+  "endpoints": [
+    "images"
+  ],
   "last_seen_at": "2026-04-26",
   "_generated": {
     "name": "b834d5be",
@@ -28,10 +34,10 @@
     "model_type": "db8857fe",
     "page_url": "5e722221",
     "tagline": "cb5684f3",
-    "capabilities": "42538baa",
+    "capabilities": "2c435f66",
     "modalities": "bbf9b8bb",
     "endpoints": "9a7c17cc",
     "last_seen_at": "42382078"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

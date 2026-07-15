@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/veed/fabric-1.0/text",
   "tagline": "VEED Fabric 1.0 text-to-video API",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-04-23",
   "_generated": {
     "name": "b55e6f5f",
@@ -27,5 +33,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "a87679d0"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

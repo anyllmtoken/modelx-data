@@ -14,11 +14,20 @@
     "tool_call": true
   },
   "modalities": {
-    "input": ["text", "image"],
-    "output": ["image"]
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
   },
-  "endpoints": ["images"],
-  "tools": ["function_calling"],
+  "endpoints": [
+    "images"
+  ],
+  "tools": [
+    "function_calling"
+  ],
   "last_seen_at": "2026-05-06",
   "_generated": {
     "name": "a02035ec",
@@ -34,5 +43,5 @@
     "tools": "f0c1dc7e",
     "last_seen_at": "ad37623a"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

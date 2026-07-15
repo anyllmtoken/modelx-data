@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/vidu/q2/text-to-video",
   "tagline": "Use the latest Vidu Q2 models which much more better quality and control on your videos.",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-04-27",
   "_generated": {
     "name": "30f11e01",
@@ -27,5 +33,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "79a25cd1"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/kling-video/v1/tts",
   "tagline": "Generate speech from text prompts and different voices using the Kling TTS model, which leverages advanced AI techniques to create high-quality text-to-speech.",
   "modalities": {
-    "input": ["text"],
-    "output": ["audio"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
   },
-  "endpoints": ["audio_speech"],
+  "endpoints": [
+    "audio_speech"
+  ],
   "last_seen_at": "2026-04-26",
   "_generated": {
     "name": "832236fc",
@@ -27,5 +33,5 @@
     "endpoints": "0d745ead",
     "last_seen_at": "42382078"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

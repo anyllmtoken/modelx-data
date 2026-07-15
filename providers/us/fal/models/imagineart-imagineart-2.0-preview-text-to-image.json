@@ -14,10 +14,16 @@
     "reasoning": true
   },
   "modalities": {
-    "input": ["text"],
-    "output": ["image"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
   },
-  "endpoints": ["images"],
+  "endpoints": [
+    "images"
+  ],
   "last_seen_at": "2026-04-21",
   "_generated": {
     "name": "e82f0dba",
@@ -32,5 +38,5 @@
     "endpoints": "9a7c17cc",
     "last_seen_at": "5029e96d"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

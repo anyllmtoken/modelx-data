@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/ltx-video",
   "tagline": "Generate videos from prompts using LTX Video",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-06-22",
   "_generated": {
     "name": "862e0aae",
@@ -27,5 +33,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "1413cbcd"
   },
-  "last_updated": "2026-06-29"
+  "last_updated": "2026-07-15"
 }

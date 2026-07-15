@@ -11,8 +11,7 @@
   "tagline": "Convert your assets into lottie using Omnilottie.",
   "capabilities": {
     "vision": true,
-    "structured_output": true,
-    "json_mode": true
+    "structured_output": true
   },
   "last_seen_at": "2026-03-17",
   "_generated": {
@@ -23,8 +22,8 @@
     "model_type": "ddb0b7bc",
     "page_url": "6101c9a3",
     "tagline": "54e14a6f",
-    "capabilities": "42538baa",
+    "capabilities": "2c435f66",
     "last_seen_at": "56d4bd95"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

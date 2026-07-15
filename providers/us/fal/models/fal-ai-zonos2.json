@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/zonos2",
   "tagline": "Zonos2 is a text-to-speech model that clones a voice from a short sample and speaks naturally across many languages.",
   "modalities": {
-    "input": ["text"],
-    "output": ["audio"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
   },
-  "endpoints": ["audio_speech"],
+  "endpoints": [
+    "audio_speech"
+  ],
   "last_seen_at": "2026-07-01",
   "_generated": {
     "name": "16d8c3cf",
@@ -27,5 +33,5 @@
     "endpoints": "0d745ead",
     "last_seen_at": "97e5b4c6"
   },
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-07-15"
 }

@@ -10,8 +10,7 @@
   "page_url": "https://fal.run/fal-ai/ffmpeg-api/waveform",
   "tagline": "Get waveform data from audio files using FFmpeg API.",
   "capabilities": {
-    "structured_output": true,
-    "json_mode": true
+    "structured_output": true
   },
   "last_seen_at": "2026-04-21",
   "_generated": {
@@ -22,8 +21,8 @@
     "model_type": "ddb0b7bc",
     "page_url": "9569285e",
     "tagline": "c322c2c6",
-    "capabilities": "dbb5b7fe",
+    "capabilities": "c8033cf7",
     "last_seen_at": "5029e96d"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

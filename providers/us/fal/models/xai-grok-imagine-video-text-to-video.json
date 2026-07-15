@@ -11,10 +11,17 @@
   "page_url": "https://fal.run/xai/grok-imagine-video/text-to-video",
   "tagline": "Generate videos with audio from text using Grok Imagine Video.",
   "modalities": {
-    "input": ["text", "audio"],
-    "output": ["video"]
+    "input": [
+      "text",
+      "audio"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-04-26",
   "_generated": {
     "name": "5a3f9dd3",
@@ -29,5 +36,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "42382078"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

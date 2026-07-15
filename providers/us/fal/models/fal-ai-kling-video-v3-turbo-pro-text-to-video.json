@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/kling-video/v3/turbo/pro/text-to-video",
   "tagline": "Generate high quality 1080p videos using Kling's Turbo 3.0 model, with improved lipsync and multishot generation capabilities.",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-06-24",
   "_generated": {
     "name": "7965b9a1",
@@ -27,5 +33,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "b7ac61f6"
   },
-  "last_updated": "2026-06-29"
+  "last_updated": "2026-07-15"
 }

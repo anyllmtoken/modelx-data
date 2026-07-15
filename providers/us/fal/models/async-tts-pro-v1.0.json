@@ -11,10 +11,16 @@
   "page_url": "https://fal.run/async/tts-pro/v1.0",
   "tagline": "Generate professional-quality voiceovers in seconds with Async TTS Pro model text-based control over pauses, emphasis, and timing.",
   "modalities": {
-    "input": ["text"],
-    "output": ["audio"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
   },
-  "endpoints": ["audio_speech"],
+  "endpoints": [
+    "audio_speech"
+  ],
   "last_seen_at": "2026-07-01",
   "_generated": {
     "name": "26cc5382",
@@ -29,5 +35,5 @@
     "endpoints": "0d745ead",
     "last_seen_at": "97e5b4c6"
   },
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-07-15"
 }

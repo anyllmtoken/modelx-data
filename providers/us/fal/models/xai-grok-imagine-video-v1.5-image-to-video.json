@@ -14,10 +14,18 @@
     "vision": true
   },
   "modalities": {
-    "input": ["text", "image", "audio"],
-    "output": ["video"]
+    "input": [
+      "text",
+      "image",
+      "audio"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-06-02",
   "_generated": {
     "name": "96ee3ee6",
@@ -33,5 +41,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "61fd683f"
   },
-  "last_updated": "2026-06-03"
+  "last_updated": "2026-07-15"
 }

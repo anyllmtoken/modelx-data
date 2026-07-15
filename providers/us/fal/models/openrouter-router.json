@@ -12,8 +12,7 @@
   "capabilities": {
     "streaming": true,
     "reasoning": true,
-    "structured_output": true,
-    "json_mode": true
+    "structured_output": true
   },
   "last_seen_at": "2026-05-06",
   "_generated": {
@@ -24,8 +23,8 @@
     "model_type": "ddb0b7bc",
     "page_url": "ecd90c08",
     "tagline": "6868f7ba",
-    "capabilities": "ff5adcdd",
+    "capabilities": "8069e431",
     "last_seen_at": "ad37623a"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

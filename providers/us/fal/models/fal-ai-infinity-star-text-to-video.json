@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/infinity-star/text-to-video",
   "tagline": "InfinityStar’s unified 8B spacetime autoregressive engine to turn any text prompt into crisp 720p videos - 10× faster than diffusion models.",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-04-21",
   "_generated": {
     "name": "3d6df2d2",
@@ -27,5 +33,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "5029e96d"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

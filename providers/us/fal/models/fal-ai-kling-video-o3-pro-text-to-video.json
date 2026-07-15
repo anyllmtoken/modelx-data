@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/kling-video/o3/pro/text-to-video",
   "tagline": "Generate realistic videos using Kling O3 from Kling Team!",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-04-26",
   "_generated": {
     "name": "72d1e9ef",
@@ -27,5 +33,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "42382078"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

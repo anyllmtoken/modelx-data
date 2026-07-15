@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/kling-video/v2.1/master/text-to-video",
   "tagline": "Kling 2.1 Master: The premium endpoint for Kling 2.1, designed for top-tier text-to-video generation with unparalleled motion fluidity, cinematic visuals, and exceptional prompt precision.",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-04-26",
   "_generated": {
     "name": "fa7e8030",
@@ -27,5 +33,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "42382078"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

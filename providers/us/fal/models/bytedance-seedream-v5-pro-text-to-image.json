@@ -12,14 +12,19 @@
   "capabilities": {
     "vision": true,
     "reasoning": true,
-    "structured_output": true,
-    "json_mode": true
+    "structured_output": true
   },
   "modalities": {
-    "input": ["text"],
-    "output": ["image"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
   },
-  "endpoints": ["images"],
+  "endpoints": [
+    "images"
+  ],
   "last_seen_at": "2026-07-09",
   "_generated": {
     "name": "46da1a09",
@@ -29,10 +34,10 @@
     "model_type": "db8857fe",
     "page_url": "c413d2c4",
     "tagline": "7bfd3e6d",
-    "capabilities": "d9a4fb45",
+    "capabilities": "608cdb4f",
     "modalities": "814867b9",
     "endpoints": "9a7c17cc",
     "last_seen_at": "a6aab5b2"
   },
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-07-15"
 }

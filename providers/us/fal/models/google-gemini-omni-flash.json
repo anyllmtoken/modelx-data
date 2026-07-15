@@ -10,10 +10,17 @@
   "page_url": "https://fal.run/google/gemini-omni-flash",
   "tagline": "Creates video with synchronized audio from text input.",
   "modalities": {
-    "input": ["text", "audio"],
-    "output": ["video"]
+    "input": [
+      "text",
+      "audio"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-07-09",
   "_generated": {
     "name": "072afc72",
@@ -27,5 +34,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "a6aab5b2"
   },
-  "last_updated": "2026-07-09"
+  "last_updated": "2026-07-15"
 }

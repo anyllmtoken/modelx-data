@@ -10,10 +10,17 @@
   "page_url": "https://fal.run/fal-ai/pixverse/c1/text-to-video",
   "tagline": "Generate film-grade videos from text prompts with native audio, up to 1080p and 15 seconds, using PixVerse C1.",
   "modalities": {
-    "input": ["text", "audio"],
-    "output": ["video"]
+    "input": [
+      "text",
+      "audio"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-06-17",
   "_generated": {
     "name": "da53ef87",
@@ -27,5 +34,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "e050aed5"
   },
-  "last_updated": "2026-06-18"
+  "last_updated": "2026-07-15"
 }

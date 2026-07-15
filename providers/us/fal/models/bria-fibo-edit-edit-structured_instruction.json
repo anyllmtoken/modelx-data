@@ -10,8 +10,7 @@
   "page_url": "https://fal.run/bria/fibo-edit/edit/structured_instruction",
   "tagline": "Structured Instructions Generation endpoint for Fibo Edit, Bria's newest editing model.",
   "capabilities": {
-    "structured_output": true,
-    "json_mode": true
+    "structured_output": true
   },
   "last_seen_at": "2026-01-26",
   "_generated": {
@@ -22,8 +21,8 @@
     "model_type": "ddb0b7bc",
     "page_url": "992dbdf4",
     "tagline": "e85b679f",
-    "capabilities": "dbb5b7fe",
+    "capabilities": "c8033cf7",
     "last_seen_at": "5c252aee"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

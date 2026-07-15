@@ -13,10 +13,16 @@
     "streaming": true
   },
   "modalities": {
-    "input": ["audio"],
-    "output": ["text"]
+    "input": [
+      "audio"
+    ],
+    "output": [
+      "text"
+    ]
   },
-  "endpoints": ["audio_transcriptions"],
+  "endpoints": [
+    "audio_transcriptions"
+  ],
   "last_seen_at": "2026-01-26",
   "_generated": {
     "name": "060261e7",
@@ -31,5 +37,5 @@
     "endpoints": "30248ee0",
     "last_seen_at": "5c252aee"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

@@ -11,14 +11,20 @@
   "tagline": "Transforms images into distinct artistic styles using curated, production-grade style mappings",
   "capabilities": {
     "vision": true,
-    "structured_output": true,
-    "json_mode": true
+    "structured_output": true
   },
   "modalities": {
-    "input": ["text", "image"],
-    "output": ["image"]
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
   },
-  "endpoints": ["images"],
+  "endpoints": [
+    "images"
+  ],
   "last_seen_at": "2026-05-20",
   "_generated": {
     "name": "3d2fdb54",
@@ -28,10 +34,10 @@
     "model_type": "db8857fe",
     "page_url": "f0f2557f",
     "tagline": "966f0420",
-    "capabilities": "42538baa",
+    "capabilities": "2c435f66",
     "modalities": "bbf9b8bb",
     "endpoints": "9a7c17cc",
     "last_seen_at": "7a81e6e3"
   },
-  "last_updated": "2026-06-03"
+  "last_updated": "2026-07-15"
 }

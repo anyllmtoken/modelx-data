@@ -11,14 +11,19 @@
   "tagline": "Recraft V4.1 Vector turns prompts into fully editable SVGs with structured layers and clean geometry.",
   "capabilities": {
     "vision": true,
-    "structured_output": true,
-    "json_mode": true
+    "structured_output": true
   },
   "modalities": {
-    "input": ["text"],
-    "output": ["image"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
   },
-  "endpoints": ["images"],
+  "endpoints": [
+    "images"
+  ],
   "last_seen_at": "2026-07-01",
   "_generated": {
     "name": "3bb0e549",
@@ -28,10 +33,10 @@
     "model_type": "db8857fe",
     "page_url": "4384c8ef",
     "tagline": "eeec99ce",
-    "capabilities": "42538baa",
+    "capabilities": "2c435f66",
     "modalities": "814867b9",
     "endpoints": "9a7c17cc",
     "last_seen_at": "97e5b4c6"
   },
-  "last_updated": "2026-07-08"
+  "last_updated": "2026-07-15"
 }

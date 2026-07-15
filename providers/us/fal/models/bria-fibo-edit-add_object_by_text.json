@@ -11,14 +11,20 @@
   "tagline": "Precise, context-aware insertion of new objects into an existing image using simple, structured spatial commands.",
   "capabilities": {
     "vision": true,
-    "structured_output": true,
-    "json_mode": true
+    "structured_output": true
   },
   "modalities": {
-    "input": ["text", "image"],
-    "output": ["image"]
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
   },
-  "endpoints": ["images"],
+  "endpoints": [
+    "images"
+  ],
   "last_seen_at": "2026-05-20",
   "_generated": {
     "name": "3f8920f9",
@@ -28,10 +34,10 @@
     "model_type": "db8857fe",
     "page_url": "36243792",
     "tagline": "b9907d3e",
-    "capabilities": "42538baa",
+    "capabilities": "2c435f66",
     "modalities": "bbf9b8bb",
     "endpoints": "9a7c17cc",
     "last_seen_at": "7a81e6e3"
   },
-  "last_updated": "2026-06-03"
+  "last_updated": "2026-07-15"
 }

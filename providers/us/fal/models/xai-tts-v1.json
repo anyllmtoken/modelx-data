@@ -14,10 +14,16 @@
     "streaming": true
   },
   "modalities": {
-    "input": ["text"],
-    "output": ["audio"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
   },
-  "endpoints": ["audio_speech"],
+  "endpoints": [
+    "audio_speech"
+  ],
   "last_seen_at": "2026-06-02",
   "_generated": {
     "name": "8bdfdfe5",
@@ -33,5 +39,5 @@
     "endpoints": "0d745ead",
     "last_seen_at": "61fd683f"
   },
-  "last_updated": "2026-06-03"
+  "last_updated": "2026-07-15"
 }

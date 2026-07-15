@@ -10,10 +10,16 @@
   "page_url": "https://fal.run/fal-ai/pixverse/v3.5/text-to-video/fast",
   "tagline": "Generate high quality video clips quickly from text prompts using PixVerse v3.5 Fast",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-06-17",
   "_generated": {
     "name": "ead8c2e5",
@@ -27,5 +33,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "e050aed5"
   },
-  "last_updated": "2026-06-18"
+  "last_updated": "2026-07-15"
 }

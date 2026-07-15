@@ -11,10 +11,16 @@
   "page_url": "https://fal.run/fal-ai/minimax/voice-clone",
   "tagline": "Clone a voice from a sample audio and generate speech from text prompts using the MiniMax model, which leverages advanced AI techniques to create high-quality text-to-speech.",
   "modalities": {
-    "input": ["text"],
-    "output": ["audio"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
   },
-  "endpoints": ["audio_speech"],
+  "endpoints": [
+    "audio_speech"
+  ],
   "last_seen_at": "2026-04-21",
   "_generated": {
     "name": "06e5caed",
@@ -29,5 +35,5 @@
     "endpoints": "0d745ead",
     "last_seen_at": "5029e96d"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }

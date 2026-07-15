@@ -10,10 +10,17 @@
   "page_url": "https://fal.run/fal-ai/kling-video/lipsync/audio-to-video",
   "tagline": "Kling LipSync is an audio-to-video model that generates realistic lip movements from audio input.",
   "modalities": {
-    "input": ["text", "audio"],
-    "output": ["video"]
+    "input": [
+      "text",
+      "audio"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "last_seen_at": "2026-04-26",
   "_generated": {
     "name": "43df4947",
@@ -27,5 +34,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "42382078"
   },
-  "last_updated": "2026-05-11"
+  "last_updated": "2026-07-15"
 }
