@@ -1,0 +1,31 @@
+{
+  "id": "wan2.2-t2i-plus",
+  "name": "wan2.2-t2i-plus",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "wan2.2",
+  "model_type": "image",
+  "license": "proprietary",
+  "page_url": "https://help.aliyun.com/zh/model-studio/image-model.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "1348d1ee",
+    "family": "222d75c9",
+    "model_type": "db8857fe",
+    "license": "9186c466",
+    "page_url": "926e9833",
+    "capabilities": "0fa77dc6",
+    "modalities": "814867b9"
+  }
+}

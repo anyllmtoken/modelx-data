@@ -1,0 +1,31 @@
+{
+  "id": "wan2.5-i2i-preview",
+  "name": "wan2.5-i2i-preview",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "wan2.5",
+  "model_type": "video",
+  "license": "proprietary",
+  "page_url": "https://help.aliyun.com/zh/model-studio/image-model.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "29f09a96",
+    "family": "fc63f06b",
+    "model_type": "4d1b75ca",
+    "license": "9186c466",
+    "page_url": "926e9833",
+    "capabilities": "0fa77dc6",
+    "modalities": "94e5e9ab"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "qwen-audio-3.0-tts-plus",
+  "name": "qwen-audio-3.0-tts-plus",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "tts",
+  "license": "apache-2.0",
+  "page_url": "https://help.aliyun.com/zh/model-studio/tts-model.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
+  },
+  "pricing": {
+    "cosy_tts_number": 1.4
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "f328192c",
+    "family": "a3af76f3",
+    "model_type": "4e16a2cf",
+    "license": "60245731",
+    "page_url": "ce096b80",
+    "capabilities": "0fa77dc6",
+    "modalities": "601e776d",
+    "pricing": "80ca6d1a"
+  }
+}

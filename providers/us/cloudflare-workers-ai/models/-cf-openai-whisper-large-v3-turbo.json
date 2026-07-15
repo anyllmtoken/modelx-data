@@ -1,0 +1,22 @@
+{
+  "id": "@cf/openai/whisper-large-v3-turbo",
+  "name": "whisper-large-v3-turbo",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "whisper",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "ae9d9d9e",
+    "family": "7fbc43e3",
+    "capabilities": "0fa77dc6",
+    "model_type": "5e12d29a",
+    "status": "379ac110",
+    "page_url": "678e55be"
+  },
+  "model_type": "transcription",
+  "status": "active",
+  "page_url": "https://developers.cloudflare.com/workers-ai/models/#whisper-large-v3-turbo"
+}

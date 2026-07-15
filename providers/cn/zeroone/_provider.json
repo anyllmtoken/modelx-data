@@ -1,0 +1,23 @@
+{
+  "id": "zeroone",
+  "name": "零一万物",
+  "aliases": [
+    "lingyiwanwu",
+    "yi",
+    "01ai"
+  ],
+  "region": "CN",
+  "headquarters": "北京市, 中国",
+  "founded": 2023,
+  "url": "https://www.lingyiwanwu.com",
+  "api_url": "https://api.lingyiwanwu.com/v1",
+  "docs_url": "https://platform.lingyiwanwu.com/docs",
+  "pricing_url": "https://platform.lingyiwanwu.com/docs",
+  "description": "零一万物由李开复博士创立，构建 Yi 系列大模型，提供高性能文本与视觉模型 API。",
+  "type": "direct",
+  "openai_compatible": true,
+  "free_tier": true,
+  "github_url": "https://github.com/01-ai",
+  "models_url": "https://platform.lingyiwanwu.com/docs",
+  "pricing_currency": "CNY"
+}

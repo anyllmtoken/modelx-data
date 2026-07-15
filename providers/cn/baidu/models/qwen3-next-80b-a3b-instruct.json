@@ -1,0 +1,34 @@
+{
+  "id": "qwen3-next-80b-a3b-instruct",
+  "name": "Qwen3-Next-80B",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1,
+    "output": 4
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "d7f3939d",
+    "family": "48c385a0",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "dcb30141"
+  }
+}

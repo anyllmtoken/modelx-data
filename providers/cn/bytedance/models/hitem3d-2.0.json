@@ -1,0 +1,32 @@
+{
+  "id": "hitem3d-2.0",
+  "name": "hitem3d-2.0",
+  "created_by": "bytedance",
+  "source": "official",
+  "family": "doubao",
+  "model_type": "other",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "pricing": {
+    "input": 5.8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "67a51c47",
+    "family": "fca2122f",
+    "model_type": "ddb0b7bc",
+    "capabilities": "0fa77dc6",
+    "modalities": "bbf9b8bb",
+    "pricing": "50ec4365"
+  }
+}

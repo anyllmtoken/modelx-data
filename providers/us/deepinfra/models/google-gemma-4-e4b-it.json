@@ -1,0 +1,52 @@
+{
+  "id": "google/gemma-4-E4B-it",
+  "name": "gemma-4-E4B-it",
+  "created_by": "google",
+  "source": "official",
+  "family": "gemma-4",
+  "status": "active",
+  "context_window": 131072,
+  "model_type": "chat",
+  "license": "gemma",
+  "capabilities": {
+    "tool_call": true,
+    "reasoning": true,
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.02,
+    "output": 0.1
+  },
+  "endpoints": [
+    "chat_completions"
+  ],
+  "tools": [
+    "function_calling"
+  ],
+  "reasoning_tokens": true,
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "3db5bdd4",
+    "family": "811b6704",
+    "status": "379ac110",
+    "context_window": "f7de594e",
+    "model_type": "d669f408",
+    "license": "3fe02b16",
+    "capabilities": "3d69c795",
+    "modalities": "68e53d93",
+    "pricing": "d4358b27",
+    "endpoints": "d8fa1080",
+    "tools": "f0c1dc7e",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "b326b506"
+  }
+}

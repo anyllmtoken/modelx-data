@@ -1,0 +1,32 @@
+{
+  "id": "qwen-qwen3-vl-32b-thinking",
+  "name": "Qwen/Qwen3-VL-32B-Thinking",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1,
+    "output": 10
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "f0d322b2",
+    "family": "a3af76f3",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "9d57b5d1"
+  }
+}

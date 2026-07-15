@@ -1,0 +1,27 @@
+{
+  "id": "google/gemma-3n-e4b-it",
+  "name": "gemma-3n-e4b-it",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gemma-3n",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "d27fb40e",
+    "family": "7d6f36e8",
+    "capabilities": "0fa77dc6",
+    "model_type": "d669f408",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

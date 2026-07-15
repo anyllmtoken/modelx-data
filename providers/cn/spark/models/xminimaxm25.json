@@ -1,0 +1,36 @@
+{
+  "id": "xminimaxm25",
+  "name": "MiniMax-M2.5",
+  "created_by": "minimax",
+  "source": "official",
+  "family": "spark",
+  "context_window": 128000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.26,
+    "output": 5.04
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "3134105b",
+    "family": "92678943",
+    "context_window": "34434798",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "f5910d0a"
+  }
+}

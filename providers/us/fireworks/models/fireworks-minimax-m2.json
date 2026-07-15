@@ -1,0 +1,37 @@
+{
+  "id": "fireworks/minimax-m2",
+  "name": "minimax-m2",
+  "created_by": "minimax",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "context_window": 196000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "b162f864",
+    "context_window": "94593300",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "family": "c85916f0",
+    "model_type": "d669f408",
+    "page_url": "5c42ace4",
+    "modalities": "68e53d93"
+  },
+  "family": "minimax",
+  "model_type": "chat",
+  "page_url": "https://fireworks.ai/models/fireworks/minimax-m2",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

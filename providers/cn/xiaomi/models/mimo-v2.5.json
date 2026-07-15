@@ -1,0 +1,47 @@
+{
+  "id": "mimo-v2.5",
+  "name": "MiMo-v2.5",
+  "created_by": "xiaomi",
+  "source": "official",
+  "family": "mimo",
+  "status": "active",
+  "context_window": 1000000,
+  "max_output_tokens": 128000,
+  "model_type": "chat",
+  "reasoning_tokens": true,
+  "page_url": "https://platform.xiaomimimo.com",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "tools": [
+    "function_calling"
+  ],
+  "_generated": {
+    "name": "5dd7473d",
+    "family": "1a23786e",
+    "status": "379ac110",
+    "context_window": "8155bc54",
+    "max_output_tokens": "34434798",
+    "model_type": "d669f408",
+    "reasoning_tokens": "b326b506",
+    "page_url": "af488f1e",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "tools": "f0c1dc7e",
+    "pricing": "4ff1a179"
+  },
+  "last_updated": "2026-07-15",
+  "pricing": {
+    "input": 1,
+    "output": 2,
+    "cached_input": 0.02
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "skywork-coder-7b",
+  "name": "Skywork-Coder-7B",
+  "created_by": "skywork",
+  "source": "official",
+  "family": "skywork",
+  "description": "代码生成大模型",
+  "context_window": 16384,
+  "model_type": "code",
+  "license": "skywork-1.0",
+  "parameters": 7,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "ae6c5b9d",
+    "family": "6f9bd721",
+    "description": "95062f8a",
+    "context_window": "c76fe1d8",
+    "model_type": "b6cc3ff4",
+    "license": "71d91ed0",
+    "parameters": "8f14e45f",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

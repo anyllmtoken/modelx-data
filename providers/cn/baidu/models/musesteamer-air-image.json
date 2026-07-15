@@ -1,0 +1,32 @@
+{
+  "id": "musesteamer-air-image",
+  "name": "MuseSteamer-Air-Image",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "baidu",
+  "model_type": "image",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "pricing": {
+    "input": 0.05
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "c8a510e4",
+    "family": "5c61f249",
+    "model_type": "db8857fe",
+    "capabilities": "0fa77dc6",
+    "modalities": "bbf9b8bb",
+    "pricing": "0f2b1541"
+  }
+}

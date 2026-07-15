@@ -1,0 +1,32 @@
+{
+  "id": "doubao-seed-translation",
+  "name": "doubao-seed-translation",
+  "created_by": "bytedance",
+  "source": "official",
+  "family": "doubao",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.2,
+    "output": 3.6
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "97049389",
+    "family": "fca2122f",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "3720520b"
+  }
+}

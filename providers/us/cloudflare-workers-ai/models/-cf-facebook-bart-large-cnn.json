@@ -1,0 +1,29 @@
+{
+  "id": "@cf/facebook/bart-large-cnn",
+  "name": "bart-large-cnn",
+  "created_by": "meta",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "517f3a02",
+    "capabilities": "0fa77dc6",
+    "status": "379ac110",
+    "model_type": "d669f408",
+    "page_url": "8bb28f35",
+    "modalities": "68e53d93"
+  },
+  "status": "active",
+  "model_type": "chat",
+  "page_url": "https://developers.cloudflare.com/workers-ai/models/#bart-large-cnn",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "google/gemini-embedding-001",
+  "name": "gemini-embedding-001",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "model_type": "embed",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.15,
+    "output": 0
+  },
+  "_generated": {
+    "name": "b26b48b2",
+    "model_type": "764cb3de",
+    "capabilities": "0fa77dc6",
+    "pricing": "f67bf84f",
+    "family": "c3d96d58"
+  },
+  "family": "gemini-embedding"
+}

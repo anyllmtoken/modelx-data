@@ -1,0 +1,22 @@
+{
+  "id": "xiaomi",
+  "name": "Xiaomi MiMo",
+  "region": "CN",
+  "headquarters": "北京市, 北京市",
+  "founded": 2010,
+  "url": "https://mimo.xiaomi.com/zh",
+  "api_url": "https://api.xiaomimimo.com/v1",
+  "docs_url": "https://mimo.mi.com/docs/zh-CN/news/latest/",
+  "pricing_url": "https://mimo.mi.com/docs/zh-CN/price/pay-as-you-go",
+  "description": "小米 MiMo 是小米 AI 实验室，构建开源推理和智能体模型。",
+  "type": "direct",
+  "playground_url": "https://mimo.mi.com/zh-CN",
+  "openai_compatible": true,
+  "free_tier": false,
+  "github_url": "https://github.com/XiaomiMiMo",
+  "models_url": "https://mimo.mi.com/docs/zh-CN/models",
+  "twitter_url": "https://x.com/Xiaomi",
+  "blog_url": "https://mimo.xiaomi.com/zh/#blog",
+  "terms_url": "https://mimo.mi.com/docs/quick-start/terms/user-agreement",
+  "pricing_currency": "CNY"
+}

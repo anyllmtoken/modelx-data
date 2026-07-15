@@ -1,0 +1,58 @@
+{
+  "id": "mistral-medium-3@vertex",
+  "name": "Mistral Medium 3",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "mistral-medium",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.4,
+    "output": 2,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": [
+          "Input",
+          "Cached input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              0.4,
+              null,
+              2
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_generated": {
+    "name": "e7fceec6",
+    "family": "a57f1b52",
+    "capabilities": "48995a4e",
+    "modalities": "68e53d93",
+    "pricing": "ff7c2202",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "tools": [
+    "function_calling"
+  ]
+}

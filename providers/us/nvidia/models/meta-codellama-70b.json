@@ -1,0 +1,29 @@
+{
+  "id": "meta/codellama-70b",
+  "name": "codellama-70b",
+  "created_by": "meta",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "e70b8c7f",
+    "capabilities": "0fa77dc6",
+    "family": "cf323e30",
+    "model_type": "b6cc3ff4",
+    "parameters": "7cbbc409",
+    "modalities": "68e53d93"
+  },
+  "family": "codellama",
+  "model_type": "code",
+  "parameters": 70,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

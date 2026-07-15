@@ -1,0 +1,16 @@
+{
+  "id": "bigcode/starcoder2-15b",
+  "name": "starcoder2-15b",
+  "created_by": "bigcode",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "f02cfbce",
+    "capabilities": "0fa77dc6",
+    "parameters": "9bf31c7f"
+  },
+  "parameters": 15
+}

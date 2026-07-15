@@ -1,0 +1,36 @@
+{
+  "id": "z-ai/glm-5.2-internal",
+  "name": "GLM-5.2 (Internal)",
+  "created_by": "zai",
+  "source": "official",
+  "family": "glm-5.2",
+  "context_window": 500000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 8,
+    "output": 28
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "e091730c",
+    "family": "8e7b3ca0",
+    "context_window": "c9077732",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "1ee09a12"
+  }
+}

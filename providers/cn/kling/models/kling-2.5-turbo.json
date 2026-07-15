@@ -1,0 +1,32 @@
+{
+  "id": "kling-2.5-turbo",
+  "name": "Kling 2.5 Turbo",
+  "created_by": "kling",
+  "source": "official",
+  "family": "kling",
+  "model_type": "video",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "video"
+    ]
+  },
+  "pricing": {
+    "input": 0.3
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "c7ab2a7b",
+    "family": "3bb2954c",
+    "model_type": "4d1b75ca",
+    "capabilities": "0fa77dc6",
+    "modalities": "85fd0565",
+    "pricing": "c2423732"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "stepfun",
+  "name": "StepFun",
+  "region": "CN",
+  "headquarters": "上海市, 上海市",
+  "founded": 2023,
+  "url": "https://www.stepfun.com",
+  "api_url": "https://api.stepfun.com/v1",
+  "docs_url": "https://platform.stepfun.com/docs/zh",
+  "pricing_url": "https://platform.stepfun.com/docs/zh/guides/pricing/details",
+  "description": "阶跃星辰是由前微软工程师创立的中国 AI 初创公司，构建 Step 系列基础、推理、视觉和音频模型。",
+  "type": "direct",
+  "openai_compatible": true,
+  "free_tier": false,
+  "github_url": "https://github.com/stepfun-ai",
+  "models_url": "https://platform.stepfun.com/docs/zh/guides/models/overview",
+  "blog_url": "https://www.stepfun.com/research",
+  "pricing_currency": "CNY"
+}

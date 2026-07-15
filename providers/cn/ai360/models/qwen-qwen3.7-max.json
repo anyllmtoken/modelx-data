@@ -1,0 +1,36 @@
+{
+  "id": "qwen/qwen3.7-max",
+  "name": "Qwen3.7-Max",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3.7",
+  "context_window": 991000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 8.4,
+    "output": 25.2
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "3fb8f7e1",
+    "family": "d71bf7f7",
+    "context_window": "a8922d3e",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "6d77de4b"
+  }
+}

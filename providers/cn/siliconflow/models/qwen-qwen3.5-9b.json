@@ -1,0 +1,32 @@
+{
+  "id": "qwen-qwen3.5-9b",
+  "name": "Qwen/Qwen3.5-9B",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.5,
+    "output": 12
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "3e83d12c",
+    "family": "a3af76f3",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "a847339a"
+  }
+}

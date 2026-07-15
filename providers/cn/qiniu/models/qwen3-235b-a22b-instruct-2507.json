@@ -1,0 +1,36 @@
+{
+  "id": "qwen3-235b-a22b-instruct-2507",
+  "name": "Qwen3 235b A22B Instruct 2507",
+  "created_by": "aliyun",
+  "source": "official",
+  "family": "qwen3",
+  "context_window": 262144,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "69eb9441",
+    "family": "48c385a0",
+    "context_window": "4a1d32eb",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "9d7f5a51"
+  }
+}

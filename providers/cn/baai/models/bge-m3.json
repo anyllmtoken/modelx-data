@@ -1,0 +1,35 @@
+{
+  "id": "bge-m3",
+  "name": "BGE-M3",
+  "created_by": "baai",
+  "source": "official",
+  "family": "baai",
+  "description": "多语言向量模型，支持 100+ 语言",
+  "context_window": 8192,
+  "model_type": "embed",
+  "license": "apache-2.0",
+  "parameters": 0.57,
+  "capabilities": {},
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "18f9f208",
+    "family": "e3ece447",
+    "description": "b8599290",
+    "context_window": "77441296",
+    "model_type": "764cb3de",
+    "license": "60245731",
+    "parameters": "e7bf7d0f",
+    "capabilities": "99914b93",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

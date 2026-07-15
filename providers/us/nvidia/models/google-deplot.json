@@ -1,0 +1,14 @@
+{
+  "id": "google/deplot",
+  "name": "deplot",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "49795c67",
+    "capabilities": "0fa77dc6"
+  }
+}

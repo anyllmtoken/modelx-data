@@ -1,0 +1,106 @@
+{
+  "id": "gpt-4o-mini-2024-07-18",
+  "name": "GPT-4o mini (18)",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-4o",
+  "description": "GPT-4o mini (“o” for “omni”) is a fast, affordable small model for focused tasks.",
+  "status": "active",
+  "knowledge_cutoff": "2023-10",
+  "context_window": 128000,
+  "max_output_tokens": 16384,
+  "model_type": "chat",
+  "alias": "gpt-4o-mini",
+  "performance": 2,
+  "speed": 4,
+  "tagline": "GPT-4o mini (“o” for “omni”) is a fast, affordable small model for focused tasks.",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "structured_output": true,
+    "json_mode": false,
+    "fine_tuning": true,
+    "reasoning": false
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "tiers": [
+      {
+        "label": "Fine-tuning",
+        "unit": "",
+        "columns": [
+          "Training",
+          "Input",
+          "Cached input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              3,
+              0.3,
+              0.15,
+              1.2
+            ]
+          },
+          {
+            "label": "Batch",
+            "values": [
+              null,
+              0.15,
+              null,
+              0.6
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "endpoints": [
+    "chat_completions",
+    "responses",
+    "assistants",
+    "batch",
+    "fine_tuning"
+  ],
+  "_generated": {
+    "name": "6a042e61",
+    "family": "15249632",
+    "description": "3038ef61",
+    "status": "379ac110",
+    "knowledge_cutoff": "ffb42dbe",
+    "context_window": "34434798",
+    "max_output_tokens": "c76fe1d8",
+    "model_type": "d669f408",
+    "performance": "c81e728d",
+    "speed": "a87ff679",
+    "tagline": "3038ef61",
+    "capabilities": "6d42d1ad",
+    "modalities": "6399757e",
+    "pricing": "fc629800",
+    "endpoints": "ebc03c48",
+    "license": "9186c466",
+    "release_date": "23482102",
+    "page_url": "49475bc5",
+    "open_weight": "68934a3e",
+    "tools": "f0c1dc7e"
+  },
+  "license": "proprietary",
+  "release_date": "2024-07-18",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-4o-mini?snapshot=gpt-4o-mini-2024-07-18",
+  "open_weight": false,
+  "tools": [
+    "function_calling"
+  ]
+}

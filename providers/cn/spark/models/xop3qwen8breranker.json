@@ -1,0 +1,34 @@
+{
+  "id": "xop3qwen8breranker",
+  "name": "Qwen3-Reranker-8B",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "spark",
+  "context_window": 32000,
+  "model_type": "rerank",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "29ad17ec",
+    "family": "92678943",
+    "context_window": "10e4d788",
+    "model_type": "477930e6",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "9a7a9781"
+  }
+}

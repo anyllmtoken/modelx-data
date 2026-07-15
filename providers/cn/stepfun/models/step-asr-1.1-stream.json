@@ -1,0 +1,43 @@
+{
+  "id": "step-asr-1.1-stream",
+  "name": "Step ASR 1.1 Stream",
+  "created_by": "stepfun",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "stepfun",
+  "description": "Streaming variant of Step ASR 1.1 for real-time transcription.",
+  "status": "active",
+  "model_type": "transcription",
+  "license": "proprietary",
+  "open_weight": false,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "audio"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "endpoints": [
+    "audio_transcriptions"
+  ],
+  "pricing": {
+    "input": 2.6
+  },
+  "_generated": {
+    "name": "da6f9643",
+    "family": "ab48b9e2",
+    "description": "eb2c8a2d",
+    "status": "379ac110",
+    "model_type": "5e12d29a",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "capabilities": "0fa77dc6",
+    "modalities": "b8e84832",
+    "endpoints": "30248ee0",
+    "pricing": "b0019807"
+  }
+}

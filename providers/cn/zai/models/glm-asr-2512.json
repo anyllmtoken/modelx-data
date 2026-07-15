@@ -1,0 +1,45 @@
+{
+  "id": "glm-asr-2512",
+  "name": "GLM-ASR-2512",
+  "created_by": "zai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "glm",
+  "model_type": "chat",
+  "license": "mit",
+  "alias": "glm-asr",
+  "page_url": "https://docs.z.ai/guides/audio/glm-asr-2512",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "_generated": {
+    "name": "d5e3edba",
+    "family": "cb6bfc11",
+    "model_type": "d669f408",
+    "license": "3c4c3ba5",
+    "page_url": "dfb2fa8b",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506",
+    "context_window": "cfcd2084",
+    "max_output_tokens": "cfcd2084",
+    "capabilities": "1d6c1abb",
+    "pricing": "0f0fe224"
+  },
+  "context_window": 0,
+  "max_output_tokens": 0,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "pricing": {
+    "input": 16,
+    "output": 16
+  }
+}

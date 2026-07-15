@@ -1,0 +1,32 @@
+{
+  "id": "qwen-qwen3-omni-30b-a3b-thinking",
+  "name": "Qwen/Qwen3-Omni-30B-A3B-Thinking",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.7,
+    "output": 2.8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "3797ed16",
+    "family": "a3af76f3",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "0231c467"
+  }
+}

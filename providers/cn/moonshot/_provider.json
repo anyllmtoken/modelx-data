@@ -1,0 +1,20 @@
+{
+  "id": "moonshot",
+  "name": "Moonshot AI (Kimi)",
+  "region": "CN",
+  "headquarters": "北京市, 北京市",
+  "founded": 2023,
+  "url": "https://kimi.moonshot.cn",
+  "api_url": "https://api.moonshot.cn/v1",
+  "docs_url": "https://platform.kimi.com/docs",
+  "pricing_url": "https://platform.kimi.com/docs/pricing/chat",
+  "description": "月之暗面（Moonshot AI）是中国 AI 公司，构建长上下文 AI 助手 Kimi。",
+  "type": "direct",
+  "openai_compatible": true,
+  "free_tier": false,
+  "twitter_url": "https://x.com/Kimi_Moonshot",
+  "discord_url": "https://discord.com/invite/TYU2fdJykW",
+  "terms_url": "https://platform.kimi.com/docs/agreement/modeluse",
+  "support_url": "https://platform.kimi.com/docs/api/join-the-community",
+  "pricing_currency": "CNY"
+}

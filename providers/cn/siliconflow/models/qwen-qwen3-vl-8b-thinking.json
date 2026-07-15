@@ -1,0 +1,32 @@
+{
+  "id": "qwen-qwen3-vl-8b-thinking",
+  "name": "Qwen/Qwen3-VL-8B-Thinking",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.5,
+    "output": 5
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "240936d7",
+    "family": "a3af76f3",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "9f05162c"
+  }
+}

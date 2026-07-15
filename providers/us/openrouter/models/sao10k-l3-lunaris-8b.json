@@ -1,0 +1,40 @@
+{
+  "id": "sao10k/l3-lunaris-8b",
+  "name": "Sao10K: Llama 3 8B Lunaris",
+  "created_by": "sao10k",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "description": "Lunaris 8B is a versatile generalist and roleplaying model based on Llama 3.",
+  "context_window": 8192,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "structured_output": true
+  },
+  "pricing": {
+    "input": 0.04,
+    "output": 0.05
+  },
+  "_generated": {
+    "name": "e7b7a43f",
+    "description": "4f2e5d92",
+    "context_window": "77441296",
+    "modalities": "68e53d93",
+    "capabilities": "c8033cf7",
+    "pricing": "20896247",
+    "parameters": "c9f0f895",
+    "release_date": "5ca6a03a",
+    "tagline": "4f2e5d92",
+    "max_output_tokens": "c76fe1d8"
+  },
+  "parameters": 8,
+  "release_date": "2024-08-13",
+  "tagline": "Lunaris 8B is a versatile generalist and roleplaying model based on Llama 3.",
+  "max_output_tokens": 16384
+}

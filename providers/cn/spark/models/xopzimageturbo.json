@@ -1,0 +1,36 @@
+{
+  "id": "xopzimageturbo",
+  "name": "Z-Image-Turbo",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "spark",
+  "context_window": 512,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "a1d0d687",
+    "family": "92678943",
+    "context_window": "10a7cdd9",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "9a7a9781"
+  }
+}

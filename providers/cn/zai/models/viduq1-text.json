@@ -1,0 +1,44 @@
+{
+  "id": "viduq1-text",
+  "name": "VIDUQ1-TEXT",
+  "created_by": "zai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "license": "mit",
+  "page_url": "https://docs.z.ai/guides/video/vidu-q1",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "_generated": {
+    "name": "ffa9cda3",
+    "license": "3c4c3ba5",
+    "page_url": "1c40ab01",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506",
+    "description": "a02b8280",
+    "tagline": "a195f0a6",
+    "family": "cb6bfc11",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "pricing": "a1a73567"
+  },
+  "description": "Vidu Q1 is the next-generation video generation model from Vidu, designed for high-quality video creation. It consistently outputs 5-second, 24-frame, 1080P video clips. Through advanced optimization of visual clarity, Vidu Q1 delivers significantly enhanced image quality with notable improvements in issues such as hand distortion and frame jitter.",
+  "tagline": "Vidu Q1 is the next-generation video generation model from Vidu, designed for high-quality video creation.",
+  "family": "glm",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "pricing": {
+    "input": 2.5,
+    "output": 0
+  }
+}

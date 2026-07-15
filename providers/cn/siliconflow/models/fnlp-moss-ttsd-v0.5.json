@@ -1,0 +1,32 @@
+{
+  "id": "fnlp-moss-ttsd-v0.5",
+  "name": "fnlp/MOSS-TTSD-v0.5",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "siliconflow",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0,
+    "output": 50
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "dd663e6e",
+    "family": "204baa33",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "5ab047ff"
+  }
+}

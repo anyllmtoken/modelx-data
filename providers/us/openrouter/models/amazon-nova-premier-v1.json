@@ -1,0 +1,46 @@
+{
+  "id": "amazon/nova-premier-v1",
+  "name": "Amazon: Nova Premier 1.0",
+  "created_by": "amazon",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "description": "Amazon Nova Premier is the most capable of Amazon’s multimodal models for complex reasoning tasks and for use as the best teacher for distilling custom models.",
+  "context_window": 1000000,
+  "max_output_tokens": 32000,
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 2.5,
+    "output": 12.5,
+    "cached_input": 0.625
+  },
+  "_generated": {
+    "name": "37d5a6b8",
+    "description": "998c36c3",
+    "context_window": "8155bc54",
+    "max_output_tokens": "10e4d788",
+    "modalities": "6399757e",
+    "capabilities": "ce9e2425",
+    "pricing": "aa93cace",
+    "model_type": "d669f408",
+    "release_date": "2bddea11",
+    "tagline": "998c36c3",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "release_date": "2025-10-31",
+  "tagline": "Amazon Nova Premier is the most capable of Amazon’s multimodal models for complex reasoning tasks and for use as the best teacher for distilling custom models.",
+  "tools": [
+    "function_calling"
+  ]
+}

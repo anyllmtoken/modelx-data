@@ -1,0 +1,29 @@
+{
+  "id": "cosyvoice-v3.5-plus",
+  "name": "cosyvoice-v3.5-plus",
+  "created_by": "qwen",
+  "source": "official",
+  "model_type": "chat",
+  "license": "proprietary",
+  "page_url": "https://help.aliyun.com/zh/model-studio/tts-model.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "82d8bb03",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "page_url": "ce096b80",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "glm-z1-airx",
+  "name": "glm-z1-airx",
+  "created_by": "zai",
+  "source": "official",
+  "family": "glm",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 5,
+    "output": 0
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "7fafbec7",
+    "family": "cb6bfc11",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "87bf5cde"
+  }
+}

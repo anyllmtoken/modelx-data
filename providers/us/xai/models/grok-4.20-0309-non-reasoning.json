@@ -1,0 +1,54 @@
+{
+  "id": "grok-4.20-0309-non-reasoning",
+  "name": "grok-4.20-0309-non-reasoning",
+  "created_by": "xai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "release_date": "2026-03-09",
+  "capabilities": {
+    "streaming": true,
+    "batch": true,
+    "tool_call": true,
+    "structured_output": true,
+    "vision": true
+  },
+  "family": "grok-4.20",
+  "context_window": 1000000,
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.25,
+    "output": 2.5,
+    "cached_input": 0.2
+  },
+  "_generated": {
+    "name": "33180888",
+    "release_date": "6bbd875b",
+    "capabilities": "2581db49",
+    "family": "44972aca",
+    "context_window": "8155bc54",
+    "modalities": "6399757e",
+    "pricing": "64e647aa",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "page_url": "c863db74",
+    "open_weight": "68934a3e",
+    "tools": "f0c1dc7e",
+    "knowledge_cutoff": "88ec15a4"
+  },
+  "model_type": "chat",
+  "license": "proprietary",
+  "page_url": "https://docs.x.ai/developers/models/grok-4.20-0309-non-reasoning",
+  "open_weight": false,
+  "tools": [
+    "function_calling"
+  ],
+  "knowledge_cutoff": "2024-11"
+}

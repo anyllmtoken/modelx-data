@@ -1,0 +1,49 @@
+{
+  "id": "voxtral-small-2507",
+  "name": "voxtral-small-2507",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "status": "active",
+  "context_window": 32000,
+  "alias": "voxtral-small",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "db53c546",
+    "status": "379ac110",
+    "context_window": "10e4d788",
+    "capabilities": "1a260abc",
+    "modalities": "6399757e",
+    "model_type": "9f84c007",
+    "family": "88a5dabd",
+    "license": "60245731",
+    "page_url": "70faf095",
+    "open_weight": "b326b506",
+    "description": "fdf6cea0",
+    "tagline": "fdf6cea0",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "audio",
+  "family": "voxtral",
+  "license": "apache-2.0",
+  "page_url": "https://docs.mistral.ai/models/model-cards/voxtral-small-25-07",
+  "open_weight": true,
+  "description": "Our first model with audio input capabilities for instruct use cases.",
+  "tagline": "Our first model with audio input capabilities for instruct use cases.",
+  "tools": [
+    "function_calling"
+  ]
+}

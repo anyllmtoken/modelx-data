@@ -1,0 +1,35 @@
+{
+  "id": "ernie-4.5-turbo-20260402",
+  "name": "ERNIE 4.5 Turbo (2026-04-02)",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "baidu",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.8,
+    "output": 3.2,
+    "cached_input": 0.2
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "ba97676f",
+    "family": "5c61f249",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "9227e760"
+  }
+}

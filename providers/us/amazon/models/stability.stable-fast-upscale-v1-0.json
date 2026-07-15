@@ -1,0 +1,30 @@
+{
+  "id": "stability.stable-fast-upscale-v1:0",
+  "name": "Stable Image Fast Upscale",
+  "created_by": "stability",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "model_type": "image",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "image",
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "_generated": {
+    "name": "3937fa70",
+    "model_type": "db8857fe",
+    "capabilities": "d3117eb0",
+    "modalities": "dc86bff4",
+    "release_date": "2da0d696",
+    "page_url": "e883df8b"
+  },
+  "release_date": "2024-09-10",
+  "page_url": "https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-stability-ai-stable-image-fast-upscale"
+}

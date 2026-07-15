@@ -1,0 +1,39 @@
+{
+  "id": "fireworks/qwen3-vl-8b-instruct",
+  "name": "qwen3-vl-8b-instruct",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "qwen3",
+  "context_window": 262000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "40c29a62",
+    "family": "48c385a0",
+    "context_window": "4ed74017",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "model_type": "d669f408",
+    "parameters": "c9f0f895",
+    "page_url": "17aff68f",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "parameters": 8,
+  "page_url": "https://fireworks.ai/models/fireworks/qwen3-vl-8b-instruct",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

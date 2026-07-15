@@ -1,0 +1,38 @@
+{
+  "id": "glm-4v-flash",
+  "name": "glm-4v-flash",
+  "created_by": "zai",
+  "source": "official",
+  "family": "glm-4",
+  "context_window": 16000,
+  "max_output_tokens": 1000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.5,
+    "output": 2,
+    "cached_input": 0.1
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "6e3152de",
+    "family": "b85f9b4b",
+    "context_window": "67510c89",
+    "max_output_tokens": "a9b7ba70",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "6399757e",
+    "pricing": "f5e65ba2"
+  }
+}

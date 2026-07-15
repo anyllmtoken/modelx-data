@@ -1,0 +1,33 @@
+{
+  "id": "doubao-embedding-vision",
+  "name": "doubao-embedding-vision",
+  "created_by": "bytedance",
+  "source": "official",
+  "family": "doubao",
+  "model_type": "embedding",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.7,
+    "output": 0.7
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "18bc9f7c",
+    "family": "fca2122f",
+    "model_type": "b29b7db3",
+    "capabilities": "0fa77dc6",
+    "modalities": "6399757e",
+    "pricing": "082278b5"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "o1-pro",
+  "name": "o1-pro",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "o1",
+  "description": "The o1 series of models are trained with reinforcement learning to think",
+  "status": "deprecated",
+  "knowledge_cutoff": "2023-10",
+  "context_window": 200000,
+  "max_output_tokens": 100000,
+  "model_type": "reasoning",
+  "reasoning_tokens": true,
+  "performance": 4,
+  "reasoning": 4,
+  "speed": 1,
+  "tagline": "Version of o1 with more compute for better responses",
+  "capabilities": {
+    "streaming": false,
+    "vision": true,
+    "tool_call": true,
+    "structured_output": true,
+    "json_mode": false,
+    "fine_tuning": false,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 150,
+    "output": 600,
+    "batch_input": 75,
+    "batch_output": 300,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": [
+          "Input",
+          "Cached input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              150,
+              null,
+              600
+            ]
+          },
+          {
+            "label": "Batch",
+            "values": [
+              75,
+              null,
+              300
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tools": [
+    "function_calling",
+    "file_search",
+    "mcp"
+  ],
+  "endpoints": [
+    "responses",
+    "batch"
+  ],
+  "snapshots": [
+    "o1-pro-2025-03-19"
+  ],
+  "_generated": {
+    "name": "76a0c706",
+    "family": "e1ab0820",
+    "description": "ea477ac7",
+    "status": "2e2f74dc",
+    "knowledge_cutoff": "ffb42dbe",
+    "context_window": "03e6c616",
+    "max_output_tokens": "14ee22ea",
+    "model_type": "17475f7f",
+    "reasoning_tokens": "b326b506",
+    "performance": "a87ff679",
+    "reasoning": "a87ff679",
+    "speed": "c4ca4238",
+    "tagline": "d081326f",
+    "capabilities": "772d0d50",
+    "modalities": "6399757e",
+    "pricing": "b31251fb",
+    "tools": "895d6d67",
+    "endpoints": "6f01fd6c",
+    "license": "9186c466",
+    "page_url": "13d1c6da",
+    "open_weight": "68934a3e",
+    "release_date": "2df47595"
+  },
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/o1-pro",
+  "open_weight": false,
+  "release_date": "2025-03-19"
+}

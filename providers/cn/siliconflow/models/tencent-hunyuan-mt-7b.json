@@ -1,0 +1,27 @@
+{
+  "id": "tencent-hunyuan-mt-7b",
+  "name": "tencent/Hunyuan-MT-7B",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "siliconflow",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "1b8b1120",
+    "family": "204baa33",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93"
+  }
+}

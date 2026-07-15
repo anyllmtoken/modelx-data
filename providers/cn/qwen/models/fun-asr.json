@@ -1,0 +1,35 @@
+{
+  "id": "Fun-ASR",
+  "name": "fun-asr",
+  "created_by": "qwen",
+  "source": "official",
+  "model_type": "chat",
+  "license": "proprietary",
+  "page_url": "https://help.aliyun.com/zh/model-studio/asr-model.md",
+  "open_weight": false,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "2a8a71bf",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "page_url": "6b1640d1",
+    "open_weight": "68934a3e",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "8943d95d"
+  },
+  "last_updated": "2026-07-15",
+  "pricing": {
+    "content_duration": 0.00022
+  }
+}

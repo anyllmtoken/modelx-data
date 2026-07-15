@@ -1,0 +1,35 @@
+{
+  "id": "qwen3-tts-flash",
+  "name": "qwen3-tts-flash",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3",
+  "model_type": "tts",
+  "license": "apache-2.0",
+  "page_url": "https://help.aliyun.com/zh/model-studio/tts-model.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "976470e4",
+    "family": "48c385a0",
+    "model_type": "4e16a2cf",
+    "license": "60245731",
+    "page_url": "ce096b80",
+    "capabilities": "0fa77dc6",
+    "modalities": "601e776d",
+    "pricing": "69176ced"
+  },
+  "pricing": {
+    "cosy_tts_number": 0.8
+  }
+}

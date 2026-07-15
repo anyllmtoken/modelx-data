@@ -1,0 +1,35 @@
+{
+  "id": "@cf/aisingapore/gemma-sea-lion-v4-27b-it",
+  "name": "gemma-sea-lion-v4-27b-it",
+  "created_by": "aisingapore",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "aa544f8f",
+    "capabilities": "0fa77dc6",
+    "model_type": "d669f408",
+    "parameters": "02e74f10",
+    "status": "127aecde",
+    "page_url": "000ed5d8",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "parameters": 27,
+  "status": "preview",
+  "page_url": "https://developers.cloudflare.com/workers-ai/models/#gemma-sea-lion-v4-27b-it",
+  "tools": [
+    "function_calling"
+  ],
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

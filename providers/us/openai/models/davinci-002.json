@@ -1,0 +1,122 @@
+{
+  "id": "davinci-002",
+  "name": "davinci-002 (002)",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "description": "GPT base models can understand and generate natural language or code but are not trained with instruction following. These models are made to be replacements for our original GPT-3 base models and use the legacy Completions API. Most customers should use GPT-3.5 or GPT-4.",
+  "status": "deprecated",
+  "knowledge_cutoff": "2021-09",
+  "max_output_tokens": 16384,
+  "model_type": "chat",
+  "performance": 1,
+  "speed": 3,
+  "tagline": "Replacement for the GPT-3 curie and davinci base models",
+  "capabilities": {
+    "streaming": false,
+    "vision": false,
+    "tool_call": false,
+    "structured_output": false,
+    "json_mode": false,
+    "fine_tuning": true,
+    "reasoning": false
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "tiers": [
+      {
+        "label": "Fine-tuning",
+        "unit": "",
+        "columns": [
+          "Training",
+          "Input",
+          "Cached input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              6,
+              12,
+              null,
+              12
+            ]
+          },
+          {
+            "label": "Batch",
+            "values": [
+              null,
+              6,
+              null,
+              6
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Text tokens",
+        "unit": "",
+        "columns": [
+          "Input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              2,
+              2
+            ]
+          },
+          {
+            "label": "Batch",
+            "values": [
+              1,
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "input": 2,
+    "output": 2,
+    "batch_input": 1,
+    "batch_output": 1
+  },
+  "endpoints": [
+    "completions"
+  ],
+  "snapshots": [
+    "davinci-002"
+  ],
+  "_generated": {
+    "name": "2fe0e7d8",
+    "description": "e3072c59",
+    "status": "2e2f74dc",
+    "knowledge_cutoff": "b61a1a89",
+    "max_output_tokens": "c76fe1d8",
+    "model_type": "d669f408",
+    "performance": "c4ca4238",
+    "speed": "eccbc87e",
+    "tagline": "25a45b8b",
+    "capabilities": "ea522cff",
+    "modalities": "68e53d93",
+    "pricing": "492fd208",
+    "endpoints": "69bfe5cd",
+    "license": "9186c466",
+    "page_url": "2bdb5292",
+    "open_weight": "68934a3e"
+  },
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/davinci-002",
+  "open_weight": false,
+  "alias": "davinci-002"
+}

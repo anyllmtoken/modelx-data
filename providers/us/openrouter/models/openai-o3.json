@@ -1,0 +1,50 @@
+{
+  "id": "openai/o3",
+  "name": "OpenAI: o3",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "o3",
+  "description": "o3 is a well-rounded and powerful model across domains.",
+  "context_window": 200000,
+  "max_output_tokens": 100000,
+  "modalities": {
+    "input": [
+      "image",
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 2,
+    "output": 8,
+    "cached_input": 0.5
+  },
+  "_generated": {
+    "name": "93370dd0",
+    "family": "193049bc",
+    "description": "ebf30e4f",
+    "context_window": "03e6c616",
+    "max_output_tokens": "14ee22ea",
+    "modalities": "8b8b28d1",
+    "capabilities": "f533f522",
+    "pricing": "f0ddd693",
+    "model_type": "17475f7f",
+    "release_date": "67604092",
+    "tagline": "ebf30e4f",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "reasoning",
+  "release_date": "2025-04-16",
+  "tagline": "o3 is a well-rounded and powerful model across domains.",
+  "tools": [
+    "function_calling"
+  ]
+}

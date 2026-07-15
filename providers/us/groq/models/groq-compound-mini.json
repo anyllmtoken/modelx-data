@@ -1,0 +1,43 @@
+{
+  "id": "groq/compound-mini",
+  "name": "Compound Mini",
+  "created_by": "groq",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "compound",
+  "status": "active",
+  "context_window": 131072,
+  "max_output_tokens": 8192,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "json_mode": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "d6629ec8",
+    "family": "ae78db21",
+    "status": "379ac110",
+    "context_window": "f7de594e",
+    "max_output_tokens": "77441296",
+    "model_type": "d669f408",
+    "capabilities": "6c301a15",
+    "modalities": "68e53d93",
+    "speed": "f5f8590c",
+    "page_url": "dbc37bbf",
+    "tools": "f0c1dc7e"
+  },
+  "speed": 450,
+  "page_url": "https://console.groq.com/docs/models#groq/compound-mini",
+  "tools": [
+    "function_calling"
+  ]
+}

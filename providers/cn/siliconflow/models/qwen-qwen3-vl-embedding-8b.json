@@ -1,0 +1,32 @@
+{
+  "id": "qwen-qwen3-vl-embedding-8b",
+  "name": "Qwen/Qwen3-VL-Embedding-8B",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "embed",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.7,
+    "output": 0
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "0d26e061",
+    "family": "a3af76f3",
+    "model_type": "764cb3de",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "9a17838f"
+  }
+}

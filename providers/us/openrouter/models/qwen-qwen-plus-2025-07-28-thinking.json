@@ -1,0 +1,48 @@
+{
+  "id": "qwen/qwen-plus-2025-07-28:thinking",
+  "name": "Qwen: Qwen Plus 0728 (thinking)",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "qwen",
+  "description": "Qwen Plus 0728, based on the Qwen3 foundation model, is a 1 million context hybrid reasoning model with a balanced performance, speed, and cost combination.",
+  "context_window": 1000000,
+  "max_output_tokens": 32768,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.26,
+    "output": 0.78
+  },
+  "_generated": {
+    "name": "15ba507d",
+    "family": "a3af76f3",
+    "description": "c835925a",
+    "context_window": "8155bc54",
+    "max_output_tokens": "f4376436",
+    "modalities": "68e53d93",
+    "capabilities": "f533f522",
+    "pricing": "da8faaf5",
+    "model_type": "d669f408",
+    "release_date": "551954c4",
+    "tagline": "c835925a",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "release_date": "2025-09-08",
+  "tagline": "Qwen Plus 0728, based on the Qwen3 foundation model, is a 1 million context hybrid reasoning model with a balanced performance, speed, and cost combination.",
+  "tools": [
+    "function_calling"
+  ]
+}

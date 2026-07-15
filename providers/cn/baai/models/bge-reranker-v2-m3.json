@@ -1,0 +1,33 @@
+{
+  "id": "bge-reranker-v2-m3",
+  "name": "BGE-Reranker-v2-M3",
+  "created_by": "baai",
+  "source": "official",
+  "family": "baai",
+  "description": "多语言 Reranker 模型",
+  "model_type": "embed",
+  "license": "apache-2.0",
+  "parameters": 0.57,
+  "capabilities": {},
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "e728631a",
+    "family": "e3ece447",
+    "description": "90793185",
+    "model_type": "764cb3de",
+    "license": "60245731",
+    "parameters": "e7bf7d0f",
+    "capabilities": "99914b93",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

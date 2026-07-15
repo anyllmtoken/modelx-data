@@ -4,8 +4,8 @@ on:
   push:
     branches: [master, main]
     paths:
-      - "providers-cn/**"
-      - "providers-us/**"
+      - "providers/cn/**"
+      - "providers/us/**"
 
 permissions:
   contents: write

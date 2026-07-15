@@ -1,0 +1,110 @@
+{
+  "id": "gpt-4o-2024-11-20",
+  "name": "GPT-4o (20)",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-4o",
+  "description": "GPT-4o (“o” for “omni”) is our versatile, high-intelligence flagship model.",
+  "status": "active",
+  "knowledge_cutoff": "2023-10",
+  "context_window": 128000,
+  "max_output_tokens": 16384,
+  "model_type": "chat",
+  "alias": "gpt-4o",
+  "performance": 3,
+  "speed": 3,
+  "tagline": "GPT-4o (“o” for “omni”) is our versatile, high-intelligence flagship model.",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "structured_output": true,
+    "json_mode": false,
+    "fine_tuning": false,
+    "reasoning": false
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2.5,
+    "output": 10,
+    "cached_input": 1.25,
+    "batch_input": 1.25,
+    "batch_output": 5,
+    "tiers": [
+      {
+        "label": "Fine-tuning",
+        "unit": "",
+        "columns": [
+          "Training",
+          "Input",
+          "Cached input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              25,
+              3.75,
+              1.875,
+              15
+            ]
+          },
+          {
+            "label": "Batch",
+            "values": [
+              null,
+              1.875,
+              null,
+              7.5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "endpoints": [
+    "chat_completions",
+    "responses",
+    "assistants",
+    "batch"
+  ],
+  "_generated": {
+    "name": "97d94e54",
+    "family": "15249632",
+    "description": "f06aa8e0",
+    "status": "379ac110",
+    "knowledge_cutoff": "ffb42dbe",
+    "context_window": "34434798",
+    "max_output_tokens": "c76fe1d8",
+    "model_type": "d669f408",
+    "performance": "eccbc87e",
+    "speed": "eccbc87e",
+    "tagline": "f06aa8e0",
+    "capabilities": "54133dda",
+    "modalities": "6399757e",
+    "pricing": "81e43e77",
+    "endpoints": "1c48b50a",
+    "license": "9186c466",
+    "release_date": "090277ab",
+    "page_url": "d3b7c6fb",
+    "open_weight": "68934a3e",
+    "tools": "f0c1dc7e"
+  },
+  "license": "proprietary",
+  "release_date": "2024-11-20",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-4o?snapshot=gpt-4o-2024-11-20",
+  "open_weight": false,
+  "tools": [
+    "function_calling"
+  ]
+}

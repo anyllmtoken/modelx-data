@@ -1,0 +1,54 @@
+{
+  "id": "qwen-omni-turbo",
+  "name": "qwen-omni-turbo",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "context_window": 32768,
+  "max_output_tokens": 2048,
+  "model_type": "chat",
+  "license": "proprietary",
+  "page_url": "https://help.aliyun.com/zh/model-studio/text-generation-model.md",
+  "capabilities": {
+    "streaming": true,
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "b9d28cdc",
+    "family": "a3af76f3",
+    "context_window": "f4376436",
+    "max_output_tokens": "05192834",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "page_url": "1eb222c1",
+    "capabilities": "8a3b232e",
+    "modalities": "68e53d93",
+    "pricing": "f668dada"
+  },
+  "pricing": {
+    "text_input_token": 0.4,
+    "audio_input_token": 25,
+    "vision_input_token": 1.5,
+    "purein_text_output_token": 1.6,
+    "multiin_text_output_token": 4.5,
+    "multi_output_token": 50,
+    "vision_input_token_cache": 0.3,
+    "text_input_token_cache": 0.08,
+    "audio_input_token_cache": 5,
+    "text_input_token_batch": 0.2,
+    "audio_input_token_batch": 12.5,
+    "vision_input_token_batch": 0.75,
+    "multi_output_token_batch": 25,
+    "multiin_text_output_token_batch": 2.25,
+    "purein_text_output_token_batch": 0.8
+  }
+}

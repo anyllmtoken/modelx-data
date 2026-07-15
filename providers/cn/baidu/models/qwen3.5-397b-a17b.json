@@ -1,0 +1,33 @@
+{
+  "id": "qwen3.5-397b-a17b",
+  "name": "qwen3.5-397b-a17b",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "qwen3.5",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.2
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "ea6a3bc9",
+    "family": "d548f421",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "de2fc61b"
+  }
+}

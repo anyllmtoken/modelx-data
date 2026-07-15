@@ -1,0 +1,39 @@
+{
+  "id": "bytedance/seed-1.6",
+  "name": "seed-1.6",
+  "created_by": "bytedance",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "context_window": 256000,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.25,
+    "output": 2
+  },
+  "_generated": {
+    "name": "98d32f54",
+    "context_window": "2fd324cb",
+    "capabilities": "a19166f1",
+    "pricing": "468d92b7",
+    "tools": "f0c1dc7e",
+    "model_type": "d669f408",
+    "modalities": "68e53d93"
+  },
+  "tools": [
+    "function_calling"
+  ],
+  "model_type": "chat",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

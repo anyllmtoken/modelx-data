@@ -1,0 +1,26 @@
+{
+  "id": "paraformer-realtime-8k-v2",
+  "name": "paraformer-realtime-8k-v2",
+  "created_by": "qwen",
+  "source": "official",
+  "model_type": "audio",
+  "license": "proprietary",
+  "page_url": "https://help.aliyun.com/zh/model-studio/asr-model.md",
+  "open_weight": false,
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "01b47561",
+    "model_type": "9f84c007",
+    "license": "9186c466",
+    "page_url": "6b1640d1",
+    "open_weight": "68934a3e",
+    "capabilities": "0fa77dc6",
+    "pricing": "937c4f31"
+  },
+  "last_updated": "2026-07-15",
+  "pricing": {
+    "content_duration": 0.00024
+  }
+}

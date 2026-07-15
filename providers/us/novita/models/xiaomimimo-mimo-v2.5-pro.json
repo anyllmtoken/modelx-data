@@ -1,0 +1,55 @@
+{
+  "id": "xiaomimimo/mimo-v2.5-pro",
+  "name": "XiaomiMiMo/MiMo-V2.5-Pro",
+  "created_by": "xiaomi",
+  "source": "official",
+  "family": "mimo",
+  "description": "MiMo-V2.5-Pro is purpose-built to push the boundaries of complex software engineering and extreme long-horizon tasks.",
+  "status": "active",
+  "release_date": "2026-05-06",
+  "context_window": 1048576,
+  "max_output_tokens": 131072,
+  "model_type": "chat",
+  "tagline": "MiMo-V2.5-Pro is purpose-built to push the boundaries of complex software engineering and extreme long-horizon tasks.",
+  "capabilities": {
+    "tool_call": true,
+    "reasoning": true,
+    "structured_output": true,
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.522,
+    "output": 1.044
+  },
+  "endpoints": [
+    "chat_completions"
+  ],
+  "tools": [
+    "function_calling"
+  ],
+  "_generated": {
+    "name": "ccb16660",
+    "family": "1a23786e",
+    "description": "700b03d2",
+    "status": "379ac110",
+    "release_date": "ad37623a",
+    "context_window": "7d28a051",
+    "max_output_tokens": "f7de594e",
+    "model_type": "d669f408",
+    "tagline": "700b03d2",
+    "capabilities": "2fe47005",
+    "modalities": "68e53d93",
+    "pricing": "9e049ba2",
+    "endpoints": "d8fa1080",
+    "tools": "f0c1dc7e"
+  },
+  "last_updated": "2026-07-15"
+}

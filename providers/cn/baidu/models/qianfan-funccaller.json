@@ -1,0 +1,34 @@
+{
+  "id": "qianfan-funccaller",
+  "name": "Qianfan-FuncCaller",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "baidu",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.8,
+    "output": 3.2
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "30529c39",
+    "family": "5c61f249",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "c3acde52"
+  }
+}

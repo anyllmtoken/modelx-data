@@ -1,0 +1,34 @@
+{
+  "id": "qwen3-32b",
+  "name": "Qwen3-32B",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 8
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "11c5e488",
+    "family": "48c385a0",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "9d7f5a51"
+  }
+}

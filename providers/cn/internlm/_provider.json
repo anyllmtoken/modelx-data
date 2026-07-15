@@ -1,0 +1,23 @@
+{
+  "id": "internlm",
+  "name": "书生 InternLM",
+  "aliases": [
+    "上海AI实验室",
+    "shanghai-ai-lab",
+    "internvl"
+  ],
+  "region": "CN",
+  "headquarters": "上海市, 中国",
+  "founded": 2021,
+  "url": "https://internlm.intern-ai.org.cn",
+  "api_url": null,
+  "docs_url": "https://github.com/InternLM/InternLM",
+  "description": "上海人工智能实验室（上海AI Lab）开发书生 InternLM / InternVL 系列开源大模型与多模态模型。",
+  "type": "direct",
+  "openai_compatible": false,
+  "free_tier": true,
+  "github_url": "https://github.com/InternLM",
+  "models_url": "https://huggingface.co/internlm",
+  "pricing_url": null,
+  "pricing_currency": "CNY"
+}

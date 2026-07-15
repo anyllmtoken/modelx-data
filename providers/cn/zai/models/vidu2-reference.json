@@ -1,0 +1,44 @@
+{
+  "id": "vidu2-reference",
+  "name": "VIDU2-REFERENCE",
+  "created_by": "zai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "license": "mit",
+  "page_url": "https://docs.z.ai/guides/video/vidu2",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "_generated": {
+    "name": "9fa2bf72",
+    "license": "3c4c3ba5",
+    "page_url": "040ff0ac",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506",
+    "description": "9b660619",
+    "tagline": "41013cc2",
+    "family": "cb6bfc11",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "pricing": "a1a73567"
+  },
+  "description": "Vidu 2 is a next-generation video generation model that strikes a balance between speed and quality. It focuses on image-to-video generation and keyframe-based video creation, supporting 720P resolution for videos up to 4 seconds long.",
+  "tagline": "Vidu 2 is a next-generation video generation model that strikes a balance between speed and quality.",
+  "family": "glm",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "pricing": {
+    "input": 2.5,
+    "output": 0
+  }
+}

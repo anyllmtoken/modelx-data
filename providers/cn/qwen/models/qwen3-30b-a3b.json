@@ -1,0 +1,47 @@
+{
+  "id": "qwen3-30b-a3b",
+  "name": "qwen3-30b-a3b",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "qwen3",
+  "capabilities": {
+    "streaming": true
+  },
+  "provider": "qwen",
+  "_generated": {
+    "name": "18283ad3",
+    "family": "48c385a0",
+    "capabilities": "0fa77dc6",
+    "provider": "a3af76f3",
+    "model_type": "d669f408",
+    "license": "60245731",
+    "parameters": "34173cb3",
+    "active_parameters": "eccbc87e",
+    "context_window": "34434798",
+    "reasoning_tokens": "b326b506",
+    "page_url": "1eb222c1",
+    "open_weight": "b326b506",
+    "modalities": "68e53d93",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "license": "apache-2.0",
+  "parameters": 30,
+  "active_parameters": 3,
+  "context_window": 128000,
+  "reasoning_tokens": true,
+  "page_url": "https://help.aliyun.com/zh/model-studio/text-generation-model.md",
+  "open_weight": true,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "tools": [
+    "function_calling"
+  ]
+}

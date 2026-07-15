@@ -1,0 +1,50 @@
+{
+  "id": "gpt-5.6-sol",
+  "name": "GPT-5.6 Sol",
+  "created_by": "openai",
+  "source": "official",
+  "family": "gpt-5.6",
+  "context_window": 272000,
+  "max_context_window": 1000000,
+  "performance": 5,
+  "speed": 3,
+  "page_url": "https://cursor.com/docs/models-and-pricing#gpt-5-6-sol",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "vision": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 5,
+    "output": 30,
+    "cache_write": 6.25,
+    "cached_input": 0.5
+  },
+  "pricing_notes": [
+    "Requires Max Mode on request-based plans; Agentic and reasoning capabilities; Fast mode is available at 2x pricing; Long context (Max Mode) supports up to 1M tokens with 2x input pricing; Cache writes are billed at 1.25x the uncached input rate"
+  ],
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "927b849e",
+    "family": "c9783e4a",
+    "context_window": "3f9281a0",
+    "max_context_window": "8155bc54",
+    "performance": "e4da3b7f",
+    "speed": "eccbc87e",
+    "page_url": "4718bfc8",
+    "capabilities": "7ca28ec9",
+    "modalities": "6399757e",
+    "pricing": "88b4be1c",
+    "pricing_notes": "8e9e1e30"
+  }
+}

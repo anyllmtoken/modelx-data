@@ -1,0 +1,36 @@
+{
+  "id": "volcengine/doubao-seed-1-8",
+  "name": "Doubao-Seed-1.8 (Volc)",
+  "created_by": "volcengine",
+  "source": "official",
+  "family": "ai360",
+  "context_window": 256000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.8,
+    "output": 2
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "870c13ef",
+    "family": "1d747135",
+    "context_window": "2fd324cb",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "07f6f1d2"
+  }
+}

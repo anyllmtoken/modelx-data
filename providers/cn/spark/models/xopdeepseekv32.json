@@ -1,0 +1,36 @@
+{
+  "id": "xopdeepseekv32",
+  "name": "DeepSeek-V3.2",
+  "created_by": "deepseek",
+  "source": "official",
+  "family": "spark",
+  "context_window": 128000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1.5
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "6e661ac6",
+    "family": "92678943",
+    "context_window": "34434798",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "09144310"
+  }
+}

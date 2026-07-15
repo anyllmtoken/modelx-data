@@ -1,0 +1,18 @@
+{
+  "id": "qiniu",
+  "name": "七牛云",
+  "region": "CN",
+  "headquarters": "上海市, 中国",
+  "founded": 2011,
+  "url": "https://www.qiniu.com",
+  "api_url": "https://api.qiniu.com",
+  "docs_url": "https://www.qiniu.com/ai/models",
+  "pricing_url": "https://www.qiniu.com/ai/models",
+  "description": "七牛云是中国领先的云平台，提供 AI 模型广场（大模型广场），聚合多家主流大模型 API 服务。",
+  "type": "cloud",
+  "openai_compatible": true,
+  "free_tier": false,
+  "github_url": "https://github.com/qiniu",
+  "models_url": "https://www.qiniu.com/ai/models",
+  "pricing_currency": "CNY"
+}

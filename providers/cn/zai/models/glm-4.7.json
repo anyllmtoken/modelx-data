@@ -1,0 +1,53 @@
+{
+  "id": "glm-4.7",
+  "name": "GLM-4.7",
+  "created_by": "zai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "context_window": 200000,
+  "max_output_tokens": 128000,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "6dbcba88",
+    "context_window": "03e6c616",
+    "max_output_tokens": "34434798",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "family": "02d3d929",
+    "model_type": "d669f408",
+    "license": "3c4c3ba5",
+    "open_weight": "b326b506",
+    "tools": "f0c1dc7e",
+    "page_url": "7e3aef75",
+    "pricing": "8a443857",
+    "description": "efae41c8",
+    "tagline": "ed462c81"
+  },
+  "family": "glm-4.7",
+  "model_type": "chat",
+  "license": "mit",
+  "open_weight": true,
+  "tools": [
+    "function_calling"
+  ],
+  "page_url": "https://docs.z.ai/guides/llm/glm-4.7",
+  "pricing": {
+    "input": 2,
+    "output": 8,
+    "cached_input": 0.4
+  },
+  "description": "GLM-4.7 Series are Z.AI's models, featuring upgrades in two key areas: enhanced programming capabilities and more stable multi-step reasoning/execution. It demonstrates significant improvements in executing complex agent tasks while delivering more natural conversational experiences and superior front-end aesthetics.",
+  "tagline": "GLM-4.7 Series are Z.AI's models, featuring upgrades in two key areas: enhanced programming capabilities and more stable multi-step reasoning/execution."
+}

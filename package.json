@@ -5,13 +5,18 @@
   "description": "Model data pipeline — fetch scripts, provider JSON, codegen. Produces @modelx/data.",
   "type": "module",
   "scripts": {
-    "fetch": "echo 'TODO: bun scripts/fetch-us/*.ts'",
+    "fetch": "echo 'TODO: bun scripts/fetch/us/*.ts'",
     "generate": "bun scripts/generate.ts --us",
+    "generate:cn": "bun scripts/generate.ts --cn",
     "validate": "bun scripts/validate.ts",
     "changes": "bun scripts/detect-changes.ts"
   },
   "license": "MIT",
   "devDependencies": {
+    "playwright": "^1.61.1",
     "typescript": "^5.7.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0"
   }
 }

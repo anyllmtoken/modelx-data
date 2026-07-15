@@ -1,0 +1,50 @@
+{
+  "id": "openai/gpt-5.1-codex-mini",
+  "name": "OpenAI: GPT-5.1-Codex-Mini",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-5.1",
+  "description": "GPT-5.1-Codex-Mini is a smaller and faster version of GPT-5.1-Codex",
+  "context_window": 400000,
+  "max_output_tokens": 100000,
+  "modalities": {
+    "input": [
+      "image",
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.25,
+    "output": 2,
+    "cached_input": 0.025
+  },
+  "_generated": {
+    "name": "9b0955ce",
+    "family": "2089aff2",
+    "description": "1031ae9b",
+    "context_window": "2a3a2d28",
+    "max_output_tokens": "14ee22ea",
+    "modalities": "8b8b28d1",
+    "capabilities": "f533f522",
+    "pricing": "930a851a",
+    "model_type": "d669f408",
+    "release_date": "c4b1d0fd",
+    "tagline": "1031ae9b",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "release_date": "2025-11-13",
+  "tagline": "GPT-5.1-Codex-Mini is a smaller and faster version of GPT-5.1-Codex",
+  "tools": [
+    "function_calling"
+  ]
+}

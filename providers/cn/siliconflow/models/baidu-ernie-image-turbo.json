@@ -1,0 +1,32 @@
+{
+  "id": "baidu-ernie-image-turbo",
+  "name": "baidu/ERNIE-Image-Turbo",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "siliconflow",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0.11
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "2729347d",
+    "family": "204baa33",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "309239dd"
+  }
+}

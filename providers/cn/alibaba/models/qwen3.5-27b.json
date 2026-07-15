@@ -1,0 +1,35 @@
+{
+  "id": "qwen3.5-27b",
+  "name": "qwen3.5-27b",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3.5",
+  "context_window": 256000,
+  "model_type": "chat",
+  "license": "apache-2.0",
+  "parameters": 27,
+  "page_url": "https://help.aliyun.com/zh/model-studio/text-generation-model.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "3707787a",
+    "family": "d548f421",
+    "context_window": "2fd324cb",
+    "model_type": "d669f408",
+    "license": "60245731",
+    "parameters": "02e74f10",
+    "page_url": "1eb222c1",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93"
+  }
+}

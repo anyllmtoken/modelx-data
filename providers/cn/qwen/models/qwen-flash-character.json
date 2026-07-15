@@ -1,0 +1,49 @@
+{
+  "id": "qwen-flash-character",
+  "name": "qwen-flash-character",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "context_window": 8192,
+  "model_type": "chat",
+  "reasoning_tokens": true,
+  "license": "apache-2.0",
+  "page_url": "https://help.aliyun.com/zh/model-studio/text-generation-model.md",
+  "open_weight": true,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "tools": [
+    "function_calling"
+  ],
+  "_generated": {
+    "name": "9e60fb50",
+    "family": "a3af76f3",
+    "context_window": "77441296",
+    "model_type": "d669f408",
+    "reasoning_tokens": "b326b506",
+    "license": "60245731",
+    "page_url": "1eb222c1",
+    "open_weight": "b326b506",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "tools": "f0c1dc7e",
+    "max_output_tokens": "f7efa4f8",
+    "pricing": "13f4f13c"
+  },
+  "last_updated": "2026-07-15",
+  "max_output_tokens": 4096,
+  "pricing": {
+    "input": 0.25,
+    "output": 1.5,
+    "cached_input": 0.05
+  }
+}

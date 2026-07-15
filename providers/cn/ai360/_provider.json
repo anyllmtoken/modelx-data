@@ -1,0 +1,22 @@
+{
+  "id": "ai360",
+  "name": "360智脑",
+  "aliases": [
+    "360zhinao",
+    "360-gpt",
+    "ai-360"
+  ],
+  "region": "CN",
+  "headquarters": "北京市, 中国",
+  "founded": 2005,
+  "url": "https://ai.360.com",
+  "api_url": "https://ai.360.com/open",
+  "docs_url": "https://ai.360.com/open/zh/models",
+  "pricing_url": "https://ai.360.com/open/zh/models",
+  "description": "360智脑是 360 集团推出的大模型开放平台，聚合自研与第三方大模型 API 服务。",
+  "type": "cloud",
+  "openai_compatible": true,
+  "free_tier": true,
+  "models_url": "https://ai.360.com/open/zh/models",
+  "pricing_currency": "CNY"
+}

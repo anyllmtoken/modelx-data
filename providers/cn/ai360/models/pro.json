@@ -1,0 +1,36 @@
+{
+  "id": "pro",
+  "name": "pro",
+  "created_by": "Pro",
+  "source": "official",
+  "family": "ai360",
+  "context_window": 256000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 3,
+    "output": 15
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "a01ab5c0",
+    "family": "1d747135",
+    "context_window": "2fd324cb",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "7939f0ff"
+  }
+}

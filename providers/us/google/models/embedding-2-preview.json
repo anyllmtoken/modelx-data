@@ -1,0 +1,33 @@
+{
+  "id": "embedding-2-preview",
+  "name": "embedding-2-preview",
+  "created_by": "google",
+  "source": "official",
+  "family": "embed",
+  "status": "active",
+  "license": "proprietary",
+  "model_type": "embed",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": false,
+  "_generated": {
+    "name": "5e0a2d7a",
+    "family": "764cb3de",
+    "status": "379ac110",
+    "license": "9186c466",
+    "model_type": "764cb3de",
+    "modalities": "68e53d93",
+    "open_weight": "68934a3e",
+    "deprecation_date": "771b4d6f",
+    "successor": "916b7eae"
+  },
+  "last_updated": "2026-07-15",
+  "deprecation_date": "August 10, 2026",
+  "successor": "gemini-embedding-2"
+}

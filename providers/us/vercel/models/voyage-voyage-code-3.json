@@ -1,0 +1,21 @@
+{
+  "id": "voyage/voyage-code-3",
+  "name": "voyage-code-3",
+  "created_by": "voyage",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.18,
+    "output": 0
+  },
+  "_generated": {
+    "name": "9d6a7e93",
+    "capabilities": "0fa77dc6",
+    "pricing": "ae6ace32",
+    "model_type": "764cb3de"
+  },
+  "model_type": "embed"
+}

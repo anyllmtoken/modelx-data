@@ -1,0 +1,35 @@
+{
+  "id": "glm-5",
+  "name": "GLM-5",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "glm-5",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 4,
+    "output": 18,
+    "cached_input": 1
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "bfb92394",
+    "family": "309daa86",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "f3f9ca76"
+  }
+}

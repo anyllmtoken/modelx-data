@@ -1,0 +1,40 @@
+{
+  "id": "undi95/remm-slerp-l2-13b",
+  "name": "ReMM SLERP 13B",
+  "created_by": "undi95",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "description": "A recreation trial of the original MythoMax-L2-B13 but with updated models.",
+  "context_window": 6144,
+  "max_output_tokens": 4096,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "structured_output": true
+  },
+  "pricing": {
+    "input": 0.45,
+    "output": 0.65
+  },
+  "_generated": {
+    "name": "a71fcb35",
+    "description": "29340574",
+    "context_window": "197f76fe",
+    "max_output_tokens": "f7efa4f8",
+    "modalities": "68e53d93",
+    "capabilities": "c8033cf7",
+    "pricing": "dfa98efa",
+    "parameters": "c51ce410",
+    "release_date": "1adde57c",
+    "tagline": "29340574"
+  },
+  "parameters": 13,
+  "release_date": "2023-07-22",
+  "tagline": "A recreation trial of the original MythoMax-L2-B13 but with updated models."
+}

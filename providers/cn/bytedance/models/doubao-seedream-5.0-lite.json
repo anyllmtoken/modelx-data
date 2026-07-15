@@ -1,0 +1,32 @@
+{
+  "id": "doubao-seedream-5.0-lite",
+  "name": "doubao-seedream-5.0-lite",
+  "created_by": "bytedance",
+  "source": "official",
+  "family": "doubao",
+  "model_type": "image",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "pricing": {
+    "input": 0.22
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "501af1ca",
+    "family": "fca2122f",
+    "model_type": "db8857fe",
+    "capabilities": "0fa77dc6",
+    "modalities": "bbf9b8bb",
+    "pricing": "92d04a6f"
+  }
+}

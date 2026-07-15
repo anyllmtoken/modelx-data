@@ -1,0 +1,31 @@
+{
+  "id": "bce-reranker-base",
+  "name": "BCE-Reranker-Base",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "baidu",
+  "model_type": "rerank",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.5
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "7e1c96d0",
+    "family": "5c61f249",
+    "model_type": "477930e6",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "1621018b"
+  }
+}

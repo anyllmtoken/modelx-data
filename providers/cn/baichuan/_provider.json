@@ -1,0 +1,22 @@
+{
+  "id": "baichuan",
+  "name": "百川智能",
+  "aliases": [
+    "baichuan-ai",
+    "baichuan"
+  ],
+  "region": "CN",
+  "headquarters": "北京市, 中国",
+  "founded": 2023,
+  "url": "https://www.baichuan-ai.com",
+  "api_url": "https://api.baichuan-ai.com/v1",
+  "docs_url": "https://platform.baichuan-ai.com/docs",
+  "pricing_url": "https://platform.baichuan-ai.com/prices",
+  "description": "百川智能由搜狗前CEO王小川创立，构建 Baichuan 系列大模型，覆盖文本、推理、嵌入等能力。",
+  "type": "direct",
+  "openai_compatible": true,
+  "free_tier": true,
+  "github_url": "https://github.com/baichuan-inc",
+  "models_url": "https://platform.baichuan-ai.com/prices",
+  "pricing_currency": "CNY"
+}

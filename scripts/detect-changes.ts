@@ -15,7 +15,7 @@ import * as path from "node:path";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const CHANGES_PATH = path.join(ROOT, "packages", "data", "changes.jsonl");
-const PROVIDERS_DIRS = ["providers-cn", "providers-us"];
+const PROVIDERS_DIRS = ["providers/cn", "providers/us"];
 
 // Fields to ignore when diffing
 const IGNORE_FIELDS = new Set(["last_updated", "source", "_generated"]);
@@ -110,9 +110,9 @@ function readCurrentFile(filePath: string): Record<string, unknown> | null {
 function parseFilePath(
   filePath: string,
 ): { provider: string; model: string } | null {
-  // Match providers-cn/<provider>/models/<model>.json or providers-us/<provider>/models/<model>.json
+  // Match providers/cn/<provider>/models/<model>.json or providers/us/<provider>/models/<model>.json
   const match = filePath.match(
-    /(?:^|\/)?providers-(?:cn|us)\/([^/]+)\/models\/(.+)\.json$/,
+    /(?:^|\/)?providers\/(?:cn|us)\/([^/]+)\/models\/(.+)\.json$/,
   );
   if (!match) return null;
   return { provider: match[1], model: match[2] };

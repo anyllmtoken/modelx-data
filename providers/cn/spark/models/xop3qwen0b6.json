@@ -1,0 +1,36 @@
+{
+  "id": "xop3qwen0b6",
+  "name": "Qwen3-0.6B",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "spark",
+  "context_window": 32000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.18,
+    "output": 1.8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "4b3085c3",
+    "family": "92678943",
+    "context_window": "10e4d788",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "838624a8"
+  }
+}

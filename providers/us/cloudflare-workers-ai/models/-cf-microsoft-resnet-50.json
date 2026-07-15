@@ -1,0 +1,25 @@
+{
+  "id": "@cf/microsoft/resnet-50",
+  "name": "resnet-50",
+  "created_by": "microsoft",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true,
+    "reasoning": true
+  },
+  "_generated": {
+    "name": "ec61f855",
+    "capabilities": "b011c6b4",
+    "status": "379ac110",
+    "model_type": "b815fc69",
+    "page_url": "a3382868",
+    "tools": "f0c1dc7e"
+  },
+  "status": "active",
+  "model_type": "classification",
+  "page_url": "https://developers.cloudflare.com/workers-ai/models/#resnet-50",
+  "tools": [
+    "function_calling"
+  ]
+}

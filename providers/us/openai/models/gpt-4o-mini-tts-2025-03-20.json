@@ -1,0 +1,90 @@
+{
+  "id": "gpt-4o-mini-tts-2025-03-20",
+  "name": "GPT-4o mini TTS (20)",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-4o",
+  "status": "deprecated",
+  "model_type": "tts",
+  "alias": "gpt-4o-mini-tts",
+  "performance": 4,
+  "speed": 4,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
+  },
+  "endpoints": [
+    "speech_generation"
+  ],
+  "_generated": {
+    "name": "fcc804ec",
+    "family": "15249632",
+    "status": "2e2f74dc",
+    "model_type": "4e16a2cf",
+    "performance": "a87ff679",
+    "speed": "a87ff679",
+    "modalities": "601e776d",
+    "endpoints": "1d7fad2a",
+    "description": "fe59c67c",
+    "tagline": "defab719",
+    "pricing": "defc769f",
+    "license": "9186c466",
+    "release_date": "c68d2cee",
+    "page_url": "b9126957",
+    "open_weight": "68934a3e"
+  },
+  "description": "GPT-4o mini TTS is a text-to-speech model built on GPT-4o mini, a fast and powerful language model. Use it to convert text to natural sounding spoken text. The maximum number of input tokens is 2000.",
+  "tagline": "GPT-4o mini TTS is a text-to-speech model built on GPT-4o mini, a fast and powerful language model.",
+  "pricing": {
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": [
+          "Input",
+          "Output",
+          "Estimated cost"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              0.6,
+              null,
+              0.015
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Audio tokens",
+        "unit": "Per 1M tokens",
+        "columns": [
+          "Input",
+          "Output",
+          "Estimated cost"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              null,
+              12,
+              0.015
+            ]
+          }
+        ]
+      }
+    ],
+    "input": 0.6
+  },
+  "license": "proprietary",
+  "release_date": "2025-03-20",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-4o-mini-tts?snapshot=gpt-4o-mini-tts-2025-03-20",
+  "open_weight": false
+}

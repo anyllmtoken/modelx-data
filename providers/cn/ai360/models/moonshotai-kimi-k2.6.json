@@ -1,0 +1,36 @@
+{
+  "id": "moonshotai/kimi-k2.6",
+  "name": "Kimi K2.6",
+  "created_by": "moonshot",
+  "source": "official",
+  "family": "kimi-k2.6",
+  "context_window": 262144,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 6.5,
+    "output": 27
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "1bf1a995",
+    "family": "46a7f2ca",
+    "context_window": "4a1d32eb",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "7ae0a166"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qwen-omni-turbo-realtime",
+  "name": "qwen-omni-turbo-realtime",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "audio",
+  "license": "proprietary",
+  "page_url": "https://help.aliyun.com/zh/model-studio/s2s-model.md",
+  "capabilities": {
+    "streaming": true,
+    "vision": true
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "e348a978",
+    "family": "a3af76f3",
+    "model_type": "9f84c007",
+    "license": "9186c466",
+    "page_url": "ef02f974",
+    "capabilities": "8a3b232e",
+    "pricing": "ada0a771"
+  },
+  "pricing": {
+    "text_input_token": 1.6,
+    "audio_input_token": 25,
+    "vision_input_token": 6,
+    "purein_text_output_token": 6.4,
+    "multiin_text_output_token": 18,
+    "multi_output_token": 50
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "step-2x-large",
+  "name": "Step 2x Large",
+  "created_by": "stepfun",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "stepfun",
+  "description": "Next-generation text-to-image model with enhanced text rendering inside images.",
+  "status": "active",
+  "model_type": "image",
+  "license": "proprietary",
+  "open_weight": false,
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "images_generations"
+  ],
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.1
+  },
+  "_generated": {
+    "name": "663d72be",
+    "family": "ab48b9e2",
+    "description": "df2c49db",
+    "status": "379ac110",
+    "model_type": "db8857fe",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "modalities": "bbf9b8bb",
+    "endpoints": "94304962",
+    "capabilities": "0fa77dc6",
+    "pricing": "7f90fb03"
+  }
+}

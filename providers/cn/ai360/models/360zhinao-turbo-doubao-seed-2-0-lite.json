@@ -1,0 +1,34 @@
+{
+  "id": "360zhinao-turbo-doubao-seed-2-0-lite",
+  "name": "360Zhinao-Turbo Doubao-Seed-2.0-Lite",
+  "created_by": "360zhinao-turbo-doubao-seed-2-0-lite",
+  "source": "official",
+  "family": "ai360",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1,
+    "output": 2
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "715f77d9",
+    "family": "1d747135",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "ac91204c"
+  }
+}

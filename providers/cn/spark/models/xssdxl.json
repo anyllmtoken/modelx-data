@@ -1,0 +1,34 @@
+{
+  "id": "xssdxl",
+  "name": "StableDiffusion_XL_Base_1",
+  "created_by": "stability",
+  "source": "official",
+  "family": "spark",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "e2fe1109",
+    "family": "92678943",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "9a7a9781"
+  }
+}

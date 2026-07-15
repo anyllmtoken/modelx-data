@@ -1,0 +1,34 @@
+{
+  "id": "nvidia/mistral-nemo-minitron-8b-8k-instruct",
+  "name": "mistral-nemo-minitron-8b-8k-instruct",
+  "created_by": "nvidia",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "_generated": {
+    "name": "80cdcf1c",
+    "capabilities": "48995a4e",
+    "model_type": "d669f408",
+    "family": "75e1af53",
+    "parameters": "c9f0f895",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "family": "mistral-nemo",
+  "parameters": 8,
+  "tools": [
+    "function_calling"
+  ],
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

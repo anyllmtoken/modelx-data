@@ -1,0 +1,22 @@
+{
+  "id": "tencent",
+  "name": "腾讯混元",
+  "aliases": [
+    "hunyuan",
+    "tencent-hunyuan"
+  ],
+  "region": "CN",
+  "headquarters": "深圳市, 广东省",
+  "founded": 1998,
+  "url": "https://cloud.tencent.com/product/hunyuan",
+  "api_url": "https://api.hunyuan.cloud.tencent.com/v1",
+  "docs_url": "https://cloud.tencent.com/document/product/1729",
+  "pricing_url": "https://cloud.tencent.com/document/product/1823/130055",
+  "description": "腾讯混元大模型是腾讯全链路自研的通用大模型，提供文本、视觉、图像、视频、3D 等多模态能力。",
+  "type": "cloud",
+  "openai_compatible": true,
+  "free_tier": false,
+  "github_url": "https://github.com/Tencent",
+  "models_url": "https://cloud.tencent.com/document/product/1729/104753",
+  "pricing_currency": "CNY"
+}

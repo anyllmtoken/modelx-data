@@ -1,0 +1,40 @@
+{
+  "id": "internvl3-256b",
+  "name": "InternVL3-256B",
+  "created_by": "internlm",
+  "source": "official",
+  "family": "internlm",
+  "description": "千亿级多模态视觉语言模型，256B 参数",
+  "context_window": 128000,
+  "model_type": "chat",
+  "license": "proprietary",
+  "parameters": 256,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": false,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "d75cfccf",
+    "family": "4a4104a7",
+    "description": "ed248914",
+    "context_window": "34434798",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "parameters": "f718499c",
+    "capabilities": "1d6c1abb",
+    "modalities": "6399757e",
+    "open_weight": "68934a3e"
+  }
+}

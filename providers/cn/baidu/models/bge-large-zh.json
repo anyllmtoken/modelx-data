@@ -1,0 +1,31 @@
+{
+  "id": "bge-large-zh",
+  "name": "BGE-Large-ZH",
+  "created_by": "baai",
+  "source": "official",
+  "family": "baidu",
+  "model_type": "embed",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.5
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "5bfc935f",
+    "family": "5c61f249",
+    "model_type": "764cb3de",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "1621018b"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "gemini-3-pro-image-preview",
+  "name": "Gemini 3 Pro Image Preview",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gemini-3",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text",
+      "image"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 12,
+    "cached_input": 0.2
+  },
+  "context_window": 200000,
+  "max_context_window": 1000000,
+  "performance": 4,
+  "speed": 3,
+  "_generated": {
+    "name": "57551d6f",
+    "family": "eb14e598",
+    "capabilities": "1a260abc",
+    "modalities": "a812c6f9",
+    "pricing": "871170f7",
+    "context_window": "03e6c616",
+    "max_context_window": "8155bc54",
+    "performance": "a87ff679",
+    "speed": "eccbc87e",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e",
+    "page_url": "5c354bb0",
+    "pricing_notes": "a44b3c89"
+  },
+  "model_type": "chat",
+  "tools": [
+    "function_calling"
+  ],
+  "page_url": "https://cursor.com/docs/models-and-pricing#gemini-3-pro-image-preview",
+  "pricing_notes": [
+    "Hidden by default; Native image generation model optimized for speed, flexibility, and contextual understanding; Text input and output priced the same as Gemini 3 Pro; Image output: $120/1M tokens (\\~$0.134 per 1K/2K image, \\~$0.24 per 4K image); Preview models may change before becoming stable and have more restrictive rate limits"
+  ]
+}

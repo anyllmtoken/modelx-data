@@ -1,0 +1,74 @@
+{
+  "id": "text-embedding-3-large",
+  "name": "text-embedding-3-large (large)",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "description": "text-embedding-3-large is our most capable embedding model for both english and non-english tasks.",
+  "status": "deprecated",
+  "model_type": "embed",
+  "performance": 3,
+  "speed": 2,
+  "tagline": "Most capable embedding model",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "tiers": [
+      {
+        "label": "Embeddings",
+        "unit": "",
+        "columns": [
+          "Cost"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              0.13
+            ]
+          },
+          {
+            "label": "Batch",
+            "values": [
+              0.065
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "endpoints": [
+    "embeddings",
+    "batch"
+  ],
+  "snapshots": [
+    "text-embedding-3-large"
+  ],
+  "_generated": {
+    "name": "b7489227",
+    "description": "c66275ab",
+    "status": "2e2f74dc",
+    "model_type": "764cb3de",
+    "performance": "eccbc87e",
+    "speed": "c81e728d",
+    "tagline": "5f056848",
+    "modalities": "68e53d93",
+    "pricing": "116fb9ff",
+    "endpoints": "fc976575",
+    "family": "41411f76",
+    "license": "9186c466",
+    "page_url": "ba934ced",
+    "open_weight": "68934a3e"
+  },
+  "family": "text-embedding",
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/text-embedding-3-large",
+  "open_weight": false,
+  "alias": "text-embedding-3-large"
+}

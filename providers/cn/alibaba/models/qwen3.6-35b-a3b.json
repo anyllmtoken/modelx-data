@@ -1,0 +1,44 @@
+{
+  "id": "qwen3.6-35b-a3b",
+  "name": "qwen3.6-35b-a3b",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3.6",
+  "context_window": 262144,
+  "max_output_tokens": 65536,
+  "model_type": "chat",
+  "license": "apache-2.0",
+  "parameters": 35,
+  "active_parameters": 3,
+  "page_url": "https://help.aliyun.com/zh/model-studio/vision-model.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.8,
+    "output": 10.8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "b4a540a6",
+    "family": "1bc2d26f",
+    "context_window": "4a1d32eb",
+    "max_output_tokens": "297ce0b3",
+    "model_type": "d669f408",
+    "license": "60245731",
+    "parameters": "1c383cd3",
+    "active_parameters": "eccbc87e",
+    "page_url": "0e3b8c4f",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "77d7d1c6"
+  }
+}

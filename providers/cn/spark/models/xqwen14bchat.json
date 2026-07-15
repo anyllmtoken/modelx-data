@@ -1,0 +1,36 @@
+{
+  "id": "xqwen14bchat",
+  "name": "Qwen_v2.5_14b_Instruct",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "spark",
+  "context_window": 8000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.2,
+    "output": 3.6
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "10cf1084",
+    "family": "92678943",
+    "context_window": "67ff32d4",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "3720520b"
+  }
+}

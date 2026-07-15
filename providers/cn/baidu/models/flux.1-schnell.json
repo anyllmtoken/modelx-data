@@ -1,0 +1,32 @@
+{
+  "id": "flux.1-schnell",
+  "name": "FLUX.1-schnell",
+  "created_by": "black-forest-labs",
+  "source": "official",
+  "family": "baidu",
+  "model_type": "image",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "pricing": {
+    "input": 0.005
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "53156177",
+    "family": "5c61f249",
+    "model_type": "db8857fe",
+    "capabilities": "0fa77dc6",
+    "modalities": "bbf9b8bb",
+    "pricing": "5528af74"
+  }
+}

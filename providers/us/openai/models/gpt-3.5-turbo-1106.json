@@ -1,0 +1,17 @@
+{
+  "id": "gpt-3.5-turbo-1106",
+  "name": "GPT-3.5 Turbo (1106)",
+  "created_by": "openai",
+  "source": "official",
+  "family": "gpt-3.5",
+  "status": "deprecated",
+  "model_type": "chat",
+  "alias": "gpt-3.5-turbo",
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "286fd946",
+    "family": "7601054d",
+    "status": "2e2f74dc",
+    "model_type": "d669f408"
+  }
+}

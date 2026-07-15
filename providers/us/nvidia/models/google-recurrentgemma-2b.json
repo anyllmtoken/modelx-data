@@ -1,0 +1,16 @@
+{
+  "id": "google/recurrentgemma-2b",
+  "name": "recurrentgemma-2b",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "c3488f43",
+    "capabilities": "0fa77dc6",
+    "parameters": "c81e728d"
+  },
+  "parameters": 2
+}

@@ -1,0 +1,46 @@
+{
+  "id": "Sao10K/L3-8B-Lunaris-v1-Turbo",
+  "name": "L3-8B-Lunaris-v1-Turbo",
+  "created_by": "sao10k",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "sao10k",
+  "status": "active",
+  "model_type": "chat",
+  "context_window": 8192,
+  "open_weight": true,
+  "capabilities": {
+    "structured_output": true,
+    "json_mode": true,
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.04,
+    "output": 0.05
+  },
+  "endpoints": [
+    "chat_completions"
+  ],
+  "quantization": "fp8",
+  "_generated": {
+    "name": "e63c5dad",
+    "family": "6d838a57",
+    "status": "379ac110",
+    "model_type": "d669f408",
+    "context_window": "77441296",
+    "open_weight": "b326b506",
+    "capabilities": "ac49c06e",
+    "modalities": "68e53d93",
+    "pricing": "20896247",
+    "endpoints": "d8fa1080",
+    "quantization": "640679f9"
+  }
+}

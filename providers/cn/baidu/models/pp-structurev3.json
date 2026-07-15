@@ -1,0 +1,33 @@
+{
+  "id": "pp-structurev3",
+  "name": "PP-StructureV3",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "ernie",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 180
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "e80cf2dc",
+    "family": "e5bfcd87",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "c7637939"
+  }
+}

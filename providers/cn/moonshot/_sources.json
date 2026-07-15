@@ -1,0 +1,5 @@
+{
+  "api": "https://api.moonshot.cn/v1/models",
+  "pricing": "https://platform.kimi.com/docs/pricing/chat",
+  "docs": "https://platform.kimi.com/docs"
+}

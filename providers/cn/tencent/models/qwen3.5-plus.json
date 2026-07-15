@@ -1,0 +1,35 @@
+{
+  "id": "qwen3.5-plus",
+  "name": "Qwen3.5-Plus",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "qwen3.5",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.8,
+    "output": 4.8,
+    "cached_input": 0.08
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "17e0aada",
+    "family": "d548f421",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "89c5ed72"
+  }
+}

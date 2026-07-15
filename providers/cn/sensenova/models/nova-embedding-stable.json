@@ -1,0 +1,33 @@
+{
+  "id": "nova-embedding-stable",
+  "name": "nova-embedding-stable",
+  "created_by": "sensenova",
+  "source": "official",
+  "family": "sensenova",
+  "model_type": "embed",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.5
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "6c357c4f",
+    "family": "4cc45bc4",
+    "model_type": "764cb3de",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "1621018b"
+  }
+}

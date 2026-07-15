@@ -1,0 +1,36 @@
+{
+  "id": "xopdeepseekocr",
+  "name": "DeepSeek-OCR",
+  "created_by": "deepseek",
+  "source": "official",
+  "family": "spark",
+  "context_window": 8000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "4d98b94f",
+    "family": "92678943",
+    "context_window": "67ff32d4",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "9a7a9781"
+  }
+}

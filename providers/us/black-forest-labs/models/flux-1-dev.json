@@ -1,0 +1,39 @@
+{
+  "id": "flux-1-dev",
+  "name": "FLUX.1 [dev] (open weights)",
+  "created_by": "black-forest-labs",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "flux-1",
+  "description": "Open-weight 12B FLUX.1 [dev] checkpoint distributed on Hugging Face for non-commercial use. Hosted inference is exposed via /v1/flux-dev.",
+  "tagline": "Open-weight FLUX.1 [dev] 12B.",
+  "status": "active",
+  "model_type": "image",
+  "release_date": "2024-08-01",
+  "open_weight": true,
+  "license": "flux-1-dev-non-commercial",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "pricing_notes": [
+    "Free local use under non-commercial license."
+  ],
+  "_generated": {
+    "name": "4ea3d53d",
+    "family": "ca4ddc03",
+    "description": "805e3d37",
+    "tagline": "30c012a9",
+    "status": "379ac110",
+    "model_type": "db8857fe",
+    "release_date": "d616039b",
+    "open_weight": "b326b506",
+    "license": "e685bcf4",
+    "modalities": "814867b9",
+    "pricing_notes": "5d91abb7"
+  }
+}

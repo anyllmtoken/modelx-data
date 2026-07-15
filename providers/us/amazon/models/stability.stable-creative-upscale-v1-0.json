@@ -1,0 +1,30 @@
+{
+  "id": "stability.stable-creative-upscale-v1:0",
+  "name": "Stable Image Creative Upscale",
+  "created_by": "stability",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "model_type": "image",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "image",
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "_generated": {
+    "name": "aeb0fd91",
+    "model_type": "db8857fe",
+    "capabilities": "d3117eb0",
+    "modalities": "dc86bff4",
+    "release_date": "d6ab4935",
+    "page_url": "aa51299e"
+  },
+  "release_date": "2024-03-21",
+  "page_url": "https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-stability-ai-stable-image-creative-upscale"
+}

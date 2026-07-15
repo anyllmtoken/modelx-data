@@ -1,0 +1,44 @@
+{
+  "id": "flux-2-pro-preview",
+  "name": "FLUX.2 [pro] Preview",
+  "created_by": "black-forest-labs",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "flux-2",
+  "description": "Latest [pro] improvements and optimizations promoted ahead of the stable [pro] snapshot.",
+  "tagline": "Preview channel for FLUX.2 [pro].",
+  "status": "preview",
+  "model_type": "image",
+  "release_date": "2026-03-03",
+  "open_weight": false,
+  "license": "proprietary",
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "/v1/flux-2-pro-preview"
+  ],
+  "pricing_notes": [
+    "From $0.03/image; megapixel-scaled."
+  ],
+  "_generated": {
+    "name": "c0e78d67",
+    "family": "a844a160",
+    "description": "0a7ef56a",
+    "tagline": "e6741e77",
+    "status": "127aecde",
+    "model_type": "db8857fe",
+    "release_date": "381df44b",
+    "open_weight": "68934a3e",
+    "license": "9186c466",
+    "modalities": "bbf9b8bb",
+    "endpoints": "d330da7e",
+    "pricing_notes": "4a578481"
+  }
+}

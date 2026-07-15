@@ -1,0 +1,39 @@
+{
+  "id": "fireworks/qwen-v2p5-14b-instruct",
+  "name": "qwen-v2p5-14b-instruct",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "qwen",
+  "context_window": 32700,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "e20eab79",
+    "family": "a3af76f3",
+    "context_window": "e1ea274b",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "model_type": "d669f408",
+    "parameters": "aab32389",
+    "page_url": "017a3204",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "parameters": 14,
+  "page_url": "https://fireworks.ai/models/fireworks/qwen-v2p5-14b-instruct",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "step-image-edit-2",
+  "name": "step-image-edit-2",
+  "created_by": "stepfun",
+  "source": "official",
+  "family": "stepfun",
+  "model_type": "image",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "pricing": {
+    "input": 0.02
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "c879bdbb",
+    "family": "ab48b9e2",
+    "model_type": "db8857fe",
+    "capabilities": "0fa77dc6",
+    "modalities": "bbf9b8bb",
+    "pricing": "c1cfd7e6"
+  }
+}

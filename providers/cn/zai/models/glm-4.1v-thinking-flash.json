@@ -1,0 +1,38 @@
+{
+  "id": "glm-4.1v-thinking-flash",
+  "name": "glm-4.1v-thinking-flash",
+  "created_by": "zai",
+  "source": "official",
+  "family": "glm-4.1",
+  "context_window": 64000,
+  "max_output_tokens": 16000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.5,
+    "output": 6,
+    "cached_input": 0.3
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "d55c31d4",
+    "family": "7aa0a8e2",
+    "context_window": "762e98db",
+    "max_output_tokens": "67510c89",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "6399757e",
+    "pricing": "8d8c596b"
+  }
+}

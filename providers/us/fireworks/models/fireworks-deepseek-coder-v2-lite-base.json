@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/deepseek-coder-v2-lite-base",
+  "name": "deepseek-coder-v2-lite-base",
+  "created_by": "deepseek",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "deepseek",
+  "context_window": 163000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "e8c835d9",
+    "family": "4b81b92d",
+    "context_window": "839154f9",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "page_url": "8240f76f"
+  },
+  "page_url": "https://fireworks.ai/models/fireworks/deepseek-coder-v2-lite-base"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qwen3-omni-flash-realtime",
+  "name": "qwen3-omni-flash-realtime",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3",
+  "model_type": "audio",
+  "license": "apache-2.0",
+  "page_url": "https://help.aliyun.com/zh/model-studio/asr-model.md",
+  "capabilities": {
+    "streaming": true,
+    "vision": true
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "24dbfebe",
+    "family": "48c385a0",
+    "model_type": "9f84c007",
+    "license": "60245731",
+    "page_url": "6b1640d1",
+    "capabilities": "8a3b232e",
+    "pricing": "dd8e25a6"
+  },
+  "pricing": {
+    "text_input_token": 2.2,
+    "audio_input_token": 18.9,
+    "vision_input_token": 3.9,
+    "purein_text_output_token": 8.3,
+    "multiin_text_output_token": 15.2,
+    "multi_output_token": 75.1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "flux-pro-1.1-ultra-finetuned",
+  "name": "FLUX 1.1 [pro] Ultra Finetuned",
+  "created_by": "black-forest-labs",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "flux-1.1",
+  "description": "Inference endpoint for user-finetuned FLUX 1.1 [pro] Ultra models created via the BFL finetune API.",
+  "tagline": "Inference for finetuned FLUX 1.1 [pro] Ultra.",
+  "status": "active",
+  "model_type": "image",
+  "open_weight": false,
+  "license": "proprietary",
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "/v1/flux-pro-1.1-ultra-finetuned"
+  ],
+  "pricing_notes": [
+    "$0.06/image (6 credits)."
+  ],
+  "_generated": {
+    "name": "c09a76bd",
+    "family": "dc1b9166",
+    "description": "50a163b2",
+    "tagline": "d149c800",
+    "status": "379ac110",
+    "model_type": "db8857fe",
+    "open_weight": "68934a3e",
+    "license": "9186c466",
+    "modalities": "bbf9b8bb",
+    "endpoints": "d061754b",
+    "pricing_notes": "0556811b"
+  }
+}

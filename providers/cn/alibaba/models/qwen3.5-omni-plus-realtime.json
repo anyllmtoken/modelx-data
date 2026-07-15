@@ -1,0 +1,30 @@
+{
+  "id": "qwen3.5-omni-plus-realtime",
+  "name": "qwen3.5-omni-plus-realtime",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3.5",
+  "model_type": "audio",
+  "license": "apache-2.0",
+  "page_url": "https://help.aliyun.com/zh/model-studio/asr-model.md",
+  "capabilities": {
+    "streaming": true,
+    "vision": true
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "cadfa5d0",
+    "family": "d548f421",
+    "model_type": "9f84c007",
+    "license": "60245731",
+    "page_url": "6b1640d1",
+    "capabilities": "8a3b232e",
+    "pricing": "da493aa2"
+  },
+  "pricing": {
+    "omni_audio_input_token": 80,
+    "omni_audio_output_token": 300,
+    "omni_no_audio_input_token": 10,
+    "omni_no_audio_output_token": 60
+  }
+}

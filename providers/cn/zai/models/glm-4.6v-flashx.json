@@ -1,0 +1,53 @@
+{
+  "id": "glm-4.6v-flashx",
+  "name": "GLM-4.6V-FlashX",
+  "created_by": "zai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "context_window": 128000,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "1276bbae",
+    "context_window": "34434798",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "family": "5a2dc6aa",
+    "model_type": "d669f408",
+    "license": "3c4c3ba5",
+    "open_weight": "b326b506",
+    "tools": "f0c1dc7e",
+    "description": "83ad2799",
+    "page_url": "fc1c38b3",
+    "tagline": "83ad2799",
+    "pricing": "2a394daf",
+    "max_output_tokens": "10e4d788"
+  },
+  "family": "glm-4.6",
+  "model_type": "chat",
+  "license": "mit",
+  "open_weight": true,
+  "tools": [
+    "function_calling"
+  ],
+  "description": "GLM-4.6V-FlashX: Lightweight, High-Speed,and Affordable",
+  "page_url": "https://docs.z.ai/guides/vlm/glm-4.6v",
+  "tagline": "GLM-4.6V-FlashX: Lightweight, High-Speed,and Affordable",
+  "pricing": {
+    "input": 0.15,
+    "output": 1.5,
+    "cached_input": 0.03
+  },
+  "max_output_tokens": 32000
+}

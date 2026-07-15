@@ -1,0 +1,36 @@
+{
+  "id": "deepseek/deepseek-chat",
+  "name": "DeepSeek-Chat",
+  "created_by": "deepseek",
+  "source": "official",
+  "family": "deepseek-chat",
+  "context_window": 163840,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "62c07bd0",
+    "family": "fbd79fd9",
+    "context_window": "7edab444",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "9d7f5a51"
+  }
+}

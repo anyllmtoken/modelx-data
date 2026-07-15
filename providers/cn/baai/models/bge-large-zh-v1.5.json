@@ -1,0 +1,35 @@
+{
+  "id": "bge-large-zh-v1.5",
+  "name": "BGE-Large-ZH-v1.5",
+  "created_by": "baai",
+  "source": "official",
+  "family": "baai",
+  "description": "中文语义向量模型，支持检索、分类、聚类",
+  "context_window": 512,
+  "model_type": "embed",
+  "license": "apache-2.0",
+  "parameters": 0.33,
+  "capabilities": {},
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "3cd63e12",
+    "family": "e3ece447",
+    "description": "8d06c39e",
+    "context_window": "10a7cdd9",
+    "model_type": "764cb3de",
+    "license": "60245731",
+    "parameters": "ffa243f7",
+    "capabilities": "99914b93",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "omni-moderation-2024-09-26",
+  "name": "omni-moderation (26)",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "status": "deprecated",
+  "model_type": "moderation",
+  "alias": "omni-moderation-latest",
+  "performance": 3,
+  "speed": 3,
+  "capabilities": {
+    "streaming": false,
+    "vision": true,
+    "tool_call": false,
+    "structured_output": false,
+    "json_mode": false,
+    "fine_tuning": false,
+    "reasoning": false
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "endpoints": [
+    "batch",
+    "moderation"
+  ],
+  "_generated": {
+    "name": "5479db46",
+    "status": "2e2f74dc",
+    "model_type": "1e7a7b87",
+    "performance": "eccbc87e",
+    "speed": "eccbc87e",
+    "capabilities": "a006bf4a",
+    "modalities": "6399757e",
+    "endpoints": "5692bd6c",
+    "family": "5da37138",
+    "license": "9186c466",
+    "release_date": "f93d8851",
+    "page_url": "15450840",
+    "open_weight": "68934a3e"
+  },
+  "family": "omni-moderation",
+  "license": "proprietary",
+  "release_date": "2024-09-26",
+  "page_url": "https://developers.openai.com/api/docs/models/omni-moderation?snapshot=omni-moderation-2024-09-26",
+  "open_weight": false
+}

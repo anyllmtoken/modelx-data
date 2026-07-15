@@ -1,0 +1,44 @@
+{
+  "id": "flux-pro-1.0-fill",
+  "name": "FLUX.1 Fill [pro]",
+  "created_by": "black-forest-labs",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "flux-1-tools",
+  "description": "Text-driven inpainting and outpainting using an input image and mask.",
+  "tagline": "Inpainting and outpainting for FLUX.1.",
+  "status": "active",
+  "model_type": "image",
+  "release_date": "2024-11-01",
+  "open_weight": false,
+  "license": "proprietary",
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "/v1/flux-pro-1.0-fill"
+  ],
+  "pricing_notes": [
+    "$0.05/image (5 credits)."
+  ],
+  "_generated": {
+    "name": "8f7b4eab",
+    "family": "ad3d574d",
+    "description": "9da72ec9",
+    "tagline": "5384a755",
+    "status": "379ac110",
+    "model_type": "db8857fe",
+    "release_date": "1da35522",
+    "open_weight": "68934a3e",
+    "license": "9186c466",
+    "modalities": "bbf9b8bb",
+    "endpoints": "cc879146",
+    "pricing_notes": "e630e5aa"
+  }
+}

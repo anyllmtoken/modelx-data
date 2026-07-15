@@ -1,0 +1,23 @@
+{
+  "id": "sensenova",
+  "name": "商汤日日新",
+  "aliases": [
+    "sensecore",
+    "sensetime",
+    "sense-nova"
+  ],
+  "region": "CN",
+  "headquarters": "上海市, 中国",
+  "founded": 2014,
+  "url": "https://www.sensecore.cn",
+  "api_url": "https://api.sensecore.cn/v1",
+  "docs_url": "https://www.sensecore.cn/help/docs/model-as-a-service/nova/api/",
+  "pricing_url": "https://www.sensecore.cn/help/docs/model-as-a-service/nova/pricing/",
+  "description": "商汤科技（SenseTime）是领先的人工智能软件公司，SenseNova 日日新大模型系列覆盖文本、视觉、语音等多模态能力。",
+  "type": "direct",
+  "openai_compatible": true,
+  "free_tier": false,
+  "github_url": "https://github.com/sensetime",
+  "models_url": "https://www.sensecore.cn/help/docs/model-as-a-service/nova/pricing/",
+  "pricing_currency": "CNY"
+}

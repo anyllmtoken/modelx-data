@@ -1,0 +1,35 @@
+{
+  "id": "glm-4.7",
+  "name": "glm-4.7",
+  "created_by": "bytedance",
+  "source": "official",
+  "family": "glm-4.7",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 8,
+    "cached_input": 0.4
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "02d3d929",
+    "family": "02d3d929",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "8a443857"
+  }
+}

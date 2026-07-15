@@ -1,0 +1,114 @@
+{
+  "id": "gpt-4o-realtime-preview-2025-06-03",
+  "name": "GPT-4o Realtime (03)",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-4o",
+  "description": "This is a preview release of the GPT-4o Realtime model, capable of responding to audio and text inputs in realtime over WebRTC or a WebSocket interface.",
+  "status": "active",
+  "knowledge_cutoff": "2023-10",
+  "context_window": 32000,
+  "max_output_tokens": 4096,
+  "alias": "gpt-4o-realtime-preview",
+  "performance": 3,
+  "speed": 4,
+  "tagline": "This is a preview release of the GPT-4o Realtime model, capable of responding to audio and text inputs in realtime over WebRTC or a WebSocket interface.",
+  "capabilities": {
+    "streaming": false,
+    "vision": false,
+    "tool_call": true,
+    "structured_output": false,
+    "json_mode": false,
+    "fine_tuning": false,
+    "reasoning": false
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "audio"
+    ],
+    "output": [
+      "text",
+      "audio"
+    ]
+  },
+  "pricing": {
+    "input": 5,
+    "output": 20,
+    "cached_input": 2.5,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": [
+          "Input",
+          "Cached input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              5,
+              2.5,
+              20
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Audio tokens",
+        "unit": "Per 1M tokens",
+        "columns": [
+          "Input",
+          "Cached input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              40,
+              2.5,
+              80
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "endpoints": [
+    "realtime"
+  ],
+  "_generated": {
+    "name": "ef9e9cb0",
+    "family": "15249632",
+    "description": "b0cfc175",
+    "status": "379ac110",
+    "knowledge_cutoff": "ffb42dbe",
+    "context_window": "10e4d788",
+    "max_output_tokens": "f7efa4f8",
+    "performance": "eccbc87e",
+    "speed": "a87ff679",
+    "tagline": "b0cfc175",
+    "capabilities": "4b246339",
+    "modalities": "cf05925d",
+    "pricing": "f059fd86",
+    "endpoints": "c7ed7203",
+    "model_type": "9f84c007",
+    "license": "9186c466",
+    "release_date": "c32ecc6d",
+    "page_url": "f2d360bf",
+    "open_weight": "68934a3e",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "audio",
+  "license": "proprietary",
+  "release_date": "2025-06-03",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-4o-realtime-preview?snapshot=gpt-4o-realtime-preview-2025-06-03",
+  "open_weight": false,
+  "tools": [
+    "function_calling"
+  ]
+}

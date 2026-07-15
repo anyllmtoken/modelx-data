@@ -1,0 +1,38 @@
+{
+  "id": "qwen-tts-realtime",
+  "name": "qwen-tts-realtime",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "tts",
+  "license": "apache-2.0",
+  "page_url": "https://help.aliyun.com/zh/model-studio/tts-model.md",
+  "open_weight": true,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
+  },
+  "_generated": {
+    "name": "2d9d4624",
+    "family": "a3af76f3",
+    "model_type": "4e16a2cf",
+    "license": "60245731",
+    "page_url": "ce096b80",
+    "open_weight": "b326b506",
+    "capabilities": "0fa77dc6",
+    "modalities": "601e776d",
+    "pricing": "825da1a8"
+  },
+  "last_updated": "2026-07-15",
+  "pricing": {
+    "input": 2.4,
+    "output": 12
+  }
+}

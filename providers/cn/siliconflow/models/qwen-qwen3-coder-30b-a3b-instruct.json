@@ -1,0 +1,32 @@
+{
+  "id": "qwen-qwen3-coder-30b-a3b-instruct",
+  "name": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "code",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.7,
+    "output": 2.8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "18190106",
+    "family": "a3af76f3",
+    "model_type": "b6cc3ff4",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "0231c467"
+  }
+}

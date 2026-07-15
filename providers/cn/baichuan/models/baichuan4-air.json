@@ -1,0 +1,35 @@
+{
+  "id": "baichuan4-air",
+  "name": "Baichuan4-Air",
+  "created_by": "baichuan",
+  "source": "official",
+  "family": "baichuan",
+  "context_window": 32768,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.98
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "3e074b2c",
+    "family": "3cbc9929",
+    "context_window": "f4376436",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "8b642d50"
+  }
+}

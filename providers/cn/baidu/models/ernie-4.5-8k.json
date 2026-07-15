@@ -1,0 +1,34 @@
+{
+  "id": "ernie-4.5-8k",
+  "name": "ERNIE 4.5",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "baidu",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 4,
+    "output": 16
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "6f5bfc19",
+    "family": "5c61f249",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "5190413e"
+  }
+}

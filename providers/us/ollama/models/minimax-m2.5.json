@@ -1,0 +1,49 @@
+{
+  "id": "minimax-m2.5",
+  "name": "minimax-m2.5",
+  "created_by": "minimax",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "_generated": {
+    "name": "f00ef4f7",
+    "capabilities": "a281e83a",
+    "family": "c85916f0",
+    "model_type": "d669f408",
+    "description": "5501afb9",
+    "release_date": "4c1b6684",
+    "page_url": "ae821374",
+    "tagline": "5501afb9",
+    "context_window": "6ea395a4",
+    "license": "6327aaea",
+    "open_weight": "b326b506",
+    "modalities": "68e53d93",
+    "reasoning_tokens": "b326b506",
+    "tools": "f0c1dc7e"
+  },
+  "family": "minimax",
+  "model_type": "chat",
+  "description": "MiniMax-M2.5 is a state-of-the-art large language model designed for real-world productivity and coding tasks.",
+  "release_date": "2026-02-12",
+  "page_url": "https://ollama.com/library/minimax-m2.5",
+  "tagline": "MiniMax-M2.5 is a state-of-the-art large language model designed for real-world productivity and coding tasks.",
+  "context_window": 202752,
+  "license": "open-weight",
+  "open_weight": true,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "reasoning_tokens": true,
+  "tools": [
+    "function_calling"
+  ]
+}

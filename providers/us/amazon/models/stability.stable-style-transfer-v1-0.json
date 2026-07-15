@@ -1,0 +1,30 @@
+{
+  "id": "stability.stable-style-transfer-v1:0",
+  "name": "Stable Image Style Transfer",
+  "created_by": "stability",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "model_type": "image",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "image",
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "_generated": {
+    "name": "5fc45080",
+    "model_type": "db8857fe",
+    "capabilities": "d3117eb0",
+    "modalities": "dc86bff4",
+    "release_date": "1b435254",
+    "page_url": "9a1209a3"
+  },
+  "release_date": "2024-10",
+  "page_url": "https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-stability-ai-stable-image-style-transfer"
+}

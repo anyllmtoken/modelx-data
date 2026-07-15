@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/hermes-2-pro-mistral-7b",
+  "name": "hermes-2-pro-mistral-7b",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "context_window": 32700,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "3500b99c",
+    "context_window": "e1ea274b",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "parameters": "8f14e45f",
+    "page_url": "3ef877ee"
+  },
+  "parameters": 7,
+  "page_url": "https://fireworks.ai/models/fireworks/hermes-2-pro-mistral-7b"
+}

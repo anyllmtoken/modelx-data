@@ -1,0 +1,38 @@
+{
+  "id": "skywork-13b",
+  "name": "Skywork-13B",
+  "created_by": "skywork",
+  "source": "official",
+  "family": "skywork",
+  "description": "天工系列基座大模型，130 亿参数",
+  "context_window": 4096,
+  "model_type": "chat",
+  "license": "skywork-1.0",
+  "parameters": 13,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "7631bf67",
+    "family": "6f9bd721",
+    "description": "0715930e",
+    "context_window": "f7efa4f8",
+    "model_type": "d669f408",
+    "license": "71d91ed0",
+    "parameters": "c51ce410",
+    "capabilities": "48995a4e",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

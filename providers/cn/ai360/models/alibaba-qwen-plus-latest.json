@@ -1,0 +1,36 @@
+{
+  "id": "alibaba/qwen-plus-latest",
+  "name": "Qwen-Plus-Latest",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.8,
+    "output": 2
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "b9b43c37",
+    "family": "a3af76f3",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "07f6f1d2"
+  }
+}

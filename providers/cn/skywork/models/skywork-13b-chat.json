@@ -1,0 +1,38 @@
+{
+  "id": "skywork-13b-chat",
+  "name": "Skywork-13B-Chat",
+  "created_by": "skywork",
+  "source": "official",
+  "family": "skywork",
+  "description": "Skywork-13B 对话微调版本",
+  "context_window": 4096,
+  "model_type": "chat",
+  "license": "skywork-1.0",
+  "parameters": 13,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "74cfbe90",
+    "family": "6f9bd721",
+    "description": "9d1cf3fd",
+    "context_window": "f7efa4f8",
+    "model_type": "d669f408",
+    "license": "71d91ed0",
+    "parameters": "c51ce410",
+    "capabilities": "48995a4e",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

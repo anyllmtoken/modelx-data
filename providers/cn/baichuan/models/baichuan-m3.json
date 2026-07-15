@@ -1,0 +1,36 @@
+{
+  "id": "baichuan-m3",
+  "name": "Baichuan-M3",
+  "created_by": "baichuan",
+  "source": "official",
+  "family": "baichuan",
+  "context_window": 32768,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 10,
+    "output": 30
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "d1e45b65",
+    "family": "3cbc9929",
+    "context_window": "f4376436",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "d5468ada"
+  }
+}

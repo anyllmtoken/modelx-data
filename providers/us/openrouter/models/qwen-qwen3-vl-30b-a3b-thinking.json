@@ -1,0 +1,53 @@
+{
+  "id": "qwen/qwen3-vl-30b-a3b-thinking",
+  "name": "Qwen: Qwen3 VL 30B A3B Thinking",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "qwen3",
+  "description": "Qwen3-VL-30B-A3B-Thinking is a multimodal model that unifies strong text generation with visual understanding for images and videos.",
+  "context_window": 131072,
+  "max_output_tokens": 32768,
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.13,
+    "output": 1.56
+  },
+  "_generated": {
+    "name": "1b13d90f",
+    "family": "48c385a0",
+    "description": "a69e99c7",
+    "context_window": "f7de594e",
+    "max_output_tokens": "f4376436",
+    "modalities": "6399757e",
+    "capabilities": "f533f522",
+    "pricing": "02506712",
+    "model_type": "d669f408",
+    "parameters": "34173cb3",
+    "active_parameters": "eccbc87e",
+    "release_date": "17ddf71c",
+    "tagline": "a69e99c7",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "parameters": 30,
+  "active_parameters": 3,
+  "release_date": "2025-10-06",
+  "tagline": "Qwen3-VL-30B-A3B-Thinking is a multimodal model that unifies strong text generation with visual understanding for images and videos.",
+  "tools": [
+    "function_calling"
+  ]
+}

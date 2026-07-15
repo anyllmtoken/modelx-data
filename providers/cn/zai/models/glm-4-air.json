@@ -1,0 +1,38 @@
+{
+  "id": "glm-4-air",
+  "name": "glm-4-air",
+  "created_by": "zai",
+  "source": "official",
+  "family": "glm-4",
+  "context_window": 128000,
+  "max_output_tokens": 4000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.5,
+    "output": 0.5
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "cc2fd1ed",
+    "family": "b85f9b4b",
+    "context_window": "34434798",
+    "max_output_tokens": "1bd69c7d",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "7609fd93"
+  }
+}

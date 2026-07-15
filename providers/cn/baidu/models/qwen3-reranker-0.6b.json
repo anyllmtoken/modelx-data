@@ -1,0 +1,31 @@
+{
+  "id": "qwen3-reranker-0.6b",
+  "name": "Qwen3-Reranker-0.6B",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3",
+  "model_type": "rerank",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.8
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "cce9017d",
+    "family": "48c385a0",
+    "model_type": "477930e6",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "a598d0af"
+  }
+}

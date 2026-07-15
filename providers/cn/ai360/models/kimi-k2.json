@@ -1,0 +1,36 @@
+{
+  "id": "kimi-k2",
+  "name": "Kimi K2",
+  "created_by": "kimi-k2",
+  "source": "official",
+  "family": "kimi-k2",
+  "context_window": 262144,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 13,
+    "output": 54
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "30d3a678",
+    "family": "0f7256d5",
+    "context_window": "4a1d32eb",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "cb6a4d2b"
+  }
+}

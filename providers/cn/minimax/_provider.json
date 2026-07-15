@@ -1,0 +1,21 @@
+{
+  "id": "minimax",
+  "name": "MiniMax",
+  "region": "CN",
+  "headquarters": "上海市, 上海市",
+  "founded": 2021,
+  "url": "https://minimaxi.com",
+  "api_url": "https://api.minimaxi.com/v1",
+  "docs_url": "https://platform.minimaxi.com/docs",
+  "pricing_url": "https://platform.minimaxi.com/docs/guides/pricing-paygo",
+  "description": "MiniMax 是中国 AI 公司，构建支持对话、音乐和视频生成的多模态模型。",
+  "type": "direct",
+  "openai_compatible": true,
+  "free_tier": false,
+  "twitter_url": "https://x.com/MiniMax_AI",
+  "discord_url": "https://discord.com/invite/minimax",
+  "blog_url": "https://minimaxi.com/news",
+  "terms_url": "https://platform.minimaxi.com/protocol/user-agreement",
+  "support_url": "https://platform.minimaxi.com/cooperate",
+  "pricing_currency": "CNY"
+}

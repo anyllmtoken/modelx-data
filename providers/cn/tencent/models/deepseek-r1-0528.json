@@ -1,0 +1,34 @@
+{
+  "id": "deepseek-r1-0528",
+  "name": "deepseek-r1-0528",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "deepseek-r1",
+  "model_type": "reasoning",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 4,
+    "output": 16
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "1f6a0822",
+    "family": "c74cfb8e",
+    "model_type": "17475f7f",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "5190413e"
+  }
+}

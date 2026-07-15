@@ -1,0 +1,21 @@
+{
+  "id": "bailian",
+  "name": "阿里云百炼",
+  "region": "CN",
+  "headquarters": "杭州市, 浙江省",
+  "founded": 2009,
+  "url": "https://bailian.console.aliyun.com/",
+  "api_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "docs_url": "https://help.aliyun.com/zh/model-studio/",
+  "pricing_url": "https://help.aliyun.com/zh/model-studio/models",
+  "description": "阿里云百炼提供通义千问系列模型 API，支持文本、视觉、代码、音频等多模态能力。",
+  "type": "cloud",
+  "openai_compatible": true,
+  "free_tier": true,
+  "models_url": "https://help.aliyun.com/zh/model-studio/getting-started/models",
+  "twitter_url": "https://x.com/alibaba_qwen",
+  "blog_url": "https://qwenlm.github.io/blog",
+  "terms_url": "https://help.aliyun.com/zh/legal/latest/terms-of-service",
+  "support_url": "https://help.aliyun.com/contact",
+  "pricing_currency": "CNY"
+}

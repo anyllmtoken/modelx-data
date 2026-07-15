@@ -1,0 +1,39 @@
+{
+  "id": "moonshotai-kimi-k2.5",
+  "name": "Moonshotai/Kimi-K2.5",
+  "created_by": "moonshot-kimi",
+  "source": "official",
+  "family": "moonshot",
+  "context_window": 256000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "video"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 4,
+    "output": 21
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "21dde274",
+    "family": "9126e350",
+    "context_window": "2fd324cb",
+    "model_type": "d669f408",
+    "capabilities": "0946b777",
+    "modalities": "3ad4060a",
+    "pricing": "4640ecea"
+  }
+}

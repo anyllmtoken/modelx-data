@@ -1,0 +1,53 @@
+{
+  "id": "qwen3-235b-a22b-thinking-2507",
+  "name": "qwen3-235b-a22b-thinking (2507)",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "qwen3",
+  "alias": "qwen3-235b-a22b-thinking",
+  "capabilities": {
+    "streaming": true,
+    "reasoning": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "provider": "qwen",
+  "_generated": {
+    "name": "f8820594",
+    "family": "48c385a0",
+    "capabilities": "a9fcd739",
+    "provider": "a3af76f3",
+    "model_type": "d669f408",
+    "license": "60245731",
+    "parameters": "577ef115",
+    "active_parameters": "b6d767d2",
+    "context_window": "2fd324cb",
+    "reasoning_tokens": "b326b506",
+    "page_url": "6ecc6f25",
+    "open_weight": "b326b506",
+    "modalities": "68e53d93",
+    "tools": "f0c1dc7e",
+    "status": "2e2f74dc"
+  },
+  "model_type": "chat",
+  "license": "apache-2.0",
+  "parameters": 235,
+  "active_parameters": 22,
+  "context_window": 256000,
+  "reasoning_tokens": true,
+  "page_url": "https://www.alibabacloud.com/help/en/model-studio/text-generation-model",
+  "open_weight": true,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "tools": [
+    "function_calling"
+  ],
+  "status": "deprecated"
+}

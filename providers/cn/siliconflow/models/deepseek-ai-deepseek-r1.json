@@ -1,0 +1,32 @@
+{
+  "id": "deepseek-ai-deepseek-r1",
+  "name": "deepseek-ai/DeepSeek-R1",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "deepseek",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 4,
+    "output": 16
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "b0753d1c",
+    "family": "4b81b92d",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "5190413e"
+  }
+}

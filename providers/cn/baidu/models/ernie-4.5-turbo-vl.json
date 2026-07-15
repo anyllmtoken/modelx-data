@@ -1,0 +1,33 @@
+{
+  "id": "ernie-4.5-turbo-vl",
+  "name": "ERNIE 4.5 Turbo VL",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "ernie",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 3
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "d4f067f6",
+    "family": "e5bfcd87",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "cfcd0de0"
+  }
+}

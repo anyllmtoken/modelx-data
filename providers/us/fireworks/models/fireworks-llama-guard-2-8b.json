@@ -1,0 +1,39 @@
+{
+  "id": "fireworks/llama-guard-2-8b",
+  "name": "llama-guard-2-8b",
+  "created_by": "meta",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "llama-guard",
+  "context_window": 8190,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "model_type": "moderation",
+  "_generated": {
+    "name": "f8028bed",
+    "family": "3190be28",
+    "context_window": "16bb35ba",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "model_type": "1e7a7b87",
+    "parameters": "c9f0f895",
+    "page_url": "6e17ee3e",
+    "modalities": "68e53d93"
+  },
+  "parameters": 8,
+  "page_url": "https://fireworks.ai/models/fireworks/llama-guard-2-8b",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

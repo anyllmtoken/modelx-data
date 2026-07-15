@@ -1,0 +1,37 @@
+{
+  "id": "qwen2.5-vl-7b-instruct",
+  "name": "Qwen 2.5 VL 7B Instruct",
+  "created_by": "aliyun",
+  "source": "official",
+  "family": "qwen2.5",
+  "context_window": 128000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 5
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "207e293b",
+    "family": "45d84b68",
+    "context_window": "34434798",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "0843b982",
+    "pricing": "383111d1"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "hy-image-lite",
+  "name": "HY-Image-Lite",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "hunyuan",
+  "model_type": "image",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "pricing": {
+    "input": 0.099
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "bae001c0",
+    "family": "39786cc8",
+    "model_type": "db8857fe",
+    "capabilities": "0fa77dc6",
+    "modalities": "bbf9b8bb",
+    "pricing": "bf638ec0"
+  }
+}

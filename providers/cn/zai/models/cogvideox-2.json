@@ -1,0 +1,34 @@
+{
+  "id": "cogvideox-2",
+  "name": "cogvideox-2",
+  "created_by": "zai",
+  "source": "official",
+  "family": "glm",
+  "model_type": "video",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.5,
+    "output": 0.25
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "a0414070",
+    "family": "cb6bfc11",
+    "model_type": "4d1b75ca",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "14657c1d"
+  }
+}

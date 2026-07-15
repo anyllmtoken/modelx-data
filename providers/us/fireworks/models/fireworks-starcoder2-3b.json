@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/starcoder2-3b",
+  "name": "starcoder2-3b",
+  "created_by": "fireworks",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "context_window": 16300,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "ecb5e231",
+    "context_window": "6c880a6d",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "parameters": "eccbc87e",
+    "page_url": "f0933d06"
+  },
+  "parameters": 3,
+  "page_url": "https://fireworks.ai/models/fireworks/starcoder2-3b"
+}

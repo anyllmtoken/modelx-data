@@ -1,0 +1,4 @@
+{
+  "models": "https://maas.xfyun.cn/api/v1/gpt-finetune/model/base/list-v2",
+  "pricing": "https://maas.xfyun.cn/api/v1/gpt-finetune/model/base/list-v2"
+}

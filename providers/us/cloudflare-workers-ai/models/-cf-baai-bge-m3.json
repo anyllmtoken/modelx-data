@@ -1,0 +1,20 @@
+{
+  "id": "@cf/baai/bge-m3",
+  "name": "bge-m3",
+  "created_by": "baai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "9815efb3",
+    "capabilities": "0fa77dc6",
+    "status": "379ac110",
+    "model_type": "764cb3de",
+    "page_url": "f20151bb"
+  },
+  "status": "active",
+  "model_type": "embed",
+  "page_url": "https://developers.cloudflare.com/workers-ai/models/#bge-m3"
+}

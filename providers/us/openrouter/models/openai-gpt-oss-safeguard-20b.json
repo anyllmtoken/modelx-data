@@ -1,0 +1,51 @@
+{
+  "id": "openai/gpt-oss-safeguard-20b",
+  "name": "OpenAI: gpt-oss-safeguard-20b",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-oss",
+  "description": "gpt-oss-safeguard-20b is a safety reasoning model from OpenAI built upon gpt-oss-20b.",
+  "context_window": 131072,
+  "max_output_tokens": 65536,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.075,
+    "output": 0.3,
+    "cached_input": 0.038
+  },
+  "_generated": {
+    "name": "3d9028b9",
+    "family": "82d0cb0b",
+    "description": "8a099f2d",
+    "context_window": "f7de594e",
+    "max_output_tokens": "297ce0b3",
+    "modalities": "68e53d93",
+    "capabilities": "f533f522",
+    "pricing": "d8c33b98",
+    "model_type": "1e7a7b87",
+    "parameters": "98f13708",
+    "release_date": "ea42b142",
+    "tagline": "8a099f2d",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "moderation",
+  "parameters": 20,
+  "release_date": "2025-10-29",
+  "tagline": "gpt-oss-safeguard-20b is a safety reasoning model from OpenAI built upon gpt-oss-20b.",
+  "tools": [
+    "function_calling"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "z-ai/glm-4.6v",
+  "name": "Z.ai: GLM 4.6V",
+  "created_by": "z-ai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "description": "GLM-4.6V is a large multimodal model designed for high-fidelity visual understanding and long-context reasoning across images, documents, and mixed media.",
+  "context_window": 131072,
+  "max_output_tokens": 32768,
+  "modalities": {
+    "input": [
+      "image",
+      "text",
+      "video"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.3,
+    "output": 0.9,
+    "cached_input": 0.055
+  },
+  "_generated": {
+    "name": "55f2c86f",
+    "description": "c39129f8",
+    "context_window": "f7de594e",
+    "max_output_tokens": "f4376436",
+    "modalities": "1e916c3b",
+    "capabilities": "f533f522",
+    "pricing": "99c50f32",
+    "family": "5a2dc6aa",
+    "model_type": "d669f408",
+    "release_date": "57064400",
+    "tagline": "c39129f8",
+    "tools": "f0c1dc7e"
+  },
+  "family": "glm-4.6",
+  "model_type": "chat",
+  "release_date": "2025-12-08",
+  "tagline": "GLM-4.6V is a large multimodal model designed for high-fidelity visual understanding and long-context reasoning across images, documents, and mixed media.",
+  "tools": [
+    "function_calling"
+  ]
+}

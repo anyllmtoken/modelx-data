@@ -1,0 +1,33 @@
+{
+  "id": "kimi-k2.6",
+  "name": "kimi-k2.6",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "kimi-k2.6",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 6.5
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "46a7f2ca",
+    "family": "46a7f2ca",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "2daf92a3"
+  }
+}

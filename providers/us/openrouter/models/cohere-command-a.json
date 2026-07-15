@@ -1,0 +1,42 @@
+{
+  "id": "cohere/command-a",
+  "name": "Cohere: Command A",
+  "created_by": "cohere",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "description": "Command A is an open-weights 111B parameter model with a 256k context window focused on delivering great performance across agentic, multilingual, and coding use cases.",
+  "context_window": 256000,
+  "max_output_tokens": 8192,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "structured_output": true
+  },
+  "pricing": {
+    "input": 2.5,
+    "output": 10
+  },
+  "_generated": {
+    "name": "36b3e150",
+    "description": "335ef02d",
+    "context_window": "2fd324cb",
+    "max_output_tokens": "77441296",
+    "modalities": "68e53d93",
+    "capabilities": "c8033cf7",
+    "pricing": "cf1c6d02",
+    "family": "8e3865ab",
+    "model_type": "d669f408",
+    "release_date": "5558421b",
+    "tagline": "335ef02d"
+  },
+  "family": "command-a",
+  "model_type": "chat",
+  "release_date": "2025-03-13",
+  "tagline": "Command A is an open-weights 111B parameter model with a 256k context window focused on delivering great performance across agentic, multilingual, and coding use cases."
+}

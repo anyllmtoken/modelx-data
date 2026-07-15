@@ -1,0 +1,41 @@
+{
+  "id": "gpt-4-turbo-preview",
+  "name": "GPT-4 Turbo Preview",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-4-turbo",
+  "description": "This is a research preview of the GPT-4 Turbo model, an older high-intelligence GPT model.",
+  "status": "deprecated",
+  "model_type": "chat",
+  "tagline": "An older fast GPT model",
+  "successor": "gpt-4o",
+  "snapshots": [
+    "gpt-4-0125-preview",
+    "gpt-4-1106-vision-preview"
+  ],
+  "_generated": {
+    "name": "9a4520ae",
+    "family": "e55097d8",
+    "description": "b7a67cc4",
+    "status": "2e2f74dc",
+    "model_type": "d669f408",
+    "tagline": "852f051a",
+    "successor": "15249632",
+    "license": "9186c466",
+    "page_url": "1ffdc07b",
+    "open_weight": "68934a3e",
+    "modalities": "68e53d93"
+  },
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-4-turbo-preview",
+  "open_weight": false,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

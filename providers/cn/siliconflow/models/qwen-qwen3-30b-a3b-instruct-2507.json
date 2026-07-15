@@ -1,0 +1,32 @@
+{
+  "id": "qwen-qwen3-30b-a3b-instruct-2507",
+  "name": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.7,
+    "output": 2.8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "c41e678f",
+    "family": "a3af76f3",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "0231c467"
+  }
+}

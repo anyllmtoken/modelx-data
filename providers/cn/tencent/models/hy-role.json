@@ -1,0 +1,34 @@
+{
+  "id": "hy-role",
+  "name": "Hy-Role",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "hunyuan",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2.4,
+    "output": 9.6
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "47a55237",
+    "family": "39786cc8",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "2c5fde52"
+  }
+}

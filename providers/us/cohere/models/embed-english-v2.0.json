@@ -1,0 +1,37 @@
+{
+  "id": "embed-english-v2.0",
+  "name": "embed-english-v2.0",
+  "created_by": "cohere",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "description": "Unique per deployment",
+  "status": "active",
+  "model_type": "embed",
+  "tagline": "Unique per deployment",
+  "capabilities": {},
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "d7202d17",
+    "description": "4f68c471",
+    "status": "379ac110",
+    "model_type": "764cb3de",
+    "tagline": "4f68c471",
+    "capabilities": "99914b93",
+    "modalities": "68e53d93",
+    "family": "764cb3de",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "page_url": "e928a33f"
+  },
+  "family": "embed",
+  "license": "proprietary",
+  "open_weight": false,
+  "page_url": "https://docs.cohere.com/docs/models#embed-english-v2.0"
+}

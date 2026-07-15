@@ -1,0 +1,36 @@
+{
+  "id": "yi-vision-v2",
+  "name": "Yi-Vision-V2",
+  "created_by": "zeroone",
+  "source": "official",
+  "family": "yi",
+  "context_window": 16384,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 6
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "bbea54ca",
+    "family": "b76acd09",
+    "context_window": "c76fe1d8",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "6399757e",
+    "pricing": "95805671"
+  }
+}

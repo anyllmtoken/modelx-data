@@ -1,0 +1,39 @@
+{
+  "id": "stepfun/step-3.7-flash",
+  "name": "step-3.7-flash",
+  "created_by": "stepfun",
+  "source": "official",
+  "context_window": 256000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.2,
+    "output": 1.15
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "tools": [
+    "function_calling"
+  ],
+  "_generated": {
+    "name": "ae2123a8",
+    "context_window": "2fd324cb",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "ebf451da",
+    "modalities": "68e53d93",
+    "tools": "f0c1dc7e"
+  },
+  "last_updated": "2026-07-15"
+}

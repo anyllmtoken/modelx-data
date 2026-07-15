@@ -1,0 +1,32 @@
+{
+  "id": "qwen-qwen3-reranker-8b",
+  "name": "Qwen/Qwen3-Reranker-8B",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "rerank",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.28,
+    "output": 0
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "eba19835",
+    "family": "a3af76f3",
+    "model_type": "477930e6",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "8487b882"
+  }
+}

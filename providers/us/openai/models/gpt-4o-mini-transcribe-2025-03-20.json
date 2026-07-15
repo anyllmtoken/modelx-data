@@ -1,0 +1,80 @@
+{
+  "id": "gpt-4o-mini-transcribe-2025-03-20",
+  "name": "GPT-4o mini Transcribe (20)",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-4o",
+  "status": "deprecated",
+  "knowledge_cutoff": "2024-06",
+  "context_window": 16000,
+  "max_output_tokens": 2000,
+  "model_type": "transcription",
+  "alias": "gpt-4o-mini-transcribe",
+  "performance": 3,
+  "speed": 4,
+  "modalities": {
+    "input": [
+      "audio",
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "endpoints": [
+    "transcription",
+    "realtime"
+  ],
+  "_generated": {
+    "name": "4ab266c9",
+    "family": "15249632",
+    "status": "2e2f74dc",
+    "knowledge_cutoff": "b087cb52",
+    "context_window": "67510c89",
+    "max_output_tokens": "08f90c1a",
+    "model_type": "5e12d29a",
+    "performance": "eccbc87e",
+    "speed": "a87ff679",
+    "modalities": "7cee5e0e",
+    "endpoints": "250917d3",
+    "description": "72014020",
+    "tagline": "72014020",
+    "pricing": "0de5876d",
+    "license": "9186c466",
+    "release_date": "c68d2cee",
+    "page_url": "089754f9",
+    "open_weight": "68934a3e"
+  },
+  "description": "GPT-4o mini Transcribe is a speech-to-text model that uses GPT-4o mini to transcribe audio.",
+  "tagline": "GPT-4o mini Transcribe is a speech-to-text model that uses GPT-4o mini to transcribe audio.",
+  "pricing": {
+    "tiers": [
+      {
+        "label": "Audio tokens",
+        "unit": "Per 1M tokens",
+        "columns": [
+          "Input",
+          "Output",
+          "Estimated cost"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              1.25,
+              5,
+              0.003
+            ]
+          }
+        ]
+      }
+    ],
+    "input": 1.25,
+    "output": 5
+  },
+  "license": "proprietary",
+  "release_date": "2025-03-20",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-4o-mini-transcribe?snapshot=gpt-4o-mini-transcribe-2025-03-20",
+  "open_weight": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "qwen-plus-360gpt-pro",
+  "name": "Qwen-Plus 360GPT-Pro",
+  "created_by": "qwen-plus-360gpt-pro",
+  "source": "official",
+  "family": "qwen",
+  "context_window": 65536,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "1e241dbf",
+    "family": "a3af76f3",
+    "context_window": "297ce0b3",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "9d7f5a51"
+  }
+}

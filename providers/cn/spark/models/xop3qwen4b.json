@@ -1,0 +1,36 @@
+{
+  "id": "xop3qwen4b",
+  "name": "Qwen3-4B",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "spark",
+  "context_window": 16000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.18,
+    "output": 1.8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "0a93d66a",
+    "family": "92678943",
+    "context_window": "67510c89",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "838624a8"
+  }
+}

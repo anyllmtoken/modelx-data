@@ -1,0 +1,53 @@
+{
+  "id": "z-ai/glm-4.5",
+  "name": "Z.ai: GLM 4.5",
+  "created_by": "z-ai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "description": "GLM-4.5 is our latest flagship foundation model, purpose-built for agent-based applications.",
+  "context_window": 131072,
+  "max_output_tokens": 98304,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.6,
+    "output": 2.2,
+    "cached_input": 0.11
+  },
+  "_generated": {
+    "name": "2e1287b3",
+    "description": "f800c7e0",
+    "context_window": "f7de594e",
+    "max_output_tokens": "79cef9cc",
+    "modalities": "68e53d93",
+    "capabilities": "f533f522",
+    "pricing": "7c62fb45",
+    "family": "e8ea1e1e",
+    "model_type": "d669f408",
+    "release_date": "fc8e67ab",
+    "tagline": "f800c7e0",
+    "tools": "f0c1dc7e",
+    "status": "2e2f74dc",
+    "deprecation_date": "e86db669"
+  },
+  "family": "glm-4.5",
+  "model_type": "chat",
+  "release_date": "2025-07-25",
+  "tagline": "GLM-4.5 is our latest flagship foundation model, purpose-built for agent-based applications.",
+  "tools": [
+    "function_calling"
+  ],
+  "status": "deprecated",
+  "deprecation_date": "2026-12-31"
+}

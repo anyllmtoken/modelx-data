@@ -1,0 +1,68 @@
+{
+  "id": "whisper-1",
+  "name": "Whisper (1)",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "whisper",
+  "description": "Whisper is a general-purpose speech recognition model, trained on a large dataset of diverse audio. You can also use it as a multitask model to perform multilingual speech recognition as well as speech translation and language identification.",
+  "status": "deprecated",
+  "model_type": "transcription",
+  "performance": 2,
+  "speed": 3,
+  "tagline": "General-purpose speech recognition model",
+  "modalities": {
+    "input": [
+      "audio"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "tiers": [
+      {
+        "label": "Pricing",
+        "unit": "Per 1M tokens",
+        "columns": [
+          "Cost"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              0.006
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "endpoints": [
+    "transcription",
+    "translation"
+  ],
+  "snapshots": [
+    "whisper-1"
+  ],
+  "_generated": {
+    "name": "bee6f271",
+    "family": "7fbc43e3",
+    "description": "da83a8e0",
+    "status": "2e2f74dc",
+    "model_type": "5e12d29a",
+    "performance": "c81e728d",
+    "speed": "eccbc87e",
+    "tagline": "a75c6064",
+    "modalities": "b8e84832",
+    "pricing": "8d5fba9a",
+    "endpoints": "65ab23a8",
+    "license": "9186c466",
+    "page_url": "11933fc3",
+    "open_weight": "68934a3e"
+  },
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/whisper-1",
+  "open_weight": false,
+  "alias": "whisper-1"
+}

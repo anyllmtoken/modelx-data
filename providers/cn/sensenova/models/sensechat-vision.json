@@ -1,0 +1,35 @@
+{
+  "id": "sensechat-vision",
+  "name": "SenseChat-Vision",
+  "created_by": "sensenova",
+  "source": "official",
+  "family": "sensenova",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 10,
+    "output": 60
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "816420dd",
+    "family": "4cc45bc4",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "6399757e",
+    "pricing": "c2377de7"
+  }
+}

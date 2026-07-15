@@ -1,0 +1,34 @@
+{
+  "id": "glm-realtime-air",
+  "name": "glm-realtime-air",
+  "created_by": "zai",
+  "source": "official",
+  "family": "glm",
+  "model_type": "audio",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.3,
+    "output": 0.3
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "91cdeb26",
+    "family": "cb6bfc11",
+    "model_type": "9f84c007",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "bdf3b6b5"
+  }
+}

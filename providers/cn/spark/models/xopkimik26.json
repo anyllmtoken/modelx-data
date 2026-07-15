@@ -1,0 +1,38 @@
+{
+  "id": "xopkimik26",
+  "name": "Kimi-K2.6",
+  "created_by": "moonshot",
+  "source": "official",
+  "family": "spark",
+  "context_window": 256000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 3.9,
+    "output": 16.2,
+    "cached_input": 0.78
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "c15cc4e3",
+    "family": "92678943",
+    "context_window": "2fd324cb",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "6399757e",
+    "pricing": "000270c8"
+  }
+}

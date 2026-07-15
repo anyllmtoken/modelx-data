@@ -1,0 +1,32 @@
+{
+  "id": "kling-image-1.5",
+  "name": "Kling Image 1.5",
+  "created_by": "kling",
+  "source": "official",
+  "family": "kling",
+  "model_type": "image",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "pricing": {
+    "input": 0.1
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "e0d3f3a3",
+    "family": "3bb2954c",
+    "model_type": "db8857fe",
+    "capabilities": "0fa77dc6",
+    "modalities": "bbf9b8bb",
+    "pricing": "7f90fb03"
+  }
+}

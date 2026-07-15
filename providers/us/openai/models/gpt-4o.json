@@ -1,0 +1,116 @@
+{
+  "id": "gpt-4o",
+  "name": "GPT-4o",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-4o",
+  "description": "GPT-4o (“o” for “omni”) is our versatile, high-intelligence flagship model.",
+  "status": "deprecated",
+  "knowledge_cutoff": "2023-10",
+  "context_window": 128000,
+  "max_output_tokens": 4096,
+  "model_type": "chat",
+  "performance": 3,
+  "speed": 3,
+  "tagline": "Fast, intelligent, flexible GPT model",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "structured_output": false,
+    "json_mode": false,
+    "fine_tuning": true,
+    "reasoning": false
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2.5,
+    "output": 10,
+    "cached_input": 1.25,
+    "batch_input": 1.25,
+    "batch_output": 5,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": [
+          "Input",
+          "Cached input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              2.5,
+              1.25,
+              10
+            ]
+          },
+          {
+            "label": "Batch",
+            "values": [
+              1.25,
+              null,
+              5
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tools": [
+    "function_calling",
+    "web_search",
+    "file_search",
+    "image_generation",
+    "code_interpreter",
+    "mcp"
+  ],
+  "endpoints": [
+    "chat_completions",
+    "responses",
+    "assistants",
+    "batch"
+  ],
+  "snapshots": [
+    "gpt-4o-2024-11-20",
+    "gpt-4o-2024-08-06",
+    "gpt-4o-2024-05-13"
+  ],
+  "_generated": {
+    "name": "6867acdf",
+    "family": "15249632",
+    "description": "f06aa8e0",
+    "status": "2e2f74dc",
+    "knowledge_cutoff": "ffb42dbe",
+    "context_window": "34434798",
+    "max_output_tokens": "f7efa4f8",
+    "model_type": "d669f408",
+    "performance": "eccbc87e",
+    "speed": "eccbc87e",
+    "tagline": "964f7a0b",
+    "capabilities": "d69357f6",
+    "modalities": "6399757e",
+    "pricing": "e052e983",
+    "tools": "1d5a765f",
+    "endpoints": "1c48b50a",
+    "license": "9186c466",
+    "page_url": "4d20d32d",
+    "open_weight": "68934a3e",
+    "release_date": "090277ab"
+  },
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-4o",
+  "open_weight": false,
+  "release_date": "2024-11-20"
+}

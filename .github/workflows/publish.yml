@@ -1,0 +1,86 @@
+name: Publish @anyllmtoken/modelx-data
+
+on:
+  schedule:
+    # Daily at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # manual trigger
+
+permissions:
+  contents: write
+  id-token: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Install Playwright browsers
+        run: bunx playwright install chromium
+
+      - name: Run fetch scripts (US)
+        run: |
+          for f in scripts/fetch/us/fetch-*.ts; do
+            echo "→ $(basename $f)"
+            bun run "$f" 2>&1 | tail -1
+          done
+
+      - name: Run fetch scripts (CN)
+        run: |
+          for f in scripts/fetch/cn/fetch-*.ts; do
+            echo "→ $(basename $f)"
+            bun run "$f" 2>&1 | tail -1
+          done
+
+      - name: Generate data files
+        run: |
+          bun run generate
+          bun run generate:cn
+
+      - name: Detect and write changes
+        id: changes
+        run: |
+          if git diff --quiet -- providers/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            SHA=$(git rev-parse HEAD)
+            bun run changes -- HEAD~1 2>/dev/null || true
+            git config user.name "github-actions[bot]"
+            git config user.email "bot@modelx.dev"
+            git add providers/ src/data-*.ts packages/data/
+            git commit -m "data: auto-update @ $(date -u +%Y-%m-%d)" || true
+            git push
+          fi
+
+      - name: Bump version
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          cd packages/data
+          npm version patch
+
+      - name: Publish to npm
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          cd packages/data
+          echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > .npmrc
+          npm publish --provenance --access public
+
+      - name: Push version bump
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "bot@modelx.dev"
+          git add packages/data/package.json
+          git commit -m "data: bump version" || true
+          git push --follow-tags

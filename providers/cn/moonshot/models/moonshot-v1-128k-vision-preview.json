@@ -1,0 +1,41 @@
+{
+  "id": "moonshot-v1-128k-vision-preview",
+  "name": "Moonshot v1 128K Vision",
+  "created_by": "moonshot",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "moonshot",
+  "context_window": 131072,
+  "license": "proprietary",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": false,
+  "_generated": {
+    "name": "28951300",
+    "family": "9126e350",
+    "context_window": "f7de594e",
+    "license": "9186c466",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "6399757e",
+    "open_weight": "68934a3e",
+    "pricing": "d5468ada"
+  },
+  "pricing": {
+    "input": 10,
+    "output": 30
+  }
+}

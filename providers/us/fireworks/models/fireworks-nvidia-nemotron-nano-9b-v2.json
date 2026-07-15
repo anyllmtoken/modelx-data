@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/nvidia-nemotron-nano-9b-v2",
+  "name": "nvidia-nemotron-nano-9b-v2",
+  "created_by": "fireworks",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "context_window": 128000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "1e347f76",
+    "context_window": "34434798",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "parameters": "45c48cce",
+    "page_url": "93d2cec9"
+  },
+  "parameters": 9,
+  "page_url": "https://fireworks.ai/models/fireworks/nvidia-nemotron-nano-9b-v2"
+}

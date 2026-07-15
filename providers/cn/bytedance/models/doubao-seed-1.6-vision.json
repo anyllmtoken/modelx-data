@@ -1,0 +1,37 @@
+{
+  "id": "doubao-seed-1.6-vision",
+  "name": "doubao-seed-1.6-vision",
+  "created_by": "bytedance",
+  "source": "official",
+  "family": "doubao",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.8,
+    "output": 8,
+    "cached_input": 0.16
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "05da2049",
+    "family": "fca2122f",
+    "model_type": "d669f408",
+    "capabilities": "068872da",
+    "modalities": "6399757e",
+    "pricing": "818ca302"
+  }
+}

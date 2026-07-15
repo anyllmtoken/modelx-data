@@ -1,0 +1,32 @@
+{
+  "id": "doubao-seedance-2.0-fast",
+  "name": "doubao-seedance-2.0-fast",
+  "created_by": "bytedance",
+  "source": "official",
+  "family": "doubao",
+  "model_type": "video",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "video"
+    ]
+  },
+  "pricing": {
+    "input": 37
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "d16196e4",
+    "family": "fca2122f",
+    "model_type": "4d1b75ca",
+    "capabilities": "0fa77dc6",
+    "modalities": "85fd0565",
+    "pricing": "06493f7e"
+  }
+}

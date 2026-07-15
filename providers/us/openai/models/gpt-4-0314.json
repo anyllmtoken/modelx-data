@@ -1,0 +1,17 @@
+{
+  "id": "gpt-4-0314",
+  "name": "GPT-4 (0314)",
+  "created_by": "openai",
+  "source": "official",
+  "family": "gpt-4",
+  "status": "deprecated",
+  "model_type": "chat",
+  "alias": "gpt-4",
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "a821243e",
+    "family": "1be4bcd3",
+    "status": "2e2f74dc",
+    "model_type": "d669f408"
+  }
+}

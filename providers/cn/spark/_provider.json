@@ -1,0 +1,23 @@
+{
+  "id": "spark",
+  "name": "讯飞星火",
+  "aliases": [
+    "xfyun",
+    "iflytek",
+    "xunfei"
+  ],
+  "region": "CN",
+  "headquarters": "合肥市, 安徽省",
+  "founded": 1999,
+  "url": "https://xinghuo.xfyun.cn",
+  "api_url": "https://spark-api.xf-yun.com/v1",
+  "docs_url": "https://www.xfyun.cn/doc/spark/API.html",
+  "pricing_url": "https://maas.xfyun.cn/api/v1/gpt-finetune/model/base/list-v2",
+  "description": "讯飞星火是科大讯飞推出的新一代认知大模型，拥有文本生成、语言理解、知识问答等七大核心能力。",
+  "type": "direct",
+  "openai_compatible": false,
+  "free_tier": true,
+  "github_url": "https://github.com/iFlytek",
+  "models_url": "https://xinghuo.xfyun.cn/sparkapi",
+  "pricing_currency": "CNY"
+}

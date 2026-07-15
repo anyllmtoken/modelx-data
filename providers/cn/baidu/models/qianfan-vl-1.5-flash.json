@@ -1,0 +1,35 @@
+{
+  "id": "qianfan-vl-1.5-flash",
+  "name": "Qianfan-VL-1.5-Flash",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "baidu",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.75,
+    "output": 3
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "0d13ef40",
+    "family": "5c61f249",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "6399757e",
+    "pricing": "5605a2fe"
+  }
+}

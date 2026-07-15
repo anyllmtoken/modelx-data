@@ -19,7 +19,7 @@ let _region: "cn" | "us" = "us";
 /** Set the active region. Call before any read/write. */
 export function setRegion(region: "cn" | "us"): void { _region = region; }
 export function getRegion(): "cn" | "us" { return _region; }
-export function getProvidersDir(): string { return path.join(ROOT, `providers-${_region}`); }
+export function getProvidersDir(): string { return path.join(ROOT, `providers/${_region}`); }
 
 // ── IO ──
 

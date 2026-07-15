@@ -1,0 +1,33 @@
+{
+  "id": "qianfan-ocr",
+  "name": "qianfan-ocr",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "ernie",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.45
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "f42a35ff",
+    "family": "e5bfcd87",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "3ceb6dda"
+  }
+}

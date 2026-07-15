@@ -1,0 +1,32 @@
+{
+  "id": "kling-2.0-master",
+  "name": "Kling 2.0 Master",
+  "created_by": "kling",
+  "source": "official",
+  "family": "kling",
+  "model_type": "video",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "video"
+    ]
+  },
+  "pricing": {
+    "input": 2
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "a1b72106",
+    "family": "3bb2954c",
+    "model_type": "4d1b75ca",
+    "capabilities": "0fa77dc6",
+    "modalities": "85fd0565",
+    "pricing": "06225336"
+  }
+}

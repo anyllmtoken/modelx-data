@@ -1,0 +1,35 @@
+{
+  "id": "meta/llama-3.2-90b-vision-instruct",
+  "name": "llama-3.2-90b-vision-instruct",
+  "created_by": "meta",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "llama-3.2",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "vision": true
+  },
+  "_generated": {
+    "name": "637ff7c8",
+    "family": "d4c42ce9",
+    "capabilities": "1a260abc",
+    "model_type": "d669f408",
+    "parameters": "8613985e",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "parameters": 90,
+  "tools": [
+    "function_calling"
+  ],
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

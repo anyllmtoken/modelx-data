@@ -1,0 +1,50 @@
+{
+  "id": "openai/gpt-oss-120b",
+  "name": "OpenAI: gpt-oss-120b",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-oss",
+  "description": "gpt-oss-120b is an open-weight, 117B-parameter Mixture-of-Experts (MoE) language model from OpenAI designed for high-reasoning, agentic, and general-purpose production use cases.",
+  "context_window": 131072,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.037,
+    "output": 0.17
+  },
+  "_generated": {
+    "name": "80132a39",
+    "family": "82d0cb0b",
+    "description": "c18e4581",
+    "context_window": "f7de594e",
+    "modalities": "68e53d93",
+    "capabilities": "f533f522",
+    "pricing": "1d407b08",
+    "model_type": "d669f408",
+    "parameters": "da4fb5c6",
+    "release_date": "67086b15",
+    "tagline": "c18e4581",
+    "tools": "f0c1dc7e",
+    "max_output_tokens": "f7de594e"
+  },
+  "model_type": "chat",
+  "parameters": 120,
+  "release_date": "2025-08-05",
+  "tagline": "gpt-oss-120b is an open-weight, 117B-parameter Mixture-of-Experts (MoE) language model from OpenAI designed for high-reasoning, agentic, and general-purpose production use cases.",
+  "tools": [
+    "function_calling"
+  ],
+  "max_output_tokens": 131072
+}

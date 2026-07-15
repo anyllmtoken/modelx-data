@@ -1,0 +1,40 @@
+{
+  "id": "meta/llama-4-maverick",
+  "name": "llama-4-maverick",
+  "created_by": "meta",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "llama-4",
+  "context_window": 131100,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 0.24,
+    "output": 0.97
+  },
+  "_generated": {
+    "name": "7bdf891b",
+    "family": "3169363f",
+    "context_window": "a683b9ae",
+    "capabilities": "fc36814c",
+    "pricing": "9fb15efe",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "tools": [
+    "function_calling"
+  ],
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

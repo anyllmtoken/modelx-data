@@ -1,0 +1,98 @@
+{
+  "id": "gpt-3.5-turbo-16k-0613",
+  "name": "gpt-3.5-turbo-16k-0613 (0613)",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-3.5",
+  "description": "GPT-3.5 Turbo models can understand and generate natural language or code and have been optimized for chat using the Chat Completions API but work well for non-chat tasks as well. As of July 2024, use gpt-4o-mini in place of GPT-3.5 Turbo, as it is cheaper, more capable, multimodal, and just as fast. GPT-3.5 Turbo is still available for use in the API.",
+  "status": "deprecated",
+  "knowledge_cutoff": "2021-09",
+  "context_window": 16385,
+  "max_output_tokens": 4096,
+  "model_type": "chat",
+  "performance": 1,
+  "speed": 2,
+  "tagline": "Legacy GPT model for cheaper chat and non-chat tasks",
+  "capabilities": {
+    "streaming": false,
+    "vision": false,
+    "tool_call": false,
+    "structured_output": false,
+    "json_mode": false,
+    "fine_tuning": true,
+    "reasoning": false
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "",
+        "columns": [
+          "Input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              3,
+              4
+            ]
+          },
+          {
+            "label": "Batch",
+            "values": [
+              1.5,
+              2
+            ]
+          }
+        ]
+      }
+    ],
+    "input": 3,
+    "output": 4,
+    "batch_input": 1.5,
+    "batch_output": 2
+  },
+  "endpoints": [
+    "chat_completions",
+    "responses",
+    "batch"
+  ],
+  "snapshots": [
+    "gpt-3.5-turbo-16k-0613"
+  ],
+  "_generated": {
+    "name": "c76bc297",
+    "family": "7601054d",
+    "description": "72bded9e",
+    "status": "2e2f74dc",
+    "knowledge_cutoff": "b61a1a89",
+    "context_window": "7f4b18de",
+    "max_output_tokens": "f7efa4f8",
+    "model_type": "d669f408",
+    "performance": "c4ca4238",
+    "speed": "c81e728d",
+    "tagline": "7d9cd0cf",
+    "capabilities": "ea522cff",
+    "modalities": "68e53d93",
+    "pricing": "5f8a1a5e",
+    "endpoints": "ec55a017",
+    "license": "9186c466",
+    "page_url": "88469030",
+    "open_weight": "68934a3e"
+  },
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-3-5-turbo-16k-0613?snapshot=gpt-3.5-turbo-16k-0613",
+  "open_weight": false,
+  "alias": "gpt-3.5-turbo-16k-0613"
+}

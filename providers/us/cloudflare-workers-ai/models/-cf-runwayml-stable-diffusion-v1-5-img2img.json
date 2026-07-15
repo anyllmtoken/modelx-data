@@ -1,0 +1,24 @@
+{
+  "id": "@cf/runwayml/stable-diffusion-v1-5-img2img",
+  "name": "stable-diffusion-v1-5-img2img",
+  "created_by": "runway",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "dd164f2c",
+    "capabilities": "0fa77dc6",
+    "model_type": "db8857fe",
+    "status": "379ac110",
+    "page_url": "802ebb6b",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "image",
+  "status": "active",
+  "page_url": "https://developers.cloudflare.com/workers-ai/models/#stable-diffusion-v1-5-img2img",
+  "tools": [
+    "function_calling"
+  ]
+}

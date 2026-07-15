@@ -1,0 +1,17 @@
+{
+  "id": "gpt-4-0125-preview",
+  "name": "GPT-4 Turbo Preview (preview)",
+  "created_by": "openai",
+  "source": "official",
+  "family": "gpt-4-turbo",
+  "status": "deprecated",
+  "model_type": "chat",
+  "alias": "gpt-4-turbo-preview",
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "3ddf8fab",
+    "family": "e55097d8",
+    "status": "2e2f74dc",
+    "model_type": "d669f408"
+  }
+}

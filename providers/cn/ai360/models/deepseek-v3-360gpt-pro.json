@@ -1,0 +1,36 @@
+{
+  "id": "deepseek-v3-360gpt-pro",
+  "name": "DeepSeek-V3 360GPT-Pro",
+  "created_by": "deepseek-v3-360gpt-pro",
+  "source": "official",
+  "family": "deepseek",
+  "context_window": 32192,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 5
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "25bf8b7a",
+    "family": "4b81b92d",
+    "context_window": "07294807",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "383111d1"
+  }
+}

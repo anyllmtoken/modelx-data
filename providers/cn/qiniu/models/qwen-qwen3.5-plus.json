@@ -1,0 +1,38 @@
+{
+  "id": "qwen-qwen3.5-plus",
+  "name": "Qwen/Qwen3.5-Plus",
+  "created_by": "aliyun",
+  "source": "official",
+  "family": "qwen",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "video"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "output": 4.8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "aa73282e",
+    "family": "a3af76f3",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "0946b777",
+    "modalities": "3ad4060a",
+    "pricing": "1eb1549e"
+  }
+}

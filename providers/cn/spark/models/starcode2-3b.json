@@ -1,0 +1,36 @@
+{
+  "id": "starcode2-3b",
+  "name": "Starcode2_3b",
+  "created_by": "bigcode",
+  "source": "official",
+  "family": "spark",
+  "context_window": 8000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "90ceae1b",
+    "family": "92678943",
+    "context_window": "67ff32d4",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "9d7f5a51"
+  }
+}

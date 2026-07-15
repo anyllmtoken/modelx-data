@@ -1,0 +1,44 @@
+{
+  "id": "gpt-5.1-chat",
+  "name": "gpt-5.1-chat Preview",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-5.1",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "8736c05f",
+    "family": "2089aff2",
+    "capabilities": "0946b777",
+    "modalities": "68e53d93",
+    "model_type": "d669f408",
+    "description": "d90768ef",
+    "knowledge_cutoff": "759ca9ad",
+    "context_window": "34434798",
+    "max_output_tokens": "c76fe1d8",
+    "tagline": "6ba88f27",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "description": "- Reasoning - Chat Completions API. - Responses API . - Structured outputs - Functions, tools, and parallel tool calling.",
+  "knowledge_cutoff": "2024-09-30",
+  "context_window": 128000,
+  "max_output_tokens": 16384,
+  "tagline": "- Reasoning - Chat Completions API.",
+  "tools": [
+    "function_calling"
+  ]
+}

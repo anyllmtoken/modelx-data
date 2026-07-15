@@ -1,0 +1,23 @@
+{
+  "id": "skywork",
+  "name": "昆仑万维 天工",
+  "aliases": [
+    "tiangong",
+    "skywork-ai",
+    "kunlun"
+  ],
+  "region": "CN",
+  "headquarters": "北京市, 中国",
+  "founded": 2008,
+  "url": "https://skywork.uni.ai",
+  "api_url": null,
+  "docs_url": "https://github.com/SkyworkAI",
+  "description": "昆仑万维旗下天工大模型系列，含 Skywork 开源模型与天工 AI 商业应用。",
+  "type": "direct",
+  "openai_compatible": false,
+  "free_tier": true,
+  "github_url": "https://github.com/SkyworkAI",
+  "models_url": "https://huggingface.co/Skywork",
+  "pricing_url": null,
+  "pricing_currency": "CNY"
+}

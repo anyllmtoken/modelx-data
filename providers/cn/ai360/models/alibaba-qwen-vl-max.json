@@ -1,0 +1,36 @@
+{
+  "id": "alibaba/qwen-vl-max",
+  "name": "Qwen-VL-Max",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "context_window": 131072,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 3,
+    "output": 9
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "e4d676f4",
+    "family": "a3af76f3",
+    "context_window": "f7de594e",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "2d75542c"
+  }
+}

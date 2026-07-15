@@ -1,0 +1,21 @@
+{
+  "id": "qwen",
+  "name": "Qwen",
+  "region": "CN",
+  "headquarters": "杭州市, 浙江省",
+  "url": "https://tongyi.aliyun.com",
+  "api_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "docs_url": "https://help.aliyun.com/zh/model-studio/",
+  "pricing_url": "https://help.aliyun.com/zh/model-studio/models",
+  "description": "Qwen（通义千问）是阿里云推出的开源大语言模型系列，支持文本、代码和多模态任务。",
+  "type": "direct",
+  "openai_compatible": true,
+  "free_tier": true,
+  "github_url": "https://github.com/QwenLM",
+  "models_url": "https://help.aliyun.com/zh/model-studio/getting-started/models",
+  "twitter_url": "https://x.com/alibaba_qwen",
+  "discord_url": "https://discord.com/invite/yPEP2vHTu4",
+  "blog_url": "https://qwenlm.github.io/blog",
+  "terms_url": "https://help.aliyun.com/zh/legal/latest/terms-of-service",
+  "pricing_currency": "CNY"
+}

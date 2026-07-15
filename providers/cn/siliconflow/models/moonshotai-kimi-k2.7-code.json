@@ -1,0 +1,32 @@
+{
+  "id": "moonshotai-kimi-k2.7-code",
+  "name": "moonshotai/Kimi-K2.7-Code",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "moonshot",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 6.5,
+    "output": 27
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "e71cd64d",
+    "family": "9126e350",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "7ae0a166"
+  }
+}

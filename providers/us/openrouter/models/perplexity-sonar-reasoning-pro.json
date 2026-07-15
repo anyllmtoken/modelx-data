@@ -1,0 +1,41 @@
+{
+  "id": "perplexity/sonar-reasoning-pro",
+  "name": "Perplexity: Sonar Reasoning Pro",
+  "created_by": "perplexity",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "description": "Note: Sonar Pro pricing includes Perplexity search pricing.",
+  "context_window": 128000,
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 2,
+    "output": 8
+  },
+  "_generated": {
+    "name": "9f885455",
+    "description": "f488229b",
+    "context_window": "34434798",
+    "modalities": "6399757e",
+    "capabilities": "7107421f",
+    "pricing": "9d7f5a51",
+    "model_type": "17475f7f",
+    "family": "8b8f2acb",
+    "release_date": "24d5559e",
+    "tagline": "f488229b"
+  },
+  "model_type": "reasoning",
+  "family": "sonar",
+  "release_date": "2025-03-07",
+  "tagline": "Note: Sonar Pro pricing includes Perplexity search pricing."
+}

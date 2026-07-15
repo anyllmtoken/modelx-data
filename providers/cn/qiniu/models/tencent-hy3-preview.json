@@ -1,0 +1,36 @@
+{
+  "id": "tencent-hy3-preview",
+  "name": "Tencent/Hy3 Preview",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "qiniu",
+  "context_window": 262144,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "output": 4
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "7e10b5e1",
+    "family": "7b458690",
+    "context_window": "4a1d32eb",
+    "model_type": "d669f408",
+    "capabilities": "0946b777",
+    "modalities": "68e53d93",
+    "pricing": "27ef3bb4"
+  }
+}

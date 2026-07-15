@@ -1,0 +1,32 @@
+{
+  "id": "bytedance-seed-seed-oss-36b-instruct",
+  "name": "ByteDance-Seed/Seed-OSS-36B-Instruct",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "siliconflow",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.5,
+    "output": 4
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "2603fb76",
+    "family": "204baa33",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "2ae797c3"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "kling-2.1",
+  "name": "Kling 2.1",
+  "created_by": "kling",
+  "source": "official",
+  "family": "kling",
+  "model_type": "video",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "video"
+    ]
+  },
+  "pricing": {
+    "input": 0.4
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "73b56d3e",
+    "family": "3bb2954c",
+    "model_type": "4d1b75ca",
+    "capabilities": "0fa77dc6",
+    "modalities": "85fd0565",
+    "pricing": "0c99aa85"
+  }
+}

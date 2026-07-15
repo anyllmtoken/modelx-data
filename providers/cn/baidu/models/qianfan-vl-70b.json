@@ -1,0 +1,35 @@
+{
+  "id": "qianfan-vl-70b",
+  "name": "Qianfan-VL-70B",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "baidu",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 8,
+    "output": 24
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "abdeb5bc",
+    "family": "5c61f249",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "6399757e",
+    "pricing": "da4b2e9d"
+  }
+}

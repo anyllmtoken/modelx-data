@@ -1,0 +1,22 @@
+{
+  "id": "qwen3.5-livetranslate-flash",
+  "name": "qwen3.5-livetranslate-flash",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3.5",
+  "model_type": "translation",
+  "license": "apache-2.0",
+  "page_url": "https://help.aliyun.com/zh/model-studio/omni.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "120badc7",
+    "family": "d548f421",
+    "model_type": "5c212ca7",
+    "license": "60245731",
+    "page_url": "da9c7ee6",
+    "capabilities": "0fa77dc6"
+  }
+}

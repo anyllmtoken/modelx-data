@@ -1,0 +1,24 @@
+{
+  "id": "zai",
+  "name": "Z.AI (Zhipu)",
+  "region": "CN",
+  "headquarters": "北京市, 北京市",
+  "founded": 2019,
+  "url": "https://open.bigmodel.cn",
+  "api_url": "https://open.bigmodel.cn/api/paas/v4",
+  "docs_url": "https://open.bigmodel.cn/dev",
+  "pricing_url": "https://open.bigmodel.cn/pricing",
+  "description": "智谱 AI（Z.AI）构建 GLM 系列模型，面向中文和多语言 AI 应用。",
+  "type": "direct",
+  "aliases": [
+    "zhipu"
+  ],
+  "openai_compatible": true,
+  "free_tier": true,
+  "github_url": "https://github.com/THUDM",
+  "models_url": "https://open.bigmodel.cn/modelcenter/overview",
+  "twitter_url": "https://x.com/ZhipuAI",
+  "terms_url": "https://open.bigmodel.cn/dev/howuse/serviceagreement",
+  "support_url": "https://open.bigmodel.cn/contact",
+  "pricing_currency": "CNY"
+}

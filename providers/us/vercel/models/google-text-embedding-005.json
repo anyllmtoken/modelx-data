@@ -1,0 +1,23 @@
+{
+  "id": "google/text-embedding-005",
+  "name": "text-embedding-005",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "model_type": "embed",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.03,
+    "output": 0
+  },
+  "_generated": {
+    "name": "9ea35bdb",
+    "model_type": "764cb3de",
+    "capabilities": "0fa77dc6",
+    "pricing": "276b4597",
+    "family": "41411f76"
+  },
+  "family": "text-embedding"
+}

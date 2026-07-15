@@ -1,0 +1,23 @@
+{
+  "id": "bfl/flux-2-klein-9b",
+  "name": "flux-2-klein-9b",
+  "created_by": "black-forest-labs",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "_generated": {
+    "name": "ddfaa1f4",
+    "capabilities": "0fa77dc6",
+    "pricing": "9a7a9781",
+    "model_type": "db8857fe",
+    "parameters": "45c48cce"
+  },
+  "model_type": "image",
+  "parameters": 9
+}

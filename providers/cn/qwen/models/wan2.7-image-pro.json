@@ -1,0 +1,33 @@
+{
+  "id": "wan2.7-image-pro",
+  "name": "wan2.7-image-pro",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "wan2.7",
+  "model_type": "image",
+  "license": "proprietary",
+  "page_url": "https://help.aliyun.com/zh/model-studio/image-model.md",
+  "open_weight": false,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "_generated": {
+    "name": "0fef1ff1",
+    "family": "7524937d",
+    "model_type": "db8857fe",
+    "license": "9186c466",
+    "page_url": "926e9833",
+    "open_weight": "68934a3e",
+    "capabilities": "0fa77dc6",
+    "modalities": "814867b9"
+  },
+  "last_updated": "2026-07-15"
+}

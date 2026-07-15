@@ -1,8 +1,9 @@
-// @modelx/data — Model data for 51 providers, 7485+ models
+// @anyllmtoken/modelx-data — Model data for all providers across CN and US regions
 //
-//   import { getModel, providers, allModels } from "@modelx/data";
+//   import { getProviders, getAllModels, getChanges, getModel } from "@anyllmtoken/modelx-data";
 
-import { providers as _providers, allModels as _allModels } from "../../src/data-us";
+import { providers as _providersUs, allModels as _allModelsUs } from "./data-us";
+import { providers as _providersCn, allModels as _allModelsCn } from "./data-cn";
 import {
   getModel as _getModel,
   getModelsByProvider as _getModelsByProvider,
@@ -12,8 +13,8 @@ import {
   getProvider as _getProvider,
   getAllProviders as _getAllProviders,
   getProviderIcon as _getProviderIcon,
-} from "../../src/utils";
-import type { Model, ProviderWithModels } from "../../src/types";
+} from "./utils";
+import type { Model, ProviderWithModels } from "./types";
 
 // ── 类型 ──
 
@@ -29,40 +30,86 @@ export type {
   PricingTierRow,
   ModelStatus,
   ModelSource,
-  ModelType,
   Modality,
-} from "../../src/types";
+} from "./types";
 
-// ── 数据 ──
+// ── 合并双区域数据 ──
 
-export const providers = _providers;
-export const allModels = _allModels;
+function tagRegion<T extends { id: string }>(items: T[], r: string): (T & { region: string })[] {
+  return items.map((m) => ({ ...m, region: r }));
+}
+
+const cnProviders = _providersCn.map((p) => ({
+  ...p,
+  models: tagRegion(p.models, "CN"),
+}));
+
+const usProviders = _providersUs.map((p) => ({
+  ...p,
+  models: tagRegion(p.models, "US"),
+}));
+
+const allProviders = [...usProviders, ...cnProviders];
+
+export function getProviders(): ProviderWithModels[] {
+  const map = new Map<string, ProviderWithModels>();
+  for (const p of allProviders) {
+    if (map.has(p.id)) {
+      map.get(p.id)!.models.push(...p.models);
+    } else {
+      map.set(p.id, { ...p, models: [...p.models] });
+    }
+  }
+  return [...map.values()];
+}
+
+const _allModels: (Model & { region: string })[] = [
+  ...tagRegion(_allModelsUs, "US"),
+  ...tagRegion(_allModelsCn, "CN"),
+];
+
+export function getModels(): (Model & { region: string })[] {
+  return _allModels;
+}
 
 // ── 查询 ──
 
-export function getModel(provider: string, id: string): Model | undefined {
-  return _getModel(_providers, _allModels, provider, id);
+export function getModel(provider: string, id: string): (Model & { region: string }) | undefined {
+  return _getModel(allProviders, _allModels, provider, id) as any;
 }
-export function getModelsByProvider(provider: string): Model[] {
-  return _getModelsByProvider(_providers, _allModels, provider);
+export function getModelsByProvider(provider: string): (Model & { region: string })[] {
+  return _getModelsByProvider(allProviders, _allModels, provider) as any;
 }
-export function getActiveModels(): Model[] {
-  return _getActiveModels(_providers, _allModels);
+export function getActiveModels(): (Model & { region: string })[] {
+  return _getActiveModels(allProviders, _allModels) as any;
 }
-export function getModelsByFamily(family: string): Model[] {
-  return _getModelsByFamily(_providers, _allModels, family);
+export function getModelsByFamily(family: string): (Model & { region: string })[] {
+  return _getModelsByFamily(allProviders, _allModels, family) as any;
 }
-export function getModelsByCreator(creator: string): Model[] {
-  return _getModelsByCreator(_providers, _allModels, creator);
+export function getModelsByCreator(creator: string): (Model & { region: string })[] {
+  return _getModelsByCreator(allProviders, _allModels, creator) as any;
 }
 export function getProvider(id: string): ProviderWithModels | undefined {
-  return _getProvider(_providers, id);
+  const first = allProviders.find((p) => p.id === id);
+  if (!first) return undefined;
+  // Merge all entries with same id into one
+  const all = allProviders.filter((p) => p.id === id);
+  return { ...first, models: all.flatMap((p) => p.models) };
 }
 export function getAllProviders(): ProviderWithModels[] {
-  return _getAllProviders(_providers);
+  // Deduplicate by id, merge models
+  const map = new Map<string, ProviderWithModels>();
+  for (const p of allProviders) {
+    if (map.has(p.id)) {
+      map.get(p.id)!.models.push(...p.models);
+    } else {
+      map.set(p.id, { ...p, models: [...p.models] });
+    }
+  }
+  return [...map.values()];
 }
 export function getProviderIcon(id: string): string | undefined {
-  return _getProviderIcon(_providers, id);
+  return _getProviderIcon(allProviders, id);
 }
 
 // ── 变更日志 ──
@@ -76,24 +123,19 @@ export interface ChangeEntry {
   changes?: Record<string, { from: unknown; to: unknown }>;
 }
 
-let _changes: ChangeEntry[] | null = null;
-
-export function getChanges(): ChangeEntry[] {
-  if (_changes) return _changes;
+const _loadChanges = (): ChangeEntry[] => {
   try {
     const { readFileSync } = require("node:fs") as typeof import("node:fs");
-    const { resolve } = require("node:path") as typeof import("node:path");
-    const filePath = resolve(process.cwd(), "../modelx-data/packages/data/changes.jsonl");
-    const content = readFileSync(filePath, "utf-8");
-    const entries: ChangeEntry[] = content
-      .trim()
-      .split("\n")
-      .filter(Boolean)
-      .map((line: string) => JSON.parse(line))
-      .reverse();
-    _changes = entries;
-    return entries;
+    const { fileURLToPath } = require("node:url") as typeof import("node:url");
+    const { resolve, dirname } = require("node:path") as typeof import("node:path");
+    const d = typeof __dirname !== "undefined" ? __dirname : dirname(fileURLToPath(import.meta.url));
+    const content = readFileSync(resolve(d, "changes.jsonl"), "utf-8");
+    return content.trim().split("\n").filter(Boolean).map((l: string) => JSON.parse(l)).reverse();
   } catch {
     return [];
   }
+};
+
+export function getChanges(): ChangeEntry[] {
+  return _loadChanges();
 }

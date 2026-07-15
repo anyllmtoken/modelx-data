@@ -1,0 +1,52 @@
+{
+  "id": "glm-4.6v-flash",
+  "name": "GLM-4.6V-Flash",
+  "created_by": "zai",
+  "source": "official",
+  "last_updated": "2026-07-14",
+  "context_window": 128000,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "8bb830d2",
+    "context_window": "34434798",
+    "capabilities": "0fa77dc6",
+    "modalities": "6399757e",
+    "family": "5a2dc6aa",
+    "model_type": "d669f408",
+    "license": "3c4c3ba5",
+    "open_weight": "b326b506",
+    "tools": "f0c1dc7e",
+    "description": "c676af88",
+    "page_url": "fc1c38b3",
+    "tagline": "c676af88",
+    "pricing": "8d8c596b",
+    "max_output_tokens": "10e4d788"
+  },
+  "family": "glm-4.6",
+  "model_type": "chat",
+  "license": "mit",
+  "open_weight": true,
+  "tools": [
+    "function_calling"
+  ],
+  "description": "GLM-4.6V-Flash: Lightweight, Completely Free",
+  "page_url": "https://docs.z.ai/guides/vlm/glm-4.6v",
+  "tagline": "GLM-4.6V-Flash: Lightweight, Completely Free",
+  "pricing": {
+    "input": 1.5,
+    "output": 6,
+    "cached_input": 0.3
+  },
+  "max_output_tokens": 32000
+}

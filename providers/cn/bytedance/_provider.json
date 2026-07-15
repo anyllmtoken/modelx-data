@@ -1,0 +1,21 @@
+{
+  "id": "bytedance",
+  "name": "字节跳动 Seed",
+  "aliases": [
+    "seed"
+  ],
+  "region": "CN",
+  "headquarters": "北京市, 中国",
+  "founded": 2012,
+  "url": "https://seed.bytedance.com/zh",
+  "api_url": "https://console.volcengine.com/ark",
+  "docs_url": "https://seed.bytedance.com/zh/models",
+  "pricing_url": "https://docs.volcengine.com/docs/82379/1544106",
+  "description": "字节跳动 Seed 是字节跳动的前沿 AI 研究团队，构建基础大模型、多模态、视频、图像、语音、科学和机器人模型。",
+  "type": "direct",
+  "models_url": "https://seed.bytedance.com/zh/models",
+  "openai_compatible": false,
+  "free_tier": false,
+  "blog_url": "https://seed.bytedance.com/zh/blog",
+  "pricing_currency": "CNY"
+}

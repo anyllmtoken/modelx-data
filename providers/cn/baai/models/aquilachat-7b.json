@@ -1,0 +1,38 @@
+{
+  "id": "aquilachat-7b",
+  "name": "AquilaChat-7B",
+  "created_by": "baai",
+  "source": "official",
+  "family": "baai",
+  "description": "Aquila2-7B 的对话微调版本",
+  "context_window": 8192,
+  "model_type": "chat",
+  "license": "apache-2.0",
+  "parameters": 7,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "e4fb6a58",
+    "family": "e3ece447",
+    "description": "becc58fb",
+    "context_window": "77441296",
+    "model_type": "d669f408",
+    "license": "60245731",
+    "parameters": "8f14e45f",
+    "capabilities": "48995a4e",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

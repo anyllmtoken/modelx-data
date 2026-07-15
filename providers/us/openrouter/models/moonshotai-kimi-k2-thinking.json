@@ -1,0 +1,48 @@
+{
+  "id": "moonshotai/kimi-k2-thinking",
+  "name": "MoonshotAI: Kimi K2 Thinking",
+  "created_by": "moonshotai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "description": "Kimi K2 Thinking is Moonshot AI’s most advanced open reasoning model to date, extending the K2 series into agentic, long-horizon reasoning.",
+  "context_window": 262144,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.6,
+    "output": 2.5
+  },
+  "_generated": {
+    "name": "8b367b30",
+    "description": "8dc3acf1",
+    "context_window": "4a1d32eb",
+    "modalities": "68e53d93",
+    "capabilities": "f533f522",
+    "pricing": "97d9061a",
+    "family": "0f7256d5",
+    "model_type": "d669f408",
+    "release_date": "70416073",
+    "tagline": "8dc3acf1",
+    "tools": "f0c1dc7e",
+    "max_output_tokens": "4a1d32eb"
+  },
+  "family": "kimi-k2",
+  "model_type": "chat",
+  "release_date": "2025-11-06",
+  "tagline": "Kimi K2 Thinking is Moonshot AI’s most advanced open reasoning model to date, extending the K2 series into agentic, long-horizon reasoning.",
+  "tools": [
+    "function_calling"
+  ],
+  "max_output_tokens": 262144
+}

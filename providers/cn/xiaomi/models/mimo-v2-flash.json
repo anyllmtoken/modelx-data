@@ -1,0 +1,65 @@
+{
+  "id": "mimo-v2-flash",
+  "name": "MiMo-v2-flash",
+  "created_by": "xiaomi",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "mimo",
+  "description": "309B MoE reasoning model with 15B active parameters. Fast inference at 150 tokens/s.",
+  "status": "active",
+  "release_date": "2025-12-16",
+  "knowledge_cutoff": "2024-12",
+  "context_window": 256000,
+  "max_output_tokens": 64000,
+  "model_type": "chat",
+  "reasoning_tokens": true,
+  "license": "mit",
+  "parameters": 309,
+  "active_parameters": 15,
+  "page_url": "https://platform.xiaomimimo.com",
+  "architecture": "moe",
+  "open_weight": true,
+  "tagline": "309B MoE reasoning model with 15B active parameters.",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.7,
+    "output": 2.1,
+    "cached_input": 0.07
+  },
+  "tools": [
+    "function_calling"
+  ],
+  "_generated": {
+    "name": "f4c997e2",
+    "family": "1a23786e",
+    "description": "946cfc7c",
+    "status": "379ac110",
+    "release_date": "799b50a0",
+    "knowledge_cutoff": "d5290187",
+    "context_window": "2fd324cb",
+    "max_output_tokens": "762e98db",
+    "model_type": "d669f408",
+    "reasoning_tokens": "b326b506",
+    "license": "3c4c3ba5",
+    "parameters": "eddea82a",
+    "active_parameters": "9bf31c7f",
+    "page_url": "af488f1e",
+    "architecture": "31b2172c",
+    "open_weight": "b326b506",
+    "tagline": "f2984e03",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "195e4ec9",
+    "tools": "f0c1dc7e"
+  }
+}

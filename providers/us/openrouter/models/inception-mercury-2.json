@@ -1,0 +1,45 @@
+{
+  "id": "inception/mercury-2",
+  "name": "Inception: Mercury 2",
+  "created_by": "inception",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "description": "Mercury 2 is an extremely fast reasoning LLM, and the first reasoning diffusion LLM (dLLM).",
+  "context_window": 128000,
+  "max_output_tokens": 50000,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.25,
+    "output": 0.75,
+    "cached_input": 0.025
+  },
+  "_generated": {
+    "name": "c6a07605",
+    "description": "c24b4650",
+    "context_window": "34434798",
+    "max_output_tokens": "1017bfd4",
+    "modalities": "68e53d93",
+    "capabilities": "f533f522",
+    "pricing": "966083ea",
+    "release_date": "4a273186",
+    "tagline": "c24b4650",
+    "tools": "f0c1dc7e"
+  },
+  "release_date": "2026-03-04",
+  "tagline": "Mercury 2 is an extremely fast reasoning LLM, and the first reasoning diffusion LLM (dLLM).",
+  "tools": [
+    "function_calling"
+  ]
+}

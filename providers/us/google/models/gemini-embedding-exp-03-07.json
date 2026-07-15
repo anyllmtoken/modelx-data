@@ -1,0 +1,33 @@
+{
+  "id": "gemini-embedding-exp-03-07",
+  "name": "gemini-embedding-exp-03-07",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "status": "deprecated",
+  "deprecation_date": "October 30, 2025",
+  "successor": "gemini-embedding-2",
+  "model_type": "embed",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "6b42cca3",
+    "status": "2e2f74dc",
+    "deprecation_date": "ff66392a",
+    "successor": "916b7eae",
+    "model_type": "764cb3de",
+    "modalities": "68e53d93",
+    "family": "c3d96d58",
+    "license": "9186c466",
+    "open_weight": "68934a3e"
+  },
+  "family": "gemini-embedding",
+  "license": "proprietary",
+  "open_weight": false
+}

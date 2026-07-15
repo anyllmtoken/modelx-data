@@ -1,0 +1,23 @@
+{
+  "id": "voyage/voyage-4",
+  "name": "voyage-4",
+  "created_by": "voyage",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "context_window": 32000,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.06,
+    "output": 0
+  },
+  "_generated": {
+    "name": "b09ad972",
+    "context_window": "10e4d788",
+    "capabilities": "0fa77dc6",
+    "pricing": "7d2a4264",
+    "model_type": "764cb3de"
+  },
+  "model_type": "embed"
+}

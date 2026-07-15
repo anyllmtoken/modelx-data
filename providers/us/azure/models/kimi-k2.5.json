@@ -1,0 +1,35 @@
+{
+  "id": "kimi-k2.5",
+  "name": "Kimi-K2.5 Preview",
+  "created_by": "moonshot",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "reasoning": true,
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "fcbe7c8c",
+    "capabilities": "45192957",
+    "modalities": "6399757e",
+    "family": "69ffee7b",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e"
+  },
+  "family": "kimi-k2.5",
+  "model_type": "chat",
+  "tools": [
+    "function_calling"
+  ]
+}

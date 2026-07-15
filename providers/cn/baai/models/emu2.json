@@ -1,0 +1,34 @@
+{
+  "id": "emu2",
+  "name": "Emu2",
+  "created_by": "baai",
+  "source": "official",
+  "family": "baai",
+  "description": "多模态理解与生成统一大模型",
+  "model_type": "image",
+  "license": "mit",
+  "parameters": 37,
+  "capabilities": {},
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "25288945",
+    "family": "e3ece447",
+    "description": "c0da82cc",
+    "model_type": "db8857fe",
+    "license": "3c4c3ba5",
+    "parameters": "a5bfc9e0",
+    "capabilities": "99914b93",
+    "modalities": "bbf9b8bb",
+    "open_weight": "b326b506"
+  }
+}

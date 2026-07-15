@@ -1,0 +1,29 @@
+{
+  "id": "qwen-audio-3.0-realtime-plus",
+  "name": "qwen-audio-3.0-realtime-plus",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "audio",
+  "license": "apache-2.0",
+  "page_url": "https://help.aliyun.com/zh/model-studio/s2s-model.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "audio_input_token": 40,
+    "audio_text_input_token": 5,
+    "audio_text_output_token": 40,
+    "audio_output_token": 150
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "ca107881",
+    "family": "a3af76f3",
+    "model_type": "9f84c007",
+    "license": "60245731",
+    "page_url": "ef02f974",
+    "capabilities": "0fa77dc6",
+    "pricing": "13078393"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "m2-her",
+  "name": "M2-her",
+  "created_by": "minimax",
+  "source": "official",
+  "last_updated": "2026-03-23",
+  "family": "minimax",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 0.3,
+    "output": 1.2
+  },
+  "_generated": {
+    "name": "b116838f",
+    "family": "c85916f0",
+    "capabilities": "48995a4e",
+    "pricing": "ea3f0b86",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "license": "proprietary",
+  "open_weight": false,
+  "tools": ["function_calling"],
+  "modalities": {
+    "input": ["text"],
+    "output": ["text"]
+  }
+}

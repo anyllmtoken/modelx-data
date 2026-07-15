@@ -1,0 +1,41 @@
+{
+  "id": "google/gemini-3-flash",
+  "name": "gemini-3-flash",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gemini-3",
+  "context_window": 1000000,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.5,
+    "output": 3
+  },
+  "_generated": {
+    "name": "1064432a",
+    "family": "eb14e598",
+    "context_window": "8155bc54",
+    "capabilities": "a19166f1",
+    "pricing": "ad477c96",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "tools": [
+    "function_calling"
+  ],
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

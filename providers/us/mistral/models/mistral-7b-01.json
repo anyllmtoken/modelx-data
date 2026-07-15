@@ -1,0 +1,43 @@
+{
+  "id": "mistral-7b-01",
+  "name": "mistral-7b-01",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "status": "active",
+  "context_window": 8000,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "012900cf",
+    "status": "379ac110",
+    "context_window": "67ff32d4",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "model_type": "d669f408",
+    "family": "33212289",
+    "license": "60245731",
+    "parameters": "8f14e45f",
+    "page_url": "911344d4",
+    "open_weight": "b326b506",
+    "description": "7ea70429",
+    "tagline": "7ea70429"
+  },
+  "model_type": "chat",
+  "family": "mistral-7b",
+  "license": "apache-2.0",
+  "parameters": 7,
+  "page_url": "https://docs.mistral.ai/models/model-cards/mistral-7b-0-1",
+  "open_weight": true,
+  "description": "Our very first open model, SOTA competing against models up to 2 to 3x larger.",
+  "tagline": "Our very first open model, SOTA competing against models up to 2 to 3x larger."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Fun-ASR-Flash-8K-Realtime",
+  "name": "fun-asr-flash-8k-realtime",
+  "created_by": "qwen",
+  "source": "official",
+  "model_type": "audio",
+  "license": "proprietary",
+  "page_url": "https://help.aliyun.com/zh/model-studio/asr-model.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "97270516",
+    "model_type": "9f84c007",
+    "license": "9186c466",
+    "page_url": "6b1640d1",
+    "capabilities": "0fa77dc6"
+  }
+}

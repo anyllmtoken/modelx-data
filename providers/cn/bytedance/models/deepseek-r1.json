@@ -1,0 +1,36 @@
+{
+  "id": "deepseek-r1",
+  "name": "deepseek-r1",
+  "created_by": "bytedance",
+  "source": "official",
+  "family": "deepseek-r1",
+  "model_type": "reasoning",
+  "capabilities": {
+    "streaming": true,
+    "reasoning": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 4,
+    "output": 16,
+    "cached_input": 0.8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "c74cfb8e",
+    "family": "c74cfb8e",
+    "model_type": "17475f7f",
+    "capabilities": "a9fcd739",
+    "modalities": "68e53d93",
+    "pricing": "0e7c5ae0"
+  }
+}

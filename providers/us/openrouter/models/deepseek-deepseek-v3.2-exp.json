@@ -1,0 +1,48 @@
+{
+  "id": "deepseek/deepseek-v3.2-exp",
+  "name": "DeepSeek: DeepSeek V3.2 Exp",
+  "created_by": "deepseek",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "deepseek",
+  "description": "DeepSeek-V3.2-Exp is an experimental large language model released by DeepSeek as an intermediate step between V3.1 and future architectures.",
+  "context_window": 163840,
+  "max_output_tokens": 65536,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.27,
+    "output": 0.41
+  },
+  "_generated": {
+    "name": "254c930d",
+    "family": "4b81b92d",
+    "description": "63778281",
+    "context_window": "7edab444",
+    "max_output_tokens": "297ce0b3",
+    "modalities": "68e53d93",
+    "capabilities": "f533f522",
+    "pricing": "0d7298a4",
+    "release_date": "d032c55c",
+    "tagline": "63778281",
+    "tools": "f0c1dc7e",
+    "model_type": "d669f408"
+  },
+  "release_date": "2025-09-29",
+  "tagline": "DeepSeek-V3.2-Exp is an experimental large language model released by DeepSeek as an intermediate step between V3.1 and future architectures.",
+  "tools": [
+    "function_calling"
+  ],
+  "model_type": "chat"
+}

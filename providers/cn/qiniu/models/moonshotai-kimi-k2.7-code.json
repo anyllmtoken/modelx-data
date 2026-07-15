@@ -1,0 +1,37 @@
+{
+  "id": "moonshotai-kimi-k2.7-code",
+  "name": "Moonshotai/Kimi-K2.7-Code",
+  "created_by": "moonshot-kimi",
+  "source": "official",
+  "family": "moonshot",
+  "context_window": 262144,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "output": 27
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "2d870852",
+    "family": "9126e350",
+    "context_window": "4a1d32eb",
+    "model_type": "d669f408",
+    "capabilities": "0946b777",
+    "modalities": "6399757e",
+    "pricing": "4393116a"
+  }
+}

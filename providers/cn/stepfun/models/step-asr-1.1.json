@@ -1,0 +1,43 @@
+{
+  "id": "step-asr-1.1",
+  "name": "Step ASR 1.1",
+  "created_by": "stepfun",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "stepfun",
+  "description": "Offline audio file transcription, refreshed Step ASR.",
+  "status": "active",
+  "model_type": "transcription",
+  "license": "proprietary",
+  "open_weight": false,
+  "modalities": {
+    "input": [
+      "audio"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "endpoints": [
+    "audio_transcriptions"
+  ],
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 2.2
+  },
+  "_generated": {
+    "name": "ee1c3e5d",
+    "family": "ab48b9e2",
+    "description": "e1b8fcd8",
+    "status": "379ac110",
+    "model_type": "5e12d29a",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "modalities": "b8e84832",
+    "endpoints": "30248ee0",
+    "capabilities": "0fa77dc6",
+    "pricing": "615bb78a"
+  }
+}

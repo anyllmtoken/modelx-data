@@ -1,0 +1,39 @@
+{
+  "id": "internlm2-20b",
+  "name": "InternLM2-20B",
+  "created_by": "internlm",
+  "source": "official",
+  "family": "internlm",
+  "description": "书生浦语 2.0，200 亿参数基座模型",
+  "context_window": 32768,
+  "model_type": "chat",
+  "license": "apache-2.0",
+  "parameters": 20,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "e5be5112",
+    "family": "4a4104a7",
+    "description": "58dc89f1",
+    "context_window": "f4376436",
+    "model_type": "d669f408",
+    "license": "60245731",
+    "parameters": "98f13708",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openai/gpt-5-image",
+  "name": "OpenAI: GPT-5 Image",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-5",
+  "description": "[GPT-5](https://openrouter.ai/openai/gpt-5) Image combines OpenAI's GPT-5 model with state-of-the-art image generation capabilities.",
+  "context_window": 400000,
+  "max_output_tokens": 128000,
+  "modalities": {
+    "input": [
+      "image",
+      "text"
+    ],
+    "output": [
+      "image",
+      "text"
+    ]
+  },
+  "capabilities": {
+    "structured_output": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 10,
+    "output": 10,
+    "cached_input": 1.25
+  },
+  "_generated": {
+    "name": "ad84aa4f",
+    "family": "aa904c16",
+    "description": "9622ca8f",
+    "context_window": "2a3a2d28",
+    "max_output_tokens": "34434798",
+    "modalities": "f5e0517a",
+    "capabilities": "ee598c3a",
+    "pricing": "3e6db19c",
+    "model_type": "d669f408",
+    "release_date": "2fc04e35",
+    "tagline": "9622ca8f",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "release_date": "2025-10-14",
+  "tagline": "[GPT-5](https://openrouter.ai/openai/gpt-5) Image combines OpenAI's GPT-5 model with state-of-the-art image generation capabilities.",
+  "tools": [
+    "function_calling"
+  ]
+}

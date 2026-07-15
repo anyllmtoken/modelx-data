@@ -1,0 +1,37 @@
+{
+  "id": "openai/gpt-5.4",
+  "name": "openai/gpt-5.4",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-5.4",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 2.5,
+    "output": 15,
+    "cached_input": 0.25
+  },
+  "_generated": {
+    "name": "b9d876fb",
+    "family": "4651e8f0",
+    "capabilities": "0fa77dc6",
+    "pricing": "d9873b8b",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "license": "proprietary",
+  "open_weight": false,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

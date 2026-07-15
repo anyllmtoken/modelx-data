@@ -1,0 +1,37 @@
+{
+  "id": "internlm3-code-8b",
+  "name": "InternLM3-Code-8B",
+  "created_by": "internlm",
+  "source": "official",
+  "family": "internlm",
+  "description": "InternLM3 代码生成模型",
+  "context_window": 32768,
+  "model_type": "code",
+  "license": "apache-2.0",
+  "parameters": 8,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "0f880f13",
+    "family": "4a4104a7",
+    "description": "0ae98aea",
+    "context_window": "f4376436",
+    "model_type": "b6cc3ff4",
+    "license": "60245731",
+    "parameters": "c9f0f895",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

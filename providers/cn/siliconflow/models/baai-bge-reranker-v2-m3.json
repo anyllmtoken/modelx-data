@@ -1,0 +1,27 @@
+{
+  "id": "baai-bge-reranker-v2-m3",
+  "name": "BAAI/bge-reranker-v2-m3",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "siliconflow",
+  "model_type": "rerank",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "76670bab",
+    "family": "204baa33",
+    "model_type": "477930e6",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93"
+  }
+}

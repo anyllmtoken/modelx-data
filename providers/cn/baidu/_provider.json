@@ -1,0 +1,25 @@
+{
+  "id": "baidu",
+  "name": "百度千帆",
+  "aliases": [
+    "qianfan",
+    "baidu-qianfan"
+  ],
+  "region": "CN",
+  "headquarters": "北京市, 中国",
+  "founded": 2000,
+  "url": "https://cloud.baidu.com",
+  "api_url": "https://qianfan.baidubce.com/v2",
+  "docs_url": "https://cloud.baidu.com/doc/qianfan/index.html",
+  "pricing_url": "https://cloud.baidu.com/doc/qianfan/s/wmh4sv6ya",
+  "description": "百度千帆是百度智能云的一站式大模型服务平台，提供文心大模型（ERNIE）系列及第三方模型 API 服务。",
+  "type": "cloud",
+  "openai_compatible": true,
+  "free_tier": true,
+  "github_url": "https://github.com/PaddlePaddle",
+  "models_url": "https://cloud.baidu.com/doc/qianfan/s/rmh4stp0j",
+  "twitter_url": "https://x.com/BaiduQianfan",
+  "terms_url": "https://cloud.baidu.com/doc/qianfan/s/Cmh4stmpy",
+  "support_url": "https://cloud.baidu.com/survey/expert-consulting-service.html",
+  "pricing_currency": "CNY"
+}

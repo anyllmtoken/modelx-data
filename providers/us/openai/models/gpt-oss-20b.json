@@ -1,0 +1,77 @@
+{
+  "id": "gpt-oss-20b",
+  "name": "gpt-oss-20b (20b)",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-oss",
+  "description": "\\",
+  "status": "deprecated",
+  "knowledge_cutoff": "2024-06",
+  "context_window": 131072,
+  "max_output_tokens": 131072,
+  "model_type": "reasoning",
+  "reasoning_tokens": true,
+  "performance": 4,
+  "reasoning": 4,
+  "speed": 3,
+  "tagline": "Medium-sized open-weight model for low latency",
+  "capabilities": {
+    "streaming": true,
+    "vision": false,
+    "tool_call": true,
+    "structured_output": true,
+    "json_mode": false,
+    "fine_tuning": false,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "tools": [
+    "function_calling",
+    "code_interpreter",
+    "mcp",
+    "web_search"
+  ],
+  "endpoints": [
+    "responses",
+    "batch"
+  ],
+  "snapshots": [
+    "gpt-oss-20b"
+  ],
+  "_generated": {
+    "name": "d2e2b88b",
+    "family": "82d0cb0b",
+    "description": "6ed588b9",
+    "status": "2e2f74dc",
+    "knowledge_cutoff": "b087cb52",
+    "context_window": "f7de594e",
+    "max_output_tokens": "f7de594e",
+    "model_type": "17475f7f",
+    "reasoning_tokens": "b326b506",
+    "performance": "a87ff679",
+    "reasoning": "a87ff679",
+    "speed": "eccbc87e",
+    "tagline": "5b4e0c97",
+    "capabilities": "429d89e1",
+    "modalities": "68e53d93",
+    "tools": "67477b86",
+    "endpoints": "6f01fd6c",
+    "license": "60245731",
+    "parameters": "98f13708",
+    "page_url": "14d459f2",
+    "open_weight": "b326b506"
+  },
+  "license": "apache-2.0",
+  "parameters": 20,
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-oss-20b",
+  "open_weight": true,
+  "alias": "gpt-oss-20b"
+}

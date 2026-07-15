@@ -1,0 +1,50 @@
+{
+  "id": "glm-ocr",
+  "name": "GLM-OCR",
+  "created_by": "zai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "b963b5ac",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "model_type": "d669f408",
+    "family": "cb6bfc11",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "parameters": "a894124c",
+    "page_url": "67d16a55",
+    "pricing": "0f7ce967",
+    "description": "7316161e",
+    "tagline": "0a52ba6d",
+    "context_window": "10e4d788",
+    "max_output_tokens": "1bd69c7d"
+  },
+  "model_type": "chat",
+  "family": "glm",
+  "license": "proprietary",
+  "open_weight": false,
+  "parameters": 0.9,
+  "page_url": "https://docs.z.ai/guides/vlm/glm-ocr",
+  "pricing": {
+    "input": 0.2,
+    "output": 0
+  },
+  "description": "GLM-OCR is a lightweight professional OCR model with parameters as small as 0.9B, yet it achieves state-of-the-art performance across multiple capabilities. It sets a new benchmark for document parsing with its “small size and high accuracy.” Key features include:",
+  "tagline": "GLM-OCR is a lightweight professional OCR model with parameters as small as 0.9B, yet it achieves state-of-the-art performance across multiple capabilities.",
+  "context_window": 32000,
+  "max_output_tokens": 4000
+}

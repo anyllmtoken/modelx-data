@@ -1,0 +1,36 @@
+{
+  "id": "xop3qwen235b",
+  "name": "Qwen3-235B-A22B",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "spark",
+  "context_window": 32000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.2,
+    "output": 12
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "60473aa6",
+    "family": "92678943",
+    "context_window": "10e4d788",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "8dc9bb7c"
+  }
+}

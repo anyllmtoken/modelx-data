@@ -1,0 +1,58 @@
+{
+  "id": "gpt-5.1-latest",
+  "name": "gpt-5.1-latest",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gpt-5.1",
+  "status": "active",
+  "pricing": {
+    "input": 1.25,
+    "output": 10,
+    "cached_input": 0.125,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": [
+          "Input",
+          "Cached input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              1.25,
+              0.125,
+              10
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_generated": {
+    "name": "f7dd1ac6",
+    "family": "2089aff2",
+    "status": "379ac110",
+    "pricing": "53068594",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "page_url": "8c72459e",
+    "open_weight": "68934a3e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-5.1-latest",
+  "open_weight": false,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kling",
+  "name": "快手可灵",
+  "aliases": [
+    "klingai",
+    "kuaishou"
+  ],
+  "region": "CN",
+  "headquarters": "北京市, 中国",
+  "founded": 2011,
+  "url": "https://klingai.com",
+  "api_url": "https://api.klingai.com/v1",
+  "docs_url": "https://klingai.com/document-api/pricing/base/video",
+  "pricing_url": "https://klingai.com/document-api/pricing/base/video",
+  "description": "快手可灵（Kling）是快手 AI 团队开发的视频与图像生成大模型，支持文生视频、图生视频、文生图等能力。",
+  "type": "direct",
+  "openai_compatible": true,
+  "free_tier": true,
+  "models_url": "https://klingai.com/document-api/pricing/base/video",
+  "pricing_currency": "CNY"
+}

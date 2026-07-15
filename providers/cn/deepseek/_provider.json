@@ -1,0 +1,23 @@
+{
+  "id": "deepseek",
+  "name": "DeepSeek",
+  "region": "CN",
+  "headquarters": "杭州市, 浙江省",
+  "founded": 2023,
+  "url": "https://deepseek.com",
+  "api_url": "https://api.deepseek.com/v1",
+  "docs_url": "https://api-docs.deepseek.com/zh-cn",
+  "pricing_url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing",
+  "description": "深度求索（DeepSeek）是中国领先的 AI 实验室，开发开源推理与对话模型。",
+  "type": "direct",
+  "playground_url": "https://chat.deepseek.com",
+  "openai_compatible": true,
+  "free_tier": true,
+  "github_url": "https://github.com/deepseek-ai",
+  "models_url": "https://platform.deepseek.com/api-docs/pricing",
+  "twitter_url": "https://x.com/deepseek_ai",
+  "discord_url": "https://discord.com/invite/Tc7c45Zzu5",
+  "terms_url": "https://cdn.deepseek.com/policies/zh-CN/deepseek-open-platform-terms-of-service.html",
+  "support_url": "https://api-docs.deepseek.com/zh-cn/faq",
+  "pricing_currency": "CNY"
+}

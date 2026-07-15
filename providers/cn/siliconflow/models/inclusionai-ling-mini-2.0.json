@@ -1,0 +1,32 @@
+{
+  "id": "inclusionai-ling-mini-2.0",
+  "name": "inclusionAI/Ling-mini-2.0",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "siliconflow",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.5,
+    "output": 2
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "801a385a",
+    "family": "204baa33",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "c86e251d"
+  }
+}

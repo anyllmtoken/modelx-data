@@ -1,0 +1,40 @@
+{
+  "id": "moonshot-v1-8k",
+  "name": "Moonshot v1 8K",
+  "created_by": "moonshot",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "moonshot",
+  "context_window": 8192,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "_generated": {
+    "name": "0171e05c",
+    "family": "9126e350",
+    "context_window": "77441296",
+    "capabilities": "1d6c1abb",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "open_weight": "68934a3e",
+    "modalities": "68e53d93",
+    "pricing": "783da94d"
+  },
+  "model_type": "chat",
+  "license": "proprietary",
+  "open_weight": false,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 10
+  }
+}

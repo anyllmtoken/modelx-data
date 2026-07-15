@@ -1,0 +1,5 @@
+{
+  "models": "https://api.siliconflow.com/v1/models",
+  "docs": "https://api-docs.siliconflow.cn/docs/userguide/introduction",
+  "llms": "https://docs.siliconflow.com/llms.txt"
+}

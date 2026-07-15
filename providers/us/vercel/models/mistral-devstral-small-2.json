@@ -1,0 +1,40 @@
+{
+  "id": "mistral/devstral-small-2",
+  "name": "devstral-small-2",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "devstral",
+  "context_window": 256000,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 0.1,
+    "output": 0.3
+  },
+  "_generated": {
+    "name": "81589537",
+    "family": "e626e93e",
+    "context_window": "2fd324cb",
+    "capabilities": "fc36814c",
+    "pricing": "53952343",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "tools": [
+    "function_calling"
+  ],
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "qwen-image-2.0-pro",
+  "name": "qwen-image-2.0-pro",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "qwen",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "endpoints": [
+    "chat"
+  ],
+  "_generated": {
+    "name": "93ded325",
+    "family": "a3af76f3",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "6399757e",
+    "endpoints": "75df3f1c",
+    "license": "60245731",
+    "provider": "a3af76f3",
+    "description": "52ce1642",
+    "tagline": "c3dd529c",
+    "page_url": "ec35b380",
+    "open_weight": "b326b506",
+    "max_output_tokens": "1679091c"
+  },
+  "license": "apache-2.0",
+  "provider": "qwen",
+  "description": "The Qwen text-to-image model excels at **complex text rendering** , especially for Chinese and English text. [API reference](https://www.alibabacloud.com/help/en/document_detail/2975126.html) ## International If you select the [International](https://www.alibabacloud.com/help/en/document_detail/3004398.html#080da663a75xh) deployment scope, model inference compute resources are dynamically scheduled worldwide, excluding the Chinese mainland. Static data is stored in your selected region. Supported region: Singapore.",
+  "tagline": "Qwen text-to-image models excel at rendering complex text, especially bilingual Chinese-English text.",
+  "page_url": "https://www.alibabacloud.com/help/en/model-studio/image-model",
+  "open_weight": true,
+  "max_output_tokens": 6
+}

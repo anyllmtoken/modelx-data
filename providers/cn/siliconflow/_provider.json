@@ -1,0 +1,20 @@
+{
+  "id": "siliconflow",
+  "name": "硅基流动",
+  "aliases": [
+    "siliconcloud"
+  ],
+  "region": "CN",
+  "url": "https://siliconflow.cn/models",
+  "api_url": "https://api.siliconflow.cn/v1",
+  "docs_url": "https://api-docs.siliconflow.cn/docs/userguide/introduction",
+  "pricing_url": "https://siliconflow.cn/pricing",
+  "description": "硅基流动是推理云平台，提供兼容 OpenAI 的 API，支持语言、图像、音频、视频、嵌入和重排序模型。",
+  "type": "cloud",
+  "models_url": "https://api.siliconflow.cn/v1/models",
+  "changelog_url": "https://api-docs.siliconflow.cn/docs/release-notes/overview",
+  "openai_compatible": true,
+  "free_tier": false,
+  "terms_url": "https://api-docs.siliconflow.cn/docs/legals/terms-of-service",
+  "pricing_currency": "CNY"
+}

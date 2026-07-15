@@ -1,0 +1,54 @@
+{
+  "id": "mistral-medium-2508",
+  "name": "mistral-medium-2508",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "mistral-medium",
+  "status": "deprecated",
+  "context_window": 128000,
+  "alias": "mistral-medium",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.4,
+    "output": 2
+  },
+  "_generated": {
+    "name": "01de3dfe",
+    "family": "a57f1b52",
+    "status": "2e2f74dc",
+    "context_window": "34434798",
+    "capabilities": "1a260abc",
+    "modalities": "6399757e",
+    "pricing": "70b90c36",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "page_url": "263a6547",
+    "open_weight": "68934a3e",
+    "description": "7c125ea2",
+    "tagline": "8255637f",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "license": "proprietary",
+  "page_url": "https://docs.mistral.ai/models/model-cards/mistral-medium-3-1-25-08",
+  "open_weight": false,
+  "description": "Our frontier-class multimodal model released August 2025. Improving tone and performance.",
+  "tagline": "Our frontier-class multimodal model released August 2025.",
+  "tools": [
+    "function_calling"
+  ]
+}

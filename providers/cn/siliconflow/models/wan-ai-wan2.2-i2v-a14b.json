@@ -1,0 +1,32 @@
+{
+  "id": "wan-ai-wan2.2-i2v-a14b",
+  "name": "Wan-AI/Wan2.2-I2V-A14B",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "wan",
+  "model_type": "video",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0,
+    "output": 2
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "6d38e22c",
+    "family": "2aadc089",
+    "model_type": "4d1b75ca",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "c7fecbe3"
+  }
+}

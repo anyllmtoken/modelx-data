@@ -1,0 +1,36 @@
+{
+  "id": "alibaba/qwen2.5-coder-7b-instruct",
+  "name": "Qwen2.5-Coder-7B",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen2.5",
+  "context_window": 4096,
+  "model_type": "code",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1,
+    "output": 2
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "97c1102c",
+    "family": "45d84b68",
+    "context_window": "f7efa4f8",
+    "model_type": "b6cc3ff4",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "ac91204c"
+  }
+}

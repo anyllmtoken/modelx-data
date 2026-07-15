@@ -1,0 +1,32 @@
+{
+  "id": "qwen-qwen3-vl-32b-instruct",
+  "name": "Qwen/Qwen3-VL-32B-Instruct",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1,
+    "output": 4
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "c3705a20",
+    "family": "a3af76f3",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "dcb30141"
+  }
+}

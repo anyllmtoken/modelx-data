@@ -1,0 +1,35 @@
+{
+  "id": "doubao-seed-2.1-turbo",
+  "name": "doubao-seed-2.1-turbo",
+  "created_by": "bytedance",
+  "source": "official",
+  "family": "doubao",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 3,
+    "output": 15,
+    "cached_input": 0.6
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "1cbb0adb",
+    "family": "fca2122f",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "cd565263"
+  }
+}

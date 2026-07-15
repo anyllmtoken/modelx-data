@@ -1,0 +1,17 @@
+{
+  "id": "nvidia/cosmos-reason2-8b",
+  "name": "cosmos-reason2-8b",
+  "created_by": "nvidia",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true,
+    "reasoning": true
+  },
+  "_generated": {
+    "name": "56fc26a7",
+    "capabilities": "b011c6b4",
+    "parameters": "c9f0f895"
+  },
+  "parameters": 8
+}

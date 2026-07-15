@@ -1,0 +1,55 @@
+{
+  "id": "gemini-2.5-flash",
+  "name": "Gemini 2.5 Flash",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gemini-2.5",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "vision": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.3,
+    "output": 2.5,
+    "cached_input": 0.03
+  },
+  "context_window": 200000,
+  "max_context_window": 1000000,
+  "performance": 3,
+  "speed": 4,
+  "_generated": {
+    "name": "4949fb26",
+    "family": "ea6b88bf",
+    "capabilities": "7ca28ec9",
+    "modalities": "6399757e",
+    "pricing": "1a0e496e",
+    "context_window": "03e6c616",
+    "max_context_window": "8155bc54",
+    "performance": "eccbc87e",
+    "speed": "a87ff679",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e",
+    "page_url": "09dca87a",
+    "pricing_notes": "963e4ad1"
+  },
+  "model_type": "chat",
+  "tools": [
+    "function_calling"
+  ],
+  "page_url": "https://cursor.com/docs/models-and-pricing#gemini-2-5-flash",
+  "pricing_notes": [
+    "Hidden by default"
+  ]
+}

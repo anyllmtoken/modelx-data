@@ -1,0 +1,31 @@
+{
+  "id": "text-embedding-3-small",
+  "name": "text-embedding-3-small",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "knowledge_cutoff": "2021-09",
+  "max_output_tokens": 1536,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "model_type": "embed",
+  "_generated": {
+    "name": "5476c3d9",
+    "knowledge_cutoff": "b61a1a89",
+    "max_output_tokens": "b5a1fc20",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "model_type": "764cb3de",
+    "family": "41411f76"
+  },
+  "family": "text-embedding"
+}

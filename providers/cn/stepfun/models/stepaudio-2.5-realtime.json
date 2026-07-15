@@ -1,0 +1,31 @@
+{
+  "id": "stepaudio-2.5-realtime",
+  "name": "stepaudio-2.5-realtime",
+  "created_by": "stepfun",
+  "source": "official",
+  "family": "stepfun",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 10
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "b72a9c74",
+    "family": "ab48b9e2",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "cb8ff26c"
+  }
+}

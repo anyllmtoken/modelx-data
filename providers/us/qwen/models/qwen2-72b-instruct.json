@@ -1,0 +1,50 @@
+{
+  "id": "qwen2-72b-instruct",
+  "name": "qwen2-72b-instruct",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "qwen2",
+  "context_window": 131072,
+  "max_output_tokens": 6144,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "fine_tuning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "endpoints": [
+    "chat"
+  ],
+  "_generated": {
+    "name": "7eb81422",
+    "family": "66ff794a",
+    "context_window": "f7de594e",
+    "max_output_tokens": "197f76fe",
+    "model_type": "d669f408",
+    "capabilities": "9c665f5d",
+    "modalities": "68e53d93",
+    "endpoints": "75df3f1c",
+    "license": "60245731",
+    "parameters": "32bb90e8",
+    "provider": "a3af76f3",
+    "description": "24b6ed00",
+    "tagline": "366b217c",
+    "page_url": "23162829",
+    "open_weight": "b326b506"
+  },
+  "license": "apache-2.0",
+  "parameters": 72,
+  "provider": "qwen",
+  "description": "Alibaba Cloud's Qwen2 open-source version. [Usage](https://www.alibabacloud.com/help/en/document_detail/2841718.html#24e54b27d4agt) \\| [API reference](https://www.alibabacloud.com/help/en/document_detail/2712576.html) \\| [Try online](https://modelstudio.console.alibabacloud.com/?tab=playground#/efm/prompt)",
+  "tagline": "The Qwen2 open-source model from Alibaba Cloud.",
+  "page_url": "https://www.alibabacloud.com/help/en/model-studio/models",
+  "open_weight": true
+}

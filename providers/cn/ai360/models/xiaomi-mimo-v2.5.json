@@ -1,0 +1,36 @@
+{
+  "id": "xiaomi/mimo-v2.5",
+  "name": "MiMo-V2.5",
+  "created_by": "xiaomi",
+  "source": "official",
+  "family": "mimo",
+  "context_window": 1048576,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 3.045,
+    "output": 6.09
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "8219b3ef",
+    "family": "1a23786e",
+    "context_window": "7d28a051",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "9bb46188"
+  }
+}

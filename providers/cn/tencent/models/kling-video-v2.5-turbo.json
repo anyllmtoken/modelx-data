@@ -1,0 +1,32 @@
+{
+  "id": "kling-video-v2.5-turbo",
+  "name": "kling-video-v2.5-turbo",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "hunyuan",
+  "model_type": "video",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "video"
+    ]
+  },
+  "pricing": {
+    "input": 1
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "baf10978",
+    "family": "39786cc8",
+    "model_type": "4d1b75ca",
+    "capabilities": "0fa77dc6",
+    "modalities": "85fd0565",
+    "pricing": "1b478256"
+  }
+}

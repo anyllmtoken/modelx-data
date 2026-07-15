@@ -1,0 +1,32 @@
+{
+  "id": "meituan-longcat-longcat-2.0",
+  "name": "meituan-longcat/LongCat-2.0",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "siliconflow",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 5,
+    "output": 20
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "1beb339b",
+    "family": "204baa33",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "f6bce096"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "fireworks/qwen2p5-coder-14b",
+  "name": "qwen2p5-coder-14b",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "qwen2",
+  "context_window": 32700,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "1bef32eb",
+    "family": "66ff794a",
+    "context_window": "e1ea274b",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "model_type": "b6cc3ff4",
+    "parameters": "aab32389",
+    "page_url": "ba01d803",
+    "modalities": "68e53d93"
+  },
+  "model_type": "code",
+  "parameters": 14,
+  "page_url": "https://fireworks.ai/models/fireworks/qwen2p5-coder-14b",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

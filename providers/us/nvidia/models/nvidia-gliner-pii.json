@@ -1,0 +1,14 @@
+{
+  "id": "nvidia/gliner-pii",
+  "name": "gliner-pii",
+  "created_by": "nvidia",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true
+  },
+  "_generated": {
+    "name": "25c3ad64",
+    "capabilities": "0fa77dc6"
+  }
+}

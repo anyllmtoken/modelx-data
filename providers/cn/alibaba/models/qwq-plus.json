@@ -1,0 +1,42 @@
+{
+  "id": "qwq-plus",
+  "name": "qwq-plus",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwq",
+  "context_window": 131072,
+  "max_output_tokens": 8192,
+  "model_type": "reasoning",
+  "license": "apache-2.0",
+  "page_url": "https://help.aliyun.com/zh/model-studio/text-generation-model.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.6,
+    "output": 4,
+    "input_token_batch": 0.8,
+    "output_token_batch": 2
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "50ee561a",
+    "family": "3a976110",
+    "context_window": "f7de594e",
+    "max_output_tokens": "77441296",
+    "model_type": "17475f7f",
+    "license": "60245731",
+    "page_url": "1eb222c1",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "9b4e815b"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "embed-v-4-0",
+  "name": "embed-v-4-0",
+  "created_by": "cohere",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true,
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "model_type": "embed",
+  "_generated": {
+    "name": "ec464b26",
+    "capabilities": "8a3b232e",
+    "modalities": "6399757e",
+    "model_type": "764cb3de",
+    "family": "764cb3de"
+  },
+  "family": "embed"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "openai/o3-mini",
+  "name": "o3-mini",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "o3",
+  "context_window": 200000,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 1.1,
+    "output": 4.4
+  },
+  "_generated": {
+    "name": "7ea41c2f",
+    "family": "193049bc",
+    "context_window": "03e6c616",
+    "capabilities": "a281e83a",
+    "pricing": "20e8e5b9",
+    "model_type": "d669f408",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "tools": [
+    "function_calling"
+  ],
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "openai/text-embedding-ada-002",
+  "name": "text-embedding-ada-002",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "model_type": "embed",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.1,
+    "output": 0
+  },
+  "_generated": {
+    "name": "46c23e4a",
+    "model_type": "764cb3de",
+    "capabilities": "0fa77dc6",
+    "pricing": "fceb22e8",
+    "family": "41411f76"
+  },
+  "family": "text-embedding"
+}

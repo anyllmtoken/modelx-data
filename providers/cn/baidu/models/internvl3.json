@@ -1,0 +1,33 @@
+{
+  "id": "internvl3",
+  "name": "internvl3",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "ernie",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "7757bb0d",
+    "family": "e5bfcd87",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "0028a504"
+  }
+}

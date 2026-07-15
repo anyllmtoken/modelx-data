@@ -1,0 +1,105 @@
+{
+  "id": "o4-mini-deep-research-2025-06-26",
+  "name": "o4-mini-deep-research (26)",
+  "created_by": "openai",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "o4",
+  "description": "o4-mini-deep-research is our faster, more affordable deep",
+  "status": "active",
+  "knowledge_cutoff": "2024-06",
+  "context_window": 200000,
+  "max_output_tokens": 100000,
+  "model_type": "chat",
+  "reasoning_tokens": true,
+  "alias": "o4-mini-deep-research",
+  "performance": 4,
+  "reasoning": 4,
+  "speed": 3,
+  "tagline": "o4-mini-deep-research is our faster, more affordable deep",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": false,
+    "structured_output": false,
+    "json_mode": false,
+    "fine_tuning": false,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 8,
+    "cached_input": 0.5,
+    "batch_input": 1,
+    "batch_output": 4,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": [
+          "Input",
+          "Cached input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              2,
+              0.5,
+              8
+            ]
+          },
+          {
+            "label": "Batch",
+            "values": [
+              1,
+              null,
+              4
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "endpoints": [
+    "responses",
+    "batch"
+  ],
+  "_generated": {
+    "name": "0d38b618",
+    "family": "a842f941",
+    "description": "9ebc679a",
+    "status": "379ac110",
+    "knowledge_cutoff": "b087cb52",
+    "context_window": "03e6c616",
+    "max_output_tokens": "14ee22ea",
+    "model_type": "d669f408",
+    "reasoning_tokens": "b326b506",
+    "performance": "a87ff679",
+    "reasoning": "a87ff679",
+    "speed": "eccbc87e",
+    "tagline": "9ebc679a",
+    "capabilities": "3b4eaf30",
+    "modalities": "6399757e",
+    "pricing": "e36f1250",
+    "endpoints": "6f01fd6c",
+    "license": "9186c466",
+    "release_date": "f083d14e",
+    "page_url": "d97f9586",
+    "open_weight": "68934a3e"
+  },
+  "license": "proprietary",
+  "release_date": "2025-06-26",
+  "page_url": "https://developers.openai.com/api/docs/models/o4-mini-deep-research?snapshot=o4-mini-deep-research-2025-06-26",
+  "open_weight": false
+}

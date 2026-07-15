@@ -1,0 +1,67 @@
+{
+  "id": "qwen-turbo",
+  "name": "qwen-turbo",
+  "created_by": "qwen",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "qwen",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "endpoints": [
+    "chat"
+  ],
+  "_generated": {
+    "name": "8ba166bc",
+    "family": "a3af76f3",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "endpoints": "75df3f1c",
+    "license": "9186c466",
+    "provider": "a3af76f3",
+    "description": "591caa7b",
+    "tagline": "a556f27a",
+    "page_url": "1eb222c1",
+    "open_weight": "68934a3e",
+    "context_window": "f7de594e",
+    "reasoning_tokens": "b326b506",
+    "tools": "f0c1dc7e",
+    "max_output_tokens": "c76fe1d8",
+    "pricing": "9521aee2"
+  },
+  "license": "proprietary",
+  "provider": "qwen",
+  "description": "Qwen-Turbo is no longer updated. Replace it with Qwen-Flash. Qwen-Flash uses a flexible tiered pricing model for fairer billing. [Usage instructions](https://www.alibabacloud.com/help/en/document_detail/2841718.html#24e54b27d4agt) \\| [API reference](https://www.alibabacloud.com/help/en/document_detail/2712576.html) \\| [Try online](https://modelstudio.console.alibabacloud.com/?tab=playground#/efm/prompt) \\| [Deep thinking](https://www.alibabacloud.com/help/en/document_detail/2870973.html) #### International If you select the [International](https://www.alibabacloud.com/help/en/document_detail/3004398.html#080da663a75xh) deployment scope, model inference compute resources are dynamically scheduled worldwide, excluding the Chinese mainland. Static data is stored in your selected region. Supported region: Singapore.",
+  "tagline": "Qwen-Turbo will no longer receive updates.",
+  "page_url": "https://help.aliyun.com/zh/model-studio/text-generation-model.md",
+  "open_weight": false,
+  "context_window": 131072,
+  "reasoning_tokens": true,
+  "tools": [
+    "function_calling"
+  ],
+  "max_output_tokens": 16384,
+  "pricing": {
+    "input": 0.3,
+    "output": 0.6,
+    "thinking_input_token": 0.3,
+    "thinking_output_token": 3,
+    "cached_input": 0.06,
+    "thinking_input_token_cache": 0.06,
+    "thinking_output_token_batch": 1.5,
+    "input_token_batch": 0.15,
+    "output_token_batch": 0.3,
+    "thinking_input_token_batch": 0.15,
+    "ft": 30
+  }
+}

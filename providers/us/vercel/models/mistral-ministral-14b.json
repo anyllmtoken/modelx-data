@@ -1,0 +1,42 @@
+{
+  "id": "mistral/ministral-14b",
+  "name": "ministral-14b",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "ministral",
+  "context_window": 256000,
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 0.2,
+    "output": 0.2
+  },
+  "_generated": {
+    "name": "0c244f8b",
+    "family": "d6661e63",
+    "context_window": "2fd324cb",
+    "capabilities": "fc36814c",
+    "pricing": "ee3b139d",
+    "model_type": "d669f408",
+    "parameters": "aab32389",
+    "modalities": "68e53d93",
+    "tools": "f0c1dc7e"
+  },
+  "model_type": "chat",
+  "parameters": 14,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "tools": [
+    "function_calling"
+  ]
+}

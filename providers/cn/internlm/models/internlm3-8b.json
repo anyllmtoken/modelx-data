@@ -1,0 +1,39 @@
+{
+  "id": "internlm3-8b",
+  "name": "InternLM3-8B",
+  "created_by": "internlm",
+  "source": "official",
+  "family": "internlm",
+  "description": "上海AI Lab 第三代基座大模型，8B 参数",
+  "context_window": 32768,
+  "model_type": "chat",
+  "license": "apache-2.0",
+  "parameters": 8,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "ef96e8b5",
+    "family": "4a4104a7",
+    "description": "84f59660",
+    "context_window": "f4376436",
+    "model_type": "d669f408",
+    "license": "60245731",
+    "parameters": "c9f0f895",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "text-embedding-v4",
+  "name": "text-embedding-v4",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "text-embedding",
+  "model_type": "embed",
+  "license": "proprietary",
+  "page_url": "https://help.aliyun.com/zh/model-studio/embedding-rerank-model.md",
+  "open_weight": false,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "_generated": {
+    "name": "078aef6f",
+    "family": "41411f76",
+    "model_type": "764cb3de",
+    "license": "9186c466",
+    "page_url": "eb6968e7",
+    "open_weight": "68934a3e",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "e51d5d8d"
+  },
+  "last_updated": "2026-07-15",
+  "pricing": {
+    "embedding_token_batch": 0.25,
+    "embedding_token": 0.5
+  }
+}

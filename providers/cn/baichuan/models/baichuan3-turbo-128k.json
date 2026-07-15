@@ -1,0 +1,35 @@
+{
+  "id": "baichuan3-turbo-128k",
+  "name": "Baichuan3-Turbo-128k",
+  "created_by": "baichuan",
+  "source": "official",
+  "family": "baichuan",
+  "context_window": 131072,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 24
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "dc4b3d65",
+    "family": "3cbc9929",
+    "context_window": "f7de594e",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "6a8d3aef"
+  }
+}

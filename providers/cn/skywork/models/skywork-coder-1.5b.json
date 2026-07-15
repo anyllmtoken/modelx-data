@@ -1,0 +1,37 @@
+{
+  "id": "skywork-coder-1.5b",
+  "name": "Skywork-Coder-1.5B",
+  "created_by": "skywork",
+  "source": "official",
+  "family": "skywork",
+  "description": "轻量级代码生成模型",
+  "context_window": 8192,
+  "model_type": "code",
+  "license": "skywork-1.0",
+  "parameters": 1.5,
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "b356c13e",
+    "family": "6f9bd721",
+    "description": "0d5eda51",
+    "context_window": "77441296",
+    "model_type": "b6cc3ff4",
+    "license": "71d91ed0",
+    "parameters": "60086472",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

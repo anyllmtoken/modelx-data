@@ -1,0 +1,22 @@
+{
+  "id": "baai",
+  "name": "智源研究院",
+  "aliases": [
+    "BAAI",
+    "北京智源"
+  ],
+  "region": "CN",
+  "headquarters": "北京市, 中国",
+  "founded": 2018,
+  "url": "https://www.baai.ac.cn",
+  "api_url": null,
+  "docs_url": "https://github.com/FlagAI-Open/FlagAI",
+  "description": "北京智源人工智能研究院（BAAI）是中国领先的 AI 研究机构，开发 Aquila、BGE、Emu 等开源模型系列。",
+  "type": "direct",
+  "openai_compatible": false,
+  "free_tier": true,
+  "github_url": "https://github.com/FlagAI-Open",
+  "models_url": "https://huggingface.co/BAAI",
+  "pricing_url": null,
+  "pricing_currency": "CNY"
+}

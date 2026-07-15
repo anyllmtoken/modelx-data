@@ -1,0 +1,47 @@
+{
+  "id": "qwen3-max",
+  "name": "qwen3-max",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3",
+  "context_window": 262144,
+  "max_output_tokens": 65536,
+  "model_type": "chat",
+  "license": "apache-2.0",
+  "page_url": "https://help.aliyun.com/zh/model-studio/text-generation-model.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2.5,
+    "output": 10,
+    "cached_input": 0.5,
+    "input_token_batch": 1.25,
+    "output_token_batch": 5,
+    "cache_write": 3.125,
+    "input_token_cache_read": 0.25,
+    "input_token_batch_chat": 2.5,
+    "output_token_batch_chat": 10
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "52618ca9",
+    "family": "48c385a0",
+    "context_window": "4a1d32eb",
+    "max_output_tokens": "297ce0b3",
+    "model_type": "d669f408",
+    "license": "60245731",
+    "page_url": "1eb222c1",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "69ef9419"
+  }
+}

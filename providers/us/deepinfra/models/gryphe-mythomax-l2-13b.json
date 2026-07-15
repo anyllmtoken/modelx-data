@@ -1,0 +1,46 @@
+{
+  "id": "Gryphe/MythoMax-L2-13b",
+  "name": "MythoMax-L2-13b",
+  "created_by": "gryphe",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gryphe",
+  "status": "active",
+  "model_type": "chat",
+  "context_window": 4096,
+  "open_weight": true,
+  "capabilities": {
+    "structured_output": true,
+    "json_mode": true,
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.4,
+    "output": 0.4
+  },
+  "endpoints": [
+    "chat_completions"
+  ],
+  "quantization": "fp16",
+  "_generated": {
+    "name": "0a9c8c43",
+    "family": "3659d319",
+    "status": "379ac110",
+    "model_type": "d669f408",
+    "context_window": "f7efa4f8",
+    "open_weight": "b326b506",
+    "capabilities": "ac49c06e",
+    "modalities": "68e53d93",
+    "pricing": "1982766c",
+    "endpoints": "d8fa1080",
+    "quantization": "a7cff86c"
+  }
+}

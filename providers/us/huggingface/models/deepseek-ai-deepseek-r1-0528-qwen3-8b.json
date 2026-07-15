@@ -1,0 +1,44 @@
+{
+  "id": "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B",
+  "name": "DeepSeek-R1-0528-Qwen3-8B",
+  "created_by": "deepseek",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "_generated": {
+    "name": "67b5dbd0",
+    "capabilities": "48995a4e",
+    "model_type": "17475f7f",
+    "parameters": "2a568439",
+    "page_url": "45c2367a",
+    "release_date": "b2e64734",
+    "context_window": "f7de594e",
+    "license": "3c4c3ba5",
+    "architecture": "8832ea0f",
+    "open_weight": "b326b506",
+    "tools": "f0c1dc7e",
+    "modalities": "68e53d93"
+  },
+  "model_type": "reasoning",
+  "parameters": 8.2,
+  "page_url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B",
+  "release_date": "2025-05-29",
+  "context_window": 131072,
+  "license": "mit",
+  "architecture": "transformer",
+  "open_weight": true,
+  "tools": [
+    "function_calling"
+  ],
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

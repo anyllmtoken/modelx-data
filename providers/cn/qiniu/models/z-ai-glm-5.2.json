@@ -1,0 +1,36 @@
+{
+  "id": "z-ai-glm-5.2",
+  "name": "Z-AI/GLM-5.2",
+  "created_by": "zai",
+  "source": "official",
+  "family": "qiniu",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "output": 28
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "2fd871ea",
+    "family": "7b458690",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "0946b777",
+    "modalities": "68e53d93",
+    "pricing": "30cddf71"
+  }
+}

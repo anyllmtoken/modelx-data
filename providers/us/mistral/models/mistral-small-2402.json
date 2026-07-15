@@ -1,0 +1,49 @@
+{
+  "id": "mistral-small-2402",
+  "name": "mistral-small-2402",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "mistral-small",
+  "status": "deprecated",
+  "deprecation_date": "2024-11-30",
+  "context_window": 32000,
+  "alias": "mistral-small",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.15,
+    "output": 0.6
+  },
+  "_generated": {
+    "name": "1af0bdce",
+    "family": "275918a5",
+    "status": "2e2f74dc",
+    "deprecation_date": "05154b0e",
+    "context_window": "10e4d788",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "89a9c6e2",
+    "model_type": "d669f408",
+    "license": "60245731",
+    "page_url": "adaada53",
+    "open_weight": "b326b506",
+    "description": "190e4c13",
+    "tagline": "190e4c13"
+  },
+  "model_type": "chat",
+  "license": "apache-2.0",
+  "page_url": "https://docs.mistral.ai/models/model-cards/mistral-small-1-0-24-02",
+  "open_weight": true,
+  "description": "An enterprise grade small model for efficiency.",
+  "tagline": "An enterprise grade small model for efficiency."
+}

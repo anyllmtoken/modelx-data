@@ -1,0 +1,35 @@
+{
+  "id": "sensenova-v6-reasoner",
+  "name": "SenseNova-V6-Reasoner",
+  "created_by": "sensenova",
+  "source": "official",
+  "family": "sensenova",
+  "model_type": "reasoning",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 4,
+    "output": 16
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "0f652b9f",
+    "family": "4cc45bc4",
+    "model_type": "17475f7f",
+    "capabilities": "0946b777",
+    "modalities": "68e53d93",
+    "pricing": "5190413e"
+  }
+}

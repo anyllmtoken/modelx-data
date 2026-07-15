@@ -1,0 +1,36 @@
+{
+  "id": "z-ai/glm-4.6v",
+  "name": "GLM-4.6V",
+  "created_by": "zai",
+  "source": "official",
+  "family": "glm-4.6",
+  "context_window": 128000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1,
+    "output": 3
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "b051c20e",
+    "family": "5a2dc6aa",
+    "context_window": "34434798",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "7fd03be2"
+  }
+}

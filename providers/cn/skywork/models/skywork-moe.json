@@ -1,0 +1,36 @@
+{
+  "id": "skywork-moe",
+  "name": "Skywork-MoE",
+  "created_by": "skywork",
+  "source": "official",
+  "family": "skywork",
+  "description": "基于 MoE 架构的高效大模型，总参数量 75B",
+  "model_type": "chat",
+  "license": "skywork-1.0",
+  "parameters": 75,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "6419e65f",
+    "family": "6f9bd721",
+    "description": "c2919e4c",
+    "model_type": "d669f408",
+    "license": "71d91ed0",
+    "parameters": "d09bf415",
+    "capabilities": "48995a4e",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "google/gemini-3-pro-image",
+  "name": "gemini-3-pro-image",
+  "created_by": "google",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "gemini-3",
+  "context_window": 65500,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 2,
+    "output": 12
+  },
+  "_generated": {
+    "name": "1f41d2e6",
+    "family": "eb14e598",
+    "context_window": "90c532bc",
+    "capabilities": "0fa77dc6",
+    "pricing": "0aef5f9c",
+    "model_type": "d669f408",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

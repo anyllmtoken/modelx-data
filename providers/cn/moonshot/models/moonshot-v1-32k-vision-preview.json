@@ -1,0 +1,41 @@
+{
+  "id": "moonshot-v1-32k-vision-preview",
+  "name": "Moonshot v1 32K Vision",
+  "created_by": "moonshot",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "moonshot",
+  "context_window": 32768,
+  "license": "proprietary",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": false,
+  "_generated": {
+    "name": "e8d3865a",
+    "family": "9126e350",
+    "context_window": "f4376436",
+    "license": "9186c466",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "6399757e",
+    "open_weight": "68934a3e",
+    "pricing": "f6bce096"
+  },
+  "pricing": {
+    "input": 5,
+    "output": 20
+  }
+}

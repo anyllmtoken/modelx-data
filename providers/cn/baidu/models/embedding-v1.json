@@ -1,0 +1,31 @@
+{
+  "id": "embedding-v1",
+  "name": "Embedding-V1",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "embed",
+  "model_type": "embed",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.5
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "0c7f6a05",
+    "family": "764cb3de",
+    "model_type": "764cb3de",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "1621018b"
+  }
+}

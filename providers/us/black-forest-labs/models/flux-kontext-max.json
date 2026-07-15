@@ -1,0 +1,44 @@
+{
+  "id": "flux-kontext-max",
+  "name": "FLUX.1 Kontext [max]",
+  "created_by": "black-forest-labs",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "flux-kontext",
+  "description": "Higher-quality variant of Kontext with stronger editing fidelity. Legacy; superseded by FLUX.2 [max] for new projects.",
+  "tagline": "Legacy FLUX.1 Kontext [max].",
+  "status": "deprecated",
+  "model_type": "image",
+  "release_date": "2025-05-29",
+  "open_weight": false,
+  "license": "proprietary",
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "/v1/flux-kontext-max"
+  ],
+  "pricing_notes": [
+    "$0.08/image (8 credits)."
+  ],
+  "_generated": {
+    "name": "fc61aaf1",
+    "family": "b0db520c",
+    "description": "7d4a9a8e",
+    "tagline": "293119fa",
+    "status": "2e2f74dc",
+    "model_type": "db8857fe",
+    "release_date": "b2e64734",
+    "open_weight": "68934a3e",
+    "license": "9186c466",
+    "modalities": "bbf9b8bb",
+    "endpoints": "0aae3d2c",
+    "pricing_notes": "101c28e8"
+  }
+}

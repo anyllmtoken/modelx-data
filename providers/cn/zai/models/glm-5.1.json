@@ -1,0 +1,53 @@
+{
+  "id": "glm-5.1",
+  "name": "GLM-5.1",
+  "created_by": "zai",
+  "source": "official",
+  "family": "glm-5.1",
+  "context_window": 200000,
+  "max_output_tokens": 128000,
+  "license": "mit",
+  "page_url": "https://docs.z.ai/guides/llm/glm-5.1",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 6,
+    "output": 24,
+    "cached_input": 1.3
+  },
+  "open_weight": true,
+  "tools": [
+    "function_calling"
+  ],
+  "_generated": {
+    "name": "751e8f2b",
+    "family": "feb32a37",
+    "context_window": "03e6c616",
+    "max_output_tokens": "34434798",
+    "license": "3c4c3ba5",
+    "page_url": "fd3afa93",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "939764ff",
+    "open_weight": "b326b506",
+    "tools": "f0c1dc7e",
+    "description": "d6c57dd6",
+    "tagline": "e78c3c1a"
+  },
+  "last_updated": "2026-07-15",
+  "description": "GLM-5.1 is Z.AI’s latest flagship model, designed for long-horizon tasks. It can work continuously and autonomously on a single task for up to 8 hours, completing the full loop from planning and execution to iterative optimization and delivering production-grade results. <br /><br />In both general capability and coding performance, GLM-5.1 is overall aligned with Claude Opus 4.6. It demonstrates stronger sustained execution in long-horizon autonomous tasks, complex engineering optimization, ...",
+  "tagline": "GLM-5.1 is Z.AI’s latest flagship model, designed for long-horizon tasks."
+}

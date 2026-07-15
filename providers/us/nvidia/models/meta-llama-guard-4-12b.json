@@ -1,0 +1,29 @@
+{
+  "id": "meta/llama-guard-4-12b",
+  "name": "llama-guard-4-12b",
+  "created_by": "meta",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "llama-guard",
+  "capabilities": {
+    "streaming": true
+  },
+  "model_type": "moderation",
+  "_generated": {
+    "name": "813373b9",
+    "family": "3190be28",
+    "capabilities": "0fa77dc6",
+    "model_type": "1e7a7b87",
+    "parameters": "c20ad4d7",
+    "modalities": "68e53d93"
+  },
+  "parameters": 12,
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
-import { getProvidersDir, runGenerate } from "./shared.ts";
+import { getProvidersDir, runGenerate, setRegion } from "./shared.ts";
 
 const LOBE_BASE =
   "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons";
@@ -61,6 +61,19 @@ const ICONS: Record<string, string> = {
   vercel: "vercel",
   vertex: "vertexai",
   xai: "xai",
+  baidu: "baiducloud",
+  tencent: "hunyuan",
+  spark: "spark",
+  baichuan: "baichuan",
+  sensenova: "sensenova",
+  kling: "kling",
+  zeroone: "zeroone",
+  longcat: "longcat",
+  qiniu: "qiniu",
+  ai360: "ai360",
+  baai: "baai",
+  skywork: "skywork",
+  internlm: "internlm",
 };
 
 function normalizeSvg(svg: string) {
@@ -107,7 +120,8 @@ function writeIcon(
 }
 
 async function main() {
-  const selected = process.argv.slice(2);
+  if (process.argv.includes("--cn")) setRegion("cn");
+  const selected = process.argv.slice(2).filter((a) => a !== "--cn");
   const entries = selected.length > 0
     ? selected.filter((k) => k in ICONS).map((k) => [k, ICONS[k]] as const)
     : Object.entries(ICONS);

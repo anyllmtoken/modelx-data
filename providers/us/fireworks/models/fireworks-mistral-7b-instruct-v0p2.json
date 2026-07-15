@@ -1,0 +1,39 @@
+{
+  "id": "fireworks/mistral-7b-instruct-v0p2",
+  "name": "mistral-7b-instruct-v0p2",
+  "created_by": "mistral",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "context_window": 32700,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "4cc0ff35",
+    "context_window": "e1ea274b",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "model_type": "d669f408",
+    "family": "33212289",
+    "parameters": "8f14e45f",
+    "page_url": "c75f6141",
+    "modalities": "68e53d93"
+  },
+  "model_type": "chat",
+  "family": "mistral-7b",
+  "parameters": 7,
+  "page_url": "https://fireworks.ai/models/fireworks/mistral-7b-instruct-v0p2",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  }
+}

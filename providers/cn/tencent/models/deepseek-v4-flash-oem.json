@@ -1,0 +1,35 @@
+{
+  "id": "deepseek-v4-flash-oem",
+  "name": "DeepSeek-V4-Flash (原厂)",
+  "created_by": "deepseek",
+  "source": "official",
+  "family": "deepseek",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1,
+    "output": 2,
+    "cached_input": 0.02
+  },
+  "last_updated": "2026-07-14",
+  "_generated": {
+    "name": "c7f48275",
+    "family": "4b81b92d",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "4ff1a179"
+  }
+}

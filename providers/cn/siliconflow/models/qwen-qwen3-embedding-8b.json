@@ -1,0 +1,32 @@
+{
+  "id": "qwen-qwen3-embedding-8b",
+  "name": "Qwen/Qwen3-Embedding-8B",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "embed",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.28,
+    "output": 0
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "06f4d49b",
+    "family": "a3af76f3",
+    "model_type": "764cb3de",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "8487b882"
+  }
+}

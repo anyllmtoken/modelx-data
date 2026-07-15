@@ -1,0 +1,36 @@
+{
+  "id": "360zhinao-search-summary",
+  "name": "360Zhinao-Search-Summary",
+  "created_by": "360zhinao-search-summary",
+  "source": "official",
+  "family": "ai360",
+  "context_window": 32000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.8,
+    "output": 8
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "95927e6e",
+    "family": "1d747135",
+    "context_window": "10e4d788",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "ee0a3753"
+  }
+}

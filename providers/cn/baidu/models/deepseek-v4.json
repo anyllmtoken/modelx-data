@@ -1,0 +1,33 @@
+{
+  "id": "deepseek-v4",
+  "name": "deepseek-v4",
+  "created_by": "baidu",
+  "source": "official",
+  "family": "deepseek",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "bfe7adae",
+    "family": "4b81b92d",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "1b478256"
+  }
+}

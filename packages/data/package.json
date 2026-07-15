@@ -1,12 +1,26 @@
 {
-  "name": "@modelx/data",
-  "version": "0.0.0",
-  "description": "Unified model data entry — locale-aware dispatch to CN or US data",
+  "name": "@anyllmtoken/modelx-data",
+  "version": "0.1.1",
+  "description": "Cross-provider AI model data — specs, pricing, capabilities across 30+ providers",
   "main": "./index.ts",
   "types": "./index.ts",
   "exports": {
     ".": "./index.ts"
   },
-  "files": ["index.ts", "changes.jsonl"],
-  "license": "MIT"
+  "files": [
+    "index.ts",
+    "changes.jsonl",
+    "data-cn.ts",
+    "data-us.ts",
+    "utils.ts",
+    "types.ts"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "scripts": {
+    "prepublishOnly": "cd ../.. && bun run generate && bun run generate:cn && cp src/data-cn.ts src/data-us.ts src/utils.ts src/types.ts packages/data/"
+  }
 }

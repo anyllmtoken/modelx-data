@@ -1,0 +1,38 @@
+{
+  "id": "doubao-seed-evolving",
+  "name": "doubao-seed-evolving",
+  "created_by": "bytedance",
+  "source": "official",
+  "family": "doubao",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "reasoning": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 6,
+    "output": 30,
+    "cached_input": 1.2
+  },
+  "reasoning_tokens": true,
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "efe1a8d6",
+    "family": "fca2122f",
+    "model_type": "d669f408",
+    "capabilities": "a9fcd739",
+    "modalities": "68e53d93",
+    "pricing": "43d5f427",
+    "reasoning_tokens": "b326b506"
+  }
+}

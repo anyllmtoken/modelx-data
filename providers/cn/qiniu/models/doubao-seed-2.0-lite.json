@@ -1,0 +1,38 @@
+{
+  "id": "doubao-seed-2.0-lite",
+  "name": "Doubao Seed 2.0 Lite",
+  "created_by": "bytedance",
+  "source": "official",
+  "family": "qiniu",
+  "context_window": 256000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "video"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "output": 3.6
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "78416443",
+    "family": "7b458690",
+    "context_window": "2fd324cb",
+    "model_type": "d669f408",
+    "capabilities": "0946b777",
+    "modalities": "3ad4060a",
+    "pricing": "9878ceca"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sensenova-v6-pro",
+  "name": "SenseNova-V6-Pro",
+  "created_by": "sensenova",
+  "source": "official",
+  "family": "sensenova",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 3,
+    "output": 9
+  },
+  "last_updated": "2026-07-15",
+  "_generated": {
+    "name": "8dd86835",
+    "family": "4cc45bc4",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "2d75542c"
+  }
+}

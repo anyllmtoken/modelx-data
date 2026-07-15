@@ -1,0 +1,28 @@
+{
+  "id": "fireworks/deepseek-coder-33b-instruct",
+  "name": "deepseek-coder-33b-instruct",
+  "created_by": "deepseek",
+  "source": "official",
+  "last_updated": "2026-07-15",
+  "family": "deepseek",
+  "context_window": 16300,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "_generated": {
+    "name": "5b99db8b",
+    "family": "4b81b92d",
+    "context_window": "6c880a6d",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e",
+    "parameters": "182be0c5",
+    "page_url": "e5d96f28"
+  },
+  "parameters": 33,
+  "page_url": "https://fireworks.ai/models/fireworks/deepseek-coder-33b-instruct"
+}
