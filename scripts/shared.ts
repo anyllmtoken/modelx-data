@@ -314,6 +314,9 @@ function getOriginal(provider: string, modelId: string): Record<string, unknown>
 export function upsertModel(provider: string, entry: ModelEntry): boolean {
   recordUpsertAttempt();
   const modelId = sanitizeModelId(entry.id);
+  // Skip SDK / language / doc page names that aren't actual models
+  const SKIP_IDS = new Set(["python", "java", "curl", "grounding", "node", "go", "ruby", "php", "swift", "kotlin", "rust", "scala", "perl", "r", "typescript", "bash", "shell"]);
+  if (SKIP_IDS.has(modelId)) { console.log(`  skip ${modelId} (SDK/doc page)`); return false; }
   const existing = readModelJson(provider, modelId);
   getOriginal(provider, modelId);
   if (existing && existing.source === "community") { console.log(`  skip ${modelId} (community)`); return false; }
