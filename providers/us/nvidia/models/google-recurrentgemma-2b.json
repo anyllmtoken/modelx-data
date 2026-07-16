@@ -3,7 +3,7 @@
   "name": "recurrentgemma-2b",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "capabilities": {
     "streaming": true
   },

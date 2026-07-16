@@ -3,7 +3,7 @@
   "name": "grok-4.20-0309-reasoning",
   "created_by": "xai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "release_date": "2026-03-09",
   "capabilities": {
     "streaming": true,

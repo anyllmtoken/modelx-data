@@ -3,7 +3,7 @@
   "name": "GLM-5",
   "created_by": "zhipu",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "GLM-5",
   "description": "GLM-5 is an advanced, open-source large language model designed for developers tackling the toughest challenges. It excels at long-context reasoning, multi-step tool orchestration, and complex systems engineering, making it the ideal choice for powering sophisticated agents and applications that require high-level cognitive tasks.",
   "status": "active",

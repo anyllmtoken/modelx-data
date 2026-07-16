@@ -3,7 +3,7 @@
   "name": "flux",
   "created_by": "clarityai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "flux",
   "description": "ClarityAI/flux integrates the Flux AI model into the upscaling process, enabling high-resolution enhancements with superior face preservation and support for LoRAs to apply specific styles or identities.",
   "status": "active",

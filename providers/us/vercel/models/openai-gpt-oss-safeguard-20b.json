@@ -3,7 +3,7 @@
   "name": "gpt-oss-safeguard-20b",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "gpt-oss",
   "context_window": 131100,
   "capabilities": {

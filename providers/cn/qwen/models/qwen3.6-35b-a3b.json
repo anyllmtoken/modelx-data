@@ -42,7 +42,7 @@
     "tools": "f0c1dc7e",
     "pricing": "77d7d1c6"
   },
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "max_output_tokens": 65536,
   "tools": [
     "function_calling"

@@ -3,7 +3,7 @@
   "name": "voyage-4-lite",
   "created_by": "voyage",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "context_window": 32000,
   "capabilities": {
     "streaming": true

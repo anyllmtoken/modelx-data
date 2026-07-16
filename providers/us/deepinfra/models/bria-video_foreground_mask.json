@@ -3,7 +3,7 @@
   "name": "video_foreground_mask",
   "created_by": "bria",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "bria",
   "description": "Automatically identify and segment foreground objects across video frames and generate a mask. No prompts, just a video.",
   "status": "active",

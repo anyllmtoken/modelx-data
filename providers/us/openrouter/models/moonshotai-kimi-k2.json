@@ -3,7 +3,7 @@
   "name": "MoonshotAI: Kimi K2 0711",
   "created_by": "moonshotai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "description": "Kimi K2 Instruct is a large-scale Mixture-of-Experts (MoE) language model developed by Moonshot AI, featuring 1 trillion total parameters with 32 billion active per forward pass.",
   "context_window": 131072,
   "modalities": {

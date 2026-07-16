@@ -3,7 +3,7 @@
   "name": "Mistral Small",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "model_type": "chat",
   "capabilities": {
     "streaming": true

@@ -3,7 +3,7 @@
   "name": "Wan2.6-Image-Edit",
   "created_by": "wan-ai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "Wan2.6",
   "description": "An all-round image generation model that supports joint text–image reasoning, multi-image creative fusion, commercial-grade consistency, aesthetic style transfer, and precise control of framing and lighting, significantly enhancing consistency, controllability, and expressiveness in image generation.",
   "status": "active",

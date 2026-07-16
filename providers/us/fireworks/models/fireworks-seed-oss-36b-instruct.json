@@ -3,7 +3,7 @@
   "name": "seed-oss-36b-instruct",
   "created_by": "fireworks",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "context_window": 524000,
   "capabilities": {
     "streaming": true

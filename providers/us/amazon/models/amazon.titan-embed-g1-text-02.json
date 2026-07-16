@@ -3,7 +3,7 @@
   "name": "Titan Embeddings G1 - Text v2",
   "created_by": "amazon",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "model_type": "embed",
   "modalities": {
     "input": [

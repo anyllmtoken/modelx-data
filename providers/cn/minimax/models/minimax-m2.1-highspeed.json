@@ -3,7 +3,7 @@
   "name": "MiniMax-M2.1-highspeed",
   "created_by": "minimax",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "minimax",
   "capabilities": {
     "streaming": true,

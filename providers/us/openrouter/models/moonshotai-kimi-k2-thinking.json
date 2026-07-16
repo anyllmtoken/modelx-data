@@ -3,7 +3,7 @@
   "name": "MoonshotAI: Kimi K2 Thinking",
   "created_by": "moonshotai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "description": "Kimi K2 Thinking is Moonshot AI’s most advanced open reasoning model to date, extending the K2 series into agentic, long-horizon reasoning.",
   "context_window": 262144,
   "modalities": {

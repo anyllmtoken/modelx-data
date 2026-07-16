@@ -3,7 +3,7 @@
   "name": "Meta-Llama-3.1-8B-Instruct",
   "created_by": "unsloth",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "capabilities": {
     "streaming": true,
     "tool_call": true

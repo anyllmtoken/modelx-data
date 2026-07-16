@@ -3,7 +3,7 @@
   "name": "Jina Reranker v3",
   "created_by": "jina",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "jina-reranker",
   "description": "jina-reranker-v3 is a 0.6B parameter multilingual document reranker introducing a novel last but not late interaction architecture. Unlike ColBERT's separate encoding with multi-vector matching, this model performs causal self-attention between query and documents within the same context window, enabling rich cross-document interactions before extracting contextual embeddings from the last token of each document. Built on Qwen3-0.6B with 28 transformer layers and a lightweight MLP projector (1024→512→256), it processes up to 64 documents simultaneously within 131K token context. The model achieves state-of-the-art BEIR performance with 61.94 nDCG-10 while being 10× smaller than generative listwise rerankers.",
   "tagline": "Listwise multilingual reranker, 131K context.",

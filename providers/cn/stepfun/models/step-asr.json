@@ -3,7 +3,7 @@
   "name": "Step ASR",
   "created_by": "stepfun",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "stepfun",
   "description": "Real-time and offline speech recognition for Chinese (multi-dialect) and English. 100 MB file limit.",
   "status": "active",

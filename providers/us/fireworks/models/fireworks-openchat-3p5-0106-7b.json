@@ -3,7 +3,7 @@
   "name": "openchat-3p5-0106-7b",
   "created_by": "fireworks",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "context_window": 8190,
   "capabilities": {
     "streaming": true

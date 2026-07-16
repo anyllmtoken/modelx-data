@@ -3,7 +3,7 @@
   "name": "Recraft V4 Vector",
   "created_by": "recraft",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "recraft-v4",
   "description": "Recraft V4 model that outputs editable SVG vector graphics.",
   "tagline": "V4 vector / SVG output.",

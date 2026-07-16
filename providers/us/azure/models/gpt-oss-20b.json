@@ -3,7 +3,7 @@
   "name": "gpt-oss-20b",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "gpt-oss",
   "knowledge_cutoff": "2024-05-31",
   "context_window": 131072,

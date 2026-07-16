@@ -3,7 +3,7 @@
   "name": "DALL·E 2 (2)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "description": "DALL·E is an AI system that creates realistic images and art from a natural language description. Older than DALL·E 3, DALL·E 2 offers more control in prompting and more requests at once.",
   "status": "deprecated",
   "model_type": "image",

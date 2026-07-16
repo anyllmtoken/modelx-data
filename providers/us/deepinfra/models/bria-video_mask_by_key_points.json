@@ -3,7 +3,7 @@
   "name": "video_mask_by_key_points",
   "created_by": "bria",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "bria",
   "description": "Identify and segment objects across video frames using specific coordinate points. Just point in the right direction and the model will figure out by itself which object should be masked.",
   "status": "active",

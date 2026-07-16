@@ -3,7 +3,7 @@
   "name": "GPT-OSS 120B",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "gpt-oss",
   "description": "OpenAI's open-weight GPT-OSS 120B reasoning model.",
   "status": "active",

@@ -3,7 +3,7 @@
   "name": "gemma-4-26B-A4B-it",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "gemma-4",
   "description": "Efficient, MoE variant of Gemma 4. Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input and generating text output.",
   "status": "active",

@@ -3,7 +3,7 @@
   "name": "mistral-moderation-2411",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "status": "deprecated",
   "context_window": 8000,
   "alias": "mistral-moderation",

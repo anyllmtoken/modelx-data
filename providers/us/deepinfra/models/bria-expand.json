@@ -3,7 +3,7 @@
   "name": "expand",
   "created_by": "bria",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "bria",
   "description": "Bria Expand expands images beyond their borders in high quality. Resizing the image by generating new pixels to expand to the desired aspect ratio. Trained exclusively on licensed data for safe and risk-free commercial use.",
   "status": "active",

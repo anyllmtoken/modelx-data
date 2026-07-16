@@ -3,7 +3,7 @@
   "name": "Jina Reranker v1 Base EN",
   "created_by": "jina",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "jina-reranker",
   "description": "Jina Reranker v1 Base English revolutionizes search result refinement by addressing a critical limitation in traditional vector search systems: the inability to capture nuanced relationships between queries and documents. While vector search with cosine similarity provides fast initial results, it often misses subtle relevance signals that human users intuitively understand. This reranker bridges that gap by performing sophisticated token-level analysis of both queries and documents, delivering a remarkable 20% improvement in search accuracy. For organizations struggling with search precision or implementing RAG systems, this model offers a powerful solution that significantly improves result quality without requiring a complete overhaul of existing search infrastructure.",
   "tagline": "First-generation English reranker.",

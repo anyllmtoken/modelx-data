@@ -3,7 +3,7 @@
   "name": "ministral-3-14b-instruct-2512",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "ministral",
   "context_window": 256000,
   "alias": "fireworks/ministral-3-14b-instruct",

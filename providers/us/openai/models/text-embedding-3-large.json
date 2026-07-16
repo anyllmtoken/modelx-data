@@ -3,7 +3,7 @@
   "name": "text-embedding-3-large (large)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "description": "text-embedding-3-large is our most capable embedding model for both english and non-english tasks.",
   "status": "deprecated",
   "model_type": "embed",

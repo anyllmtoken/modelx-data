@@ -3,7 +3,7 @@
   "name": "Claude 4.6 Sonnet",
   "created_by": "anthropic",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "claude-sonnet",
   "capabilities": {
     "streaming": true,

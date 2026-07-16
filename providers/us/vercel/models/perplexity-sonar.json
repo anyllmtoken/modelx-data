@@ -3,7 +3,7 @@
   "name": "sonar",
   "created_by": "perplexity",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "context_window": 127000,
   "capabilities": {
     "streaming": true,

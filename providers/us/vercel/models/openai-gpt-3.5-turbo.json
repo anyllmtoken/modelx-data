@@ -3,7 +3,7 @@
   "name": "gpt-3.5-turbo",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "gpt-3.5",
   "context_window": 16400,
   "capabilities": {

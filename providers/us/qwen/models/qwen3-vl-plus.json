@@ -3,7 +3,7 @@
   "name": "qwen3-vl-plus",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "qwen3",
   "context_window": 262144,
   "max_output_tokens": 81920,

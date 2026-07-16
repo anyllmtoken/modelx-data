@@ -3,7 +3,7 @@
   "name": "deepseek-prover-v2",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "deepseek",
   "context_window": 163000,
   "capabilities": {

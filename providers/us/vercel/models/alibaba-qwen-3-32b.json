@@ -3,7 +3,7 @@
   "name": "qwen-3-32b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "qwen",
   "context_window": 131100,
   "capabilities": {

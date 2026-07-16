@@ -3,7 +3,7 @@
   "name": "DeepSeek: R1 0528",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "deepseek-r1",
   "description": "May 28th update to the [original DeepSeek R1](/deepseek/deepseek-r1) Performance on par with [OpenAI o1](/openai/o1), but open-sourced and with fully open reasoning tokens.",
   "context_window": 163840,

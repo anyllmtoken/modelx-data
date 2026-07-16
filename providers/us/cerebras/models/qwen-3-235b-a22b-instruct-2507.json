@@ -3,7 +3,7 @@
   "name": "Qwen 3 235B Instruct",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "qwen",
   "context_window": 131000,
   "max_output_tokens": 40000,

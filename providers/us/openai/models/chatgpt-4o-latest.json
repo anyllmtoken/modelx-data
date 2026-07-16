@@ -3,7 +3,7 @@
   "name": "ChatGPT-4o (latest)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "chatgpt",
   "description": "ChatGPT-4o was a model alias for the GPT-4o snapshot used in ChatGPT. It has been deprecated and removed from the API. We recommend using {{latestMainlineModel}} for most API integrations.",
   "status": "deprecated",

@@ -3,7 +3,7 @@
   "name": "cogito-v1-preview-llama-8b",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "context_window": 131000,
   "capabilities": {
     "streaming": true

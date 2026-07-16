@@ -3,7 +3,7 @@
   "name": "Anthropic: Claude Sonnet 4.6",
   "created_by": "anthropic",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "claude-sonnet",
   "description": "Sonnet 4.6 is Anthropic's most capable Sonnet-class model yet, with frontier performance across coding, agents, and professional work.",
   "context_window": 1000000,

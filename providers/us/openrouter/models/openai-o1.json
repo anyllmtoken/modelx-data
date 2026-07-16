@@ -3,7 +3,7 @@
   "name": "OpenAI: o1",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "o1",
   "description": "The latest and strongest model family from OpenAI, o1 is designed to spend more time thinking before responding.",
   "context_window": 200000,

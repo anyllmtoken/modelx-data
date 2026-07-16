@@ -3,7 +3,7 @@
   "name": "chronos-hermes-13b-v2",
   "created_by": "fireworks",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "context_window": 4090,
   "capabilities": {
     "streaming": true

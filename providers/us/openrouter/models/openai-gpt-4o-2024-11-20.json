@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-4o (2024-11-20)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "gpt-4o",
   "description": "The 2024-11-20 version of GPT-4o offers a leveled-up creative writing ability with more natural, engaging, and tailored writing to improve relevance & readability.",
   "context_window": 128000,

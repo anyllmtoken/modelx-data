@@ -20,7 +20,7 @@
     "video"
   ],
   "pricing_notes": [
-    "$0.0108 / second (480p)"
+    "$0.025 / second (720p)"
   ],
   "_generated": {
     "name": "3733e431",
@@ -31,7 +31,7 @@
     "tagline": "074b0039",
     "modalities": "94e5e9ab",
     "endpoints": "7a78c070",
-    "pricing_notes": "4f7346a3"
+    "pricing_notes": "0a70d11a"
   },
-  "last_updated": "2026-07-15"
+  "last_updated": "2026-07-16"
 }

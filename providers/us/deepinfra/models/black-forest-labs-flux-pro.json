@@ -3,7 +3,7 @@
   "name": "FLUX-pro",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "flux",
   "description": "Black Forest Labs' first flagship model based on Flux latent rectified flow transformers",
   "status": "active",

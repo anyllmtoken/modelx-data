@@ -3,7 +3,7 @@
   "name": "qwen3-1p7b-fp8-draft-131072",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "qwen3",
   "context_window": 131000,
   "capabilities": {

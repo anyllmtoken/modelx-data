@@ -3,7 +3,7 @@
   "name": "gpt-oss-120b 1",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "gpt-oss",
   "capabilities": {
     "streaming": true,

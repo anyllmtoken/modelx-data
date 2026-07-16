@@ -3,7 +3,7 @@
   "name": "Gemini 3 Pro",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "gemini-3",
   "capabilities": {
     "streaming": true,

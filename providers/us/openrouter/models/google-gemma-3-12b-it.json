@@ -3,7 +3,7 @@
   "name": "Google: Gemma 3 12B",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "family": "gemma-3",
   "description": "Gemma 3 introduces multimodality, supporting vision-language input and text outputs.",
   "context_window": 131072,
