@@ -3,7 +3,7 @@
   "name": "OpenAI: gpt-oss-safeguard-20b",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "gpt-oss",
   "description": "gpt-oss-safeguard-20b is a safety reasoning model from OpenAI built upon gpt-oss-20b.",
   "context_window": 131072,

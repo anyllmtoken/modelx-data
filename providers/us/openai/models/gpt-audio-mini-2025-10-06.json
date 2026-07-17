@@ -3,7 +3,7 @@
   "name": "gpt-audio-mini (06)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "gpt-audio",
   "description": "A cost-efficient version of GPT Audio. It accepts audio inputs and outputs, and can be used in the Chat Completions REST API.",
   "status": "active",

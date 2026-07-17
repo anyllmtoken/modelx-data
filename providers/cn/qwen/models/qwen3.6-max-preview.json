@@ -44,7 +44,7 @@
     "reasoning_tokens": "b326b506",
     "pricing": "c52b2281"
   },
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "tools": [
     "function_calling"
   ],

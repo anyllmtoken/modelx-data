@@ -1,0 +1,35 @@
+{
+  "id": "kimi-k3",
+  "name": "kimi-k3",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "kimi-k3",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 20,
+    "output": 100,
+    "cached_input": 2
+  },
+  "last_updated": "2026-07-17",
+  "_generated": {
+    "name": "73e8093c",
+    "family": "73e8093c",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "8ba871b6"
+  }
+}

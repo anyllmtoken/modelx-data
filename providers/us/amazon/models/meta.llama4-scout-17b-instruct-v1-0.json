@@ -3,7 +3,7 @@
   "name": "Llama 4 Scout 17B Instruct",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "model_type": "chat",
   "capabilities": {
     "streaming": true,

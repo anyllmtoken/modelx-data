@@ -3,7 +3,7 @@
   "name": "smart-turn-v2",
   "created_by": "pipecat-ai",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "capabilities": {
     "streaming": true,
     "vision": true

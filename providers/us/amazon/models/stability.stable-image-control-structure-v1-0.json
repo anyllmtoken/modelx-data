@@ -3,7 +3,7 @@
   "name": "Stable Image Control Structure",
   "created_by": "stability",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "model_type": "image",
   "capabilities": {
     "vision": true

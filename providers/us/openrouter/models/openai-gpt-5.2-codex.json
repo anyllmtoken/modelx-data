@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-5.2-Codex",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "gpt-5.2",
   "description": "GPT-5.2-Codex is an upgraded version of GPT-5.1-Codex optimized for software engineering and coding workflows.",
   "context_window": 400000,

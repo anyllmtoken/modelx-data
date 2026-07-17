@@ -3,7 +3,7 @@
   "name": "molmo2-4b",
   "created_by": "fireworks",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "context_window": 36800,
   "capabilities": {
     "streaming": true

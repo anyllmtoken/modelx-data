@@ -3,7 +3,7 @@
   "name": "qwen-plus-character",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "qwen",
   "context_window": 32000,
   "max_output_tokens": 4000,

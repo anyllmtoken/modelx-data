@@ -3,7 +3,7 @@
   "name": "Step ASR 1.1 Stream",
   "created_by": "stepfun",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "stepfun",
   "description": "Streaming variant of Step ASR 1.1 for real-time transcription.",
   "status": "active",

@@ -3,7 +3,7 @@
   "name": "qwen3.5-27b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "qwen3.5",
   "context_window": 256000,
   "max_output_tokens": 64000,

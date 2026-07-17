@@ -3,7 +3,7 @@
   "name": "mistral-saba-2502",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "status": "deprecated",
   "deprecation_date": "2025-06-10",
   "context_window": 32000,

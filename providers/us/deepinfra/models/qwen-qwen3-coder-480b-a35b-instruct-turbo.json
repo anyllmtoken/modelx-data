@@ -3,7 +3,7 @@
   "name": "Qwen3-Coder-480B-A35B-Instruct-Turbo",
   "created_by": "alibaba",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "qwen3",
   "description": "Qwen3-Coder-480B-A35B-Instruct is the Qwen3's most agentic code model, featuring Significant Performance on Agentic Coding, Agentic Browser-Use and other foundational coding tasks, achieving results comparable to Claude Sonnet.",
   "status": "active",

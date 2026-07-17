@@ -3,7 +3,7 @@
   "name": "DeepSeek-V4-Pro",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "deepseek-v4",
   "description": "DeepSeek V4 Pro is an MoE model with 1.6T total parameters (49B active) and a 1M-token context window. It's built for advanced reasoning, coding, and long-running agent tasks, and performs well on knowledge, math, and software engineering benchmarks.",
   "status": "active",

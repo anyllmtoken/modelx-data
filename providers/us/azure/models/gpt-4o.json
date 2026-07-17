@@ -3,7 +3,7 @@
   "name": "GPT-4o, GPT-4o mini, and GPT-4 Turbo",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "gpt-4o",
   "capabilities": {
     "streaming": true,

@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-5.3-Codex",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "gpt-5.3",
   "description": "GPT-5.3-Codex is OpenAI’s most advanced agentic coding model, combining the frontier software engineering performance of GPT-5.2-Codex with the broader reasoning and professional knowledge capabilities of GPT-5.2.",
   "context_window": 400000,

@@ -3,7 +3,7 @@
   "name": "Relace: Relace Apply 3",
   "created_by": "relace",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "description": "Relace Apply 3 is a specialized code-patching LLM that merges AI-suggested edits straight into your source files.",
   "context_window": 256000,
   "max_output_tokens": 128000,

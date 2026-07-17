@@ -3,7 +3,7 @@
   "name": "gemini-3-pro-image",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "gemini-3",
   "context_window": 65500,
   "capabilities": {

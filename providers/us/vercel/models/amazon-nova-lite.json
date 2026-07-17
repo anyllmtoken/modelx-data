@@ -3,7 +3,7 @@
   "name": "nova-lite",
   "created_by": "amazon",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "context_window": 300000,
   "capabilities": {
     "streaming": true,

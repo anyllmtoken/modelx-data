@@ -3,7 +3,7 @@
   "name": "llama-nemotron-embed-vl-1b-v2",
   "created_by": "nvidia",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "llama",
   "description": "The llama-nemotron-embed-vl-1b-v2 is a high-performance multimodal embedding model designed to transform text queries and document images into dense vector representations for advanced retrieval systems. It excels at understanding complex visual content like charts, tables, and infographics.",
   "status": "active",

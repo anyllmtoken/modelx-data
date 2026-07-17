@@ -3,7 +3,7 @@
   "name": "TTS-1 HD (hd)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "description": "TTS is a model that converts text to natural sounding spoken text. The tts-1-hd model is optimized for high quality text-to-speech use cases. Use it with the Speech endpoint in the Audio API.",
   "status": "deprecated",
   "model_type": "tts",

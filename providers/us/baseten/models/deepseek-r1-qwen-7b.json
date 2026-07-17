@@ -3,7 +3,7 @@
   "name": "deepseek-r1-qwen-7b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "deepseek-r1",
   "capabilities": {
     "streaming": true

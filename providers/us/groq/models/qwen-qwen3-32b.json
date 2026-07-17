@@ -3,7 +3,7 @@
   "name": "Qwen3-32B",
   "created_by": "alibaba",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "qwen3",
   "status": "deprecated",
   "context_window": 131072,

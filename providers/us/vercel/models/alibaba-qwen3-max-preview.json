@@ -3,7 +3,7 @@
   "name": "qwen3-max-preview",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "qwen3",
   "context_window": 262100,
   "capabilities": {

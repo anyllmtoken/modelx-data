@@ -1,6 +1,6 @@
 {
   "id": "reve/2.1/text-to-image",
-  "name": "2.1",
+  "name": "Reve 2.1",
   "created_by": "reve",
   "source": "official",
   "description": "Generate high-quality images from text prompts with strong prompt adherence, layout intelligence, and accurate text rendering using Reve 2.1.",
@@ -22,9 +22,9 @@
   "endpoints": [
     "images"
   ],
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "_generated": {
-    "name": "aa9aa4c8",
+    "name": "b2542b8d",
     "description": "d5b17e90",
     "status": "379ac110",
     "release_date": "a393f093",

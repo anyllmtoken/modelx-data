@@ -3,7 +3,7 @@
   "name": "Seed-2.0-mini",
   "created_by": "bytedance",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "seed",
   "description": "Built for low-latency, high-concurrency, cost-sensitive use cases, with flexible deployment, four-tier thinking, and multimodal",
   "status": "active",

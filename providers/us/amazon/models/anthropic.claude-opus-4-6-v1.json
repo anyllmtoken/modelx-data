@@ -3,7 +3,7 @@
   "name": "Claude Opus 4.6",
   "created_by": "anthropic",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "model_type": "chat",
   "capabilities": {
     "streaming": true,

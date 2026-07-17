@@ -3,7 +3,7 @@
   "name": "gemma-3n-e2b-it",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "gemma-3n",
   "capabilities": {
     "streaming": true

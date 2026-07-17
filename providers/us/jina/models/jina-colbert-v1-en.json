@@ -3,7 +3,7 @@
   "name": "Jina Colbert v1 EN",
   "created_by": "jina",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "jina-colbert",
   "description": "Jina-ColBERT-v1-en revolutionizes text search by solving a critical challenge in information retrieval: achieving high accuracy without sacrificing computational efficiency. Unlike traditional models that compress entire documents into single vectors, this model maintains precise token-level understanding while requiring only 137M parameters. For teams building search applications, recommendation systems, or content discovery platforms, Jina-ColBERT-v1-en eliminates the traditional trade-off between search quality and system performance. The model particularly shines in scenarios where nuanced text understanding is crucial, such as technical documentation search, academic paper retrieval, or any application where capturing subtle semantic relationships can make the difference between finding the right information and missing critical content.",
   "tagline": "First-generation English ColBERT.",

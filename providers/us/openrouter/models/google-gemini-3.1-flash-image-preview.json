@@ -3,7 +3,7 @@
   "name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "gemini-3.1",
   "description": "Gemini 3.1 Flash Image Preview, a.k.a.",
   "context_window": 131072,

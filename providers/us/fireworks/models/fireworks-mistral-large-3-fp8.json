@@ -3,7 +3,7 @@
   "name": "mistral-large-3-fp8",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "mistral-large",
   "context_window": 256000,
   "capabilities": {

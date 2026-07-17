@@ -3,7 +3,7 @@
   "name": "qwq-32b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "qwq",
   "capabilities": {
     "streaming": true,

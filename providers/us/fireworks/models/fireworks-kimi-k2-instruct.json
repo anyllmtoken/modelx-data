@@ -3,7 +3,7 @@
   "name": "kimi-k2-instruct",
   "created_by": "moonshot",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "context_window": 131000,
   "capabilities": {
     "streaming": true

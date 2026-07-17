@@ -3,7 +3,7 @@
   "name": "magistral-small-2509",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "status": "deprecated",
   "context_window": 128000,
   "alias": "magistral-small",

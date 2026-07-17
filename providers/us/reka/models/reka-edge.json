@@ -3,7 +3,7 @@
   "name": "Reka Edge",
   "created_by": "reka",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "reka-edge",
   "description": "7B multimodal vision-language model optimized for edge deployments, robotics, and real-time visual reasoning.",
   "tagline": "Frontier-level edge VLM for physical AI.",

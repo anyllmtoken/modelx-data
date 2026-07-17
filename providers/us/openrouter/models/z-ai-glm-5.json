@@ -3,7 +3,7 @@
   "name": "Z.ai: GLM 5",
   "created_by": "z-ai",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "description": "GLM-5 is Z.ai’s flagship open-source foundation model engineered for complex systems design and long-horizon agent workflows.",
   "context_window": 202752,
   "max_output_tokens": 202752,

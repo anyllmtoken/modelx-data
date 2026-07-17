@@ -3,7 +3,7 @@
   "name": "Moonshot v1 8K",
   "created_by": "moonshot",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "moonshot",
   "context_window": 8192,
   "capabilities": {

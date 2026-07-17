@@ -3,7 +3,7 @@
   "name": "Meta: Llama Guard 4 12B",
   "created_by": "meta-llama",
   "source": "official",
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "family": "llama-guard",
   "description": "Llama Guard 4 is a Llama 4 Scout-derived multimodal pretrained model, fine-tuned for content safety classification.",
   "context_window": 163840,
