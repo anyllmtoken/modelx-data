@@ -3,7 +3,7 @@
   "name": "gemma-2-9b-it",
   "created_by": "unsloth",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "gemma-2",
   "capabilities": {
     "streaming": true,

@@ -3,7 +3,7 @@
   "name": "DeepSeek-R1-0528-Qwen3-8B",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "capabilities": {
     "streaming": true,
     "tool_call": true

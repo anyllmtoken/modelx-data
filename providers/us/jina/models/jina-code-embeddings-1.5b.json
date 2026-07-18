@@ -3,7 +3,7 @@
   "name": "Jina Code Embeddings 1.5b",
   "created_by": "jina",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "jina-code-embeddings-1.5b",
   "description": "jina-code-embeddings-1.5b is a 1.54 billion parameter model representing a significant advancement in code retrieval capabilities. Built on Qwen2.5-Coder-1.5B backbone with last-token pooling, it moves beyond traditional training on limited aligned data to leverage vast unaligned code and documentation corpora. The model implements comprehensive task-specific instructions across five categories: NL2Code, TechQA, Code2Code, Code2NL, and Code2Completion, each with distinct prefixes for queries and documents. Supports Matryoshka representation learning for flexible embedding truncation. Despite larger size, maintains practical deployment characteristics while achieving benchmark performance competitive with substantially larger alternatives.",
   "tagline": "Larger Qwen-Coder code embeddings.",

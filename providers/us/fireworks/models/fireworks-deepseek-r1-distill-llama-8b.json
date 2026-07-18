@@ -3,7 +3,7 @@
   "name": "deepseek-r1-distill-llama-8b",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "deepseek-r1",
   "context_window": 131000,
   "capabilities": {

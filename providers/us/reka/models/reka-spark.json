@@ -3,7 +3,7 @@
   "name": "Reka Spark",
   "created_by": "reka",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "reka-spark",
   "description": "Ultra-compact 1B model for embedding AI into the smallest devices.",
   "tagline": "Tiny on-device multimodal model.",

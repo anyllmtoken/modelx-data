@@ -3,7 +3,7 @@
   "name": "Claude 4.6 Sonnet",
   "created_by": "anthropic",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "claude-sonnet",
   "capabilities": {
     "streaming": true,
@@ -43,7 +43,7 @@
     "model_type": "d669f408",
     "tools": "f0c1dc7e",
     "page_url": "ed4dcd7f",
-    "pricing_notes": "5e2a8aaa"
+    "pricing_notes": "10a3f829"
   },
   "model_type": "chat",
   "tools": [
@@ -51,6 +51,6 @@
   ],
   "page_url": "https://cursor.com/docs/models-and-pricing#claude-4-6-sonnet",
   "pricing_notes": [
-    "Hidden by default; Requires Max Mode on request-based plans; Up to 1M tokens in Max Mode at the same per-token rates (no long-context surcharge)"
+    "Hidden by default; Requires Max Mode on legacy request-based plans; Up to 1M tokens with extended context at the same per-token rates (no long-context surcharge)"
   ]
 }

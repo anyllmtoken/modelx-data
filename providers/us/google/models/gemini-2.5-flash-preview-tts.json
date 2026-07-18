@@ -3,7 +3,7 @@
   "name": "gemini-2.5-flash-preview-tts",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "gemini-2.5",
   "status": "active",
   "context_window": 8192,

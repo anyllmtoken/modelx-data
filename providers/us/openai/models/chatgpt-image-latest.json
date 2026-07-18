@@ -3,7 +3,7 @@
   "name": "chatgpt-image-latest (latest)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "chatgpt",
   "description": "This points to the Image snapshot previously used in ChatGPT. We recommend {{latestImageModel}} for API use.",
   "status": "deprecated",

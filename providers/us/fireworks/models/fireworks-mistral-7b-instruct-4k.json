@@ -3,7 +3,7 @@
   "name": "mistral-7b-instruct-4k",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "context_window": 32700,
   "capabilities": {
     "streaming": true

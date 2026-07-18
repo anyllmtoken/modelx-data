@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-4.1 Nano",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "gpt-4.1",
   "description": "For tasks that demand low latency, GPT‑4.1 nano is the fastest and cheapest model in the GPT-4.1 series.",
   "context_window": 1047576,

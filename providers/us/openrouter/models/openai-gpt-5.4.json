@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-5.4",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "gpt-5.4",
   "description": "GPT-5.4 is OpenAI’s latest frontier model, unifying the Codex and GPT lines into a single system.",
   "context_window": 1050000,

@@ -3,7 +3,7 @@
   "name": "Mistral-Small-3.2-24B-Instruct-2506",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "mistral",
   "description": "Mistral-Small-3.2-24B-Instruct is a drop-in upgrade over the 3.1 release, with markedly better instruction following, roughly half the infinite-generation errors, and a more robust function-calling interface—while otherwise matching or slightly improving on all previous text and vision benchmarks.",
   "status": "active",

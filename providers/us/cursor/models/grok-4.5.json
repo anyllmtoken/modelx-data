@@ -27,7 +27,7 @@
     "cached_input": 0.5
   },
   "pricing_notes": [
-    "Jointly trained by Cursor and SpaceXAI; Not yet available in the European Union"
+    "Jointly trained by Cursor and SpaceXAI"
   ],
   "tools": [
     "function_calling"
@@ -42,10 +42,10 @@
     "capabilities": "a281e83a",
     "modalities": "68e53d93",
     "pricing": "1b0b4866",
-    "pricing_notes": "52598254",
+    "pricing_notes": "b9f739ff",
     "tools": "f0c1dc7e",
     "context_window": "2fd324cb"
   },
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "context_window": 256000
 }

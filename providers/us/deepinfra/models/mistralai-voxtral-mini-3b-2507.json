@@ -3,7 +3,7 @@
   "name": "Voxtral-Mini-3B-2507",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "mistralai",
   "description": "Voxtral Mini is an enhancement of Ministral 3B, incorporating state-of-the-art audio input capabilities while retaining best-in-class text performance. It excels at speech transcription, translation and audio understanding.",
   "status": "active",

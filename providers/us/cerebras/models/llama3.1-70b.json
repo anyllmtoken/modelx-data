@@ -3,7 +3,7 @@
   "name": "llama3.1-70b",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "status": "deprecated",
   "deprecation_date": "2025-01-17",
   "model_type": "chat",

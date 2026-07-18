@@ -3,7 +3,7 @@
   "name": "Palmyra X5",
   "created_by": "writer",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "palmyra-x",
   "description": "General-purpose model with a 1M token context window and adaptive reasoning",
   "tagline": "1M-token enterprise LLM with adaptive reasoning.",

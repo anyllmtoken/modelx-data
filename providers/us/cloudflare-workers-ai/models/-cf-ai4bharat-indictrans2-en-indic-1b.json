@@ -3,7 +3,7 @@
   "name": "indictrans2-en-indic-1B",
   "created_by": "ai4bharat",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "capabilities": {
     "streaming": true,
     "tool_call": true

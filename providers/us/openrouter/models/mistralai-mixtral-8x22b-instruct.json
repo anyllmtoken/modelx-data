@@ -3,7 +3,7 @@
   "name": "Mistral: Mixtral 8x22B Instruct",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "mixtral",
   "description": "Mistral's official instruct fine-tuned version of [Mixtral 8x22B](/models/mistralai/mixtral-8x22b).",
   "context_window": 65536,

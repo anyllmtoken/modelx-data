@@ -3,7 +3,7 @@
   "name": "wan-v2.6-i2v-flash",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "capabilities": {
     "streaming": true
   },

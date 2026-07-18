@@ -3,7 +3,7 @@
   "name": "GPT-5.3 Codex",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "gpt-5.3",
   "capabilities": {
     "streaming": true,
@@ -40,7 +40,7 @@
     "model_type": "d669f408",
     "tools": "f0c1dc7e",
     "page_url": "519582de",
-    "pricing_notes": "d87f5909"
+    "pricing_notes": "2be301a0"
   },
   "model_type": "chat",
   "tools": [
@@ -48,6 +48,6 @@
   ],
   "page_url": "https://cursor.com/docs/models-and-pricing#gpt-5-3-codex",
   "pricing_notes": [
-    "Hidden by default; Requires Max Mode on request-based plans; Agentic and reasoning capabilities; Available reasoning effort variant is gpt-5.3-codex-high"
+    "Hidden by default; Requires Max Mode on legacy request-based plans; Agentic and reasoning capabilities; Available reasoning effort variant is gpt-5.3-codex-high"
   ]
 }

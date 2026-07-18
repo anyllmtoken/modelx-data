@@ -3,7 +3,7 @@
   "name": "starcoder2-15b",
   "created_by": "bigcode",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "capabilities": {
     "streaming": true
   },

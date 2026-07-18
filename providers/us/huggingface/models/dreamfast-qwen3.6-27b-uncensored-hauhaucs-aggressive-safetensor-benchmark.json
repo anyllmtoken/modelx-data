@@ -1,0 +1,27 @@
+{
+  "id": "DreamFast/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive-Safetensor-Benchmark",
+  "name": "Qwen3.6-27B-Uncensored-HauhauCS-Aggressive-Safetensor-Benchmark",
+  "created_by": "dreamfast",
+  "source": "official",
+  "description": "> Forensic analysis by [Abliterlitics](https://github.com/dreamfast/abliterlitics), open-source abliteration forensics toolkit",
+  "release_date": "2026-04-30",
+  "license": "apache-2.0",
+  "parameters": 28,
+  "page_url": "https://huggingface.co/DreamFast/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive-Safetensor-Benchmark",
+  "architecture": "transformer",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "last_updated": "2026-07-18",
+  "_generated": {
+    "name": "af96d986",
+    "description": "5305f09a",
+    "release_date": "a53a2b69",
+    "license": "60245731",
+    "parameters": "33e75ff0",
+    "page_url": "29c1e000",
+    "architecture": "8832ea0f",
+    "capabilities": "48995a4e"
+  }
+}

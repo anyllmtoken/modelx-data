@@ -3,7 +3,7 @@
   "name": "qwen3.5-plus",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "qwen3.5",
   "context_window": 1000000,
   "model_type": "chat",

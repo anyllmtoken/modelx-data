@@ -3,7 +3,7 @@
   "name": "gpt-image-1.5",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "gpt-image-1.5",
   "capabilities": {
     "streaming": true,

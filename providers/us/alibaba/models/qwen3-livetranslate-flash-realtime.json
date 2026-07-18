@@ -3,7 +3,7 @@
   "name": "qwen3-livetranslate-flash-realtime",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "qwen3",
   "context_window": 53248,
   "max_output_tokens": 4096,

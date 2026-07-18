@@ -32,7 +32,7 @@
     "cached_input": 1
   },
   "pricing_notes": [
-    "Requires data retention approval for Enterprise customers, Teams and individual customers with Privacy Mode enabled; Anthropic stores agent input and output data for harm-prevention processes; this data is not used to train or improve Anthropic models or products; Requests that trip a security guardrail are automatically routed to Claude Opus; About 2x the cost of Claude Opus 4.8; Requires Max Mode on request-based plans"
+    "Requires data retention approval for Enterprise customers, Teams and individual customers with Privacy Mode enabled; Anthropic stores agent input and output data for harm-prevention processes; this data is not used to train or improve Anthropic models or products; Requests that trip a security guardrail are automatically routed to Claude Opus; About 2x the cost of Claude Opus 4.8; Requires Max Mode on legacy request-based plans"
   ],
   "tools": [
     "function_calling"
@@ -49,8 +49,8 @@
     "capabilities": "7ca28ec9",
     "modalities": "6399757e",
     "pricing": "e570eb6d",
-    "pricing_notes": "8315039e",
+    "pricing_notes": "93790cf4",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-17"
+  "last_updated": "2026-07-18"
 }

@@ -3,7 +3,7 @@
   "name": "StepAudio 2.5 TTS",
   "created_by": "stepfun",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "stepfun",
   "description": "Contextual text-to-speech with zero-shot voice cloning from 3 seconds of audio. Dual-layer prosody and emotion control.",
   "status": "active",

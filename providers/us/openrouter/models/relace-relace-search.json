@@ -3,7 +3,7 @@
   "name": "Relace: Relace Search",
   "created_by": "relace",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "description": "The relace-search model uses 4-12 `view_file` and `grep` tools in parallel to explore a codebase and return relevant files to the user request.",
   "context_window": 256000,
   "max_output_tokens": 128000,

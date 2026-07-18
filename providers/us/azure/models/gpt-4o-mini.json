@@ -3,7 +3,7 @@
   "name": "gpt-4o-mini",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "gpt-4o",
   "knowledge_cutoff": "2023-10",
   "capabilities": {

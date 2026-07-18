@@ -1,6 +1,6 @@
 {
   "id": "stepfun-step-3.7-flash",
-  "name": "Step-3.7 Flash",
+  "name": "StepFun/Step-3.7 Flash",
   "created_by": "stepfun",
   "source": "official",
   "family": "qiniu",
@@ -25,9 +25,9 @@
   "pricing": {
     "output": 8.1
   },
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "_generated": {
-    "name": "0581c903",
+    "name": "cf3eadc8",
     "family": "7b458690",
     "context_window": "2fd324cb",
     "model_type": "d669f408",

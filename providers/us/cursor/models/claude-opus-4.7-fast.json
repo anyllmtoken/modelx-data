@@ -32,7 +32,7 @@
     "cached_input": 3
   },
   "pricing_notes": [
-    "Hidden by default; Requires Max Mode on request-based plans; Limited research preview; Up to 1M tokens in Max Mode at the same per-token rates as shorter context"
+    "Hidden by default; Requires Max Mode on legacy request-based plans; Limited research preview; Up to 1M tokens with extended context at the same per-token rates as shorter context"
   ],
   "tools": [
     "function_calling"
@@ -49,8 +49,8 @@
     "capabilities": "7ca28ec9",
     "modalities": "6399757e",
     "pricing": "7062d873",
-    "pricing_notes": "f16421aa",
+    "pricing_notes": "96ad4366",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-17"
+  "last_updated": "2026-07-18"
 }

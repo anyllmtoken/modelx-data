@@ -3,7 +3,7 @@
   "name": "Qwen3-Max-Thinking",
   "created_by": "alibaba",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "qwen3",
   "description": "The latest flagship reasoning model in the Qwen3 family. Further enhanced by multiple innovations like adaptive tool-use and advanced test-time scaling techniques",
   "status": "active",

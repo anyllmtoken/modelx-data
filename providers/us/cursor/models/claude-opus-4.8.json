@@ -32,7 +32,7 @@
     "cached_input": 0.5
   },
   "pricing_notes": [
-    "Requires Max Mode on request-based plans; Fast mode (\\`claude-opus-4-8-fast\\`) requires Max Mode; Fast mode is 3x lower per-token pricing than Opus 4.7 fast mode; Up to 1M tokens in Max Mode at the same per-token rates (no long-context surcharge)"
+    "Requires Max Mode on legacy request-based plans; Fast mode (\\`claude-opus-4-8-fast\\`) requires Max Mode on legacy request-based plans; Fast mode is 3x lower per-token pricing than Opus 4.7 fast mode; Up to 1M tokens with extended context at the same per-token rates (no long-context surcharge)"
   ],
   "tools": [
     "function_calling"
@@ -49,8 +49,8 @@
     "capabilities": "7ca28ec9",
     "modalities": "6399757e",
     "pricing": "bd5536c6",
-    "pricing_notes": "f325bfe3",
+    "pricing_notes": "274bd620",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-17"
+  "last_updated": "2026-07-18"
 }

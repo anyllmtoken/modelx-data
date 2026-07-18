@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-5 Chat",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "gpt-5",
   "description": "GPT-5 Chat is designed for advanced, natural, multimodal, and context-aware conversations for enterprise applications.",
   "context_window": 128000,

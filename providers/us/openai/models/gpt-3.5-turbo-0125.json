@@ -3,7 +3,7 @@
   "name": "GPT-3.5 Turbo (0125)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "gpt-3.5",
   "status": "deprecated",
   "knowledge_cutoff": "2021-09",

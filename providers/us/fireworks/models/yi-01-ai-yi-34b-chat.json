@@ -3,7 +3,7 @@
   "name": "yi-34b-chat",
   "created_by": "yi-01-ai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "context_window": 4090,
   "capabilities": {
     "streaming": true

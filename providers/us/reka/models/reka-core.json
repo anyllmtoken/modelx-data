@@ -3,7 +3,7 @@
   "name": "Reka Core",
   "created_by": "reka",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "reka-core",
   "description": "Frontier-class multimodal model handling text, image, audio, and video for complex reasoning tasks.",
   "tagline": "Reka's frontier multimodal model.",

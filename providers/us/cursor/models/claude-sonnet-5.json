@@ -32,7 +32,7 @@
     "cached_input": 0.3
   },
   "pricing_notes": [
-    "Launch promotion: $2/M input and $10/M output through August 31, 2026; Requires Max Mode on request-based plans; Up to 1M tokens in Max Mode at the same per-token rates (no long-context surcharge); Uses an updated tokenizer, so the same input can map to more tokens"
+    "Launch promotion: $2/M input and $10/M output through August 31, 2026; Requires Max Mode on legacy request-based plans; Up to 1M tokens with extended context at the same per-token rates (no long-context surcharge); Uses an updated tokenizer, so the same input can map to more tokens"
   ],
   "tools": [
     "function_calling"
@@ -49,8 +49,8 @@
     "capabilities": "7ca28ec9",
     "modalities": "6399757e",
     "pricing": "068285c8",
-    "pricing_notes": "d719f8ca",
+    "pricing_notes": "ebdb375d",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-17"
+  "last_updated": "2026-07-18"
 }

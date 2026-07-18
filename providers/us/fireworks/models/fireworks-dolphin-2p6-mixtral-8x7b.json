@@ -3,7 +3,7 @@
   "name": "dolphin-2p6-mixtral-8x7b",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "context_window": 32700,
   "capabilities": {
     "streaming": true

@@ -3,7 +3,7 @@
   "name": "DeepSeek V3.2",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "deepseek-v3",
   "description": "Preview release of DeepSeek V3.2 on SambaCloud, high volume lane with limited context.",
   "status": "preview",

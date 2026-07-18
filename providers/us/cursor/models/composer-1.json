@@ -3,7 +3,7 @@
   "name": "Composer 1",
   "created_by": "cursor",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "capabilities": {
     "streaming": true,
     "tool_call": true,

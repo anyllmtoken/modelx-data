@@ -3,7 +3,7 @@
   "name": "GPT-5.1 Chat (latest)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "gpt-5.1",
   "description": "GPT-5.1 Chat points to the GPT-5.1 snapshot currently used in ChatGPT.",
   "status": "deprecated",

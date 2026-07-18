@@ -3,7 +3,7 @@
   "name": "command-a",
   "created_by": "cohere",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "context_window": 256000,
   "capabilities": {
     "streaming": true,

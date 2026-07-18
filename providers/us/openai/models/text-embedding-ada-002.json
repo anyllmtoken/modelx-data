@@ -3,7 +3,7 @@
   "name": "text-embedding-ada-002 (002)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "description": "text-embedding-ada-002 is our improved, more performant version of our ada embedding model.",
   "status": "deprecated",
   "model_type": "embed",

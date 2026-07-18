@@ -14,7 +14,9 @@
   "model_type": "chat",
   "tagline": "DeepSeek-V4-Flash is a preview of the DeepSeek-V4 series, a Mixture-of-Experts model with 284B total parameters and 13B activated, built for efficient reasoning across a 1M-token context window.",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "tool_call": true,
+    "reasoning": true
   },
   "modalities": {
     "input": [
@@ -39,9 +41,9 @@
     "open_weight": "b326b506",
     "model_type": "d669f408",
     "tagline": "852654a1",
-    "capabilities": "0fa77dc6",
+    "capabilities": "a281e83a",
     "modalities": "68e53d93",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-17"
+  "last_updated": "2026-07-18"
 }

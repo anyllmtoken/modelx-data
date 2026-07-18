@@ -9,9 +9,10 @@
   "parameters": 36,
   "page_url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "tool_call": true
   },
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "_generated": {
     "name": "8d269c68",
     "description": "6986cb84",
@@ -19,6 +20,8 @@
     "license": "60245731",
     "parameters": "19ca14e7",
     "page_url": "830a37b1",
-    "capabilities": "0fa77dc6"
-  }
+    "capabilities": "48995a4e",
+    "architecture": "31b2172c"
+  },
+  "architecture": "moe"
 }

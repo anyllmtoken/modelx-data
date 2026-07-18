@@ -3,7 +3,7 @@
   "name": "grok-4",
   "created_by": "xai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "grok-4",
   "capabilities": {
     "streaming": true,

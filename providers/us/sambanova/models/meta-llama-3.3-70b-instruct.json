@@ -3,7 +3,7 @@
   "name": "Llama 3.3 70B Instruct",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "llama-3",
   "description": "Meta's Llama 3.3 70B instruction-tuned model.",
   "status": "active",

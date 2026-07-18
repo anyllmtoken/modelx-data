@@ -3,7 +3,7 @@
   "name": "IBM: Granite 4.0 Micro",
   "created_by": "ibm-granite",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "description": "Granite-4.0-H-Micro is a 3B parameter from the Granite 4 family of models.",
   "context_window": 131000,
   "modalities": {

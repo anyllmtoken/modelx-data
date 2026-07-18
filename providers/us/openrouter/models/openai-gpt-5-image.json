@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-5 Image",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "gpt-5",
   "description": "[GPT-5](https://openrouter.ai/openai/gpt-5) Image combines OpenAI's GPT-5 model with state-of-the-art image generation capabilities.",
   "context_window": 400000,

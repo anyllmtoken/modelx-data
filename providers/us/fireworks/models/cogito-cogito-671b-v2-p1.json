@@ -3,7 +3,7 @@
   "name": "cogito-671b-v2-p1",
   "created_by": "cogito",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "context_window": 163000,
   "capabilities": {
     "streaming": true

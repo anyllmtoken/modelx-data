@@ -3,7 +3,7 @@
   "name": "MiMo-v2-pro",
   "created_by": "xiaomi",
   "source": "official",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "family": "mimo",
   "description": "Flagship foundation model with 1M-token context and top-tier agentic capabilities.",
   "status": "deprecated",
