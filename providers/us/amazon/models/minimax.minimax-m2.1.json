@@ -3,7 +3,7 @@
   "name": "MiniMax M2.1",
   "created_by": "minimax",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "model_type": "chat",
   "capabilities": {
     "streaming": true

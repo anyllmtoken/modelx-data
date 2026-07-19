@@ -3,7 +3,7 @@
   "name": "gemma-3-12b-it",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "gemma-3",
   "capabilities": {
     "streaming": true,

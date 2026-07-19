@@ -30,7 +30,7 @@
   "pricing": {
     "input": 2,
     "output": 6,
-    "cached_input": 0.5
+    "cached_input": 0.3
   },
   "open_weight": false,
   "tools": [
@@ -47,9 +47,9 @@
     "model_type": "d669f408",
     "capabilities": "b33ddd02",
     "modalities": "6399757e",
-    "pricing": "1b0b4866",
+    "pricing": "fab18d6a",
     "open_weight": "68934a3e",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-18"
+  "last_updated": "2026-07-19"
 }

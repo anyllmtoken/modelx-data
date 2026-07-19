@@ -3,7 +3,7 @@
   "name": "FLUX.1-Kontext-dev",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "flux",
   "description": "FLUX.1 Kontext [dev] is a 12-billion-parameter image editing model that transforms visuals based on natural language instructions. It allows highly consistent, multi-step edits and is released with open weights under a non-commercial license to empower artists and researchers.",
   "status": "active",

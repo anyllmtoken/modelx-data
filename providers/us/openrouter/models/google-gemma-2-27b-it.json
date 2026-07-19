@@ -3,7 +3,7 @@
   "name": "Google: Gemma 2 27B",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "gemma-2",
   "description": "Gemma 2 27B by Google is an open model built from the same research and technology used to create the [Gemini models](/models?q=gemini).",
   "context_window": 8192,

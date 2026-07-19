@@ -3,7 +3,7 @@
   "name": "FLUX.2 [klein] 9B",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "flux-2",
   "description": "Balanced 9B FLUX.2 flow model with 8B text embedder; sub-second inference at ~24 GB VRAM. Open base weights under FLUX non-commercial license.",
   "tagline": "Balanced quality and speed for [klein].",

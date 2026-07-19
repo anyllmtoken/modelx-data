@@ -3,7 +3,7 @@
   "name": "omni-moderation",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "description": "Moderation models are free models designed to detect harmful content.",
   "status": "active",
   "model_type": "moderation",

@@ -3,7 +3,7 @@
   "name": "Writer: Palmyra X5",
   "created_by": "writer",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "description": "Palmyra X5 is Writer's most advanced model, purpose-built for building and scaling AI agents across the enterprise.",
   "context_window": 1040000,
   "max_output_tokens": 8192,

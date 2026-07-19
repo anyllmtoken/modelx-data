@@ -25,9 +25,9 @@
     ]
   },
   "pricing": {
-    "input": 0.95,
-    "output": 4,
-    "cached_input": 0.16
+    "input": 0.684,
+    "output": 3.42,
+    "cached_input": 0.144
   },
   "tools": [
     "function_calling"
@@ -43,8 +43,8 @@
     "tagline": "60f35004",
     "capabilities": "f533f522",
     "modalities": "6399757e",
-    "pricing": "0d48a54a",
+    "pricing": "fe44b1cf",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-18"
+  "last_updated": "2026-07-19"
 }

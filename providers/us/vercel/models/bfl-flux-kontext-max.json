@@ -3,7 +3,7 @@
   "name": "flux-kontext-max",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "capabilities": {
     "streaming": true
   },

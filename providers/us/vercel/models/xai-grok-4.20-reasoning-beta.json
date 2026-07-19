@@ -3,7 +3,7 @@
   "name": "grok-4.20-reasoning-beta",
   "created_by": "xai",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "grok-4.20",
   "context_window": 2000000,
   "capabilities": {

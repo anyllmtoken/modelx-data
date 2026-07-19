@@ -3,7 +3,7 @@
   "name": "Prompt Guard 2 86M",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "status": "preview",
   "context_window": 512,
   "max_output_tokens": 512,

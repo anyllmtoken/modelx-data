@@ -3,7 +3,7 @@
   "name": "Qwen-Image-Edit-Max",
   "created_by": "alibaba",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "qwen",
   "description": "Enhanced industrial design and geometric reasoning, improved character consistency, reduced offset issues, and integrated LoRA capabilities",
   "status": "active",

@@ -3,7 +3,7 @@
   "name": "glm-4p5-air",
   "created_by": "zhipu",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "context_window": 131000,
   "capabilities": {
     "streaming": true

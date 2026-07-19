@@ -3,7 +3,7 @@
   "name": "deepseek-v2p5",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "deepseek",
   "context_window": 32700,
   "capabilities": {

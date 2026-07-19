@@ -20,11 +20,11 @@
     ]
   },
   "pricing": {
-    "input": 3.6,
-    "output": 13.2,
-    "cached_input": 0.72
+    "input": 6,
+    "output": 22,
+    "cached_input": 1.2
   },
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "_generated": {
     "name": "bfb92394",
     "family": "92678943",
@@ -32,6 +32,6 @@
     "model_type": "d669f408",
     "capabilities": "1d6c1abb",
     "modalities": "68e53d93",
-    "pricing": "ef62228e"
+    "pricing": "b4308e29"
   }
 }

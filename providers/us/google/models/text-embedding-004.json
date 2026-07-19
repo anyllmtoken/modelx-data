@@ -3,7 +3,7 @@
   "name": "text-embedding-004",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "status": "deprecated",
   "deprecation_date": "January 14, 2026",
   "successor": "gemini-embedding-2",

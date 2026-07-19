@@ -3,7 +3,7 @@
   "name": "gpt-realtime-1.5",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "gpt-realtime",
   "knowledge_cutoff": "2024-09",
   "capabilities": {

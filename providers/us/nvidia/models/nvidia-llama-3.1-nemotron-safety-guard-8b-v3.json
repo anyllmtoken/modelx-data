@@ -3,7 +3,7 @@
   "name": "llama-3.1-nemotron-safety-guard-8b-v3",
   "created_by": "nvidia",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "llama-3.1",
   "capabilities": {
     "streaming": true,

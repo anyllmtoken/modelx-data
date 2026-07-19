@@ -3,7 +3,7 @@
   "name": "StepAudio 2.5 ASR",
   "created_by": "stepfun",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "stepfun",
   "description": "4B-parameter speech recognition model with multi-token prediction. Processes ~5 minutes of audio per second of compute. Supports ITN.",
   "status": "active",

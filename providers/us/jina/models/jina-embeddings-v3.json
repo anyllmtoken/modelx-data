@@ -3,7 +3,7 @@
   "name": "Jina Embeddings v3",
   "created_by": "jina",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "jina-embeddings",
   "description": "Jina Embeddings v3 is a groundbreaking multilingual text embedding model that transforms how organizations handle text understanding and retrieval across languages. At its core, it solves the critical challenge of maintaining high performance across multiple languages and tasks while keeping computational requirements manageable. The model particularly shines in production environments where efficiency matters - it achieves state-of-the-art performance with just 570M parameters, making it accessible for teams that can't afford the computational overhead of larger models. Organizations needing to build scalable, multilingual search systems or analyze content across language barriers will find this model especially valuable.",
   "tagline": "Multilingual embeddings with task LoRAs.",

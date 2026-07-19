@@ -3,7 +3,7 @@
   "name": "Bria-3.2",
   "created_by": "bria",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "bria",
   "description": "Bria 3.2 is the next-generation commercial-ready text-to-image model. With just 4 billion parameters, it provides exceptional aesthetics and text rendering, evaluated to be on par to leading open-source models, and outperforming other licensed models.",
   "status": "active",

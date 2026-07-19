@@ -3,7 +3,7 @@
   "name": "FLUX.2 [pro]",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "flux-2",
   "description": "Production-grade default model for FLUX.2 text-to-image generation and image editing. Supports up to 10 reference images and 4MP output.",
   "tagline": "Recommended default for image generation and editing.",

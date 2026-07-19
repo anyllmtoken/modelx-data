@@ -3,7 +3,7 @@
   "name": "Qwen-Image-Max",
   "created_by": "alibaba",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "qwen",
   "description": "Compared with the Plus series, it significantly reduces the “AI-like” feel in generated images, enhancing their realism. It delivers more lifelike material textures for human subjects, finer and more detailed natural textures, and more visually appealing text rendering.",
   "status": "active",

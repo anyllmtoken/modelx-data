@@ -3,7 +3,7 @@
   "name": "gpt-5.1-codex-mini",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "gpt-5.1",
   "context_window": 400000,
   "capabilities": {

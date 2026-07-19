@@ -3,7 +3,7 @@
   "name": "Qwen2.5 72B Instruct",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "qwen",
   "description": "Qwen2.5 72B is the latest series of Qwen large language models.",
   "context_window": 131072,

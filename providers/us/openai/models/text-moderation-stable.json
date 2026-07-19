@@ -3,7 +3,7 @@
   "name": "text-moderation-stable",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "description": "Moderation models are free models designed to detect harmful content. This is our text only moderation model; we expect omni-moderation-* models to be the best default moving forward.",
   "status": "deprecated",
   "knowledge_cutoff": "2021-09",

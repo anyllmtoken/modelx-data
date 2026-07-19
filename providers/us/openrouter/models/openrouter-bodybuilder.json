@@ -3,7 +3,7 @@
   "name": "Body Builder (beta)",
   "created_by": "openrouter",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "description": "Transform your natural language requests into structured OpenRouter API request objects.",
   "context_window": 128000,
   "modalities": {

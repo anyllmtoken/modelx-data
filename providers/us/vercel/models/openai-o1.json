@@ -3,7 +3,7 @@
   "name": "o1",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "o1",
   "context_window": 200000,
   "capabilities": {

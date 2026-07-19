@@ -3,7 +3,7 @@
   "name": "GPT-5.3 Chat (latest)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "gpt-5.3",
   "description": "GPT-5.3 Chat points to the GPT-5.3 Instant snapshot used in ChatGPT. This model has been deprecated. We recommend {{latestMainlineModel}} for most API usage.",
   "status": "deprecated",

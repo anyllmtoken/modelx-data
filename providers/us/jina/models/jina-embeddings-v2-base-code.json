@@ -3,7 +3,7 @@
   "name": "Jina Embeddings v2 Base Code",
   "created_by": "jina",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "jina-embeddings",
   "description": "Jina Embeddings v2 Base Code tackles a critical challenge in modern software development: efficiently navigating and understanding large codebases. For development teams struggling with code discovery and documentation, this model transforms how developers interact with code by enabling natural language search across 30 programming languages. Unlike traditional code search tools that rely on exact pattern matching, this model understands the semantic meaning behind code, allowing developers to find relevant code snippets using plain English descriptions. This capability is particularly valuable for teams maintaining large legacy codebases, developers onboarding to new projects, or organizations looking to improve code reuse and documentation practices.",
   "tagline": "Code embeddings, natural-language queries.",

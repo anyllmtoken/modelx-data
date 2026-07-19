@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-5.2 Pro",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "gpt-5.2",
   "description": "GPT-5.2 Pro is OpenAI’s most advanced model, offering major improvements in agentic coding and long context performance over GPT-5 Pro.",
   "context_window": 400000,

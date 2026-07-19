@@ -3,7 +3,7 @@
   "name": "ministral-14b-instruct-2512",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "ministral",
   "alias": "mistralai/ministral-14b-instruct",
   "capabilities": {

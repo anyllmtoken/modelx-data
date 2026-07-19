@@ -3,7 +3,7 @@
   "name": "llama-guard-3-8b",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "llama-guard",
   "context_window": 131000,
   "capabilities": {

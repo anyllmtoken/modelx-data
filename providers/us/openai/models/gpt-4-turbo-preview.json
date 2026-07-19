@@ -3,7 +3,7 @@
   "name": "GPT-4 Turbo Preview",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "gpt-4-turbo",
   "description": "This is a research preview of the GPT-4 Turbo model, an older high-intelligence GPT model.",
   "status": "deprecated",

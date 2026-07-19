@@ -3,7 +3,7 @@
   "name": "wan2.6-t2i",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "model_type": "image",
   "capabilities": {
     "streaming": true

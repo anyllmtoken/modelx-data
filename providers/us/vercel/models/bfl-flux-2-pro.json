@@ -3,7 +3,7 @@
   "name": "flux-2-pro",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "context_window": 67300,
   "capabilities": {
     "streaming": true

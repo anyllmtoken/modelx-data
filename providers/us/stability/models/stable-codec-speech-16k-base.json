@@ -12,10 +12,11 @@
   "open_weight": true,
   "tagline": "Stable Codec Speech 16k Base is a Stability AI model published on the official Stability AI Hugging Face organization.",
   "capabilities": {
-    "tool_call": true,
-    "fine_tuning": true
+    "tool_call": true
   },
-  "tools": ["function_calling"],
+  "tools": [
+    "function_calling"
+  ],
   "huggingface_downloads": 1,
   "last_modified": "2025-01-14",
   "_generated": {
@@ -28,10 +29,10 @@
     "page_url": "62f2a2ea",
     "open_weight": "b326b506",
     "tagline": "df734e44",
-    "capabilities": "5de6a2be",
+    "capabilities": "ce9e2425",
     "tools": "f0c1dc7e",
     "huggingface_downloads": "c4ca4238",
     "last_modified": "74362e15"
   },
-  "last_updated": "2026-06-03"
+  "last_updated": "2026-07-19"
 }

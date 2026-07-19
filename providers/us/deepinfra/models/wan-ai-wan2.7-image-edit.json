@@ -3,7 +3,7 @@
   "name": "Wan2.7-Image-Edit",
   "created_by": "wan-ai",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "Wan2.7",
   "description": "Bleeding edge image model supporting generation and editing, text to image, text/image to sequential images, image editing, multi-image reference generation, and interactive editing. Delivers enhanced performance in text rendering, subject consistency, and complex instruction following",
   "status": "active",

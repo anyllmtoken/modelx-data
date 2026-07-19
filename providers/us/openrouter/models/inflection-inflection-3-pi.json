@@ -3,7 +3,7 @@
   "name": "Inflection: Inflection 3 Pi",
   "created_by": "inflection",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "description": "Inflection 3 Pi powers Inflection's [Pi](https://pi.ai) chatbot, including backstory, emotional intelligence, productivity, and safety.",
   "context_window": 8000,
   "max_output_tokens": 1024,

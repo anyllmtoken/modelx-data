@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-5.4 Mini",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "gpt-5.4",
   "description": "GPT-5.4 mini brings the core capabilities of GPT-5.4 to a faster, more efficient model optimized for high-throughput workloads.",
   "context_window": 400000,

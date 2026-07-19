@@ -3,7 +3,7 @@
   "name": "FLUX.1 Kontext [max]",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "flux-kontext",
   "description": "Higher-quality variant of Kontext with stronger editing fidelity. Legacy; superseded by FLUX.2 [max] for new projects.",
   "tagline": "Legacy FLUX.1 Kontext [max].",

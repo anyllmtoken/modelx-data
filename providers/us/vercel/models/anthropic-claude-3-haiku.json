@@ -3,7 +3,7 @@
   "name": "claude-3-haiku",
   "created_by": "anthropic",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "claude-haiku",
   "context_window": 200000,
   "capabilities": {

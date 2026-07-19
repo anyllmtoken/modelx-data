@@ -3,7 +3,7 @@
   "name": "OpenAI: o3 Mini High",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "family": "o3",
   "description": "OpenAI o3-mini-high is the same model as [o3-mini](/openai/o3-mini) with reasoning_effort set to high.",
   "context_window": 200000,
