@@ -3,7 +3,7 @@
   "name": "Llama-3.3-70B-Instruct-Turbo",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "Llama-3.3",
   "description": "Llama 3.3-70B Turbo is a highly optimized version of the Llama 3.3-70B model, utilizing FP8 quantization to deliver significantly faster inference speeds with a minor trade-off in accuracy. The model is designed to be helpful, safe, and flexible, with a focus on responsible deployment and mitigating potential risks such as bias, toxicity, and misinformation. It achieves state-of-the-art performance on various benchmarks, including conversational tasks, language translation, and text generation.",
   "status": "active",

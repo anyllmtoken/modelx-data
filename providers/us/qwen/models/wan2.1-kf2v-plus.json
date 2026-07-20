@@ -3,7 +3,7 @@
   "name": "wan2.1-kf2v-plus",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "model_type": "video",
   "capabilities": {
     "streaming": true

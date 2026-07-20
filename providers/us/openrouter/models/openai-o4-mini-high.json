@@ -3,7 +3,7 @@
   "name": "OpenAI: o4 Mini High",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "o4",
   "description": "OpenAI o4-mini-high is the same model as [o4-mini](/openai/o4-mini) with reasoning_effort set to high.",
   "context_window": 200000,

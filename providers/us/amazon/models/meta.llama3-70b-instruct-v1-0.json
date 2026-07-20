@@ -3,7 +3,7 @@
   "name": "Llama 3 70B Instruct",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "model_type": "chat",
   "capabilities": {
     "streaming": true

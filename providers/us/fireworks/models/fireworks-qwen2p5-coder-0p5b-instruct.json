@@ -3,7 +3,7 @@
   "name": "qwen2p5-coder-0p5b-instruct",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "qwen2",
   "context_window": 32700,
   "capabilities": {

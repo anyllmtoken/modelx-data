@@ -3,7 +3,7 @@
   "name": "MiniMax: MiniMax M2.1",
   "created_by": "minimax",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "description": "MiniMax-M2.1 is a lightweight, state-of-the-art large language model optimized for coding, agentic workflows, and modern application development.",
   "context_window": 204800,
   "modalities": {

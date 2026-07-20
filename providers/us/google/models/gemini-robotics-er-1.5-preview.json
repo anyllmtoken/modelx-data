@@ -3,7 +3,7 @@
   "name": "gemini-robotics-er-1.5-preview",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "status": "deprecated",
   "knowledge_cutoff": "January 2025",
   "context_window": 1048576,

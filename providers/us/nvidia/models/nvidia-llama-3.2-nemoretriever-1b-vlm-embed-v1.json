@@ -3,7 +3,7 @@
   "name": "llama-3.2-nemoretriever-1b-vlm-embed-v1",
   "created_by": "nvidia",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "llama-3.2",
   "capabilities": {
     "streaming": true,

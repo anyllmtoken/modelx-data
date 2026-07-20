@@ -3,7 +3,7 @@
   "name": "Moonshot v1 8K Vision",
   "created_by": "moonshot",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "moonshot",
   "context_window": 8192,
   "license": "proprietary",

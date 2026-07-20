@@ -3,7 +3,7 @@
   "name": "Cohere: Command R (08-2024)",
   "created_by": "cohere",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "description": "command-r-08-2024 is an update of the [Command R](/models/cohere/command-r) with improved performance for multilingual retrieval-augmented generation (RAG) and tool use.",
   "context_window": 128000,
   "max_output_tokens": 4000,

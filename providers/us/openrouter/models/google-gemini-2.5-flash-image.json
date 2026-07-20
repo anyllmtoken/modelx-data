@@ -3,7 +3,7 @@
   "name": "Google: Nano Banana (Gemini 2.5 Flash Image)",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "gemini-2.5",
   "description": "Gemini 2.5 Flash Image, a.k.a.",
   "context_window": 32768,

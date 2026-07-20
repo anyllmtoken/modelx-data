@@ -3,7 +3,7 @@
   "name": "palmyra-med-70b-32k",
   "created_by": "writer",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "capabilities": {
     "streaming": true
   },

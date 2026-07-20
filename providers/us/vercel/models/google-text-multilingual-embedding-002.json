@@ -3,7 +3,7 @@
   "name": "text-multilingual-embedding-002",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "model_type": "embed",
   "capabilities": {
     "streaming": true

@@ -3,7 +3,7 @@
   "name": "GLM-4.6V",
   "created_by": "zai",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "context_window": 128000,
   "capabilities": {
     "streaming": true,

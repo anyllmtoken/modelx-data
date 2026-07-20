@@ -3,7 +3,7 @@
   "name": "MiniMax: MiniMax M2.5",
   "created_by": "minimax",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "description": "MiniMax-M2.5 is a SOTA large language model designed for real-world productivity.",
   "context_window": 204800,
   "max_output_tokens": 196608,

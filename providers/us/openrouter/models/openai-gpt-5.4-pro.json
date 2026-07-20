@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-5.4 Pro",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "gpt-5.4",
   "description": "GPT-5.4 Pro is OpenAI's most advanced model, building on GPT-5.4's unified architecture with enhanced reasoning capabilities for complex, high-stakes tasks.",
   "context_window": 1050000,

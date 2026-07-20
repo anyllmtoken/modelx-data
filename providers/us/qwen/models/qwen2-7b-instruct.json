@@ -3,7 +3,7 @@
   "name": "qwen2-7b-instruct",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "qwen2",
   "context_window": 131072,
   "model_type": "chat",

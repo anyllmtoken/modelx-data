@@ -3,7 +3,7 @@
   "name": "mistral-small-4-119b-2603",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "mistral-small",
   "alias": "mistralai/mistral-small-4-119b",
   "capabilities": {

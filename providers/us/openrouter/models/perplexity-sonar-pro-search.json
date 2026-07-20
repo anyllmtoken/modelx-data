@@ -3,7 +3,7 @@
   "name": "Perplexity: Sonar Pro Search",
   "created_by": "perplexity",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "description": "Exclusively available on the OpenRouter API, Sonar Pro's new Pro Search mode is Perplexity's most advanced agentic search system.",
   "context_window": 200000,
   "max_output_tokens": 8000,

@@ -3,7 +3,7 @@
   "name": "Voxtral Small 24B 2507",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "model_type": "audio",
   "alias": "mistral.voxtral-small-24b",
   "capabilities": {

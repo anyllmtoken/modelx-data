@@ -3,7 +3,7 @@
   "name": "stable-diffusion-xl-lightning",
   "created_by": "bytedance",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "capabilities": {
     "streaming": true
   },

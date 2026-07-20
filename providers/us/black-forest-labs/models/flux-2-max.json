@@ -3,7 +3,7 @@
   "name": "FLUX.2 [max]",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "flux-2",
   "description": "Highest-quality FLUX.2 model with web grounding search, up to 8 references via API and 10 in playground.",
   "tagline": "Highest quality FLUX.2.",

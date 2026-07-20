@@ -3,7 +3,7 @@
   "name": "Cohere: Command A",
   "created_by": "cohere",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "description": "Command A is an open-weights 111B parameter model with a 256k context window focused on delivering great performance across agentic, multilingual, and coding use cases.",
   "context_window": 256000,
   "max_output_tokens": 8192,

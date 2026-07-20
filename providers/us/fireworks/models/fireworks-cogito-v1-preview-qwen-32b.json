@@ -3,7 +3,7 @@
   "name": "cogito-v1-preview-qwen-32b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "context_window": 131000,
   "capabilities": {
     "streaming": true

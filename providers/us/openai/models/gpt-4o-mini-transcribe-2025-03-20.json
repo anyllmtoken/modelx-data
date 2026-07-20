@@ -3,7 +3,7 @@
   "name": "GPT-4o mini Transcribe (20)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "gpt-4o",
   "status": "deprecated",
   "knowledge_cutoff": "2024-06",

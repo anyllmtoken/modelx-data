@@ -3,7 +3,7 @@
   "name": "text-embedding-3-small (small)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "description": "text-embedding-3-small is our improved, more performant version of our ada embedding model.",
   "status": "deprecated",
   "model_type": "embed",

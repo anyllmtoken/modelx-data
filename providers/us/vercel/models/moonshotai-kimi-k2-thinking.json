@@ -3,7 +3,7 @@
   "name": "kimi-k2-thinking",
   "created_by": "moonshot",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "context_window": 216100,
   "capabilities": {
     "streaming": true,

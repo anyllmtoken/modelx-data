@@ -3,7 +3,7 @@
   "name": "Qwen3-235B-A22B-Thinking-2507",
   "created_by": "alibaba",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "qwen3",
   "description": "Qwen3-235B-A22B-Thinking-2507 is the Qwen3's new model with scaling the thinking capability of Qwen3-235B-A22B, improving both the quality and depth of reasoning.",
   "status": "active",

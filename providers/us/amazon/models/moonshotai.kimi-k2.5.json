@@ -3,7 +3,7 @@
   "name": "Kimi K2.5",
   "created_by": "moonshot",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "model_type": "chat",
   "capabilities": {
     "streaming": true,

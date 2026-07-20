@@ -3,7 +3,7 @@
   "name": "qwen-deep-research",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "qwen",
   "context_window": 1000000,
   "max_output_tokens": 32768,

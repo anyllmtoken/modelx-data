@@ -3,7 +3,7 @@
   "name": "Stable Image Conservative Upscale",
   "created_by": "stability",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "model_type": "image",
   "capabilities": {
     "vision": true

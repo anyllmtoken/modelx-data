@@ -3,7 +3,7 @@
   "name": "deepseek-v2-lite-chat",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "deepseek",
   "context_window": 163000,
   "capabilities": {

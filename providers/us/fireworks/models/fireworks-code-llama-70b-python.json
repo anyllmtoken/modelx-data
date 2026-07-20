@@ -3,7 +3,7 @@
   "name": "code-llama-70b-python",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "context_window": 4090,
   "capabilities": {
     "streaming": true

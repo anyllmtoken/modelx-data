@@ -3,7 +3,7 @@
   "name": "veo-3.1-fast",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "veo-3.1",
   "description": "Veo 3.1 is the latest text-to-video model from Google that generates high-fidelity, cinematic videos with synchronized audio from a simple text prompt. It excels at creating realistic and imaginative scenes with a deep understanding of natural language and visual dynamics.",
   "status": "active",

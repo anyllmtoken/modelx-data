@@ -3,7 +3,7 @@
   "name": "GPT-Realtime mini (15)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "gpt-realtime",
   "description": "GPT-Realtime mini is capable of responding to audio and text inputs in realtime over WebRTC, WebSocket, or SIP connections.",
   "status": "active",

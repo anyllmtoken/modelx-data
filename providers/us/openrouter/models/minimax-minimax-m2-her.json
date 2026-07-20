@@ -3,7 +3,7 @@
   "name": "MiniMax: MiniMax M2-her",
   "created_by": "minimax",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "description": "MiniMax M2-her is a dialogue-first large language model built for immersive roleplay, character-driven chat, and expressive multi-turn conversations.",
   "context_window": 65536,
   "max_output_tokens": 2048,

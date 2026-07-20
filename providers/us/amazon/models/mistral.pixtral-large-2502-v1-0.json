@@ -3,7 +3,7 @@
   "name": "Pixtral Large",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "model_type": "chat",
   "capabilities": {
     "streaming": true,

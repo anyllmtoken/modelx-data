@@ -3,7 +3,7 @@
   "name": "gpt-audio (28)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "family": "gpt-audio",
   "description": "The gpt-audio model is our first generally available audio model. It accepts",
   "status": "active",

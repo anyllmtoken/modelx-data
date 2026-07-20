@@ -17,14 +17,20 @@
     "streaming": true,
     "vision": true,
     "tool_call": true,
-    "reasoning": true,
-    "fine_tuning": true
+    "reasoning": true
   },
   "modalities": {
-    "input": ["text", "image"],
-    "output": ["text"]
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
   },
-  "tools": ["function_calling"],
+  "tools": [
+    "function_calling"
+  ],
   "_generated": {
     "name": "27405b6c",
     "family": "a57f1b52",
@@ -37,9 +43,9 @@
     "open_weight": "b326b506",
     "model_type": "d669f408",
     "tagline": "0849748c",
-    "capabilities": "f7041f91",
+    "capabilities": "a19166f1",
     "modalities": "6399757e",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-07-20"
 }

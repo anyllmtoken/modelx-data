@@ -3,7 +3,7 @@
   "name": "Claude 3 Haiku",
   "created_by": "anthropic",
   "source": "official",
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-20",
   "model_type": "chat",
   "capabilities": {
     "streaming": true,
