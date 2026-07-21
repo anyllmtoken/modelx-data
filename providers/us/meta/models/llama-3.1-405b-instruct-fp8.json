@@ -3,7 +3,7 @@
   "name": "Llama-3.1-405B-Instruct-FP8",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "context_window": 131072,
   "capabilities": {
     "streaming": true,

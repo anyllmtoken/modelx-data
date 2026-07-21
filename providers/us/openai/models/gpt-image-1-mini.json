@@ -3,7 +3,7 @@
   "name": "gpt-image-1-mini (mini)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "gpt-image-1",
   "description": "A cost-efficient version of GPT Image 1. It is a natively multimodal language model that accepts both text and image inputs, and produces image outputs.",
   "status": "deprecated",

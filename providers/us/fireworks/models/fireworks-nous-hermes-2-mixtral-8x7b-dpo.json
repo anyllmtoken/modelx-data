@@ -3,7 +3,7 @@
   "name": "nous-hermes-2-mixtral-8x7b-dpo",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "context_window": 32700,
   "capabilities": {
     "streaming": true

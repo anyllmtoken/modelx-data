@@ -3,7 +3,7 @@
   "name": "FLUX.1 Expand [pro]",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "flux-1-tools",
   "description": "Expands an image by adding pixels on any side while maintaining context.",
   "tagline": "Outpainting by side for FLUX.1.",

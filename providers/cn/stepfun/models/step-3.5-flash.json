@@ -3,7 +3,7 @@
   "name": "Step 3.5 Flash",
   "created_by": "stepfun",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "stepfun",
   "description": "Flagship reasoning model with 256k context, MoE architecture (199B total, ~11B active). Optimized for agentic tasks, tool calling, planning, math, and coding.",
   "tagline": "Frontier reasoning and agentic capabilities at low cost.",

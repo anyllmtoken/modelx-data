@@ -3,7 +3,7 @@
   "name": "Llama Prompt Guard 2 22M",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "status": "preview",
   "context_window": 512,
   "max_output_tokens": 512,

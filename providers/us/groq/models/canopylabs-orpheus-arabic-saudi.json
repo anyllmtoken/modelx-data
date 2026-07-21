@@ -3,7 +3,7 @@
   "name": "Canopy Labs Orpheus Arabic Saudi",
   "created_by": "canopy-labs",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "status": "preview",
   "context_window": 4000,
   "max_output_tokens": 50000,

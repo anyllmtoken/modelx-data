@@ -3,7 +3,7 @@
   "name": "gemini-live-2.5-flash-preview",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "status": "deprecated",
   "deprecation_date": "December 9, 2025",
   "successor": "gemini-3.1-flash-live-preview",

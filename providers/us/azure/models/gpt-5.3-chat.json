@@ -31,7 +31,7 @@
     "tagline": "b549c9f1",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "description": "- Chat Completions API. - Responses API . - Structured outputs - Functions, tools, and parallel tool calling.",
   "knowledge_cutoff": "2025-08",
   "context_window": 128000,

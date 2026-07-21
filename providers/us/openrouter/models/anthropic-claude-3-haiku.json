@@ -3,7 +3,7 @@
   "name": "Anthropic: Claude 3 Haiku",
   "created_by": "anthropic",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "claude-haiku",
   "description": "Claude 3 Haiku is Anthropic's fastest and most compact model for\nnear-instant responsiveness. Quick and accurate targeted performance.\n\nSee the launch announcement and benchmark results [here](https:/",
   "context_window": 200000,

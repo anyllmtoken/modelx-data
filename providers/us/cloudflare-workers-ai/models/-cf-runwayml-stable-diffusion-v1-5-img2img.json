@@ -3,7 +3,7 @@
   "name": "stable-diffusion-v1-5-img2img",
   "created_by": "runway",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "capabilities": {
     "streaming": true
   },

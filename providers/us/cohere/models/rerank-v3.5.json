@@ -3,7 +3,7 @@
   "name": "rerank-v3.5",
   "created_by": "cohere",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "description": "A model that allows for re-ranking English Language documents and semi-structured data (JSON). This model has a context length of 4096 tokens.",
   "status": "active",
   "model_type": "rerank",

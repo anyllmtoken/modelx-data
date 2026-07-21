@@ -3,7 +3,7 @@
   "name": "embed-v-4-0",
   "created_by": "cohere",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "capabilities": {
     "streaming": true,
     "vision": true

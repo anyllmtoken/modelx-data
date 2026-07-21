@@ -3,7 +3,7 @@
   "name": "codestral",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "codestral",
   "context_window": 128000,
   "capabilities": {

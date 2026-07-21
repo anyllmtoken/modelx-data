@@ -4,7 +4,7 @@
   "created_by": "zai",
   "source": "official",
   "family": "glm-5",
-  "context_window": 500000,
+  "context_window": 1000000,
   "model_type": "chat",
   "capabilities": {
     "streaming": true,
@@ -23,11 +23,11 @@
     "input": 8,
     "output": 28
   },
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "_generated": {
     "name": "bfb92394",
     "family": "309daa86",
-    "context_window": "c9077732",
+    "context_window": "8155bc54",
     "model_type": "d669f408",
     "capabilities": "1d6c1abb",
     "modalities": "68e53d93",

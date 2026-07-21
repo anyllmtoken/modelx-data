@@ -1,0 +1,37 @@
+{
+  "id": "moonshotai-kimi-k3",
+  "name": "Moonshotai/Kimi-K3",
+  "created_by": "moonshot-kimi",
+  "source": "official",
+  "family": "moonshot",
+  "context_window": 1048576,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "output": 100
+  },
+  "last_updated": "2026-07-21",
+  "_generated": {
+    "name": "69c7d739",
+    "family": "9126e350",
+    "context_window": "7d28a051",
+    "model_type": "d669f408",
+    "capabilities": "0946b777",
+    "modalities": "6399757e",
+    "pricing": "59d9016e"
+  }
+}

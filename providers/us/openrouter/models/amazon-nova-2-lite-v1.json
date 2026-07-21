@@ -3,7 +3,7 @@
   "name": "Amazon: Nova 2 Lite",
   "created_by": "amazon",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "description": "Nova 2 Lite is a fast, cost-effective reasoning model for everyday workloads that can process text, images, and videos to generate text.",
   "context_window": 1000000,
   "max_output_tokens": 65535,

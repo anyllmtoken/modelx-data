@@ -3,7 +3,7 @@
   "name": "DeepSeek-V3-0324",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "deepseek-v3",
   "description": "DeepSeek-V3-0324, a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token, an improved iteration over DeepSeek-V3.",
   "status": "active",

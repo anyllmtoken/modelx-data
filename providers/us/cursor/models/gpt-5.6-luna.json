@@ -32,7 +32,7 @@
   "pricing_notes": [
     "Smallest GPT-5.6 variant, optimized for cost and speed; Agentic and reasoning capabilities; Fast mode is available at 2x pricing; Cache writes are billed at 1.25x the uncached input rate"
   ],
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "_generated": {
     "name": "d1984565",
     "family": "c9783e4a",

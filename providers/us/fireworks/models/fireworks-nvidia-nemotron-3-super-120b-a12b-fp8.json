@@ -3,7 +3,7 @@
   "name": "nvidia-nemotron-3-super-120b-a12b-fp8",
   "created_by": "fireworks",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "context_window": 262000,
   "capabilities": {
     "streaming": true

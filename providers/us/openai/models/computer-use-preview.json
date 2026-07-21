@@ -3,7 +3,7 @@
   "name": "computer-use-preview",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "description": "The computer-use-preview model is a specialized model for the computer use",
   "status": "deprecated",
   "knowledge_cutoff": "2023-10",

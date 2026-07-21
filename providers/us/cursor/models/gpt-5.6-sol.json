@@ -33,7 +33,7 @@
   "pricing_notes": [
     "Requires Max Mode on legacy request-based plans; Agentic and reasoning capabilities; Fast mode is available at 2x pricing; Long context supports up to 1M tokens with 2x input pricing; Cache writes are billed at 1.25x the uncached input rate"
   ],
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "_generated": {
     "name": "927b849e",
     "family": "c9783e4a",

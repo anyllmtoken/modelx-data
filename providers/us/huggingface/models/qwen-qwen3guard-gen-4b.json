@@ -14,15 +14,20 @@
   "tagline": "**Qwen3Guard** is a series of safety moderation models built upon Qwen3 and trained on a dataset of 1.19 million prompts and responses labeled for safety.",
   "capabilities": {
     "streaming": true,
-    "tool_call": true,
-    "fine_tuning": true
+    "tool_call": true
   },
   "open_weight": true,
   "modalities": {
-    "input": ["text"],
-    "output": ["text"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
   },
-  "tools": ["function_calling"],
+  "tools": [
+    "function_calling"
+  ],
   "_generated": {
     "name": "6161cef1",
     "description": "2416f438",
@@ -34,10 +39,10 @@
     "architecture": "8832ea0f",
     "model_type": "d669f408",
     "tagline": "e956828b",
-    "capabilities": "5780d00a",
+    "capabilities": "48995a4e",
     "open_weight": "b326b506",
     "modalities": "68e53d93",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-05-17"
+  "last_updated": "2026-07-21"
 }

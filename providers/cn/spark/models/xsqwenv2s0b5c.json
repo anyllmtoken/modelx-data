@@ -1,0 +1,36 @@
+{
+  "id": "xsqwenv2s0b5c",
+  "name": "Qwen_v2_0.5b_Instruct",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "spark",
+  "context_window": 8000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 4
+  },
+  "last_updated": "2026-07-21",
+  "_generated": {
+    "name": "0b68935a",
+    "family": "92678943",
+    "context_window": "67ff32d4",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "07db4f78"
+  }
+}

@@ -3,7 +3,7 @@
   "name": "GPT-5.2 Codex",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "gpt-5.2",
   "capabilities": {
     "streaming": true,

@@ -3,7 +3,7 @@
   "name": "flux-2-klein-9b",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "capabilities": {
     "streaming": true
   },

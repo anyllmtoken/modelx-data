@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-5",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "gpt-5",
   "description": "GPT-5 is OpenAI’s most advanced model, offering major improvements in reasoning, code quality, and user experience.",
   "context_window": 400000,

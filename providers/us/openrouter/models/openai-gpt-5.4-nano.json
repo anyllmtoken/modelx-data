@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-5.4 Nano",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "gpt-5.4",
   "description": "GPT-5.4 nano is the most lightweight and cost-efficient variant of the GPT-5.4 family, optimized for speed-critical and high-volume tasks.",
   "context_window": 400000,

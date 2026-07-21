@@ -3,7 +3,7 @@
   "name": "o3",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "o3",
   "context_window": 200000,
   "capabilities": {

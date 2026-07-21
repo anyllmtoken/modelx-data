@@ -3,7 +3,7 @@
   "name": "pythia-12b",
   "created_by": "fireworks",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "context_window": 2040,
   "capabilities": {
     "streaming": true

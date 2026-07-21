@@ -3,7 +3,7 @@
   "name": "paraphrase-MiniLM-L6-v2",
   "created_by": "sentence-transformers",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "sentence-transformers",
   "description": "We present a sentence similarity model based on the Sentence Transformers architecture, which maps sentences to a 384-dimensional dense vector space. The model uses a pre-trained BERT encoder and applies mean pooling on top of the contextualized word embeddings to obtain sentence embeddings. We evaluate the model on the Sentence Embeddings Benchmark.",
   "status": "active",

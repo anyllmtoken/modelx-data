@@ -3,7 +3,7 @@
   "name": "minimax-m2p1",
   "created_by": "minimax",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "context_window": 196000,
   "capabilities": {
     "streaming": true

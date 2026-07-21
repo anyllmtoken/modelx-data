@@ -10,6 +10,7 @@
   "tagline": "Trinity Large Thinking is a powerful open source reasoning model from the team at Arcee AI.",
   "capabilities": {
     "tool_call": true,
+    "structured_output": true,
     "reasoning": true
   },
   "modalities": {
@@ -35,10 +36,10 @@
     "context_window": "4a1d32eb",
     "max_output_tokens": "144fdd8b",
     "tagline": "56b106cb",
-    "capabilities": "05723a3e",
+    "capabilities": "f533f522",
     "modalities": "68e53d93",
     "pricing": "cc199840",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-20"
+  "last_updated": "2026-07-21"
 }

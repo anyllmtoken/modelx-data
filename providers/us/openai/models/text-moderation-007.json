@@ -3,7 +3,7 @@
   "name": "text-moderation-stable (007)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "status": "deprecated",
   "knowledge_cutoff": "2021-09",
   "max_output_tokens": 32768,

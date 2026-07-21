@@ -3,7 +3,7 @@
   "name": "GPT OSS Safeguard 20B",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "model_type": "chat",
   "capabilities": {
     "streaming": true

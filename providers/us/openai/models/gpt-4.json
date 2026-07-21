@@ -3,7 +3,7 @@
   "name": "GPT-4",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "gpt-4",
   "description": "GPT-4 is an older version of a high-intelligence GPT model, usable in Chat Completions.",
   "status": "deprecated",

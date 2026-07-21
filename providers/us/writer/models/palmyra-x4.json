@@ -3,7 +3,7 @@
   "name": "Palmyra X4",
   "created_by": "writer",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "palmyra-x",
   "description": "Language model for complex tasks that require extended context",
   "tagline": "Tool-calling LLM for enterprise actions.",

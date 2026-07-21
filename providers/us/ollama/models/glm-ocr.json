@@ -3,7 +3,7 @@
   "name": "glm-ocr",
   "created_by": "zhipu",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "capabilities": {
     "streaming": true,
     "vision": true,

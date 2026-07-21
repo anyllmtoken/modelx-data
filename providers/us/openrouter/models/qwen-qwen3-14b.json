@@ -3,7 +3,7 @@
   "name": "Qwen: Qwen3 14B",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "family": "qwen3",
   "description": "Qwen3-14B is a dense 14.8B parameter causal language model from the Qwen3 series, designed for both complex reasoning and efficient dialogue.",
   "context_window": 131702,
