@@ -1,6 +1,6 @@
 {
   "name": "@anyllmtoken/modelx-data",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Cross-provider AI model data — specs, pricing, capabilities across 30+ providers",
   "main": "./index.ts",
   "types": "./index.ts",
