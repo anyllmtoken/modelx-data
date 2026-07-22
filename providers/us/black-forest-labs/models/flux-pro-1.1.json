@@ -3,7 +3,7 @@
   "name": "FLUX 1.1 [pro]",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "flux-1.1",
   "description": "Fast and reliable text-to-image baseline with strong prompt adherence. Sometimes called FLUX1.1 [pro].",
   "tagline": "Fast and reliable FLUX 1.1 baseline.",

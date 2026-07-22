@@ -3,17 +3,16 @@
   "name": "llama-3.2-11b-vision-instruct",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "llama-3.2",
   "capabilities": {
     "streaming": true,
-    "reasoning": true,
     "vision": true
   },
   "_generated": {
     "name": "e904f107",
     "family": "d4c42ce9",
-    "capabilities": "38c6412e",
+    "capabilities": "8a3b232e",
     "model_type": "d669f408",
     "parameters": "6512bd43",
     "status": "379ac110",

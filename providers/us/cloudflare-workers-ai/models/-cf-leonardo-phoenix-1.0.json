@@ -3,19 +3,19 @@
   "name": "phoenix-1.0",
   "created_by": "leonardo",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "capabilities": {
     "streaming": true
   },
   "_generated": {
     "name": "6add29da",
     "capabilities": "0fa77dc6",
-    "status": "379ac110",
+    "status": "2e2f74dc",
     "model_type": "db8857fe",
     "page_url": "51252000",
     "tools": "f0c1dc7e"
   },
-  "status": "active",
+  "status": "deprecated",
   "model_type": "image",
   "page_url": "https://developers.cloudflare.com/workers-ai/models/#phoenix-1.0",
   "tools": [

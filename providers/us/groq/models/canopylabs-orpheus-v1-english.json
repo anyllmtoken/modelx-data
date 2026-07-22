@@ -3,7 +3,7 @@
   "name": "Canopy Labs Orpheus V1 English",
   "created_by": "canopy-labs",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "status": "preview",
   "context_window": 4000,
   "max_output_tokens": 50000,

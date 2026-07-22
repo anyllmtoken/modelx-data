@@ -21,7 +21,7 @@
     "capabilities": "0fa77dc6",
     "pricing": "6e358715"
   },
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "pricing": {
     "translate_audio_input_token": 40,
     "translate_vision_input_token": 3.3,

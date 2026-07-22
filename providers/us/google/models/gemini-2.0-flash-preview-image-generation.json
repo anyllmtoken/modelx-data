@@ -3,7 +3,7 @@
   "name": "gemini-2.0-flash-preview-image-generation",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "gemini-2.0",
   "status": "deprecated",
   "deprecation_date": "November 14, 2025",

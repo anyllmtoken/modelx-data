@@ -45,7 +45,11 @@
     "capabilities": "7ca28ec9",
     "modalities": "6399757e",
     "pricing": "1b894b89",
-    "tools": "f0c1dc7e"
+    "tools": "f0c1dc7e",
+    "pricing_notes": "963e4ad1"
   },
-  "last_updated": "2026-07-21"
+  "last_updated": "2026-07-22",
+  "pricing_notes": [
+    "Hidden by default"
+  ]
 }

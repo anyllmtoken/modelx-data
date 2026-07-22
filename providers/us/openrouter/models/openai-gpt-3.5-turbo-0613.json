@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-3.5 Turbo (older v0613)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "gpt-3.5",
   "description": "GPT-3.5 Turbo is OpenAI's fastest model.",
   "context_window": 4095,

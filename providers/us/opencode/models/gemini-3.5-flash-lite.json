@@ -1,0 +1,24 @@
+{
+  "id": "gemini-3.5-flash-lite",
+  "name": "Gemini 3.5 Flash Lite",
+  "created_by": "google",
+  "source": "official",
+  "family": "gemini-3.5",
+  "status": "active",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.3,
+    "output": 2.5,
+    "cached_input": 0.03
+  },
+  "last_updated": "2026-07-22",
+  "_generated": {
+    "name": "695b62fa",
+    "family": "098fdb91",
+    "status": "379ac110",
+    "capabilities": "0fa77dc6",
+    "pricing": "1a0e496e"
+  }
+}

@@ -3,12 +3,11 @@
   "name": "qwen3-tts-instruct-flash-realtime",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "qwen3",
   "model_type": "tts",
   "capabilities": {
-    "streaming": true,
-    "fine_tuning": true
+    "streaming": true
   },
   "modalities": {
     "input": [
@@ -25,7 +24,7 @@
     "name": "04794215",
     "family": "48c385a0",
     "model_type": "4e16a2cf",
-    "capabilities": "9c665f5d",
+    "capabilities": "0fa77dc6",
     "modalities": "601e776d",
     "endpoints": "75df3f1c",
     "license": "60245731",

@@ -10,8 +10,12 @@
     "streaming": true
   },
   "modalities": {
-    "input": ["text"],
-    "output": ["text"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
   },
   "open_weight": false,
   "_generated": {
@@ -23,5 +27,5 @@
     "modalities": "68e53d93",
     "open_weight": "68934a3e"
   },
-  "last_updated": "2026-06-03"
+  "last_updated": "2026-07-22"
 }

@@ -3,7 +3,7 @@
   "name": "llama-4-scout",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "llama-4",
   "context_window": 131100,
   "capabilities": {

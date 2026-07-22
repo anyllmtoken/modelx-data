@@ -3,7 +3,7 @@
   "name": "glm-5-turbo",
   "created_by": "zhipu",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "context_window": 202800,
   "capabilities": {
     "streaming": true,

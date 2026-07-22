@@ -3,7 +3,7 @@
   "name": "nemotron-nano-v2-12b-vl",
   "created_by": "fireworks",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "context_window": 131000,
   "capabilities": {
     "streaming": true

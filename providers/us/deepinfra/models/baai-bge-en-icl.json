@@ -3,7 +3,7 @@
   "name": "bge-en-icl",
   "created_by": "baai",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "bge",
   "description": "A LLM-based embedding model with in-context learning capabilities that achieves SOTA performance on BEIR and AIR-Bench. It leverages few-shot examples to enhance task performance.",
   "status": "active",

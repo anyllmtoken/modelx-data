@@ -3,19 +3,18 @@
   "name": "smart-turn-v2",
   "created_by": "pipecat-ai",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "capabilities": {
-    "streaming": true,
-    "vision": true
+    "streaming": true
   },
   "_generated": {
     "name": "bd34c4a7",
-    "capabilities": "8a3b232e",
+    "capabilities": "0fa77dc6",
     "status": "379ac110",
-    "model_type": "9f84c007",
+    "model_type": "b815fc69",
     "page_url": "f6f1eb2f"
   },
   "status": "active",
-  "model_type": "audio",
+  "model_type": "classification",
   "page_url": "https://developers.cloudflare.com/workers-ai/models/#smart-turn-v2"
 }

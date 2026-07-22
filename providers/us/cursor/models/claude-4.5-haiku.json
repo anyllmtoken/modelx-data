@@ -3,7 +3,7 @@
   "name": "Claude 4.5 Haiku",
   "created_by": "anthropic",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "claude-haiku",
   "capabilities": {
     "streaming": true,

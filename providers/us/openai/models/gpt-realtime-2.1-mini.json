@@ -131,7 +131,7 @@
     "context_window": "34434798",
     "max_output_tokens": "10e4d788"
   },
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "knowledge_cutoff": "2024-09",
   "context_window": 128000,
   "max_output_tokens": 32000,

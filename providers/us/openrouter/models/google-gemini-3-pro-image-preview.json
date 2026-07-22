@@ -3,7 +3,7 @@
   "name": "Google: Nano Banana Pro (Gemini 3 Pro Image Preview)",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "gemini-3",
   "description": "Nano Banana Pro is Google’s most advanced image-generation and editing model, built on Gemini 3 Pro.",
   "context_window": 65536,

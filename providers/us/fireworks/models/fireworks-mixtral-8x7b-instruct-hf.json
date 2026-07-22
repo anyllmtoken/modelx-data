@@ -3,7 +3,7 @@
   "name": "mixtral-8x7b-instruct-hf",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "mixtral",
   "context_window": 32700,
   "capabilities": {

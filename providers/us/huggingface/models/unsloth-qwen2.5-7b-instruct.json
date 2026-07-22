@@ -3,15 +3,14 @@
   "name": "Qwen2.5-7B-Instruct",
   "created_by": "unsloth",
   "source": "official",
-  "last_updated": "2026-03-24",
+  "last_updated": "2026-07-22",
   "capabilities": {
     "streaming": true,
-    "tool_call": true,
-    "fine_tuning": true
+    "tool_call": true
   },
   "_generated": {
     "name": "a8258d4e",
-    "capabilities": "5780d00a",
+    "capabilities": "48995a4e",
     "model_type": "d669f408",
     "parameters": "5960276c",
     "page_url": "6211a56a",
@@ -35,9 +34,15 @@
   "tagline": "We have a Qwen 2.5 (all model sizes) [free Google Colab Tesla T4 notebook](https://colab.research.google.com/drive/1Kose-ucXO1IBaZq5BvbwWieuubP7hxvQ?usp=sharing).",
   "architecture": "transformer",
   "open_weight": true,
-  "tools": ["function_calling"],
+  "tools": [
+    "function_calling"
+  ],
   "modalities": {
-    "input": ["text"],
-    "output": ["text"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
   }
 }

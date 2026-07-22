@@ -1,0 +1,32 @@
+{
+  "id": "poolside/laguna-s-2.1:free",
+  "name": "Poolside: Laguna S 2.1 (free)",
+  "created_by": "poolside",
+  "source": "official",
+  "description": "Laguna S 2.1 is the latest coding agent model from [Poolside](<https://poolside.ai/>).",
+  "release_date": "2026-07-21",
+  "context_window": 262144,
+  "max_output_tokens": 32768,
+  "capabilities": {
+    "tool_call": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-07-22",
+  "_generated": {
+    "name": "4a27934a",
+    "description": "18856b21",
+    "release_date": "db9f0f5f",
+    "context_window": "4a1d32eb",
+    "max_output_tokens": "f4376436",
+    "capabilities": "05723a3e",
+    "modalities": "68e53d93"
+  }
+}

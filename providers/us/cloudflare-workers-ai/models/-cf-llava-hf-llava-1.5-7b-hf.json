@@ -3,13 +3,14 @@
   "name": "llava-1.5-7b-hf",
   "created_by": "llava-hf",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "vision": true
   },
   "_generated": {
     "name": "c472c035",
-    "capabilities": "0fa77dc6",
+    "capabilities": "8a3b232e",
     "parameters": "8f14e45f",
     "status": "379ac110",
     "model_type": "d669f408",

@@ -3,7 +3,7 @@
   "name": "p-image-Edit",
   "created_by": "prunaai",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "prunaai",
   "description": "P-Image-Edit is a high-precision image editing model that applies complex transformations, insertions, removals, and style adjustments in under a second. It delivers state-of-the-art accuracy, clean boundaries, and reliable prompt alignment, making multi-step edits fast, consistent, and production-ready.",
   "status": "active",

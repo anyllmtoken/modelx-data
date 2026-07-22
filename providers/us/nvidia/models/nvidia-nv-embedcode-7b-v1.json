@@ -3,7 +3,7 @@
   "name": "nv-embedcode-7b-v1",
   "created_by": "nvidia",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "capabilities": {
     "streaming": true
   },

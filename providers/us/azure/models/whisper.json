@@ -3,7 +3,7 @@
   "name": "whisper",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "capabilities": {
     "streaming": true
   },

@@ -3,7 +3,7 @@
   "name": "codex-mini-latest (latest)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "codex",
   "description": "codex-mini-latest is a fine-tuned version of o4-mini specifically",
   "status": "deprecated",

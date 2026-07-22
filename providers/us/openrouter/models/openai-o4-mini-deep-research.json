@@ -3,7 +3,7 @@
   "name": "OpenAI: o4 Mini Deep Research",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "o4",
   "description": "o4-mini-deep-research is OpenAI's faster, more affordable deep research model—ideal for tackling complex, multi-step research tasks.",
   "context_window": 200000,

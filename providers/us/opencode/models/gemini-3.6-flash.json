@@ -1,0 +1,24 @@
+{
+  "id": "gemini-3.6-flash",
+  "name": "Gemini 3.6 Flash",
+  "created_by": "google",
+  "source": "official",
+  "family": "gemini-3.6",
+  "status": "active",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1.5,
+    "output": 7.5,
+    "cached_input": 0.15
+  },
+  "last_updated": "2026-07-22",
+  "_generated": {
+    "name": "8aa4c452",
+    "family": "7715664f",
+    "status": "379ac110",
+    "capabilities": "0fa77dc6",
+    "pricing": "553e98a6"
+  }
+}

@@ -3,7 +3,7 @@
   "name": "fibo",
   "created_by": "bria",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "bria",
   "description": "FIBO is an open-source, JSON-native text-to-image model trained on detailed structured descriptions (over 1,000+ words per image), providing fine-grained control over light, composition, and camera parameters.",
   "status": "active",

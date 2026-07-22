@@ -3,7 +3,7 @@
   "name": "firefunction-v1",
   "created_by": "fireworks",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "context_window": 32700,
   "capabilities": {
     "streaming": true

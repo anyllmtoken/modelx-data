@@ -3,7 +3,7 @@
   "name": "GLM-4.7-FlashX",
   "created_by": "zai",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "context_window": 200000,
   "max_output_tokens": 128000,
   "capabilities": {

@@ -3,7 +3,7 @@
   "name": "Qwen: Qwen3.5 Plus 2026-02-15",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "qwen3.5",
   "description": "The Qwen3.5 native vision-language series Plus models are built on a hybrid architecture that integrates linear attention mechanisms with sparse mixture-of-experts models, achieving higher inference efficiency.",
   "context_window": 1000000,

@@ -3,7 +3,7 @@
   "name": "Stable Image Search and Replace",
   "created_by": "stability",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "model_type": "image",
   "capabilities": {
     "vision": true

@@ -3,7 +3,7 @@
   "name": "Meta: Llama 3.1 70B Instruct",
   "created_by": "meta-llama",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "llama-3.1",
   "description": "Meta's latest class of model (Llama 3.1) launched with a variety of sizes & flavors.",
   "context_window": 131072,

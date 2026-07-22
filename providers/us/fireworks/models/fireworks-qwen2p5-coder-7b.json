@@ -3,7 +3,7 @@
   "name": "qwen2p5-coder-7b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "qwen2",
   "context_window": 32700,
   "capabilities": {

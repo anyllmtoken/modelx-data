@@ -3,7 +3,7 @@
   "name": "omni-moderation (26)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "status": "deprecated",
   "model_type": "moderation",
   "alias": "omni-moderation-latest",

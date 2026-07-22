@@ -1,0 +1,36 @@
+{
+  "id": "auto-cost",
+  "name": "Auto Cost",
+  "created_by": "cursor",
+  "source": "official",
+  "page_url": "https://cursor.com/docs/models-and-pricing#auto-cost",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.25,
+    "output": 6,
+    "cache_write": 1.25,
+    "cached_input": 0.25
+  },
+  "pricing_notes": [
+    "Hidden by default"
+  ],
+  "last_updated": "2026-07-22",
+  "_generated": {
+    "name": "69340686",
+    "page_url": "9d31adf3",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "94ce4c86",
+    "pricing_notes": "963e4ad1"
+  }
+}

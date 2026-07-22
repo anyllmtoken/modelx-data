@@ -3,7 +3,7 @@
   "name": "qwen2.5-omni-7b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "family": "qwen2.5",
   "context_window": 1000000,
   "max_output_tokens": 2048,
