@@ -3,7 +3,7 @@
   "name": "embeddinggemma-300m",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "embed",
   "description": "EmbeddingGemma is a 300M parameter multilingual open embedding model from Google DeepMind, designed for efficient deployment even on low-resource devices, producing high-quality text vector representations for tasks such as search, classification, clustering, and semantic similarity.",
   "status": "active",

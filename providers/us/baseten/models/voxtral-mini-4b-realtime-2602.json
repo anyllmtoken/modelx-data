@@ -3,7 +3,7 @@
   "name": "voxtral-mini-4b-realtime-2602",
   "created_by": "unknown",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "alias": "voxtral-mini-4b-realtime",
   "capabilities": {
     "streaming": true

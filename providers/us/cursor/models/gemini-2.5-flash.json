@@ -3,7 +3,7 @@
   "name": "Gemini 2.5 Flash",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "gemini-2.5",
   "capabilities": {
     "streaming": true,

@@ -3,7 +3,7 @@
   "name": "qwen3-vl-30b-a3b-instruct",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "qwen3",
   "context_window": 129024,
   "model_type": "chat",

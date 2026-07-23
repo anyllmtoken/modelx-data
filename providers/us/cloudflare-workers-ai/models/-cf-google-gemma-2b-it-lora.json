@@ -3,7 +3,7 @@
   "name": "gemma-2b-it-lora",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "gemma-2b",
   "capabilities": {
     "streaming": true

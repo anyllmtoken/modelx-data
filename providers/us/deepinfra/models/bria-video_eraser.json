@@ -3,7 +3,7 @@
   "name": "video_eraser",
   "created_by": "bria",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "bria",
   "description": "Remove unwanted objects or regions from video using a mask, reconstructs the background with intelligent content-aware fill.",
   "status": "active",

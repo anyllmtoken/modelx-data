@@ -3,7 +3,7 @@
   "name": "Mistral: Mistral Small 3.1 24B",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "mistral-small",
   "description": "Mistral Small 3.1 24B Instruct is an upgraded variant of Mistral Small 3 (2501), featuring 24 billion parameters with advanced multimodal capabilities.",
   "context_window": 128000,

@@ -3,7 +3,7 @@
   "name": "yi-34b-200k-capybara",
   "created_by": "fireworks",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "context_window": 200000,
   "capabilities": {
     "streaming": true

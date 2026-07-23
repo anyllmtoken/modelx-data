@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-4.1",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "gpt-4.1",
   "description": "GPT-4.1 is a flagship large language model optimized for advanced instruction following, real-world software engineering, and long-context reasoning.",
   "context_window": 1047576,

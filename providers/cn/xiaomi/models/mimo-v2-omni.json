@@ -3,7 +3,7 @@
   "name": "MiMo-v2-omni",
   "created_by": "xiaomi",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "mimo",
   "description": "Omni-modal agentic model that understands text, image, audio, and video inputs.",
   "status": "deprecated",

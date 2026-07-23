@@ -1,6 +1,6 @@
 {
   "id": "deepseek-deepseek-v4-pro-202606",
-  "name": "Deepseek/Deepseek-v4-Pro-202606",
+  "name": "DeepSeek/DeepSeek-v4-Pro-202606",
   "created_by": "deepseek",
   "source": "official",
   "family": "deepseek",
@@ -23,9 +23,9 @@
   "pricing": {
     "output": 6
   },
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "_generated": {
-    "name": "c44a651f",
+    "name": "8be520a5",
     "family": "4b81b92d",
     "context_window": "8155bc54",
     "model_type": "d669f408",

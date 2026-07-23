@@ -3,7 +3,7 @@
   "name": "TheDrummer: UnslopNemo 12B",
   "created_by": "thedrummer",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "description": "UnslopNemo v4.1 is the latest addition from the creator of Rocinante, designed for adventure writing and role-play scenarios.",
   "context_window": 32768,
   "max_output_tokens": 32768,

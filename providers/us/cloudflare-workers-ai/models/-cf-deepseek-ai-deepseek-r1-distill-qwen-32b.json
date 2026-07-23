@@ -3,7 +3,7 @@
   "name": "deepseek-r1-distill-qwen-32b",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "deepseek-r1",
   "capabilities": {
     "streaming": true,

@@ -3,7 +3,7 @@
   "name": "mistral-nemo-2407",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "status": "active",
   "context_window": 128000,
   "alias": "mistral-nemo",

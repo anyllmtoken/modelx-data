@@ -43,7 +43,7 @@
     "max_output_tokens": "297ce0b3",
     "pricing": "abc40214"
   },
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "reasoning_tokens": true,
   "tools": [
     "function_calling"

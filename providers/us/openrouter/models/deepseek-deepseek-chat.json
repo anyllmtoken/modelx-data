@@ -3,7 +3,7 @@
   "name": "DeepSeek: DeepSeek V3",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "deepseek-chat",
   "description": "DeepSeek-V3 is the latest model from the DeepSeek team, building upon the instruction following and coding abilities of the previous versions.",
   "context_window": 163840,

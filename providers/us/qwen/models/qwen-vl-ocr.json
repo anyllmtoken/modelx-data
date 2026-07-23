@@ -3,7 +3,7 @@
   "name": "qwen-vl-ocr",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "qwen",
   "context_window": 38192,
   "max_output_tokens": 8192,

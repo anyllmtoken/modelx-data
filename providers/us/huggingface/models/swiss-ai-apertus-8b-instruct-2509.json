@@ -3,7 +3,7 @@
   "name": "Apertus-8B-Instruct-2509",
   "created_by": "swiss-ai",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "alias": "swiss-ai/Apertus-8B-Instruct",
   "capabilities": {
     "streaming": true,

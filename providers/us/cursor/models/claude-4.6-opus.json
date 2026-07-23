@@ -3,7 +3,7 @@
   "name": "Claude 4.6 Opus",
   "created_by": "anthropic",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "claude-opus",
   "capabilities": {
     "streaming": true,

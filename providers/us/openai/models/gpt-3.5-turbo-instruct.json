@@ -3,7 +3,7 @@
   "name": "GPT-3.5 Turbo (instruct)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "gpt-3.5",
   "description": "Similar capabilities as GPT-3 era models. Compatible with legacy Completions endpoint and not Chat Completions.",
   "status": "deprecated",

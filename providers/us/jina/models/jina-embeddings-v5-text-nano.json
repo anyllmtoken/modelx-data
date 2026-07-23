@@ -3,7 +3,7 @@
   "name": "Jina Embeddings v5 Text Nano",
   "created_by": "jina",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "jina-embeddings",
   "description": "Jina Embeddings v5 Text Nano is a lightweight multilingual text embedding model with 239M parameters built on the EuroBERT-210M backbone. It supports 8K context length and produces 768-dimensional embeddings with Matryoshka representation learning (down to 32 dimensions). It uses last-token pooling and supports retrieval, text-matching, clustering, and classification tasks.",
   "tagline": "Lightweight v5 multilingual embeddings.",

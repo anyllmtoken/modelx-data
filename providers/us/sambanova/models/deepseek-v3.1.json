@@ -3,7 +3,7 @@
   "name": "DeepSeek V3.1",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "deepseek-v3",
   "description": "Hybrid reasoning MoE model with switchable thinking and non-thinking modes.",
   "status": "active",

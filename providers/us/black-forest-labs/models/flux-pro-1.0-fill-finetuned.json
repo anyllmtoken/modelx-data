@@ -3,7 +3,7 @@
   "name": "FLUX.1 Fill [pro] Finetuned",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "flux-1-tools",
   "description": "Inference endpoint for user-finetuned FLUX.1 Fill [pro] models with input image and mask.",
   "tagline": "Inference for finetuned FLUX.1 Fill [pro].",

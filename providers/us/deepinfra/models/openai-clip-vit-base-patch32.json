@@ -3,7 +3,7 @@
   "name": "clip-vit-base-patch32",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "openai",
   "description": "The CLIP model was developed by OpenAI to investigate the robustness of computer vision models. It uses a Vision Transformer architecture and was trained on a large dataset of image-caption pairs. The model shows promise in various computer vision tasks but also has limitations, including difficulties with fine-grained classification and potential biases in certain applications.",
   "status": "active",

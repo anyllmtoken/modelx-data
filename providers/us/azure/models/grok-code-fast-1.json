@@ -3,7 +3,7 @@
   "name": "grok-code-fast-1 Preview",
   "created_by": "xai",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "grok-code",
   "capabilities": {
     "streaming": true,

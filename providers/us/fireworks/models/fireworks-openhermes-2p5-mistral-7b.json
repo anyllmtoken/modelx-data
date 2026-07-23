@@ -3,7 +3,7 @@
   "name": "openhermes-2p5-mistral-7b",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "context_window": 32700,
   "capabilities": {
     "streaming": true

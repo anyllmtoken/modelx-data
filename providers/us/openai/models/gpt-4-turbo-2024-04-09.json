@@ -3,7 +3,7 @@
   "name": "GPT-4 Turbo (09)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "gpt-4-turbo",
   "status": "deprecated",
   "knowledge_cutoff": "2023-12",

@@ -3,7 +3,7 @@
   "name": "DALL·E 3 (3)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "description": "DALL·E is an AI system that creates realistic images and art from a natural language description. DALL·E 3 currently supports the ability, given a prompt, to create a new image with a specific size.",
   "status": "deprecated",
   "model_type": "image",

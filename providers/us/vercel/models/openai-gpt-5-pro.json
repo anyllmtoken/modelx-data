@@ -3,7 +3,7 @@
   "name": "gpt-5-pro",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "gpt-5",
   "context_window": 400000,
   "capabilities": {

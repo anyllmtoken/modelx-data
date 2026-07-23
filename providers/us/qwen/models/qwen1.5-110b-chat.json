@@ -3,7 +3,7 @@
   "name": "qwen1.5-110b-chat",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "qwen1.5",
   "context_window": 8000,
   "max_output_tokens": 2000,

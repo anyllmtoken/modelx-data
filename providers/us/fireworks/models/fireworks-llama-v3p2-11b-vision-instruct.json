@@ -3,7 +3,7 @@
   "name": "llama-v3p2-11b-vision-instruct",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "context_window": 131000,
   "capabilities": {
     "streaming": true

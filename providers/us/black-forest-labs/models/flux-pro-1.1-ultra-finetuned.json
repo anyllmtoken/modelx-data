@@ -3,7 +3,7 @@
   "name": "FLUX 1.1 [pro] Ultra Finetuned",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "flux-1.1",
   "description": "Inference endpoint for user-finetuned FLUX 1.1 [pro] Ultra models created via the BFL finetune API.",
   "tagline": "Inference for finetuned FLUX 1.1 [pro] Ultra.",

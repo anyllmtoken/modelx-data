@@ -3,7 +3,7 @@
   "name": "Seed-2.0-pro",
   "created_by": "bytedance",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "seed",
   "description": "Built for the Agent era, it delivers stable performance in complex reasoning and long-horizon tasks, including multi-step planning, visual-text reasoning, video understanding, and advanced analysis.",
   "status": "active",

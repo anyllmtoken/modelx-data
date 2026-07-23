@@ -3,7 +3,7 @@
   "name": "Z.ai: GLM 4.5",
   "created_by": "z-ai",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "description": "GLM-4.5 is our latest flagship foundation model, purpose-built for agent-based applications.",
   "context_window": 131072,
   "max_output_tokens": 98304,

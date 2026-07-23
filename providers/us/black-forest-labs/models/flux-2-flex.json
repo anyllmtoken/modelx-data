@@ -3,7 +3,7 @@
   "name": "FLUX.2 [flex]",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "flux-2",
   "description": "FLUX.2 variant with adjustable steps and guidance, tuned for typography and editing workflows. Up to 8 references via API.",
   "tagline": "Flexible FLUX.2 for typography and editing.",

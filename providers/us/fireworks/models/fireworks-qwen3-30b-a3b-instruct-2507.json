@@ -3,7 +3,7 @@
   "name": "qwen3-30b-a3b-instruct-2507",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "family": "qwen3",
   "context_window": 262000,
   "alias": "fireworks/qwen3-30b-a3b-instruct",
