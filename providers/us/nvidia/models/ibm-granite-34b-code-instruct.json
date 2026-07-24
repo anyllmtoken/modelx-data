@@ -3,7 +3,7 @@
   "name": "granite-34b-code-instruct",
   "created_by": "ibm",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "capabilities": {
     "streaming": true,
     "tool_call": true

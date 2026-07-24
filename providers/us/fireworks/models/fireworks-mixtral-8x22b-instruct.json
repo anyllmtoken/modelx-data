@@ -3,7 +3,7 @@
   "name": "mixtral-8x22b-instruct",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "mixtral",
   "context_window": 65500,
   "capabilities": {

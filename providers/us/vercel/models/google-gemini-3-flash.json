@@ -3,7 +3,7 @@
   "name": "gemini-3-flash",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "gemini-3",
   "context_window": 1000000,
   "capabilities": {
@@ -13,15 +13,15 @@
     "reasoning": true
   },
   "pricing": {
-    "input": 0.9,
-    "output": 5.4
+    "input": 0.5,
+    "output": 3
   },
   "_generated": {
     "name": "1064432a",
     "family": "eb14e598",
     "context_window": "8155bc54",
     "capabilities": "a19166f1",
-    "pricing": "a519d9f9",
+    "pricing": "ad477c96",
     "model_type": "d669f408",
     "tools": "f0c1dc7e",
     "modalities": "68e53d93"

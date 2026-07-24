@@ -3,7 +3,7 @@
   "name": "mistral-embed-2312",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "status": "active",
   "context_window": 8000,
   "alias": "mistral-embed",

@@ -9,22 +9,23 @@
   "architecture": "transformer",
   "capabilities": {
     "streaming": true,
-    "tool_call": true,
-    "fine_tuning": true
+    "tool_call": true
   },
   "open_weight": true,
-  "tools": ["function_calling"],
+  "tools": [
+    "function_calling"
+  ],
   "_generated": {
     "name": "6a409d16",
     "release_date": "13675940",
     "license": "ddb0b7bc",
     "page_url": "fa8cef61",
     "architecture": "8832ea0f",
-    "capabilities": "5780d00a",
+    "capabilities": "48995a4e",
     "open_weight": "b326b506",
     "tools": "f0c1dc7e",
     "parameters": "02e74f10"
   },
-  "last_updated": "2026-05-29",
+  "last_updated": "2026-07-24",
   "parameters": 27
 }

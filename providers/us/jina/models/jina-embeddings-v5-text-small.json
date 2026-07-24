@@ -3,7 +3,7 @@
   "name": "Jina Embeddings v5 Text Small",
   "created_by": "jina",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "jina-embeddings",
   "description": "Jina Embeddings v5 Text Small is a multilingual text embedding model with 677M parameters built on the Qwen3-0.6B-Base backbone. It supports 32K context length and produces 1024-dimensional embeddings with Matryoshka representation learning (down to 32 dimensions). It uses last-token pooling and supports retrieval, text-matching, clustering, and classification tasks.",
   "tagline": "Fifth-generation small multilingual embeddings.",

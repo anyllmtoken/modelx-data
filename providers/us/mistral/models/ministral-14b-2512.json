@@ -3,7 +3,7 @@
   "name": "ministral-14b-2512",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "ministral",
   "status": "active",
   "context_window": 256000,

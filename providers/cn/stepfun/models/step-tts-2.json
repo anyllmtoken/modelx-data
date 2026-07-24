@@ -3,7 +3,7 @@
   "name": "Step TTS 2",
   "created_by": "stepfun",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "stepfun",
   "description": "End-to-end TTS with 11 emotions, 17 styles, 3 languages (Mandarin, Cantonese, Sichuan dialect, Japanese). 10s audio voice cloning.",
   "status": "active",

@@ -3,7 +3,7 @@
   "name": "grok-4.1-fast-reasoning Preview",
   "created_by": "xai",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "grok-4.1",
   "capabilities": {
     "streaming": true,

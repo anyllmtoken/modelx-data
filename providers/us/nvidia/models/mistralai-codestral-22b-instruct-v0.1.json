@@ -3,7 +3,7 @@
   "name": "codestral-22b-instruct-v0.1",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "codestral",
   "capabilities": {
     "streaming": true,

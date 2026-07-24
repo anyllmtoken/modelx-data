@@ -3,7 +3,7 @@
   "name": "FLUX.1 Fill [pro]",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "flux-1-tools",
   "description": "Text-driven inpainting and outpainting using an input image and mask.",
   "tagline": "Inpainting and outpainting for FLUX.1.",

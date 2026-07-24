@@ -3,7 +3,7 @@
   "name": "Jina Embeddings v2 Base DE",
   "created_by": "jina",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "jina-embeddings",
   "description": "Jina Embeddings v2 Base German addresses a critical challenge in international business: bridging the language gap between German and English markets. For German companies expanding into English-speaking territories, where a third of businesses generate over 20% of their global sales, accurate bilingual understanding is essential. This model transforms how organizations handle cross-language content by enabling seamless text understanding and retrieval in both German and English, making it invaluable for companies implementing international documentation systems, customer support platforms, or content management solutions. Unlike traditional translation-based approaches, this model directly maps equivalent meanings in both languages to the same embedding space, enabling more accurate and efficient bilingual operations.",
   "tagline": "German-English bilingual embeddings.",

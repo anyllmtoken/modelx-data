@@ -3,7 +3,7 @@
   "name": "nemotron-3-nano-30b-a3b",
   "created_by": "nvidia",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "context_window": 262100,
   "capabilities": {
     "streaming": true,

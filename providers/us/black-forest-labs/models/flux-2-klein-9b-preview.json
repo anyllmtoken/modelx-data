@@ -3,7 +3,7 @@
   "name": "FLUX.2 [klein] 9B Preview",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "flux-2",
   "description": "Latest [klein] 9B with KV caching improvements for faster editing workflows.",
   "tagline": "[klein] 9B with KV caching.",

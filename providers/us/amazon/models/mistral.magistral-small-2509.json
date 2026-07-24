@@ -3,7 +3,7 @@
   "name": "Magistral Small 2509",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "model_type": "reasoning",
   "alias": "mistral.magistral-small",
   "capabilities": {

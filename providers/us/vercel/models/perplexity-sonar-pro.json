@@ -3,7 +3,7 @@
   "name": "sonar-pro",
   "created_by": "perplexity",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "context_window": 200000,
   "capabilities": {
     "streaming": true,

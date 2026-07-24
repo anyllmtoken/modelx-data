@@ -3,7 +3,7 @@
   "name": "MiniMax M2.5",
   "created_by": "minimax",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "status": "deprecated",
   "capabilities": {
     "streaming": true

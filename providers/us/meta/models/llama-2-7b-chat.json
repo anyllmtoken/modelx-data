@@ -3,7 +3,7 @@
   "name": "Llama-2-7b-chat",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "context_window": 4096,
   "capabilities": {
     "streaming": true,

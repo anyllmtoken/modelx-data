@@ -3,7 +3,7 @@
   "name": "llama-v3p3-70b-instruct",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "context_window": 131000,
   "capabilities": {
     "streaming": true

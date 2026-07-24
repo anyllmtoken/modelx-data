@@ -3,7 +3,7 @@
   "name": "ernie-4p5-300b-a47b-pt",
   "created_by": "fireworks",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "capabilities": {
     "streaming": true
   },

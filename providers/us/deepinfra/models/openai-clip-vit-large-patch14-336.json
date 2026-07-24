@@ -3,7 +3,7 @@
   "name": "clip-vit-large-patch14-336",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "openai",
   "description": "A zero-shot-image-classification model released by OpenAI. The clip-vit-large-patch14-336 model was trained from scratch on an unknown dataset and achieves unspecified results on the evaluation set. The model's intended uses and limitations, as well as its training and evaluation data, are not provided. The training procedure used an unknown optimizer and precision, and the framework versions included Transformers 4.21.3, TensorFlow 2.8.2, and Tokenizers 0.12.1.",
   "status": "active",

@@ -3,7 +3,7 @@
   "name": "Llama-4-Maverick-17B-128E-Instruct-FP8",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "Llama-4",
   "release_date": "2025-04-01",
   "knowledge_cutoff": null,

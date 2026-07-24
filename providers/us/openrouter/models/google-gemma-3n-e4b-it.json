@@ -3,7 +3,7 @@
   "name": "Google: Gemma 3n 4B",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "gemma-3n",
   "description": "Gemma 3n E4B-it is optimized for efficient execution on mobile and low-resource devices, such as phones, laptops, and tablets.",
   "context_window": 32768,

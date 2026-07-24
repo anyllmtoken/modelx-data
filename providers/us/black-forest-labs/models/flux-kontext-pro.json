@@ -3,7 +3,7 @@
   "name": "FLUX.1 Kontext [pro]",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "flux-kontext",
   "description": "Context-aware image editing and text-to-image. Legacy FLUX.1 line; BFL recommends FLUX.2 [pro] for new projects.",
   "tagline": "Legacy FLUX.1 Kontext [pro].",

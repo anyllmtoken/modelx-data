@@ -3,7 +3,7 @@
   "name": "Llama-4-Scout-17B-16E-Instruct",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "Llama-4",
   "description": "The Llama 4 collection of models are natively multimodal AI models that enable text and multimodal experiences. These models leverage a mixture-of-experts architecture to offer industry-leading performance in text and image understanding. Llama 4 Scout, a 17 billion parameter model with 16 experts",
   "status": "active",

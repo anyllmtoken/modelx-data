@@ -3,7 +3,7 @@
   "name": "Google: Gemini 2.5 Flash Lite",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "gemini-2.5",
   "description": "Gemini 2.5 Flash-Lite is a lightweight reasoning model in the Gemini 2.5 family, optimized for ultra-low latency and cost efficiency.",
   "context_window": 1048576,

@@ -3,7 +3,7 @@
   "name": "o4-mini",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "o4",
   "context_window": 200000,
   "capabilities": {

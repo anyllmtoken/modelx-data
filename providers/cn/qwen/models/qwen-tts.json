@@ -30,7 +30,7 @@
     "modalities": "601e776d",
     "pricing": "587a0193"
   },
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "pricing": {
     "text_input_token": 1.6,
     "qwen_tts_multi_output_token": 10

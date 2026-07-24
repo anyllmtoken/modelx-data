@@ -3,7 +3,7 @@
   "name": "llama-3.3-70b",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "llama-3.3",
   "context_window": 128000,
   "capabilities": {

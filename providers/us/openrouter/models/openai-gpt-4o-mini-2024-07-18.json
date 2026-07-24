@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-4o-mini (2024-07-18)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "gpt-4o",
   "description": "GPT-4o mini is OpenAI's newest model after [GPT-4 Omni](/models/openai/gpt-4o), supporting both text and image inputs with text outputs.",
   "context_window": 128000,

@@ -3,7 +3,7 @@
   "name": "GPT Image 1 (1)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "gpt-image-1",
   "description": "GPT Image 1 is a natively multimodal language model that accepts both text and image inputs, and produces image outputs.",
   "status": "deprecated",

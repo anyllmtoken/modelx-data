@@ -3,7 +3,7 @@
   "name": "text-embedding-ada-002",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "model_type": "embed",
   "capabilities": {
     "streaming": true

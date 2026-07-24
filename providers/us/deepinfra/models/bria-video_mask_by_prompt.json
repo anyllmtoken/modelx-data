@@ -3,7 +3,7 @@
   "name": "video_mask_by_prompt",
   "created_by": "bria",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "bria",
   "description": "Identify and segment objects across video frames using a text prompt. The easiest way to create a mask to modify your videos.",
   "status": "active",

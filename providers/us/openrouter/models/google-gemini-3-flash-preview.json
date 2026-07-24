@@ -3,7 +3,7 @@
   "name": "Google: Gemini 3 Flash Preview",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "gemini-3",
   "description": "Gemini 3 Flash Preview is a high speed, high value thinking model designed for agentic workflows, multi turn chat, and coding assistance.",
   "context_window": 1048576,

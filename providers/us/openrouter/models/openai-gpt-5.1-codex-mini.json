@@ -3,7 +3,7 @@
   "name": "OpenAI: GPT-5.1-Codex-Mini",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "gpt-5.1",
   "description": "GPT-5.1-Codex-Mini is a smaller and faster version of GPT-5.1-Codex",
   "context_window": 400000,

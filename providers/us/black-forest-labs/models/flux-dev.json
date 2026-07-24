@@ -3,7 +3,7 @@
   "name": "FLUX.1 [dev]",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "flux-1",
   "description": "12B-parameter FLUX.1 [dev] model for text-to-image generation. Open weights for non-commercial use; also exposed via BFL API for hosted inference.",
   "tagline": "FLUX.1 12B open-weight dev model.",

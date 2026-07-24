@@ -3,7 +3,7 @@
   "name": "Devstral 2 123B",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "model_type": "code",
   "capabilities": {
     "streaming": true

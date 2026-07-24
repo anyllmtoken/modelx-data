@@ -3,7 +3,7 @@
   "name": "Seedream-4",
   "created_by": "bytedance",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "bytedance",
   "description": "Seedream 4.0 is a SOTA multimodal image creation model built on leading architecture. It breaks through the boundaries of traditional text-to-image models by natively supporting text, single-image, and multi-image inputs. Users can freely combine text and images to achieve diverse creative modes within a single model—such as multi-image blending, image editing, and sequentially batch image generation, featuring subject consistency, making image creation more free and controllable.",
   "status": "active",

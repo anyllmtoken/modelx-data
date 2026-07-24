@@ -3,7 +3,7 @@
   "name": "DeepSeek: DeepSeek V3 0324",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "deepseek-chat",
   "description": "DeepSeek V3, a 685B-parameter, mixture-of-experts model, is the latest iteration of the flagship chat model family from the DeepSeek team.",
   "context_window": 163840,

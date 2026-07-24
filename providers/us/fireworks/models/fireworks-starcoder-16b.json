@@ -3,7 +3,7 @@
   "name": "starcoder-16b",
   "created_by": "fireworks",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "context_window": 8190,
   "capabilities": {
     "streaming": true

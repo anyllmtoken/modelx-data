@@ -3,7 +3,7 @@
   "name": "Qwen2.5-Coder-1.5B",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "capabilities": {
     "streaming": true,
     "tool_call": true

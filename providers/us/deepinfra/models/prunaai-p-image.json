@@ -3,7 +3,7 @@
   "name": "p-image",
   "created_by": "prunaai",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "family": "prunaai",
   "description": "P-Image is a state-of-the-art real-time generation model with exceptional text rendering, fine-detail accuracy, and rock-solid prompt adherence. It’s built for instant creativity at high-fidelity images in about one second at a fraction of typical model costs.",
   "status": "active",

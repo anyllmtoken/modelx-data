@@ -3,7 +3,7 @@
   "name": "mistral-nemo-minitron-8b-8k-instruct",
   "created_by": "nvidia",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "capabilities": {
     "streaming": true,
     "tool_call": true

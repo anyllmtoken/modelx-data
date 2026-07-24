@@ -12,9 +12,7 @@
   "open_weight": true,
   "tagline": "Laguna XS 2.1 is a 33B total parameter Mixture-of-Experts model with 3B activated parameters per token designed for agentic coding and long-horizon work on a local machine.",
   "capabilities": {
-    "streaming": true,
-    "tool_call": true,
-    "reasoning": true
+    "streaming": true
   },
   "modalities": {
     "input": [
@@ -37,9 +35,9 @@
     "page_url": "b11fae43",
     "open_weight": "b326b506",
     "tagline": "03703c06",
-    "capabilities": "a281e83a",
+    "capabilities": "0fa77dc6",
     "modalities": "68e53d93",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-23"
+  "last_updated": "2026-07-24"
 }

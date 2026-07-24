@@ -8,9 +8,7 @@
   "license": "open-weight",
   "page_url": "https://ollama.com/library/laguna-s-2.1",
   "capabilities": {
-    "streaming": true,
-    "tool_call": true,
-    "reasoning": true
+    "streaming": true
   },
   "modalities": {
     "input": [
@@ -22,14 +20,14 @@
   },
   "reasoning_tokens": true,
   "open_weight": true,
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "_generated": {
     "name": "82123e67",
     "description": "bff6ecc3",
     "context_window": "4a1d32eb",
     "license": "6327aaea",
     "page_url": "05d96207",
-    "capabilities": "a281e83a",
+    "capabilities": "0fa77dc6",
     "modalities": "68e53d93",
     "reasoning_tokens": "b326b506",
     "open_weight": "b326b506"

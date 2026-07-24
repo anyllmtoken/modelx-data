@@ -3,7 +3,7 @@
   "name": "nvidia/nemotron-3-super-120b-a12b",
   "created_by": "nvidia",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "capabilities": {
     "streaming": true
   },

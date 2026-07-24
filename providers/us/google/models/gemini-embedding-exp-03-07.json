@@ -3,7 +3,7 @@
   "name": "gemini-embedding-exp-03-07",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-24",
   "status": "deprecated",
   "deprecation_date": "October 30, 2025",
   "successor": "gemini-embedding-2",
