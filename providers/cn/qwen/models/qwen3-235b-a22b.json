@@ -3,7 +3,7 @@
   "name": "qwen3-235b-a22b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-24",
+  "last_updated": "2026-07-25",
   "family": "qwen3",
   "capabilities": {
     "streaming": true

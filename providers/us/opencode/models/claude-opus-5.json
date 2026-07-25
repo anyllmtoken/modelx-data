@@ -1,0 +1,25 @@
+{
+  "id": "claude-opus-5",
+  "name": "Claude Opus 5",
+  "created_by": "anthropic",
+  "source": "official",
+  "family": "claude-opus",
+  "status": "active",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 5,
+    "output": 25,
+    "cached_input": 0.5,
+    "cache_write": 6.25
+  },
+  "last_updated": "2026-07-25",
+  "_generated": {
+    "name": "7beed322",
+    "family": "4e4c4b18",
+    "status": "379ac110",
+    "capabilities": "0fa77dc6",
+    "pricing": "12050202"
+  }
+}

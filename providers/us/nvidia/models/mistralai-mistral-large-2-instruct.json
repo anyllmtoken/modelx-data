@@ -3,7 +3,7 @@
   "name": "mistral-large-2-instruct",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-24",
+  "last_updated": "2026-07-25",
   "family": "mistral-large",
   "capabilities": {
     "streaming": true,

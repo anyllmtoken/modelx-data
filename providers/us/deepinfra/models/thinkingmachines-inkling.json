@@ -5,7 +5,7 @@
   "source": "official",
   "description": "Inkling is a general-purpose multimodal model that accepts text, image and audio inputs and generates text outputs.",
   "status": "active",
-  "context_window": 131072,
+  "context_window": 524288,
   "model_type": "chat",
   "capabilities": {
     "tool_call": true,
@@ -36,12 +36,12 @@
   ],
   "reasoning_tokens": true,
   "open_weight": true,
-  "last_updated": "2026-07-24",
+  "last_updated": "2026-07-25",
   "_generated": {
     "name": "52636cd3",
     "description": "8ac04521",
     "status": "379ac110",
-    "context_window": "f7de594e",
+    "context_window": "bcabf6a1",
     "model_type": "d669f408",
     "capabilities": "70af0a43",
     "modalities": "6399757e",
