@@ -1,0 +1,29 @@
+{
+  "id": "t-tech/T-lite-it-2.1",
+  "name": "T-lite-it-2.1",
+  "created_by": "t-tech",
+  "source": "official",
+  "description": "**🚨 Users are advised to exercise caution and are responsible for any additional training and oversight required to ensure the model's responses meet acceptable ethical and safety standards. The responsibility for incorporating this model into industrial or commercial solutions lies entirely with those who choose to deploy it.**",
+  "release_date": "2025-12-22",
+  "context_window": 40960,
+  "license": "apache-2.0",
+  "parameters": 8.2,
+  "page_url": "https://huggingface.co/t-tech/T-lite-it-2.1",
+  "architecture": "transformer",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "last_updated": "2026-07-27",
+  "_generated": {
+    "name": "e12f5aa8",
+    "description": "f2d0538c",
+    "release_date": "13396b7f",
+    "context_window": "a422a18c",
+    "license": "60245731",
+    "parameters": "2a568439",
+    "page_url": "6fe9964c",
+    "architecture": "8832ea0f",
+    "capabilities": "48995a4e"
+  }
+}
