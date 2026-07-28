@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/kimi-k3",
+  "name": "kimi-k3",
+  "created_by": "moonshot",
+  "source": "official",
+  "family": "kimi-k3",
+  "context_window": 1040000,
+  "page_url": "https://fireworks.ai/models/fireworks/kimi-k3",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 3,
+    "output": 15,
+    "cached_input": 0.3
+  },
+  "last_updated": "2026-07-28",
+  "_generated": {
+    "name": "73e8093c",
+    "family": "73e8093c",
+    "context_window": "1bf8ad8b",
+    "page_url": "bac8a9a1",
+    "capabilities": "0fa77dc6",
+    "pricing": "0deaf3da"
+  }
+}

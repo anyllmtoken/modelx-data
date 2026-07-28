@@ -1,0 +1,41 @@
+{
+  "id": "kimi-k3",
+  "name": "kimi-k3",
+  "created_by": "moonshot",
+  "source": "official",
+  "family": "kimi-k3",
+  "description": "Kimi K3 is an open-weight, native multimodal agentic model and our most capable model to date.",
+  "release_date": "2026-07-27",
+  "license": "open-weight",
+  "page_url": "https://ollama.com/library/kimi-k3",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "reasoning_tokens": true,
+  "open_weight": true,
+  "last_updated": "2026-07-28",
+  "_generated": {
+    "name": "73e8093c",
+    "family": "73e8093c",
+    "description": "16ea8304",
+    "release_date": "04fb3b2f",
+    "license": "6327aaea",
+    "page_url": "31e012ac",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "b326b506"
+  }
+}

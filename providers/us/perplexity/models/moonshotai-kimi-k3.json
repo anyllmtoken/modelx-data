@@ -1,0 +1,18 @@
+{
+  "id": "moonshotai/kimi-k3",
+  "name": "moonshotai/kimi-k3",
+  "created_by": "moonshotai",
+  "source": "official",
+  "family": "kimi-k3",
+  "license": "proprietary",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-07-28",
+  "_generated": {
+    "name": "4976dfc6",
+    "family": "73e8093c",
+    "license": "9186c466",
+    "capabilities": "0fa77dc6"
+  }
+}
