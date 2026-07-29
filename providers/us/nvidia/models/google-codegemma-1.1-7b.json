@@ -3,7 +3,7 @@
   "name": "codegemma-1.1-7b",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-28",
+  "last_updated": "2026-07-29",
   "capabilities": {
     "streaming": true
   },

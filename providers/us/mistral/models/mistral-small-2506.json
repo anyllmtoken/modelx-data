@@ -3,20 +3,18 @@
   "name": "mistral-small-2506",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-28",
+  "last_updated": "2026-07-29",
   "family": "mistral-small",
   "status": "deprecated",
   "context_window": 128000,
   "alias": "mistral-small",
   "capabilities": {
     "streaming": true,
-    "tool_call": true,
-    "vision": true
+    "tool_call": true
   },
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"
@@ -31,8 +29,8 @@
     "family": "275918a5",
     "status": "2e2f74dc",
     "context_window": "34434798",
-    "capabilities": "1a260abc",
-    "modalities": "6399757e",
+    "capabilities": "48995a4e",
+    "modalities": "68e53d93",
     "pricing": "89a9c6e2",
     "model_type": "d669f408",
     "license": "60245731",

@@ -1,0 +1,44 @@
+{
+  "id": "google/gemini-2.5-pro:batch",
+  "name": "Google: Gemini 2.5 Pro (batch)",
+  "created_by": "google",
+  "source": "official",
+  "family": "gemini-2.5",
+  "description": "Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks.",
+  "release_date": "2025-06-17",
+  "context_window": 1048576,
+  "max_output_tokens": 65536,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.625,
+    "output": 5,
+    "cached_input": 0.125
+  },
+  "last_updated": "2026-07-29",
+  "_generated": {
+    "name": "097dfabf",
+    "family": "ea6b88bf",
+    "description": "645e310a",
+    "release_date": "41e2691d",
+    "context_window": "7d28a051",
+    "max_output_tokens": "297ce0b3",
+    "capabilities": "f533f522",
+    "modalities": "0843b982",
+    "pricing": "395daa12"
+  }
+}

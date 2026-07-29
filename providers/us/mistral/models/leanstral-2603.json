@@ -12,13 +12,11 @@
   "tagline": "Our first open-source code agent designed for Lean 4, built for formal proof engineering in realistic repositories.",
   "capabilities": {
     "streaming": true,
-    "tool_call": true,
-    "vision": true
+    "tool_call": true
   },
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"
@@ -36,10 +34,10 @@
     "license": "60245731",
     "page_url": "3671027a",
     "tagline": "319599fe",
-    "capabilities": "1a260abc",
-    "modalities": "6399757e",
+    "capabilities": "48995a4e",
+    "modalities": "68e53d93",
     "open_weight": "b326b506",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-28"
+  "last_updated": "2026-07-29"
 }

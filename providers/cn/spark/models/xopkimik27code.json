@@ -1,6 +1,6 @@
 {
   "id": "xopkimik27code",
-  "name": "kimi-k2.7-code",
+  "name": "Kimi-K2.7-Code",
   "created_by": "moonshot",
   "source": "official",
   "family": "spark",
@@ -24,9 +24,9 @@
     "input": 6.5,
     "output": 27
   },
-  "last_updated": "2026-07-28",
+  "last_updated": "2026-07-29",
   "_generated": {
-    "name": "f0880691",
+    "name": "cb54f01b",
     "family": "92678943",
     "context_window": "2fd324cb",
     "model_type": "d669f408",

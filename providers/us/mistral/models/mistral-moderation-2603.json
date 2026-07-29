@@ -3,19 +3,16 @@
   "name": "mistral-moderation-2603",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-28",
+  "last_updated": "2026-07-29",
   "status": "active",
   "context_window": 128000,
   "alias": "mistral-moderation",
   "capabilities": {
-    "streaming": true,
-    "tool_call": true,
-    "vision": true
+    "streaming": true
   },
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"
@@ -26,8 +23,8 @@
     "name": "0aaf6146",
     "status": "379ac110",
     "context_window": "34434798",
-    "capabilities": "1a260abc",
-    "modalities": "6399757e",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
     "model_type": "1e7a7b87",
     "family": "cdc0334b",
     "license": "60245731",

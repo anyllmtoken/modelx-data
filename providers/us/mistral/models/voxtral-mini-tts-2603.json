@@ -12,14 +12,11 @@
   "page_url": "https://docs.mistral.ai/models/model-cards/voxtral-tts-26-03",
   "tagline": "Our state-of-the-art text-to-speech model with zero-shot voice cloning.",
   "capabilities": {
-    "streaming": true,
-    "tool_call": true,
-    "vision": true
+    "streaming": true
   },
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"
@@ -38,10 +35,10 @@
     "license": "60245731",
     "page_url": "5b555900",
     "tagline": "619b997e",
-    "capabilities": "1a260abc",
-    "modalities": "6399757e",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
     "open_weight": "b326b506",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-28"
+  "last_updated": "2026-07-29"
 }

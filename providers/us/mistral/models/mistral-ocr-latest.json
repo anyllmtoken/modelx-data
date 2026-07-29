@@ -11,7 +11,6 @@
   "tagline": "Our latest OCR service powering our Document AI stack, with native paragraph-level bounding box extraction and structural block labels.",
   "capabilities": {
     "streaming": true,
-    "tool_call": true,
     "vision": true
   },
   "modalities": {
@@ -35,10 +34,10 @@
     "page_url": "6bc87460",
     "model_type": "d669f408",
     "tagline": "7a029eb7",
-    "capabilities": "1a260abc",
+    "capabilities": "8a3b232e",
     "modalities": "6399757e",
     "open_weight": "b326b506",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-28"
+  "last_updated": "2026-07-29"
 }

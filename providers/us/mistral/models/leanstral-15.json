@@ -11,13 +11,11 @@
   "tagline": "An updated Lean 4 formal proof engineering model optimised for automated theorem proving and autoformalization.",
   "capabilities": {
     "streaming": true,
-    "tool_call": true,
-    "vision": true
+    "tool_call": true
   },
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"
@@ -35,10 +33,10 @@
     "license": "60245731",
     "page_url": "5241d5c2",
     "tagline": "716937d7",
-    "capabilities": "1a260abc",
-    "modalities": "6399757e",
+    "capabilities": "48995a4e",
+    "modalities": "68e53d93",
     "open_weight": "b326b506",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-28"
+  "last_updated": "2026-07-29"
 }

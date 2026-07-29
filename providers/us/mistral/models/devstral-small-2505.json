@@ -3,7 +3,7 @@
   "name": "devstral-small-2505",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-07-28",
+  "last_updated": "2026-07-29",
   "family": "devstral",
   "status": "deprecated",
   "deprecation_date": "2025-10-31",
@@ -11,13 +11,11 @@
   "alias": "devstral-small",
   "capabilities": {
     "streaming": true,
-    "tool_call": true,
-    "vision": true
+    "tool_call": true
   },
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"
@@ -34,8 +32,8 @@
     "status": "2e2f74dc",
     "deprecation_date": "2bddea11",
     "context_window": "34434798",
-    "capabilities": "1a260abc",
-    "modalities": "6399757e",
+    "capabilities": "48995a4e",
+    "modalities": "68e53d93",
     "model_type": "b6cc3ff4",
     "pricing": "53952343",
     "license": "60245731",
