@@ -1,0 +1,19 @@
+{
+  "id": "xai/grok-voice-think-fast-2.0",
+  "name": "grok-voice-think-fast-2.0",
+  "created_by": "xai",
+  "source": "official",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "last_updated": "2026-07-31",
+  "_generated": {
+    "name": "6311eef1",
+    "capabilities": "0fa77dc6",
+    "pricing": "9a7a9781"
+  }
+}

@@ -6,18 +6,18 @@
   "family": "qwen3.5",
   "model_type": "audio",
   "license": "apache-2.0",
-  "page_url": "https://help.aliyun.com/zh/model-studio/asr-model.md",
+  "page_url": "https://help.aliyun.com/zh/model-studio/s2s-model.md",
   "capabilities": {
     "streaming": true,
     "vision": true
   },
-  "last_updated": "2026-07-29",
+  "last_updated": "2026-07-31",
   "_generated": {
     "name": "cadfa5d0",
     "family": "d548f421",
     "model_type": "9f84c007",
     "license": "60245731",
-    "page_url": "6b1640d1",
+    "page_url": "ef02f974",
     "capabilities": "8a3b232e",
     "pricing": "da493aa2"
   },

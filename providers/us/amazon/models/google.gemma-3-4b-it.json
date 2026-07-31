@@ -3,7 +3,7 @@
   "name": "Gemma 3 4B IT",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-07-29",
+  "last_updated": "2026-07-31",
   "model_type": "chat",
   "capabilities": {
     "streaming": true,

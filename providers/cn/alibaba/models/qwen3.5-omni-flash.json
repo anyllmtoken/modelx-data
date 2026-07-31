@@ -8,7 +8,7 @@
   "max_output_tokens": 65536,
   "model_type": "chat",
   "license": "apache-2.0",
-  "page_url": "https://help.aliyun.com/zh/model-studio/asr-model.md",
+  "page_url": "https://help.aliyun.com/zh/model-studio/s2s-model.md",
   "capabilities": {
     "streaming": true,
     "vision": true
@@ -21,7 +21,7 @@
       "text"
     ]
   },
-  "last_updated": "2026-07-29",
+  "last_updated": "2026-07-31",
   "_generated": {
     "name": "efc0d7bf",
     "family": "d548f421",
@@ -29,7 +29,7 @@
     "max_output_tokens": "297ce0b3",
     "model_type": "d669f408",
     "license": "60245731",
-    "page_url": "6b1640d1",
+    "page_url": "ef02f974",
     "capabilities": "8a3b232e",
     "modalities": "68e53d93",
     "pricing": "1c12c8c3"

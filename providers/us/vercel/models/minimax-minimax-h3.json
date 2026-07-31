@@ -1,0 +1,22 @@
+{
+  "id": "minimax/minimax-h3",
+  "name": "minimax-h3",
+  "created_by": "minimax",
+  "source": "official",
+  "family": "minimax",
+  "capabilities": {
+    "streaming": true,
+    "vision": true
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "last_updated": "2026-07-31",
+  "_generated": {
+    "name": "e676c6ee",
+    "family": "c85916f0",
+    "capabilities": "8a3b232e",
+    "pricing": "9a7a9781"
+  }
+}

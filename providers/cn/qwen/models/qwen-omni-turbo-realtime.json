@@ -3,7 +3,7 @@
   "name": "qwen-omni-turbo-realtime",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-07-29",
+  "last_updated": "2026-07-31",
   "family": "qwen",
   "capabilities": {
     "streaming": true,

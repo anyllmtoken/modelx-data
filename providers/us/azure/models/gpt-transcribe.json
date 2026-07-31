@@ -1,0 +1,25 @@
+{
+  "id": "gpt-transcribe",
+  "name": "gpt-transcribe",
+  "created_by": "openai",
+  "source": "official",
+  "description": "Offline speech-to-text model for file transcription via POST /v1/audio/transcriptions . Supports language hints.",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-07-31",
+  "_generated": {
+    "name": "256a852e",
+    "description": "8abeb61a",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93"
+  }
+}

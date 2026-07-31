@@ -33,7 +33,7 @@
   "pricing_notes": [
     "Requires Max Mode on legacy request-based plans; Fast mode (\\`claude-opus-5-fast\\`) requires Max Mode on legacy request-based plans; Up to 1M tokens with extended context at the same per-token rates (no long-context surcharge)"
   ],
-  "last_updated": "2026-07-29",
+  "last_updated": "2026-07-31",
   "_generated": {
     "name": "7beed322",
     "family": "4e4c4b18",

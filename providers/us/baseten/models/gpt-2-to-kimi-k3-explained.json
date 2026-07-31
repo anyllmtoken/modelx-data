@@ -1,0 +1,25 @@
+{
+  "id": "gpt-2-to-kimi-k3-explained",
+  "name": "gpt-2-to-kimi-k3-explained",
+  "created_by": "openai",
+  "source": "official",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-07-31",
+  "_generated": {
+    "name": "20755eab",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}
