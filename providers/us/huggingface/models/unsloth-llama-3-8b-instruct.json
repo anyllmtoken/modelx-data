@@ -3,7 +3,7 @@
   "name": "llama-3-8b-Instruct",
   "created_by": "unsloth",
   "source": "official",
-  "last_updated": "2026-07-31",
+  "last_updated": "2026-08-01",
   "family": "llama-3",
   "capabilities": {
     "streaming": true,

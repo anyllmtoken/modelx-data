@@ -44,7 +44,7 @@
     "reasoning_tokens": "b326b506",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-07-31",
+  "last_updated": "2026-08-01",
   "reasoning_tokens": true,
   "tools": [
     "function_calling"

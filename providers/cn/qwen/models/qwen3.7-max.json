@@ -36,11 +36,11 @@
     "capabilities": "0fa77dc6",
     "modalities": "68e53d93",
     "tools": "f0c1dc7e",
-    "max_output_tokens": "297ce0b3",
+    "max_output_tokens": "f7de594e",
     "pricing": "f4d57715"
   },
-  "last_updated": "2026-07-31",
-  "max_output_tokens": 65536,
+  "last_updated": "2026-08-01",
+  "max_output_tokens": 131072,
   "pricing": {
     "input": 12,
     "output": 36,

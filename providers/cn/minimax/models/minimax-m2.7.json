@@ -3,7 +3,7 @@
   "name": "MiniMax-M2.7",
   "created_by": "minimax",
   "source": "official",
-  "last_updated": "2026-07-31",
+  "last_updated": "2026-08-01",
   "family": "minimax",
   "capabilities": {
     "streaming": true,

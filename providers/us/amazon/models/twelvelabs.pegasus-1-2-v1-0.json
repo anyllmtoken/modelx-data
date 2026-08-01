@@ -3,7 +3,7 @@
   "name": "Pegasus v1.2",
   "created_by": "twelvelabs",
   "source": "official",
-  "last_updated": "2026-07-31",
+  "last_updated": "2026-08-01",
   "model_type": "video",
   "capabilities": {
     "streaming": true

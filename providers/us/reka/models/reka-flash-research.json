@@ -3,7 +3,7 @@
   "name": "Reka Flash Research",
   "created_by": "reka",
   "source": "official",
-  "last_updated": "2026-07-31",
+  "last_updated": "2026-08-01",
   "family": "reka-research",
   "description": "Research-tier endpoint with parallel-thinking modes for deep web-grounded answers.",
   "tagline": "Web-grounded research model.",

@@ -3,7 +3,7 @@
   "name": "nemotron-nano-9b-v2",
   "created_by": "nvidia",
   "source": "official",
-  "last_updated": "2026-07-31",
+  "last_updated": "2026-08-01",
   "context_window": 131100,
   "capabilities": {
     "streaming": true,
