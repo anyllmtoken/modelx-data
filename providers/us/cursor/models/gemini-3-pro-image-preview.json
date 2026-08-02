@@ -3,7 +3,7 @@
   "name": "Gemini 3 Pro Image Preview",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-08-02",
   "family": "gemini-3",
   "capabilities": {
     "streaming": true,

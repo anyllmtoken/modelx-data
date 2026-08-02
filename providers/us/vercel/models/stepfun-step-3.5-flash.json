@@ -7,6 +7,7 @@
   "model_type": "chat",
   "capabilities": {
     "streaming": true,
+    "vision": true,
     "tool_call": true,
     "reasoning": true
   },
@@ -29,10 +30,10 @@
     "name": "cb5963f1",
     "context_window": "b23f4471",
     "model_type": "d669f408",
-    "capabilities": "a281e83a",
+    "capabilities": "a19166f1",
     "pricing": "fe9a5f2a",
     "modalities": "68e53d93",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-01"
+  "last_updated": "2026-08-02"
 }

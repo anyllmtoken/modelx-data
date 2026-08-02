@@ -3,7 +3,7 @@
   "name": "nemotron-nano-3-30b-a3b",
   "created_by": "fireworks",
   "source": "official",
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-08-02",
   "context_window": 262100,
   "capabilities": {
     "streaming": true

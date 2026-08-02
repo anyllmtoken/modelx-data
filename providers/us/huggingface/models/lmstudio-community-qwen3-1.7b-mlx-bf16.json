@@ -14,15 +14,20 @@
   "tagline": "This model [lmstudio-community/Qwen3-1.7B-MLX-bf16](https://huggingface.co/lmstudio-community/Qwen3-1.7B-MLX-bf16) was converted to MLX format from [Qwen/Qwen3-1.7B](https://huggingface.co/Qwen/Qwen3-",
   "capabilities": {
     "streaming": true,
-    "tool_call": true,
-    "fine_tuning": true
+    "tool_call": true
   },
   "open_weight": true,
   "modalities": {
-    "input": ["text"],
-    "output": ["text"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
   },
-  "tools": ["function_calling"],
+  "tools": [
+    "function_calling"
+  ],
   "_generated": {
     "name": "25e6e568",
     "description": "ce4718d4",
@@ -34,10 +39,10 @@
     "architecture": "8832ea0f",
     "model_type": "d669f408",
     "tagline": "c9be6497",
-    "capabilities": "5780d00a",
+    "capabilities": "48995a4e",
     "open_weight": "b326b506",
     "modalities": "68e53d93",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-08-02"
 }

@@ -3,7 +3,7 @@
   "name": "codestral-2508",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-08-02",
   "family": "codestral",
   "status": "active",
   "context_window": 128000,

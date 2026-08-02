@@ -3,7 +3,7 @@
   "name": "DeepSeek-V3.2-Speciale",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-08-02",
   "family": "deepseek",
   "capabilities": {
     "streaming": true,
