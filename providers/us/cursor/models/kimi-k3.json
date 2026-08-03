@@ -32,7 +32,7 @@
   "pricing_notes": [
     "Hidden by default; Requires Max Mode on legacy request-based plans; Up to 1M tokens with extended context at the same per-token rates (no long-context surcharge); No separate cache-write fee"
   ],
-  "last_updated": "2026-08-02",
+  "last_updated": "2026-08-03",
   "_generated": {
     "name": "894c7fc5",
     "family": "73e8093c",

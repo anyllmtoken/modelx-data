@@ -3,7 +3,7 @@
   "name": "deepseek-v3p1-terminus",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-08-02",
+  "last_updated": "2026-08-03",
   "family": "deepseek",
   "context_window": 163000,
   "capabilities": {

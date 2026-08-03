@@ -12,8 +12,7 @@
   "architecture": "transformer",
   "tagline": "The model weights were updated at 7 AM UTC on Feb 7, 2024.",
   "capabilities": {
-    "streaming": true,
-    "fine_tuning": true
+    "streaming": true
   },
   "open_weight": true,
   "_generated": {
@@ -26,8 +25,8 @@
     "page_url": "213620a5",
     "architecture": "8832ea0f",
     "tagline": "7927a834",
-    "capabilities": "9c665f5d",
+    "capabilities": "0fa77dc6",
     "open_weight": "b326b506"
   },
-  "last_updated": "2026-06-18"
+  "last_updated": "2026-08-03"
 }

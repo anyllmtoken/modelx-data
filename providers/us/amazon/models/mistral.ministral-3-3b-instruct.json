@@ -3,7 +3,7 @@
   "name": "Ministral 3B",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-08-02",
+  "last_updated": "2026-08-03",
   "model_type": "chat",
   "capabilities": {
     "streaming": true,
