@@ -14,6 +14,7 @@
   "tagline": "MiniMax-M3 is a native multimodal model with 1M context.",
   "capabilities": {
     "tool_call": true,
+    "structured_output": true,
     "json_mode": true,
     "reasoning": true,
     "vision": true,
@@ -50,11 +51,11 @@
     "license": "c85916f0",
     "open_weight": "b326b506",
     "tagline": "f4ff088a",
-    "capabilities": "70af0a43",
+    "capabilities": "d0cb1dc1",
     "modalities": "6399757e",
     "pricing": "0c734839",
     "tools": "f0c1dc7e",
     "endpoints": "d8fa1080"
   },
-  "last_updated": "2026-08-03"
+  "last_updated": "2026-08-04"
 }

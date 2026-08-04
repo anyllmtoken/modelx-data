@@ -3,7 +3,7 @@
   "name": "Palmyra X4",
   "created_by": "writer",
   "source": "official",
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-04",
   "model_type": "chat",
   "capabilities": {
     "streaming": true

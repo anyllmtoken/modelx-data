@@ -10,7 +10,6 @@
   "tagline": "Hy3 preview is a high-efficiency Mixture-of-Experts model from Tencent designed for agentic workflows and production use.",
   "capabilities": {
     "tool_call": true,
-    "structured_output": true,
     "reasoning": true
   },
   "modalities": {
@@ -36,10 +35,10 @@
     "context_window": "4a1d32eb",
     "max_output_tokens": "4a1d32eb",
     "tagline": "3e25a944",
-    "capabilities": "f533f522",
+    "capabilities": "05723a3e",
     "modalities": "68e53d93",
     "pricing": "f2307d0b",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-03"
+  "last_updated": "2026-08-04"
 }

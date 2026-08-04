@@ -3,9 +3,9 @@
   "name": "qwen3-embedding-8b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-04",
   "family": "qwen3",
-  "context_window": 32800,
+  "context_window": 41000,
   "model_type": "embed",
   "capabilities": {
     "streaming": true
@@ -17,7 +17,7 @@
   "_generated": {
     "name": "02e8e9b4",
     "family": "48c385a0",
-    "context_window": "74a190a6",
+    "context_window": "225178b1",
     "model_type": "764cb3de",
     "capabilities": "0fa77dc6",
     "pricing": "edbb3c0f",

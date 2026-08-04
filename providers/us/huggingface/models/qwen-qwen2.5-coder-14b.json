@@ -3,7 +3,7 @@
   "name": "Qwen2.5-Coder-14B",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-04",
   "capabilities": {
     "streaming": true,
     "tool_call": true
