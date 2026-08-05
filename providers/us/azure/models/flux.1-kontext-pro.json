@@ -3,7 +3,7 @@
   "name": "FLUX.1-Kontext-pro",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-08-04",
+  "last_updated": "2026-08-05",
   "capabilities": {
     "streaming": true,
     "tool_call": true,

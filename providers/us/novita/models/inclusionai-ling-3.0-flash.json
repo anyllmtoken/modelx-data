@@ -1,6 +1,6 @@
 {
   "id": "inclusionai/ling-3.0-flash",
-  "name": "Ling-3.0-flash",
+  "name": "Ling 3.0 Flash",
   "created_by": "inclusionai",
   "source": "official",
   "description": "Ling-3.0-flash is a 124B-parameter Mixture-of-Experts (MoE) model, with approximately 5.1B parameters activated per token.",
@@ -25,9 +25,9 @@
   "endpoints": [
     "chat_completions"
   ],
-  "last_updated": "2026-08-04",
+  "last_updated": "2026-08-05",
   "_generated": {
-    "name": "bd6bbc85",
+    "name": "55a7abe9",
     "description": "9c3e37e8",
     "status": "379ac110",
     "release_date": "79f611df",

@@ -3,7 +3,7 @@
   "name": "nemotron-mini-4b-instruct",
   "created_by": "nvidia",
   "source": "official",
-  "last_updated": "2026-08-04",
+  "last_updated": "2026-08-05",
   "capabilities": {
     "streaming": true,
     "tool_call": true

@@ -3,7 +3,7 @@
   "name": "qwen3-asr-flash-realtime",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-08-04",
+  "last_updated": "2026-08-05",
   "family": "qwen3",
   "model_type": "audio",
   "capabilities": {

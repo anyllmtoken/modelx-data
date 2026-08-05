@@ -1,0 +1,20 @@
+{
+  "id": "blackforestlabs/flux-3/extend-video",
+  "name": "Flux 3 Extend Video",
+  "created_by": "blackforestlabs",
+  "source": "official",
+  "description": "FLUX.3 is Black Forest Labs' frontier video model.",
+  "status": "active",
+  "release_date": "2026-07-17",
+  "model_type": "other",
+  "page_url": "https://fal.run/blackforestlabs/flux-3/extend-video",
+  "last_updated": "2026-08-05",
+  "_generated": {
+    "name": "c8c89340",
+    "description": "4d8b15e0",
+    "status": "379ac110",
+    "release_date": "4d92f2b5",
+    "model_type": "ddb0b7bc",
+    "page_url": "58d8cb40"
+  }
+}

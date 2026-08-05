@@ -1,0 +1,41 @@
+{
+  "id": "qwen-image-3.0",
+  "name": "qwen-image-3.0",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "max_output_tokens": 6,
+  "model_type": "chat",
+  "license": "apache-2.0",
+  "page_url": "https://help.aliyun.com/zh/model-studio/image-model.md",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "qima_input_1k": 0.02,
+    "qima_input_2k": 0.02,
+    "qima_output_1k": 0.18,
+    "qima_output_2k": 0.18
+  },
+  "last_updated": "2026-08-05",
+  "_generated": {
+    "name": "89f15c24",
+    "family": "a3af76f3",
+    "max_output_tokens": "1679091c",
+    "model_type": "d669f408",
+    "license": "60245731",
+    "page_url": "926e9833",
+    "capabilities": "0fa77dc6",
+    "modalities": "6399757e",
+    "pricing": "71df372e"
+  }
+}
