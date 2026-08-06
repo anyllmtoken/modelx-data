@@ -3,7 +3,7 @@
   "name": "glm-5",
   "created_by": "zhipu",
   "source": "official",
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "context_window": 202800,
   "capabilities": {
     "streaming": true,

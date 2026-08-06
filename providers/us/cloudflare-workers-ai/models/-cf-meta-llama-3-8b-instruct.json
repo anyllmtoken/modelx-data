@@ -3,15 +3,16 @@
   "name": "llama-3-8b-instruct",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "family": "llama-3",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "reasoning": true
   },
   "_generated": {
     "name": "68265baa",
     "family": "a8d1600e",
-    "capabilities": "0fa77dc6",
+    "capabilities": "b011c6b4",
     "model_type": "d669f408",
     "parameters": "c9f0f895",
     "status": "2e2f74dc",

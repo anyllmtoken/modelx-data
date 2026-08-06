@@ -1,0 +1,35 @@
+{
+  "id": "seedrealtime",
+  "name": "SeedRealtime",
+  "created_by": "bytedance",
+  "source": "official",
+  "description": "As a native audio-visual full-duplex LLM, SeedRealtime can jointly understand audio, visual, and temporal information, accurately identify the interaction target and user intent, delivering a brand-ne",
+  "status": "active",
+  "model_type": "chat",
+  "page_url": "https://seed.bytedance.com/en/SeedRealtime",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "endpoints": [
+    "chat_completions"
+  ],
+  "last_updated": "2026-08-06",
+  "_generated": {
+    "name": "157f7dde",
+    "description": "99d95c8a",
+    "status": "379ac110",
+    "model_type": "d669f408",
+    "page_url": "cc530250",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "endpoints": "d8fa1080"
+  }
+}

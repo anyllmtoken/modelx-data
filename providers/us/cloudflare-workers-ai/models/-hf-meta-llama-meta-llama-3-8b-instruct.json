@@ -3,13 +3,14 @@
   "name": "meta-llama-3-8b-instruct",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "reasoning": true
   },
   "_generated": {
     "name": "3d41b8ce",
-    "capabilities": "0fa77dc6",
+    "capabilities": "b011c6b4",
     "family": "a8d1600e",
     "model_type": "d669f408",
     "parameters": "c9f0f895",

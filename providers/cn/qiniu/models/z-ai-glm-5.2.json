@@ -1,6 +1,6 @@
 {
   "id": "z-ai-glm-5.2",
-  "name": "Z-AI/GLM-5.2",
+  "name": "GLM-5.2",
   "created_by": "zai",
   "source": "official",
   "family": "qiniu",
@@ -23,9 +23,9 @@
   "pricing": {
     "output": 28
   },
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "_generated": {
-    "name": "2fd871ea",
+    "name": "0e01939a",
     "family": "7b458690",
     "context_window": "8155bc54",
     "model_type": "d669f408",

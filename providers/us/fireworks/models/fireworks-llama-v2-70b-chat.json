@@ -3,7 +3,7 @@
   "name": "llama-v2-70b-chat",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "context_window": 2040,
   "capabilities": {
     "streaming": true

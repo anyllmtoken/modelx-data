@@ -3,7 +3,7 @@
   "name": "resnet-50",
   "created_by": "microsoft",
   "source": "official",
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "capabilities": {
     "streaming": true,
     "reasoning": true

@@ -3,7 +3,7 @@
   "name": "Stable Image Remove Background",
   "created_by": "stability",
   "source": "official",
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "model_type": "image",
   "capabilities": {
     "vision": true

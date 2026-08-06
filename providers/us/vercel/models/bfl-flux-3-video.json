@@ -1,0 +1,19 @@
+{
+  "id": "bfl/flux-3-video",
+  "name": "flux-3-video",
+  "created_by": "black-forest-labs",
+  "source": "official",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "last_updated": "2026-08-06",
+  "_generated": {
+    "name": "77f5ff5c",
+    "capabilities": "0fa77dc6",
+    "pricing": "9a7a9781"
+  }
+}

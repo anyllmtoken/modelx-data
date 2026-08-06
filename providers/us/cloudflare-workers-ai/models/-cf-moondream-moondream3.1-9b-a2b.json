@@ -11,6 +11,7 @@
   "capabilities": {
     "streaming": true,
     "tool_call": true,
+    "reasoning": true,
     "vision": true
   },
   "tools": [
@@ -23,8 +24,8 @@
     "parameters": "45c48cce",
     "active_parameters": "c81e728d",
     "page_url": "6cb13f8a",
-    "capabilities": "1a260abc",
+    "capabilities": "45192957",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-05"
+  "last_updated": "2026-08-06"
 }

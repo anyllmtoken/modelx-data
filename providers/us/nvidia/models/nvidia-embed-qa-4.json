@@ -3,7 +3,7 @@
   "name": "embed-qa-4",
   "created_by": "nvidia",
   "source": "official",
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "capabilities": {
     "streaming": true
   },

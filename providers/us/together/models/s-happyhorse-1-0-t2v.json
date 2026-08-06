@@ -10,7 +10,12 @@
   "_generated": {
     "name": "497da806",
     "page_url": "f85c28e0",
-    "capabilities": "0fa77dc6"
+    "capabilities": "0fa77dc6",
+    "pricing": "f518a7fd"
   },
-  "last_updated": "2026-08-05"
+  "last_updated": "2026-08-06",
+  "pricing": {
+    "input": 0.16,
+    "output": 0.17
+  }
 }

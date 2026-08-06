@@ -1,0 +1,36 @@
+{
+  "id": "360zhinao/360zhinao-pro",
+  "name": "360zhinao/360zhinao-pro",
+  "created_by": "ai360",
+  "source": "official",
+  "family": "ai360",
+  "context_window": 32000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 5
+  },
+  "last_updated": "2026-08-06",
+  "_generated": {
+    "name": "37f688f6",
+    "family": "1d747135",
+    "context_window": "10e4d788",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "383111d1"
+  }
+}
