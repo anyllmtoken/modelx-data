@@ -1,0 +1,24 @@
+{
+  "id": "hitem3d/hi3d/image-to-3d",
+  "name": "Hi3D Image to 3D",
+  "created_by": "hitem3d",
+  "source": "official",
+  "description": "Generate 3D models from a single image with Hi3D.",
+  "status": "active",
+  "release_date": "2026-07-31",
+  "model_type": "other",
+  "page_url": "https://fal.run/hitem3d/hi3d/image-to-3d",
+  "capabilities": {
+    "vision": true
+  },
+  "last_updated": "2026-08-07",
+  "_generated": {
+    "name": "8ed59eae",
+    "description": "d47bc9ff",
+    "status": "379ac110",
+    "release_date": "0ee605c3",
+    "model_type": "ddb0b7bc",
+    "page_url": "5b8403fc",
+    "capabilities": "d3117eb0"
+  }
+}

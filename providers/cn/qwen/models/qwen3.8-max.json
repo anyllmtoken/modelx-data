@@ -24,10 +24,14 @@
     "input": 12,
     "output": 36,
     "cached_input": 1.5,
+    "input_token_batch": 6,
+    "output_token_batch": 18,
     "cache_write": 15,
-    "input_token_cache_read": 1
+    "input_token_cache_read": 1,
+    "input_token_batch_chat": 12,
+    "output_token_batch_chat": 36
   },
-  "last_updated": "2026-08-06",
+  "last_updated": "2026-08-07",
   "_generated": {
     "name": "5e12c966",
     "family": "e102ad6a",
@@ -38,6 +42,6 @@
     "page_url": "1eb222c1",
     "capabilities": "0fa77dc6",
     "modalities": "68e53d93",
-    "pricing": "52195523"
+    "pricing": "4a1e9c24"
   }
 }

@@ -1,0 +1,21 @@
+{
+  "id": "s/flux-3",
+  "name": "Flux 3",
+  "created_by": "black-forest-labs",
+  "source": "official",
+  "page_url": "https://www.together.ai/models/flux-3",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.16,
+    "output": 0.17
+  },
+  "last_updated": "2026-08-07",
+  "_generated": {
+    "name": "08a30908",
+    "page_url": "4a646d3f",
+    "capabilities": "0fa77dc6",
+    "pricing": "f518a7fd"
+  }
+}

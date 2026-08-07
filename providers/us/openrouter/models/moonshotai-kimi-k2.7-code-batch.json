@@ -1,0 +1,40 @@
+{
+  "id": "moonshotai/kimi-k2.7-code:batch",
+  "name": "MoonshotAI: Kimi K2.7 Code (batch)",
+  "created_by": "moonshotai",
+  "source": "official",
+  "family": "kimi-k2.7",
+  "description": "MoonshotAI: Kimi K2.7 Code is a coding-focused model in Moonshot AI's Kimi K2 family, built to complete end-to-end programming tasks reliably over long contexts.",
+  "release_date": "2026-06-12",
+  "context_window": 262144,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.475,
+    "output": 2,
+    "cached_input": 0.095
+  },
+  "last_updated": "2026-08-07",
+  "_generated": {
+    "name": "30d79767",
+    "family": "4bc6ec57",
+    "description": "fe8f1eb8",
+    "release_date": "28358d71",
+    "context_window": "4a1d32eb",
+    "capabilities": "f533f522",
+    "modalities": "6399757e",
+    "pricing": "4ca05e72"
+  }
+}

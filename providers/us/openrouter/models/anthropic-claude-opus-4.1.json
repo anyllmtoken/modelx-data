@@ -3,7 +3,7 @@
   "name": "Anthropic: Claude Opus 4.1",
   "created_by": "anthropic",
   "source": "official",
-  "last_updated": "2026-08-06",
+  "last_updated": "2026-08-07",
   "family": "claude-opus",
   "description": "Claude Opus 4.1 is an updated version of Anthropic’s flagship model, offering improved performance in coding, reasoning, and agentic tasks.",
   "context_window": 200000,
@@ -19,7 +19,6 @@
   },
   "capabilities": {
     "tool_call": true,
-    "structured_output": true,
     "reasoning": true
   },
   "pricing": {
@@ -34,7 +33,7 @@
     "context_window": "03e6c616",
     "max_output_tokens": "10e4d788",
     "modalities": "8b8b28d1",
-    "capabilities": "f533f522",
+    "capabilities": "05723a3e",
     "pricing": "11eb6cc9",
     "model_type": "d669f408",
     "release_date": "67086b15",
