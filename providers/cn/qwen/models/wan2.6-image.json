@@ -3,7 +3,7 @@
   "name": "wan2.6-image",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-08",
   "model_type": "image",
   "capabilities": {
     "streaming": true

@@ -11,11 +11,11 @@
     "name": "497da806",
     "page_url": "f85c28e0",
     "capabilities": "0fa77dc6",
-    "pricing": "f518a7fd"
+    "pricing": "7498e128"
   },
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-08",
   "pricing": {
-    "input": 0.16,
+    "input": 0.115,
     "output": 0.17
   }
 }

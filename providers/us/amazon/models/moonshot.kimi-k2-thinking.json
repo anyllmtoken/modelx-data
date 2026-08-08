@@ -3,7 +3,7 @@
   "name": "Kimi K2 Thinking",
   "created_by": "moonshot",
   "source": "official",
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-08",
   "model_type": "chat",
   "capabilities": {
     "streaming": true,

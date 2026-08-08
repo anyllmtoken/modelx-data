@@ -3,7 +3,7 @@
   "name": "Jamba 1.5 Large",
   "created_by": "ai21",
   "source": "official",
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-08",
   "model_type": "chat",
   "capabilities": {
     "streaming": true

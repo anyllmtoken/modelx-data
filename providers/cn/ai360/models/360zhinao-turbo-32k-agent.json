@@ -4,7 +4,7 @@
   "created_by": "360zhinao-turbo-32k-agent",
   "source": "official",
   "family": "ai360",
-  "context_window": 1000000,
+  "context_window": 116000,
   "model_type": "chat",
   "capabilities": {
     "streaming": true,
@@ -20,17 +20,17 @@
     ]
   },
   "pricing": {
-    "input": 1.4,
-    "output": 5.6
+    "input": 0.7,
+    "output": 1.4
   },
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-08",
   "_generated": {
     "name": "be8b2270",
     "family": "1d747135",
-    "context_window": "8155bc54",
+    "context_window": "bc12202b",
     "model_type": "d669f408",
     "capabilities": "1d6c1abb",
     "modalities": "68e53d93",
-    "pricing": "00c137ad"
+    "pricing": "e5c97f3e"
   }
 }

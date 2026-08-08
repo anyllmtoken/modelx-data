@@ -3,7 +3,7 @@
   "name": "Mistral-Large-3 Preview",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-08",
   "family": "mistral-large",
   "capabilities": {
     "streaming": true,
