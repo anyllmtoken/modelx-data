@@ -3,7 +3,7 @@
   "name": "Amazon Nova Multimodal Embeddings",
   "created_by": "amazon",
   "source": "official",
-  "last_updated": "2026-08-08",
+  "last_updated": "2026-08-09",
   "model_type": "embed",
   "capabilities": {
     "vision": true

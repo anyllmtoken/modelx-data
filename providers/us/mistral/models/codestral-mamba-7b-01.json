@@ -3,7 +3,7 @@
   "name": "codestral-mamba-7b-01",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-08-08",
+  "last_updated": "2026-08-09",
   "family": "codestral",
   "status": "active",
   "context_window": 256000,

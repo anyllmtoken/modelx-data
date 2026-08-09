@@ -8,14 +8,14 @@
     "streaming": true
   },
   "pricing": {
-    "input": 0.17,
-    "output": 0.115
+    "input": 0.16,
+    "output": 0.17
   },
-  "last_updated": "2026-08-08",
+  "last_updated": "2026-08-09",
   "_generated": {
     "name": "f5becdbe",
     "page_url": "09889028",
     "capabilities": "0fa77dc6",
-    "pricing": "f6268b67"
+    "pricing": "f518a7fd"
   }
 }

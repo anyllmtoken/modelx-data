@@ -54,6 +54,6 @@
     "endpoints": "d8fa1080",
     "quantization": "0e8a48ee"
   },
-  "last_updated": "2026-08-08",
+  "last_updated": "2026-08-09",
   "quantization": "fp4"
 }

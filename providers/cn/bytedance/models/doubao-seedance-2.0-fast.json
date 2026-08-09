@@ -18,15 +18,15 @@
     ]
   },
   "pricing": {
-    "input": 37
+    "input": 480
   },
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-09",
   "_generated": {
     "name": "d16196e4",
     "family": "fca2122f",
     "model_type": "4d1b75ca",
     "capabilities": "0fa77dc6",
     "modalities": "85fd0565",
-    "pricing": "06493f7e"
+    "pricing": "360ca7fe"
   }
 }
