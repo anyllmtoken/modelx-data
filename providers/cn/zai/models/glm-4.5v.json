@@ -3,7 +3,7 @@
   "name": "GLM-4.5V",
   "created_by": "zai",
   "source": "official",
-  "last_updated": "2026-08-09",
+  "last_updated": "2026-08-10",
   "max_output_tokens": 16000,
   "capabilities": {
     "streaming": true,

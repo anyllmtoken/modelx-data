@@ -3,7 +3,7 @@
   "name": "Nova Sonic",
   "created_by": "amazon",
   "source": "official",
-  "last_updated": "2026-08-09",
+  "last_updated": "2026-08-10",
   "model_type": "audio",
   "capabilities": {
     "streaming": true

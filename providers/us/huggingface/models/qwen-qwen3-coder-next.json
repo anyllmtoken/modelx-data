@@ -3,7 +3,7 @@
   "name": "Qwen3-Coder-Next",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-08-09",
+  "last_updated": "2026-08-10",
   "capabilities": {
     "streaming": true,
     "tool_call": true

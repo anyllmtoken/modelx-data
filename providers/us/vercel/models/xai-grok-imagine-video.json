@@ -3,7 +3,7 @@
   "name": "grok-imagine-video",
   "created_by": "xai",
   "source": "official",
-  "last_updated": "2026-08-09",
+  "last_updated": "2026-08-10",
   "family": "grok-imagine",
   "capabilities": {
     "streaming": true

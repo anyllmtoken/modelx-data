@@ -3,7 +3,7 @@
   "name": "gemini-embedding-2",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-08-09",
+  "last_updated": "2026-08-10",
   "family": "gemini-embedding",
   "model_type": "embed",
   "capabilities": {
