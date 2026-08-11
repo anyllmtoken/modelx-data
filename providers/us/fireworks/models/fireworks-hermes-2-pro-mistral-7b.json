@@ -3,7 +3,7 @@
   "name": "hermes-2-pro-mistral-7b",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-08-10",
+  "last_updated": "2026-08-11",
   "context_window": 32700,
   "capabilities": {
     "streaming": true

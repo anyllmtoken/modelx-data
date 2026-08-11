@@ -3,7 +3,7 @@
   "name": "orpheus-3b-websockets",
   "created_by": "unknown",
   "source": "official",
-  "last_updated": "2026-08-10",
+  "last_updated": "2026-08-11",
   "capabilities": {
     "streaming": true
   },

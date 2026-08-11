@@ -3,7 +3,7 @@
   "name": "Jamba 1.5 Mini",
   "created_by": "ai21",
   "source": "official",
-  "last_updated": "2026-08-10",
+  "last_updated": "2026-08-11",
   "model_type": "chat",
   "capabilities": {
     "streaming": true

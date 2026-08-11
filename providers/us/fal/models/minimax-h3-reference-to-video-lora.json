@@ -1,0 +1,20 @@
+{
+  "id": "minimax/h3/reference-to-video/lora",
+  "name": "MiniMax H3 Reference to Video LoRA",
+  "created_by": "minimax",
+  "source": "official",
+  "description": "References into video with synchronized audio using MiniMax H3",
+  "status": "active",
+  "release_date": "2026-08-10",
+  "model_type": "other",
+  "page_url": "https://fal.run/minimax/h3/reference-to-video/lora",
+  "last_updated": "2026-08-11",
+  "_generated": {
+    "name": "c93e5bd7",
+    "description": "3d681f7a",
+    "status": "379ac110",
+    "release_date": "a2454697",
+    "model_type": "ddb0b7bc",
+    "page_url": "9e8df605"
+  }
+}

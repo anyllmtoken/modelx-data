@@ -3,7 +3,7 @@
   "name": "lfm2",
   "created_by": "liquid",
   "source": "official",
-  "last_updated": "2026-08-10",
+  "last_updated": "2026-08-11",
   "capabilities": {
     "streaming": true,
     "tool_call": true

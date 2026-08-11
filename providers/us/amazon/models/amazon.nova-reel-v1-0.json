@@ -3,7 +3,7 @@
   "name": "Nova Reel",
   "created_by": "amazon",
   "source": "official",
-  "last_updated": "2026-08-10",
+  "last_updated": "2026-08-11",
   "model_type": "video",
   "capabilities": {
     "vision": true
