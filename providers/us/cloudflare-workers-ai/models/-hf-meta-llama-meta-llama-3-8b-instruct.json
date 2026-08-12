@@ -3,7 +3,7 @@
   "name": "meta-llama-3-8b-instruct",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-12",
   "capabilities": {
     "streaming": true,
     "reasoning": true

@@ -18,7 +18,8 @@
   "modalities": {
     "input": [
       "text",
-      "image"
+      "image",
+      "video"
     ],
     "output": [
       "text"
@@ -42,9 +43,9 @@
     "model_type": "d669f408",
     "tagline": "3946ade1",
     "capabilities": "f533f522",
-    "modalities": "6399757e",
+    "modalities": "3ad4060a",
     "pricing": "7dfa1f04",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-11"
+  "last_updated": "2026-08-12"
 }

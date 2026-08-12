@@ -3,7 +3,7 @@
   "name": "DALL·E 3 (3)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-12",
   "description": "DALL·E 3 has been deprecated and removed from the API. We recommend {{latestImageModel}} for current image generation and editing.",
   "status": "deprecated",
   "model_type": "image",

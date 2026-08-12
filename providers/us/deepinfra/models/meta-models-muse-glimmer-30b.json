@@ -1,0 +1,55 @@
+{
+  "id": "meta-models/Muse-Glimmer-30B",
+  "name": "Muse-Glimmer-30B",
+  "created_by": "meta-models",
+  "source": "official",
+  "description": "Muse Glimmer is a 30B multimodal agentic model distilled from Muse Spark — reasoning, tool use, and failure recovery in a single model that runs locally on consumer hardware.",
+  "status": "active",
+  "context_window": 131072,
+  "model_type": "chat",
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "json_mode": true,
+    "reasoning": true,
+    "vision": true,
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.3,
+    "output": 1.2,
+    "cached_input": 0.04
+  },
+  "endpoints": [
+    "chat_completions"
+  ],
+  "tools": [
+    "function_calling"
+  ],
+  "reasoning_tokens": true,
+  "open_weight": true,
+  "last_updated": "2026-08-12",
+  "_generated": {
+    "name": "b9432915",
+    "description": "2ed50672",
+    "status": "379ac110",
+    "context_window": "f7de594e",
+    "model_type": "d669f408",
+    "capabilities": "d0cb1dc1",
+    "modalities": "6399757e",
+    "pricing": "3d9aa7f0",
+    "endpoints": "d8fa1080",
+    "tools": "f0c1dc7e",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "b326b506"
+  }
+}

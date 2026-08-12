@@ -1,0 +1,16 @@
+{
+  "id": "nemotron-3.5-lightning-free",
+  "name": "Nemotron 3.5 Lightning Free",
+  "created_by": "nvidia",
+  "source": "official",
+  "status": "active",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-08-12",
+  "_generated": {
+    "name": "e02be784",
+    "status": "379ac110",
+    "capabilities": "0fa77dc6"
+  }
+}
