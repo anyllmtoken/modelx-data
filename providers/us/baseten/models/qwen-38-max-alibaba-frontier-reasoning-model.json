@@ -1,0 +1,27 @@
+{
+  "id": "qwen-38-max-alibaba-frontier-reasoning-model",
+  "name": "qwen-38-max-alibaba-frontier-reasoning-model",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-08-13",
+  "_generated": {
+    "name": "5456df6a",
+    "family": "a3af76f3",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

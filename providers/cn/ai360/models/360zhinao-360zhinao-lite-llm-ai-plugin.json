@@ -1,0 +1,36 @@
+{
+  "id": "360zhinao/360zhinao-lite-llm-ai-plugin",
+  "name": "360zhinao/360zhinao-lite-llm-ai-plugin",
+  "created_by": "ai360",
+  "source": "official",
+  "family": "ai360",
+  "context_window": 64000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.3,
+    "output": 0.6
+  },
+  "last_updated": "2026-08-13",
+  "_generated": {
+    "name": "94dbb26b",
+    "family": "1d747135",
+    "context_window": "762e98db",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "a511aaae"
+  }
+}

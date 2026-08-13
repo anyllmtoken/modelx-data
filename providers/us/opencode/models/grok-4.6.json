@@ -1,0 +1,18 @@
+{
+  "id": "grok-4.6",
+  "name": "Grok 4.6",
+  "created_by": "unknown",
+  "source": "official",
+  "family": "grok-4.6",
+  "status": "active",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-08-13",
+  "_generated": {
+    "name": "caa52b7d",
+    "family": "6351f129",
+    "status": "379ac110",
+    "capabilities": "0fa77dc6"
+  }
+}

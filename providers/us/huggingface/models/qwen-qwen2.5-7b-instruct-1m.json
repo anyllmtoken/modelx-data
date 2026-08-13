@@ -3,7 +3,7 @@
   "name": "Qwen2.5-7B-Instruct-1M",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-08-12",
+  "last_updated": "2026-08-13",
   "capabilities": {
     "streaming": true,
     "tool_call": true
