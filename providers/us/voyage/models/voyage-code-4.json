@@ -1,0 +1,33 @@
+{
+  "id": "voyage-code-4",
+  "name": "Voyage Code 4",
+  "created_by": "voyage",
+  "source": "official",
+  "status": "active",
+  "model_type": "embed",
+  "capabilities": {},
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.12
+  },
+  "endpoints": [
+    "embeddings"
+  ],
+  "last_updated": "2026-08-14",
+  "_generated": {
+    "name": "738ab41b",
+    "status": "379ac110",
+    "model_type": "764cb3de",
+    "capabilities": "99914b93",
+    "modalities": "68e53d93",
+    "pricing": "42d17ec8",
+    "endpoints": "5845adda"
+  }
+}

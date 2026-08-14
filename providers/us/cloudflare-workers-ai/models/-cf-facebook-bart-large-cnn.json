@@ -3,7 +3,7 @@
   "name": "bart-large-cnn",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-08-13",
+  "last_updated": "2026-08-14",
   "capabilities": {
     "streaming": true
   },

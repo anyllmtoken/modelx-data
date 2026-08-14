@@ -3,7 +3,7 @@
   "name": "flux-1-schnell",
   "created_by": "black-forest-labs",
   "source": "official",
-  "last_updated": "2026-08-13",
+  "last_updated": "2026-08-14",
   "capabilities": {
     "streaming": true
   },

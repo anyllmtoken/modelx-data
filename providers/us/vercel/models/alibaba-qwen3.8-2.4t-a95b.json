@@ -1,0 +1,27 @@
+{
+  "id": "alibaba/qwen3.8-2.4t-a95b",
+  "name": "qwen3.8-2.4t-a95b",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3.8",
+  "context_window": 262100,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 1.65,
+    "output": 4.95
+  },
+  "last_updated": "2026-08-14",
+  "_generated": {
+    "name": "d3cd7b0f",
+    "family": "e102ad6a",
+    "context_window": "b23f4471",
+    "model_type": "d669f408",
+    "capabilities": "a281e83a",
+    "pricing": "e0eebcbc"
+  }
+}

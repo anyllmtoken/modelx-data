@@ -32,11 +32,11 @@
     ]
   },
   "pricing": {
-    "input": 1.5,
-    "output": 7.5,
-    "cached_input": 0.15,
-    "batch_input": 0.75,
-    "batch_output": 3.75,
+    "input": 0.75,
+    "output": 3.75,
+    "cached_input": 0.075,
+    "batch_input": 0.375,
+    "batch_output": 1.875,
     "tiers": [
       {
         "label": "Text tokens",
@@ -50,17 +50,17 @@
           {
             "label": "Standard",
             "values": [
-              1.5,
-              0.15,
-              7.5
+              0.75,
+              0.075,
+              3.75
             ]
           },
           {
             "label": "Batch",
             "values": [
-              0.75,
+              0.375,
               null,
-              3.75
+              1.875
             ]
           }
         ]
@@ -74,7 +74,7 @@
   "tools": [
     "function_calling"
   ],
-  "last_updated": "2026-08-13",
+  "last_updated": "2026-08-14",
   "_generated": {
     "name": "53a6c3eb",
     "family": "7715664f",
@@ -86,7 +86,7 @@
     "page_url": "e779e3ed",
     "capabilities": "29b57eef",
     "modalities": "0b49b61e",
-    "pricing": "c1ab0be2",
+    "pricing": "135ec167",
     "endpoints": "20e16908",
     "tools": "f0c1dc7e"
   }

@@ -1,0 +1,39 @@
+{
+  "id": "Audio8/Audio8-TTS-Preview-0.6b",
+  "name": "Audio8-TTS-Preview-0.6b",
+  "created_by": "audio8",
+  "source": "official",
+  "description": "A 0.6B-parameter multilingual text-to-speech model with zero-shot voice cloning, supporting 11 languages.",
+  "status": "active",
+  "model_type": "tts",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
+  },
+  "endpoints": [
+    "audio_speech"
+  ],
+  "pricing_notes": [
+    "$5.0000 per 1M input characters"
+  ],
+  "open_weight": true,
+  "last_updated": "2026-08-14",
+  "_generated": {
+    "name": "275474ec",
+    "description": "b10a021f",
+    "status": "379ac110",
+    "model_type": "4e16a2cf",
+    "capabilities": "0fa77dc6",
+    "modalities": "601e776d",
+    "endpoints": "0d745ead",
+    "pricing_notes": "ac34184c",
+    "open_weight": "b326b506"
+  }
+}
