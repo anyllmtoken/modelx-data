@@ -4,7 +4,7 @@
   "created_by": "deepseek",
   "source": "official",
   "family": "deepseek-chat",
-  "status": "active",
+  "status": "deprecated",
   "release_date": "2026-07-31",
   "context_window": 1000000,
   "max_output_tokens": 384000,
@@ -13,8 +13,6 @@
   "alias": "deepseek-v4-pro",
   "capabilities": {
     "streaming": true,
-    "json_mode": true,
-    "tool_call": true,
     "reasoning": true
   },
   "modalities": {
@@ -35,20 +33,24 @@
     "completions"
   ],
   "reasoning_tokens": true,
-  "last_updated": "2026-08-13",
+  "last_updated": "2026-08-15",
   "_generated": {
     "name": "acc10913",
     "family": "fbd79fd9",
-    "status": "379ac110",
+    "status": "2e2f74dc",
     "release_date": "0ee605c3",
     "context_window": "8155bc54",
     "max_output_tokens": "c58e26bd",
     "model_type": "d669f408",
     "license": "3c4c3ba5",
-    "capabilities": "ef996ff1",
+    "capabilities": "b011c6b4",
     "modalities": "68e53d93",
     "pricing": "6cd82e55",
     "endpoints": "772bacef",
-    "reasoning_tokens": "b326b506"
-  }
+    "reasoning_tokens": "b326b506",
+    "deprecation_date": "2a7fa61f",
+    "successor": "0fb00d37"
+  },
+  "deprecation_date": "2026-08-13",
+  "successor": "deepseek-v4-pro-2026-08-13"
 }

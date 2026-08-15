@@ -11,6 +11,7 @@
     "tool_call": true,
     "structured_output": true,
     "json_mode": true,
+    "reasoning": true,
     "streaming": true
   },
   "modalities": {
@@ -33,18 +34,20 @@
     "function_calling"
   ],
   "open_weight": true,
-  "last_updated": "2026-08-14",
+  "last_updated": "2026-08-15",
   "_generated": {
     "name": "25b9efb1",
     "description": "e05c77f0",
     "status": "379ac110",
     "context_window": "4a1d32eb",
     "model_type": "d669f408",
-    "capabilities": "ef09f446",
+    "capabilities": "a17ad43b",
     "modalities": "68e53d93",
     "pricing": "9c908ad1",
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e",
-    "open_weight": "b326b506"
-  }
+    "open_weight": "b326b506",
+    "reasoning_tokens": "b326b506"
+  },
+  "reasoning_tokens": true
 }

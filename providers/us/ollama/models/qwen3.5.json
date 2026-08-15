@@ -3,18 +3,15 @@
   "name": "qwen3.5",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-08-14",
+  "last_updated": "2026-08-15",
   "family": "qwen3.5",
   "capabilities": {
-    "streaming": true,
-    "vision": true,
-    "tool_call": true,
-    "reasoning": true
+    "streaming": true
   },
   "_generated": {
     "name": "d548f421",
     "family": "d548f421",
-    "capabilities": "a19166f1",
+    "capabilities": "0fa77dc6",
     "model_type": "d669f408",
     "description": "a6035ec0",
     "release_date": "6c624983",
@@ -26,7 +23,7 @@
     "open_weight": "b326b506",
     "tools": "f0c1dc7e",
     "reasoning_tokens": "b326b506",
-    "modalities": "6399757e"
+    "modalities": "68e53d93"
   },
   "model_type": "chat",
   "description": "Qwen 3.5 is a family of open-source multimodal models that delivers exceptional utility and performance.",
@@ -43,8 +40,7 @@
   "reasoning_tokens": true,
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"

@@ -22,9 +22,9 @@
   "pricing": {
     "input": 1,
     "output": 2,
-    "cached_input": 3
+    "cached_input": 0.2
   },
-  "last_updated": "2026-08-14",
+  "last_updated": "2026-08-15",
   "_generated": {
     "name": "ecc4cb51",
     "family": "92678943",
@@ -32,6 +32,6 @@
     "model_type": "d669f408",
     "capabilities": "1d6c1abb",
     "modalities": "68e53d93",
-    "pricing": "00350e66"
+    "pricing": "20a9a8a7"
   }
 }

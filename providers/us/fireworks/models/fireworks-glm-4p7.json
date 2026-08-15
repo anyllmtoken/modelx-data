@@ -3,7 +3,7 @@
   "name": "glm-4p7",
   "created_by": "zhipu",
   "source": "official",
-  "last_updated": "2026-08-14",
+  "last_updated": "2026-08-15",
   "context_window": 202000,
   "capabilities": {
     "streaming": true

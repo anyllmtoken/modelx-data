@@ -1,6 +1,6 @@
 {
   "id": "xopdeepseekv32",
-  "name": "DeepSeek-V3.2",
+  "name": "Deepseek-V3.2",
   "created_by": "deepseek",
   "source": "official",
   "family": "spark",
@@ -23,9 +23,9 @@
     "input": 1,
     "output": 1.5
   },
-  "last_updated": "2026-08-14",
+  "last_updated": "2026-08-15",
   "_generated": {
-    "name": "6e661ac6",
+    "name": "612dd0a7",
     "family": "92678943",
     "context_window": "34434798",
     "model_type": "d669f408",

@@ -1,0 +1,43 @@
+{
+  "id": "qwen3.8",
+  "name": "qwen3.8",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3.8",
+  "description": "Qwen3.8 delivers substantial gains across coding, professional work, research, and long-horizon agentic tasks.",
+  "context_window": 262144,
+  "license": "open-weight",
+  "parameters": 27,
+  "page_url": "https://ollama.com/library/qwen3.8",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "reasoning_tokens": true,
+  "open_weight": true,
+  "last_updated": "2026-08-15",
+  "_generated": {
+    "name": "e102ad6a",
+    "family": "e102ad6a",
+    "description": "6c96bf33",
+    "context_window": "4a1d32eb",
+    "license": "6327aaea",
+    "parameters": "02e74f10",
+    "page_url": "9606f198",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "b326b506"
+  }
+}
