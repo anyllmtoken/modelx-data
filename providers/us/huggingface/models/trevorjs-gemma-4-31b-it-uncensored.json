@@ -1,0 +1,29 @@
+{
+  "id": "TrevorJS/gemma-4-31B-it-uncensored",
+  "name": "gemma-4-31B-it-uncensored",
+  "created_by": "trevorjs",
+  "source": "official",
+  "family": "gemma-4",
+  "description": "Uncensored version of [google/gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it) with refusal behavior removed.",
+  "release_date": "2026-04-04",
+  "license": "apache-2.0",
+  "parameters": 33,
+  "page_url": "https://huggingface.co/TrevorJS/gemma-4-31B-it-uncensored",
+  "architecture": "transformer",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "last_updated": "2026-08-16",
+  "_generated": {
+    "name": "82e2f8bd",
+    "family": "811b6704",
+    "description": "c63eb93b",
+    "release_date": "d2240e84",
+    "license": "60245731",
+    "parameters": "182be0c5",
+    "page_url": "0fdfade9",
+    "architecture": "8832ea0f",
+    "capabilities": "48995a4e"
+  }
+}
