@@ -3,8 +3,8 @@
   "name": "imagen-4.0-ultra-generate-001",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-08-16",
-  "status": "active",
+  "last_updated": "2026-08-17",
+  "status": "deprecated",
   "model_type": "image",
   "modalities": {
     "input": [
@@ -16,7 +16,7 @@
   },
   "_generated": {
     "name": "1f64ce27",
-    "status": "379ac110",
+    "status": "2e2f74dc",
     "model_type": "db8857fe",
     "modalities": "814867b9",
     "family": "becf3f6b",

@@ -1,0 +1,33 @@
+{
+  "id": "z-ai/glm-5.2:free",
+  "name": "Z.ai: GLM 5.2 (free)",
+  "created_by": "z-ai",
+  "source": "official",
+  "family": "glm-5.2",
+  "description": "GLM 5.2 is a large-scale reasoning model from Z.ai.",
+  "release_date": "2026-06-16",
+  "context_window": 128000,
+  "max_output_tokens": 128000,
+  "capabilities": {
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-08-17",
+  "_generated": {
+    "name": "559db932",
+    "family": "8e7b3ca0",
+    "description": "241852ce",
+    "release_date": "3eed1aa6",
+    "context_window": "34434798",
+    "max_output_tokens": "34434798",
+    "capabilities": "7107421f",
+    "modalities": "68e53d93"
+  }
+}
