@@ -1,0 +1,20 @@
+{
+  "id": "topaz/denoise/video",
+  "name": "Topaz Denoise Video",
+  "created_by": "topaz",
+  "source": "official",
+  "description": "Professional video denoising powered by Topaz Labs.",
+  "status": "active",
+  "release_date": "2026-08-11",
+  "model_type": "other",
+  "page_url": "https://fal.run/topaz/denoise/video",
+  "last_updated": "2026-08-18",
+  "_generated": {
+    "name": "f8ac524c",
+    "description": "4a08c84f",
+    "status": "379ac110",
+    "release_date": "c2572fd1",
+    "model_type": "ddb0b7bc",
+    "page_url": "eb69308f"
+  }
+}

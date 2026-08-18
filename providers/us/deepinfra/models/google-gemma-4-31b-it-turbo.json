@@ -15,11 +15,13 @@
   "capabilities": {
     "tool_call": true,
     "reasoning": true,
+    "vision": true,
     "streaming": true
   },
   "modalities": {
     "input": [
-      "text"
+      "text",
+      "image"
     ],
     "output": [
       "text"
@@ -48,12 +50,12 @@
     "license": "3fe02b16",
     "open_weight": "b326b506",
     "tagline": "29002cc9",
-    "capabilities": "3d69c795",
-    "modalities": "68e53d93",
+    "capabilities": "b9970c29",
+    "modalities": "6399757e",
     "pricing": "b59c0751",
     "tools": "f0c1dc7e",
     "endpoints": "d8fa1080",
     "quantization": "0e8a48ee"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-18"
 }

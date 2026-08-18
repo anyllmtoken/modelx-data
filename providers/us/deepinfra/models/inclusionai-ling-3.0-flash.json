@@ -9,6 +9,7 @@
   "model_type": "chat",
   "capabilities": {
     "tool_call": true,
+    "structured_output": true,
     "json_mode": true,
     "reasoning": true,
     "streaming": true
@@ -34,14 +35,14 @@
   ],
   "reasoning_tokens": true,
   "open_weight": true,
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-18",
   "_generated": {
     "name": "bd6bbc85",
     "description": "efc078b8",
     "status": "379ac110",
     "context_window": "f7de594e",
     "model_type": "d669f408",
-    "capabilities": "294930d1",
+    "capabilities": "a17ad43b",
     "modalities": "68e53d93",
     "pricing": "70d151c2",
     "endpoints": "d8fa1080",
