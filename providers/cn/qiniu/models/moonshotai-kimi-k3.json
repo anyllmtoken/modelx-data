@@ -1,6 +1,6 @@
 {
   "id": "moonshotai-kimi-k3",
-  "name": "Moonshotai/Kimi-K3",
+  "name": "Kimi-K3",
   "created_by": "moonshot-kimi",
   "source": "official",
   "family": "moonshot",
@@ -24,9 +24,9 @@
   "pricing": {
     "output": 100
   },
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "_generated": {
-    "name": "69c7d739",
+    "name": "851ed684",
     "family": "9126e350",
     "context_window": "7d28a051",
     "model_type": "d669f408",

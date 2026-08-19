@@ -1,6 +1,6 @@
 {
   "id": "doubao-seed-2.0-pro",
-  "name": "Doubao Seed 2.0 Pro",
+  "name": "Doubao-Seed-2.0-Pro",
   "created_by": "bytedance",
   "source": "official",
   "family": "qiniu",
@@ -25,9 +25,9 @@
   "pricing": {
     "output": 16
   },
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "_generated": {
-    "name": "622afb73",
+    "name": "b2b9e238",
     "family": "7b458690",
     "context_window": "2fd324cb",
     "model_type": "d669f408",

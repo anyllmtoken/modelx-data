@@ -1,6 +1,6 @@
 {
   "id": "z-ai-glm-5",
-  "name": "Z-AI/GLM 5",
+  "name": "GLM-5",
   "created_by": "zai",
   "source": "official",
   "family": "qiniu",
@@ -24,9 +24,9 @@
     "input": 4,
     "output": 18
   },
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "_generated": {
-    "name": "54aef57f",
+    "name": "bfb92394",
     "family": "7b458690",
     "context_window": "03e6c616",
     "model_type": "d669f408",

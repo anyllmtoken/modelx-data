@@ -1,6 +1,6 @@
 {
   "id": "qwen-qwen3.6-27b",
-  "name": "Qwen/Qwen3.6-27B",
+  "name": "Qwen3.6-27B",
   "created_by": "aliyun",
   "source": "official",
   "family": "qwen",
@@ -26,9 +26,9 @@
     "input": 2.3,
     "output": 23.04
   },
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "_generated": {
-    "name": "f791e71e",
+    "name": "be2cc8a3",
     "family": "a3af76f3",
     "context_window": "b23f4471",
     "model_type": "d669f408",

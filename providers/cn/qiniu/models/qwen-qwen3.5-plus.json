@@ -1,6 +1,6 @@
 {
   "id": "qwen-qwen3.5-plus",
-  "name": "Qwen/Qwen3.5-Plus",
+  "name": "Qwen3.5-Plus",
   "created_by": "aliyun",
   "source": "official",
   "family": "qwen",
@@ -25,9 +25,9 @@
   "pricing": {
     "output": 4.8
   },
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "_generated": {
-    "name": "aa73282e",
+    "name": "17e0aada",
     "family": "a3af76f3",
     "context_window": "8155bc54",
     "model_type": "d669f408",

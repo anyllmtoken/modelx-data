@@ -1,6 +1,6 @@
 {
   "id": "doubao-seed-2.0-code",
-  "name": "Doubao Seed 2.0 Code",
+  "name": "Doubao-Seed-2.0-Code",
   "created_by": "bytedance",
   "source": "official",
   "family": "qiniu",
@@ -25,9 +25,9 @@
   "pricing": {
     "output": 16
   },
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "_generated": {
-    "name": "565e0568",
+    "name": "9b3a7df1",
     "family": "7b458690",
     "context_window": "2fd324cb",
     "model_type": "d669f408",

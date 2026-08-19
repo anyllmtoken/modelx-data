@@ -1,6 +1,6 @@
 {
   "id": "qwen3.5-397b-a17b",
-  "name": "Qwen3.5 397B A17B",
+  "name": "Qwen3.5-397B-A17B",
   "created_by": "aliyun",
   "source": "official",
   "family": "qwen3.5",
@@ -22,9 +22,9 @@
     "input": 1.2,
     "output": 7.2
   },
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "_generated": {
-    "name": "e9c3360e",
+    "name": "9116762c",
     "family": "d548f421",
     "context_window": "2fd324cb",
     "model_type": "d669f408",

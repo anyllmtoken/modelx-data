@@ -1,6 +1,6 @@
 {
   "id": "qwen-qwen3.8-max",
-  "name": "Qwen/Qwen3.8-Max",
+  "name": "Qwen3.8-Max",
   "created_by": "aliyun",
   "source": "official",
   "family": "qwen",
@@ -22,9 +22,9 @@
   "pricing": {
     "output": 36
   },
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "_generated": {
-    "name": "464692b2",
+    "name": "69e946cb",
     "family": "a3af76f3",
     "context_window": "8155bc54",
     "model_type": "d669f408",

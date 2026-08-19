@@ -1,6 +1,6 @@
 {
   "id": "tencent-hy3-preview",
-  "name": "Tencent/Hy3 Preview",
+  "name": "Hy3-Preview",
   "created_by": "tencent",
   "source": "official",
   "family": "qiniu",
@@ -23,9 +23,9 @@
   "pricing": {
     "output": 4
   },
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "_generated": {
-    "name": "7e10b5e1",
+    "name": "2753a816",
     "family": "7b458690",
     "context_window": "4a1d32eb",
     "model_type": "d669f408",

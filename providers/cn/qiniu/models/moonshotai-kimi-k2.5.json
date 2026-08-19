@@ -1,6 +1,6 @@
 {
   "id": "moonshotai-kimi-k2.5",
-  "name": "Moonshotai/Kimi-K2.5",
+  "name": "Kimi-K2.5",
   "created_by": "moonshot-kimi",
   "source": "official",
   "family": "moonshot",
@@ -26,9 +26,9 @@
     "input": 4,
     "output": 21
   },
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "_generated": {
-    "name": "21dde274",
+    "name": "7b136188",
     "family": "9126e350",
     "context_window": "2fd324cb",
     "model_type": "d669f408",
