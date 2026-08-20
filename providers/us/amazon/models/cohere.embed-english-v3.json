@@ -3,7 +3,7 @@
   "name": "Embed English",
   "created_by": "cohere",
   "source": "official",
-  "last_updated": "2026-08-19",
+  "last_updated": "2026-08-20",
   "model_type": "embed",
   "modalities": {
     "input": [

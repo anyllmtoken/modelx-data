@@ -13,9 +13,7 @@
   "model_type": "chat",
   "tagline": "DeepSeek-V4-Pro is a frontier Mixture-of-Experts model with a 1M-token context window and three reasoning modes.",
   "capabilities": {
-    "streaming": true,
-    "tool_call": true,
-    "reasoning": true
+    "streaming": true
   },
   "modalities": {
     "input": [
@@ -39,9 +37,9 @@
     "open_weight": "b326b506",
     "model_type": "d669f408",
     "tagline": "50a28dff",
-    "capabilities": "a281e83a",
+    "capabilities": "0fa77dc6",
     "modalities": "68e53d93",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20"
 }

@@ -3,7 +3,7 @@
   "name": "Marengo Embed 3.0",
   "created_by": "twelvelabs",
   "source": "official",
-  "last_updated": "2026-08-19",
+  "last_updated": "2026-08-20",
   "model_type": "embed",
   "capabilities": {
     "vision": true

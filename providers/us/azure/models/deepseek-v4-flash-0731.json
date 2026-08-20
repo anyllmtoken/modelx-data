@@ -1,0 +1,28 @@
+{
+  "id": "deepseek-v4-flash-0731",
+  "name": "DeepSeek-V4-Flash-0731 Preview",
+  "created_by": "deepseek",
+  "source": "official",
+  "family": "deepseek",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "reasoning": true,
+    "json_mode": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-08-20",
+  "_generated": {
+    "name": "9c0920ae",
+    "family": "4b81b92d",
+    "capabilities": "3181ba37",
+    "modalities": "68e53d93"
+  }
+}
