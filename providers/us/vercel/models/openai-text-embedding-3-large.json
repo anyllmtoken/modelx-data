@@ -3,7 +3,7 @@
   "name": "text-embedding-3-large",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "model_type": "embed",
   "capabilities": {
     "streaming": true

@@ -1,0 +1,16 @@
+{
+  "id": "x-preview-f-free",
+  "name": "Ox Alpha Free",
+  "created_by": "unknown",
+  "source": "official",
+  "status": "active",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-08-21",
+  "_generated": {
+    "name": "9014c7b0",
+    "status": "379ac110",
+    "capabilities": "0fa77dc6"
+  }
+}

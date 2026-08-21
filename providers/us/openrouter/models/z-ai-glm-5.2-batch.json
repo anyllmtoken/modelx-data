@@ -6,7 +6,7 @@
   "family": "glm-5.2",
   "description": "GLM 5.2 is a large-scale reasoning model from Z.ai.",
   "release_date": "2026-06-16",
-  "context_window": 512000,
+  "context_window": 1048575,
   "capabilities": {
     "tool_call": true,
     "structured_output": true,
@@ -25,13 +25,13 @@
     "output": 4.4,
     "cached_input": 0.26
   },
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "_generated": {
     "name": "f55329d3",
     "family": "8e7b3ca0",
     "description": "241852ce",
     "release_date": "3eed1aa6",
-    "context_window": "d09e1c12",
+    "context_window": "6055dad2",
     "capabilities": "f533f522",
     "modalities": "68e53d93",
     "pricing": "fbb9d87e"

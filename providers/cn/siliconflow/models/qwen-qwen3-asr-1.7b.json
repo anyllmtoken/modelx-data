@@ -1,0 +1,27 @@
+{
+  "id": "qwen-qwen3-asr-1.7b",
+  "name": "Qwen/Qwen3-ASR-1.7B",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-08-21",
+  "_generated": {
+    "name": "520993f3",
+    "family": "a3af76f3",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "stealth/ox-alpha",
+  "name": "Ox Alpha",
+  "created_by": "stealth",
+  "source": "official",
+  "description": "Ox Alpha is a reasoning model designed for coding, sustained agentic work, and production workloads.",
+  "status": "deprecated",
+  "release_date": "2026-08-20",
+  "deprecation_date": "2098-12-31",
+  "context_window": 1048576,
+  "max_output_tokens": 131072,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "video"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-08-21",
+  "_generated": {
+    "name": "a51e67a9",
+    "description": "2cbf4c1f",
+    "status": "2e2f74dc",
+    "release_date": "656f820c",
+    "deprecation_date": "a93a4314",
+    "context_window": "7d28a051",
+    "max_output_tokens": "f7de594e",
+    "capabilities": "f533f522",
+    "modalities": "3ad4060a"
+  }
+}

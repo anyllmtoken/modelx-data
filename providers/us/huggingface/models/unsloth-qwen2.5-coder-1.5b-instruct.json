@@ -1,0 +1,29 @@
+{
+  "id": "unsloth/Qwen2.5-Coder-1.5B-Instruct",
+  "name": "Qwen2.5-Coder-1.5B-Instruct",
+  "created_by": "unsloth",
+  "source": "official",
+  "description": "We have a Qwen 2.5 (all model sizes) [free Google Colab Tesla T4 notebook](https://colab.research.google.com/drive/1Kose-ucXO1IBaZq5BvbwWieuubP7hxvQ?usp=sharing). Also a [Qwen 2.5 conversational style notebook](https://colab.research.google.com/drive/1qN1CEalC70EO1wGKhNxs1go1W9So61R5?usp=sharing).",
+  "release_date": "2024-09-23",
+  "context_window": 32768,
+  "license": "apache-2.0",
+  "parameters": 1.5,
+  "page_url": "https://huggingface.co/unsloth/Qwen2.5-Coder-1.5B-Instruct",
+  "architecture": "transformer",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "last_updated": "2026-08-21",
+  "_generated": {
+    "name": "221d826f",
+    "description": "83ac0a20",
+    "release_date": "94bacc2b",
+    "context_window": "f4376436",
+    "license": "60245731",
+    "parameters": "60086472",
+    "page_url": "39fdb6cb",
+    "architecture": "8832ea0f",
+    "capabilities": "48995a4e"
+  }
+}

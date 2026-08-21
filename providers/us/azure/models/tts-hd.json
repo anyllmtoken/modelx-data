@@ -3,7 +3,7 @@
   "name": "tts-hd Preview",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "capabilities": {
     "streaming": true
   },

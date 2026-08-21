@@ -1,0 +1,27 @@
+{
+  "id": "uzlm/alloma-3B-Instruct",
+  "name": "alloma-3B-Instruct",
+  "created_by": "uzlm",
+  "source": "official",
+  "release_date": "2025-09-03",
+  "context_window": 131072,
+  "license": "llama3.2",
+  "parameters": 3.2,
+  "page_url": "https://huggingface.co/uzlm/alloma-3B-Instruct",
+  "architecture": "transformer",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "last_updated": "2026-08-21",
+  "_generated": {
+    "name": "9180d354",
+    "release_date": "80e5c530",
+    "context_window": "f7de594e",
+    "license": "8c002029",
+    "parameters": "acff46b1",
+    "page_url": "8647ea63",
+    "architecture": "8832ea0f",
+    "capabilities": "48995a4e"
+  }
+}

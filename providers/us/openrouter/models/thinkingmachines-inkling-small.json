@@ -5,7 +5,7 @@
   "source": "official",
   "description": "Inkling Small is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 12B active parameters out of 276B total.",
   "release_date": "2026-07-30",
-  "context_window": 524288,
+  "context_window": 1048576,
   "capabilities": {
     "tool_call": true,
     "structured_output": true,
@@ -26,12 +26,12 @@
     "output": 1.2,
     "cached_input": 0.1
   },
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "_generated": {
     "name": "ac936bea",
     "description": "09c78ccf",
     "release_date": "6a999b3f",
-    "context_window": "bcabf6a1",
+    "context_window": "7d28a051",
     "capabilities": "f533f522",
     "modalities": "05efe8aa",
     "pricing": "adc2ae9f",

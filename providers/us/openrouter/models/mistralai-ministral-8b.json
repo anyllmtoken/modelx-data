@@ -1,44 +1,49 @@
 {
   "id": "mistralai/ministral-8b",
-  "name": "Mistral: Ministral 3 8B 2512",
+  "name": "Mistral: Ministral 8B",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-03-24",
+  "last_updated": "2026-08-21",
   "family": "ministral",
-  "description": "A balanced model in the Ministral 3 family, Ministral 3 8B is a powerful, efficient tiny language model with vision capabilities.",
-  "release_date": "2025-12-02",
-  "context_window": 262144,
+  "description": "Ministral 8B is an 8B parameter model featuring a unique interleaved sliding-window attention pattern for faster, memory-efficient inference.",
+  "release_date": "2024-10-17",
+  "context_window": 128000,
   "parameters": 8,
   "model_type": "chat",
   "tagline": "A balanced model in the Ministral 3 family, Ministral 3 8B is a powerful, efficient tiny language model with vision capabilities.",
   "capabilities": {
-    "tool_call": true,
-    "structured_output": true,
-    "json_mode": true
+    "structured_output": true
   },
   "modalities": {
-    "input": ["text", "image"],
-    "output": ["text"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
   },
   "pricing": {
-    "input": 0.15,
-    "output": 0.15,
-    "cached_input": 0.015
+    "input": 0.11,
+    "output": 0.11
   },
-  "tools": ["function_calling"],
-  "snapshots": ["mistralai/ministral-8b-2512"],
+  "tools": [
+    "function_calling"
+  ],
+  "snapshots": [
+    "mistralai/ministral-8b-2512"
+  ],
   "_generated": {
-    "name": "9aa8c609",
+    "name": "77039e26",
     "family": "d6661e63",
-    "description": "9411538b",
-    "release_date": "75f289bd",
-    "context_window": "4a1d32eb",
+    "description": "61b1a8e8",
+    "release_date": "bc7960e8",
+    "context_window": "34434798",
     "parameters": "c9f0f895",
     "model_type": "d669f408",
     "tagline": "9411538b",
-    "capabilities": "6c9aa67e",
-    "modalities": "6399757e",
-    "pricing": "4dbaeeed",
+    "capabilities": "c8033cf7",
+    "modalities": "68e53d93",
+    "pricing": "5630a02b",
     "tools": "f0c1dc7e"
   }
 }

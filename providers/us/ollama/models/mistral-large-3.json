@@ -3,7 +3,7 @@
   "name": "mistral-large-3",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "family": "mistral-large",
   "capabilities": {
     "streaming": true
