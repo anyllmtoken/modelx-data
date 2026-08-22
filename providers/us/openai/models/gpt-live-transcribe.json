@@ -1,6 +1,6 @@
 {
   "id": "gpt-live-transcribe",
-  "name": "GPT Live Transcribe (transcribe)",
+  "name": "GPT-Live-Transcribe (transcribe)",
   "created_by": "openai",
   "source": "official",
   "description": "GPT Live Transcribe is a streaming speech-to-text model for applications that need low-latency transcript deltas from live audio. It supports tunable latency, unstructured context, keyword hints, and multiple language hints.",
@@ -55,9 +55,9 @@
     "gpt-live-transcribe"
   ],
   "open_weight": false,
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "_generated": {
-    "name": "7bed9758",
+    "name": "4d4cef63",
     "description": "65cfa0f8",
     "status": "2e2f74dc",
     "model_type": "5e12d29a",

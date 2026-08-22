@@ -1,9 +1,9 @@
 {
   "id": "gpt-image-1.5",
-  "name": "GPT Image 1.5",
+  "name": "GPT-Image-1.5",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "family": "gpt-image-1.5",
   "description": "GPT Image 1.5 is our previous image generation model, with better instruction following and adherence to prompts. Learn more in our [GPT Image 1.5 usage guide](/api/docs/guides/image-generation).",
   "status": "deprecated",
@@ -114,7 +114,7 @@
     "gpt-image-1.5-2025-12-16"
   ],
   "_generated": {
-    "name": "d847880f",
+    "name": "a69701f6",
     "family": "864c34a6",
     "description": "dbb82c15",
     "status": "2e2f74dc",

@@ -3,7 +3,7 @@
   "name": "Llama-3-Patronus-Lynx-8B-Instruct-v1.1",
   "created_by": "patronusai",
   "source": "official",
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "capabilities": {
     "streaming": true,
     "tool_call": true

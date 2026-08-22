@@ -1,9 +1,9 @@
 {
   "id": "gpt-image-1",
-  "name": "GPT Image 1 (1)",
+  "name": "GPT-Image-1 (1)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "family": "gpt-image-1",
   "description": "GPT Image 1 is a natively multimodal language model that accepts both text and image inputs, and produces image outputs.",
   "status": "deprecated",
@@ -113,7 +113,7 @@
     "gpt-image-1"
   ],
   "_generated": {
-    "name": "2e95cad9",
+    "name": "208fae60",
     "family": "480da012",
     "description": "5761f0fa",
     "status": "2e2f74dc",

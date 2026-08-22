@@ -1,0 +1,40 @@
+{
+  "id": "meta/muse-spark-1.2-contributor",
+  "name": "Meta: Muse Spark 1.2 Contributor",
+  "created_by": "meta",
+  "source": "official",
+  "description": "Muse Spark 1.2 contributor tier is a reasoning model from Meta designed for developers who want to start building at an even lower cost.",
+  "release_date": "2026-08-21",
+  "context_window": 1048576,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "video",
+      "audio"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.1,
+    "output": 0.2,
+    "cached_input": 0.002
+  },
+  "last_updated": "2026-08-22",
+  "_generated": {
+    "name": "194a8dc4",
+    "description": "77d2429a",
+    "release_date": "4b63df80",
+    "context_window": "7d28a051",
+    "capabilities": "f533f522",
+    "modalities": "c569b149",
+    "pricing": "8b2b5f55"
+  }
+}

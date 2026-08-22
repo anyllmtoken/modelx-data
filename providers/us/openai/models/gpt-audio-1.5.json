@@ -1,9 +1,9 @@
 {
   "id": "gpt-audio-1.5",
-  "name": "gpt-audio-1.5 (1.5)",
+  "name": "GPT-Audio-1.5 (1.5)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "family": "gpt-audio",
   "description": "The gpt-audio model is our first generally available audio model. It accepts",
   "status": "deprecated",
@@ -84,7 +84,7 @@
     "gpt-audio-1.5"
   ],
   "_generated": {
-    "name": "edcf3c55",
+    "name": "cfaba66c",
     "family": "29debdf1",
     "description": "cbfdc684",
     "status": "2e2f74dc",

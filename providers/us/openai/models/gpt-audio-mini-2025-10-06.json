@@ -1,9 +1,9 @@
 {
   "id": "gpt-audio-mini-2025-10-06",
-  "name": "gpt-audio-mini (06)",
+  "name": "GPT-Audio mini (06)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "family": "gpt-audio",
   "description": "A cost-efficient version of GPT Audio. It accepts audio inputs and outputs, and can be used in the Chat Completions REST API.",
   "status": "active",
@@ -82,7 +82,7 @@
     "chat_completions"
   ],
   "_generated": {
-    "name": "2a9d6c61",
+    "name": "676a8fc3",
     "family": "29debdf1",
     "description": "786ee09e",
     "status": "379ac110",

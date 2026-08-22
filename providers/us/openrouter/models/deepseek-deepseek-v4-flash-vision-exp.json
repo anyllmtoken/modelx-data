@@ -1,0 +1,42 @@
+{
+  "id": "deepseek/deepseek-v4-flash-vision-exp",
+  "name": "DeepSeek: DeepSeek V4 Flash Vision Exp",
+  "created_by": "deepseek",
+  "source": "official",
+  "family": "deepseek",
+  "description": "DeepSeek V4 Flash Vision Exp is an experimental vision-enabled version of [DeepSeek V4 Flash 0731](https://openrouter.ai/deepseek/deepseek-v4-flash-0731) from DeepSeek, adding image understanding whil",
+  "release_date": "2026-08-21",
+  "context_window": 1048576,
+  "max_output_tokens": 384000,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.44,
+    "output": 1.32,
+    "cached_input": 0.014
+  },
+  "last_updated": "2026-08-22",
+  "_generated": {
+    "name": "4e48105b",
+    "family": "4b81b92d",
+    "description": "14968b67",
+    "release_date": "4b63df80",
+    "context_window": "7d28a051",
+    "max_output_tokens": "c58e26bd",
+    "capabilities": "f533f522",
+    "modalities": "6399757e",
+    "pricing": "de4a5fcf"
+  }
+}

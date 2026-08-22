@@ -21,7 +21,7 @@
       "text"
     ]
   },
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-22",
   "_generated": {
     "name": "efc0d7bf",
     "family": "d548f421",
@@ -32,12 +32,18 @@
     "page_url": "ef02f974",
     "capabilities": "8a3b232e",
     "modalities": "68e53d93",
-    "pricing": "1c12c8c3"
+    "pricing": "44d83ae2"
   },
   "pricing": {
     "omni_audio_input_token": 18,
     "omni_audio_output_token": 72,
     "omni_no_audio_input_token": 2.2,
-    "omni_no_audio_output_token": 13.3
+    "omni_no_audio_output_token": 13.3,
+    "omni_audio_input_token_batch": 9,
+    "omni_no_audio_input_token_batch": 1.1,
+    "omni_no_audio_output_token_batch": 6.65,
+    "omni_audio_input_token_batch_chat": 18,
+    "omni_no_audio_input_token_batch_chat": 2.2,
+    "omni_no_audio_output_token_batch_chat": 13.3
   }
 }

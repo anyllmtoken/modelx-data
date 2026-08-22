@@ -1,9 +1,9 @@
 {
   "id": "gpt-audio-2025-08-28",
-  "name": "gpt-audio (28)",
+  "name": "GPT-Audio (28)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "family": "gpt-audio",
   "description": "The gpt-audio model is our first generally available audio model. It accepts",
   "status": "active",
@@ -82,7 +82,7 @@
     "chat_completions"
   ],
   "_generated": {
-    "name": "a49ef32d",
+    "name": "dc88e959",
     "family": "29debdf1",
     "description": "cbfdc684",
     "status": "379ac110",

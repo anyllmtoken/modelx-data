@@ -3,7 +3,7 @@
   "name": "llama2-70b",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "capabilities": {
     "streaming": true
   },

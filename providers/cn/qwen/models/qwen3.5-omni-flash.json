@@ -40,14 +40,20 @@
     "modalities": "68e53d93",
     "endpoints": "75df3f1c",
     "max_output_tokens": "297ce0b3",
-    "pricing": "1c12c8c3"
+    "pricing": "44d83ae2"
   },
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "max_output_tokens": 65536,
   "pricing": {
     "omni_audio_input_token": 18,
     "omni_audio_output_token": 72,
     "omni_no_audio_input_token": 2.2,
-    "omni_no_audio_output_token": 13.3
+    "omni_no_audio_output_token": 13.3,
+    "omni_audio_input_token_batch": 9,
+    "omni_no_audio_input_token_batch": 1.1,
+    "omni_no_audio_output_token_batch": 6.65,
+    "omni_audio_input_token_batch_chat": 18,
+    "omni_no_audio_input_token_batch_chat": 2.2,
+    "omni_no_audio_output_token_batch_chat": 13.3
   }
 }

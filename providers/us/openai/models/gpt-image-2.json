@@ -1,6 +1,6 @@
 {
   "id": "gpt-image-2",
-  "name": "GPT Image 2",
+  "name": "GPT-Image-2",
   "created_by": "openai",
   "source": "official",
   "family": "gpt-image-2",
@@ -103,7 +103,7 @@
     "gpt-image-2-2026-04-21"
   ],
   "_generated": {
-    "name": "8644edb0",
+    "name": "c2ef86d7",
     "family": "c79be345",
     "description": "4d8702a7",
     "status": "379ac110",
@@ -120,6 +120,6 @@
     "endpoints": "af128fc0",
     "release_date": "5029e96d"
   },
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "release_date": "2026-04-21"
 }

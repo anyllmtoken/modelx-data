@@ -3,7 +3,7 @@
   "name": "Palmyra X5",
   "created_by": "writer",
   "source": "official",
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "model_type": "chat",
   "capabilities": {
     "streaming": true
