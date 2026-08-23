@@ -1,0 +1,54 @@
+{
+  "id": "deepseek-v4-flash-vision-exp",
+  "name": "DeepSeek V4",
+  "created_by": "deepseek",
+  "source": "official",
+  "family": "deepseek-chat",
+  "description": "DeepSeek-V4 hybrid model with both non-thinking and thinking (default) modes.",
+  "status": "active",
+  "context_window": 1000000,
+  "max_output_tokens": 384000,
+  "model_type": "chat",
+  "license": "mit",
+  "capabilities": {
+    "streaming": true,
+    "json_mode": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.66,
+    "output": 1.98,
+    "cached_input": 0.022
+  },
+  "endpoints": [
+    "chat_completions",
+    "completions"
+  ],
+  "snapshots": [],
+  "reasoning_tokens": true,
+  "last_updated": "2026-08-23",
+  "_generated": {
+    "name": "0478b8aa",
+    "family": "fbd79fd9",
+    "description": "45501e78",
+    "status": "379ac110",
+    "context_window": "8155bc54",
+    "max_output_tokens": "c58e26bd",
+    "model_type": "d669f408",
+    "license": "3c4c3ba5",
+    "capabilities": "ef996ff1",
+    "modalities": "68e53d93",
+    "pricing": "77b9d5d5",
+    "endpoints": "772bacef",
+    "reasoning_tokens": "b326b506"
+  }
+}

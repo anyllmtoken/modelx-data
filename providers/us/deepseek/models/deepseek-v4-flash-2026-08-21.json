@@ -1,0 +1,48 @@
+{
+  "id": "deepseek-v4-flash-2026-08-21",
+  "name": "DeepSeek V4-Flash",
+  "created_by": "deepseek",
+  "source": "official",
+  "family": "deepseek-chat",
+  "status": "active",
+  "release_date": "2026-08-21",
+  "context_window": 1000000,
+  "max_output_tokens": 384000,
+  "model_type": "chat",
+  "license": "mit",
+  "alias": "deepseek-v4-flash",
+  "capabilities": {
+    "streaming": true,
+    "json_mode": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "endpoints": [
+    "chat_completions",
+    "completions"
+  ],
+  "reasoning_tokens": true,
+  "last_updated": "2026-08-23",
+  "_generated": {
+    "name": "b1da8d61",
+    "family": "fbd79fd9",
+    "status": "379ac110",
+    "release_date": "4b63df80",
+    "context_window": "8155bc54",
+    "max_output_tokens": "c58e26bd",
+    "model_type": "d669f408",
+    "license": "3c4c3ba5",
+    "capabilities": "ef996ff1",
+    "modalities": "68e53d93",
+    "endpoints": "772bacef",
+    "reasoning_tokens": "b326b506"
+  }
+}

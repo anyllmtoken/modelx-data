@@ -3,7 +3,7 @@
   "name": "Qwen3.8-27B-OBLITERATED",
   "created_by": "obliteratus",
   "source": "official",
-  "description": "> Zero refusals. Capability matching or exceeding stock.",
+  "description": "> Genuinely uncensored. Real answers, not safety lectures. Near-stock capability.",
   "release_date": "2026-08-19",
   "license": "apache-2.0",
   "parameters": 28,
@@ -13,10 +13,10 @@
     "streaming": true,
     "tool_call": true
   },
-  "last_updated": "2026-08-22",
+  "last_updated": "2026-08-23",
   "_generated": {
     "name": "8eba16b7",
-    "description": "4b259fe1",
+    "description": "283836cd",
     "release_date": "e97f480b",
     "license": "60245731",
     "parameters": "33e75ff0",
