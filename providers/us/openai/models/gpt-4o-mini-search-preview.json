@@ -1,11 +1,11 @@
 {
   "id": "gpt-4o-mini-search-preview",
-  "name": "GPT-4o mini Search Preview",
+  "name": "GPT-4o Mini Search Preview",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "family": "gpt-4o",
-  "description": "GPT-4o mini Search Preview is a specialized model trained to understand and execute [web search](/api/docs/guides/tools-web-search?api-mode=chat) queries with the Chat Completions API. In addition to token fees, web search queries have a fee per tool call. Learn more in the [pricing](/api/docs/pricing) page.",
+  "description": "GPT-4o Mini Search Preview is a specialized model trained to understand and execute [web search](/api/docs/guides/tools-web-search?api-mode=chat) queries with the Chat Completions API. In addition to token fees, web search queries have a fee per tool call. Learn more in the [pricing](/api/docs/pricing) page.",
   "status": "deprecated",
   "knowledge_cutoff": "2023-10",
   "context_window": 128000,
@@ -62,9 +62,9 @@
     "gpt-4o-mini-search-preview-2025-03-11"
   ],
   "_generated": {
-    "name": "df9b4b95",
+    "name": "3cc79c61",
     "family": "15249632",
-    "description": "7e9c1d49",
+    "description": "081119ce",
     "status": "2e2f74dc",
     "knowledge_cutoff": "ffb42dbe",
     "context_window": "34434798",

@@ -3,7 +3,7 @@
   "name": "imagen",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "status": "active",
   "context_window": 480,
   "model_type": "image",

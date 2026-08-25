@@ -1,11 +1,11 @@
 {
   "id": "gpt-4.1-mini",
-  "name": "GPT-4.1 mini",
+  "name": "GPT-4.1 Mini",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "family": "gpt-4.1",
-  "description": "GPT-4.1 mini excels at instruction following and tool calling. It features a",
+  "description": "GPT-4.1 Mini excels at instruction following and tool calling. It features a",
   "status": "active",
   "knowledge_cutoff": "2024-06",
   "context_window": 1047576,
@@ -86,9 +86,9 @@
     "gpt-4.1-mini-2025-04-14"
   ],
   "_generated": {
-    "name": "ca9b78b5",
+    "name": "ce38e8c3",
     "family": "d240daf4",
-    "description": "a830acaf",
+    "description": "e947ced7",
     "status": "379ac110",
     "knowledge_cutoff": "b087cb52",
     "context_window": "55410616",

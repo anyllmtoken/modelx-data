@@ -1,9 +1,9 @@
 {
   "id": "gpt-4o-mini-realtime-preview-2024-12-17",
-  "name": "GPT-4o mini Realtime (17)",
+  "name": "GPT-4o Mini Realtime (17)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "family": "gpt-4o",
   "description": "This is a preview release of the GPT-4o-mini Realtime model, capable of responding to audio and text inputs in realtime over WebRTC or a WebSocket interface.",
   "status": "active",
@@ -82,7 +82,7 @@
     "realtime"
   ],
   "_generated": {
-    "name": "3a18e8ef",
+    "name": "8ba7e4b5",
     "family": "15249632",
     "description": "43731883",
     "status": "379ac110",

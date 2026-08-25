@@ -1,0 +1,33 @@
+{
+  "id": "deepseek-v4-pro> 即将调价，详见上方[价格调整说明](https://docs.volcengine.com/docs/82379/1544106#llm-price-adjustment)",
+  "name": "deepseek-v4-pro> 即将调价，详见上方[价格调整说明](https://docs.volcengine.com/docs/82379/1544106#llm-price-adjustment)",
+  "created_by": "bytedance",
+  "source": "official",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 12,
+    "output": 24,
+    "cached_input": 1
+  },
+  "last_updated": "2026-08-25",
+  "_generated": {
+    "name": "9f032c4b",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "39e93707"
+  }
+}

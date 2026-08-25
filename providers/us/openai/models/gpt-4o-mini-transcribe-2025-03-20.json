@@ -1,9 +1,9 @@
 {
   "id": "gpt-4o-mini-transcribe-2025-03-20",
-  "name": "GPT-4o mini Transcribe (20)",
+  "name": "GPT-4o Mini Transcribe (20)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "family": "gpt-4o",
   "status": "deprecated",
   "knowledge_cutoff": "2024-06",
@@ -27,7 +27,7 @@
     "realtime"
   ],
   "_generated": {
-    "name": "4ab266c9",
+    "name": "1c4dcbe9",
     "family": "15249632",
     "status": "2e2f74dc",
     "knowledge_cutoff": "b087cb52",

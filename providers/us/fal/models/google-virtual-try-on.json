@@ -1,0 +1,38 @@
+{
+  "id": "google/virtual-try-on",
+  "name": "Google Virtual Try On",
+  "created_by": "google",
+  "source": "official",
+  "description": "Generate realistic virtual try-on images from a person image and a clothing product image.",
+  "status": "active",
+  "release_date": "2026-08-24",
+  "model_type": "image",
+  "page_url": "https://fal.run/google/virtual-try-on",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "images"
+  ],
+  "last_updated": "2026-08-25",
+  "_generated": {
+    "name": "9739e607",
+    "description": "f3c1dfc5",
+    "status": "379ac110",
+    "release_date": "f0d8fd04",
+    "model_type": "db8857fe",
+    "page_url": "d95d8509",
+    "capabilities": "d3117eb0",
+    "modalities": "bbf9b8bb",
+    "endpoints": "9a7c17cc"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "alibaba/wan-3.0-prime/reference-to-video",
+  "name": "Wan 3.0 Prime",
+  "created_by": "alibaba",
+  "source": "official",
+  "family": "wan",
+  "description": "Wan 3.0 Prime Reference-to-Video combines reference images, videos, and audio into a unified video with fast generation and strong multimodal coherence.",
+  "status": "active",
+  "release_date": "2026-08-24",
+  "model_type": "other",
+  "page_url": "https://fal.run/alibaba/wan-3.0-prime/reference-to-video",
+  "capabilities": {
+    "vision": true
+  },
+  "last_updated": "2026-08-25",
+  "_generated": {
+    "name": "92cf7e45",
+    "family": "2aadc089",
+    "description": "e6a6cff5",
+    "status": "379ac110",
+    "release_date": "f0d8fd04",
+    "model_type": "ddb0b7bc",
+    "page_url": "77c03347",
+    "capabilities": "d3117eb0"
+  }
+}

@@ -1,9 +1,9 @@
 {
   "id": "gpt-4o-mini-tts-2025-12-15",
-  "name": "GPT-4o mini TTS (15)",
+  "name": "GPT-4o Mini TTS (15)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "family": "gpt-4o",
   "status": "deprecated",
   "model_type": "tts",
@@ -22,7 +22,7 @@
     "speech_generation"
   ],
   "_generated": {
-    "name": "7682c1ac",
+    "name": "381b5673",
     "family": "15249632",
     "status": "2e2f74dc",
     "model_type": "4e16a2cf",

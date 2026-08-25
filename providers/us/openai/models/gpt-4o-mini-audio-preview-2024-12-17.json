@@ -1,9 +1,9 @@
 {
   "id": "gpt-4o-mini-audio-preview-2024-12-17",
-  "name": "GPT-4o mini Audio (17)",
+  "name": "GPT-4o Mini Audio (17)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "family": "gpt-4o",
   "description": "This is a preview release of the smaller GPT-4o Audio mini model. It's designed to input audio or create audio outputs via the REST API.",
   "status": "active",
@@ -82,7 +82,7 @@
     "chat_completions"
   ],
   "_generated": {
-    "name": "1fb7bc71",
+    "name": "fdda3223",
     "family": "15249632",
     "description": "e16b5473",
     "status": "379ac110",

@@ -1,0 +1,20 @@
+{
+  "id": "bytedance/seedance-2.0-mini",
+  "name": "seedance-2.0-mini",
+  "created_by": "bytedance",
+  "source": "official",
+  "capabilities": {
+    "streaming": true,
+    "vision": true
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "last_updated": "2026-08-25",
+  "_generated": {
+    "name": "75033050",
+    "capabilities": "8a3b232e",
+    "pricing": "9a7a9781"
+  }
+}

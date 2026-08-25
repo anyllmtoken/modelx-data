@@ -3,7 +3,7 @@
   "name": "deepseek-coder-v2-lite-instruct",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "family": "deepseek",
   "context_window": 163000,
   "capabilities": {

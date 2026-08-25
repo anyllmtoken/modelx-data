@@ -1,9 +1,9 @@
 {
   "id": "gpt-4.1-mini-2025-04-14",
-  "name": "GPT-4.1 mini (14)",
+  "name": "GPT-4.1 Mini (14)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "family": "gpt-4.1",
   "description": "GPT-4.1 mini excels at instruction following and tool calling. It features a",
   "status": "active",
@@ -75,7 +75,7 @@
     "fine_tuning"
   ],
   "_generated": {
-    "name": "5f8559e1",
+    "name": "8a446641",
     "family": "d240daf4",
     "description": "a830acaf",
     "status": "379ac110",

@@ -1,0 +1,27 @@
+{
+  "id": "xingchenagi-xingchengsr-v1.0",
+  "name": "XingChenAGI/XingChenGSR-V1.0",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "siliconflow",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-08-25",
+  "_generated": {
+    "name": "43c8f981",
+    "family": "204baa33",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93"
+  }
+}

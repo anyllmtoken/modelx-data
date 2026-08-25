@@ -1,11 +1,11 @@
 {
   "id": "gpt-5-mini",
-  "name": "GPT-5 mini",
+  "name": "GPT-5 Mini",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "family": "gpt-5",
-  "description": "GPT-5 mini is a faster, more cost-efficient version of GPT-5. It's great for",
+  "description": "GPT-5 Mini is a faster, more cost-efficient version of GPT-5. It's great for",
   "status": "active",
   "knowledge_cutoff": "2024-05",
   "context_window": 400000,
@@ -104,9 +104,9 @@
     "gpt-5-mini-2025-08-07"
   ],
   "_generated": {
-    "name": "429d7643",
+    "name": "1abf4d32",
     "family": "aa904c16",
-    "description": "ccd20efb",
+    "description": "2252620e",
     "status": "379ac110",
     "knowledge_cutoff": "1d431428",
     "context_window": "2a3a2d28",
