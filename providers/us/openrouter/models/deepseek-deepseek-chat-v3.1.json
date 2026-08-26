@@ -3,11 +3,11 @@
   "name": "DeepSeek: DeepSeek V3.1",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-26",
   "family": "deepseek-chat",
   "description": "DeepSeek-V3.1 is a large hybrid reasoning model (671B parameters, 37B active) that supports both thinking and non-thinking modes via prompt templates.",
   "context_window": 163840,
-  "max_output_tokens": 161000,
+  "max_output_tokens": 144900,
   "modalities": {
     "input": [
       "text"
@@ -31,7 +31,7 @@
     "family": "fbd79fd9",
     "description": "cb2adb1a",
     "context_window": "7edab444",
-    "max_output_tokens": "e26f3d5a",
+    "max_output_tokens": "8c38a8f4",
     "modalities": "68e53d93",
     "capabilities": "f533f522",
     "pricing": "d4256c5c",

@@ -1,0 +1,21 @@
+{
+  "id": "s/ox-alpha",
+  "name": "Ox Alpha",
+  "created_by": "unknown",
+  "source": "official",
+  "page_url": "https://www.together.ai/models/ox-alpha",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 3,
+    "output": 15
+  },
+  "last_updated": "2026-08-26",
+  "_generated": {
+    "name": "a51e67a9",
+    "page_url": "d6acf353",
+    "capabilities": "0fa77dc6",
+    "pricing": "7939f0ff"
+  }
+}

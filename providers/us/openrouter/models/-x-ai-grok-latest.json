@@ -40,7 +40,9 @@
     "capabilities": "f533f522",
     "modalities": "6399757e",
     "pricing": "1b0b4866",
-    "tools": "f0c1dc7e"
+    "tools": "f0c1dc7e",
+    "max_output_tokens": "e894e1c5"
   },
-  "last_updated": "2026-08-25"
+  "last_updated": "2026-08-26",
+  "max_output_tokens": 450000
 }

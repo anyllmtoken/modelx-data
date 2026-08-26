@@ -1,0 +1,35 @@
+{
+  "id": "minimax/minimax-m2.7:free",
+  "name": "MiniMax: MiniMax M2.7 (free)",
+  "created_by": "minimax",
+  "source": "official",
+  "family": "minimax",
+  "description": "MiniMax-M2.7 is a next-generation large language model designed for autonomous, real-world productivity and continuous improvement.",
+  "release_date": "2026-03-18",
+  "context_window": 196608,
+  "max_output_tokens": 176947,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-08-26",
+  "_generated": {
+    "name": "c0e97ad2",
+    "family": "c85916f0",
+    "description": "35eea2ff",
+    "release_date": "e6131053",
+    "context_window": "0dd0d2bf",
+    "max_output_tokens": "222424ee",
+    "capabilities": "f533f522",
+    "modalities": "68e53d93"
+  }
+}

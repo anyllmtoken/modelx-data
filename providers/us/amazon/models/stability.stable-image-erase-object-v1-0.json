@@ -3,7 +3,7 @@
   "name": "Stable Image Erase Object",
   "created_by": "stability",
   "source": "official",
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-26",
   "model_type": "image",
   "capabilities": {
     "vision": true

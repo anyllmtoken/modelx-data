@@ -1,0 +1,16 @@
+{
+  "id": "quiverai/arrow-1.1-max-vectorize",
+  "name": "Arrow 1.1 Max Vectorize",
+  "created_by": "quiverai",
+  "source": "official",
+  "status": "active",
+  "model_type": "other",
+  "page_url": "https://replicate.com/quiverai/arrow-1.1-max-vectorize",
+  "last_updated": "2026-08-26",
+  "_generated": {
+    "name": "099dbfe7",
+    "status": "379ac110",
+    "model_type": "ddb0b7bc",
+    "page_url": "d9ad3e00"
+  }
+}

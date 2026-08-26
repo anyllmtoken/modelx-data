@@ -3,7 +3,7 @@
   "name": "OpenAI: gpt-oss-120b",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-26",
   "family": "gpt-oss",
   "description": "gpt-oss-120b is an open-weight, 117B-parameter Mixture-of-Experts (MoE) language model from OpenAI designed for high-reasoning, agentic, and general-purpose production use cases.",
   "context_window": 131072,
@@ -37,7 +37,7 @@
     "release_date": "67086b15",
     "tagline": "c18e4581",
     "tools": "f0c1dc7e",
-    "max_output_tokens": "f7de594e"
+    "max_output_tokens": "242f56a4"
   },
   "model_type": "chat",
   "parameters": 120,
@@ -46,5 +46,5 @@
   "tools": [
     "function_calling"
   ],
-  "max_output_tokens": 131072
+  "max_output_tokens": 117964
 }

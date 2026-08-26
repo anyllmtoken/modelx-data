@@ -42,8 +42,8 @@
     "modalities": "68e53d93",
     "pricing": "1d783f2c",
     "tools": "f0c1dc7e",
-    "max_output_tokens": "6ea395a4"
+    "max_output_tokens": "6c2e2609"
   },
-  "last_updated": "2026-08-25",
-  "max_output_tokens": 202752
+  "last_updated": "2026-08-26",
+  "max_output_tokens": 182476
 }

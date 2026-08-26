@@ -3,7 +3,7 @@
   "name": "Qwen3 32B",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-26",
   "family": "qwen.",
   "model_type": "chat",
   "capabilities": {

@@ -5,7 +5,7 @@
   "source": "official",
   "family": "gpt-image-2",
   "description": "GPT Image 2 is our state-of-the-art image generation model for fast, high-quality image generation and editing. It supports flexible image sizes and high-fidelity image inputs. Learn more in our [image generation guide](/api/docs/guides/image-generation), or see the [pricing page](/api/docs/pricing#image-generation) and [image generation calculator](/api/docs/guides/image-generation#calculating-costs) for cost estimates.",
-  "status": "active",
+  "status": "deprecated",
   "release_date": "2026-04-21",
   "model_type": "image",
   "license": "proprietary",
@@ -105,7 +105,7 @@
     "name": "8872e568",
     "family": "c79be345",
     "description": "4d8702a7",
-    "status": "379ac110",
+    "status": "2e2f74dc",
     "release_date": "5029e96d",
     "model_type": "db8857fe",
     "license": "9186c466",
@@ -119,5 +119,5 @@
     "pricing": "76933ea9",
     "endpoints": "af128fc0"
   },
-  "last_updated": "2026-08-25"
+  "last_updated": "2026-08-26"
 }

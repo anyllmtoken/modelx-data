@@ -3,7 +3,7 @@
   "name": "Mistral: Ministral 8B",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-26",
   "family": "ministral",
   "description": "Ministral 8B is an 8B parameter model featuring a unique interleaved sliding-window attention pattern for faster, memory-efficient inference.",
   "release_date": "2024-10-17",
@@ -44,6 +44,8 @@
     "capabilities": "c8033cf7",
     "modalities": "68e53d93",
     "pricing": "5630a02b",
-    "tools": "f0c1dc7e"
-  }
+    "tools": "f0c1dc7e",
+    "max_output_tokens": "c0cae821"
+  },
+  "max_output_tokens": 102400
 }

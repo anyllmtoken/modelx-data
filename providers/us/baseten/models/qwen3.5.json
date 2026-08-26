@@ -3,7 +3,7 @@
   "name": "qwen3.5",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-08-26",
   "family": "qwen3.5",
   "capabilities": {
     "streaming": true
@@ -19,7 +19,11 @@
   "model_type": "chat",
   "open_weight": true,
   "modalities": {
-    "input": ["text"],
-    "output": ["text"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
   }
 }

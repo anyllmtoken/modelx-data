@@ -3,7 +3,7 @@
   "name": "Mistral: Ministral 3 8B 2512",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-26",
   "family": "ministral",
   "description": "A balanced model in the Ministral 3 family, Ministral 3 8B is a powerful, efficient tiny language model with vision capabilities.",
   "context_window": 262144,
@@ -37,7 +37,8 @@
     "parameters": "c9f0f895",
     "release_date": "75f289bd",
     "tagline": "9411538b",
-    "tools": "f0c1dc7e"
+    "tools": "f0c1dc7e",
+    "max_output_tokens": "fbae4e32"
   },
   "model_type": "chat",
   "parameters": 8,
@@ -46,5 +47,6 @@
   "tagline": "A balanced model in the Ministral 3 family, Ministral 3 8B is a powerful, efficient tiny language model with vision capabilities.",
   "tools": [
     "function_calling"
-  ]
+  ],
+  "max_output_tokens": 209715
 }

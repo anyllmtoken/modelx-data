@@ -1,0 +1,37 @@
+{
+  "id": "minimax/minimax-m3:free",
+  "name": "MiniMax: MiniMax M3 (free)",
+  "created_by": "minimax",
+  "source": "official",
+  "family": "minimax",
+  "description": "MiniMax-M3 is a multimodal foundation model from MiniMax.",
+  "release_date": "2026-05-31",
+  "context_window": 1048576,
+  "max_output_tokens": 943718,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "video"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-08-26",
+  "_generated": {
+    "name": "87666771",
+    "family": "c85916f0",
+    "description": "8c440645",
+    "release_date": "da029f9b",
+    "context_window": "7d28a051",
+    "max_output_tokens": "7843f47e",
+    "capabilities": "f533f522",
+    "modalities": "3ad4060a"
+  }
+}

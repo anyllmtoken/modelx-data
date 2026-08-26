@@ -1,0 +1,18 @@
+{
+  "id": "ibm-granite/granite-4.2-8b",
+  "name": "Granite 4.2 8b",
+  "created_by": "ibm-granite",
+  "source": "official",
+  "status": "active",
+  "model_type": "other",
+  "parameters": 8,
+  "page_url": "https://replicate.com/ibm-granite/granite-4.2-8b",
+  "last_updated": "2026-08-26",
+  "_generated": {
+    "name": "1bfd7e99",
+    "status": "379ac110",
+    "model_type": "ddb0b7bc",
+    "parameters": "c9f0f895",
+    "page_url": "6ea320e3"
+  }
+}

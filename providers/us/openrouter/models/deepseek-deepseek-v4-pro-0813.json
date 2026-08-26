@@ -7,7 +7,7 @@
   "description": "DeepSeek V4 Pro 0813 is a large-scale mixture-of-experts model from DeepSeek.",
   "release_date": "2026-08-12",
   "context_window": 1048576,
-  "max_output_tokens": 384000,
+  "max_output_tokens": 943717,
   "capabilities": {
     "tool_call": true,
     "structured_output": true,
@@ -26,14 +26,14 @@
     "output": 3.366,
     "cached_input": 0.037
   },
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-26",
   "_generated": {
     "name": "e70b2216",
     "family": "4b81b92d",
     "description": "8eb024fa",
     "release_date": "968fe5cf",
     "context_window": "7d28a051",
-    "max_output_tokens": "c58e26bd",
+    "max_output_tokens": "4056a28f",
     "capabilities": "f533f522",
     "modalities": "68e53d93",
     "pricing": "a343676d"
