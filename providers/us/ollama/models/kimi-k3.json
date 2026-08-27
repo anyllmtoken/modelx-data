@@ -9,15 +9,11 @@
   "license": "open-weight",
   "page_url": "https://ollama.com/library/kimi-k3",
   "capabilities": {
-    "streaming": true,
-    "vision": true,
-    "tool_call": true,
-    "reasoning": true
+    "streaming": true
   },
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"
@@ -25,7 +21,7 @@
   },
   "reasoning_tokens": true,
   "open_weight": true,
-  "last_updated": "2026-08-26",
+  "last_updated": "2026-08-27",
   "_generated": {
     "name": "73e8093c",
     "family": "73e8093c",
@@ -33,8 +29,8 @@
     "release_date": "04fb3b2f",
     "license": "6327aaea",
     "page_url": "31e012ac",
-    "capabilities": "a19166f1",
-    "modalities": "6399757e",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
     "reasoning_tokens": "b326b506",
     "open_weight": "b326b506"
   }

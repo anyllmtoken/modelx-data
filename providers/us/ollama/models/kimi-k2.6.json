@@ -14,15 +14,11 @@
   "model_type": "chat",
   "tagline": "Kimi K2.6 is an open-source, native multimodal agentic model that advances practical capabilities in long-horizon coding, coding-driven design, proactive autonomous execution, and swarm-based task orc",
   "capabilities": {
-    "streaming": true,
-    "vision": true,
-    "tool_call": true,
-    "reasoning": true
+    "streaming": true
   },
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"
@@ -43,9 +39,9 @@
     "open_weight": "b326b506",
     "model_type": "d669f408",
     "tagline": "e5476247",
-    "capabilities": "a19166f1",
-    "modalities": "6399757e",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-26"
+  "last_updated": "2026-08-27"
 }

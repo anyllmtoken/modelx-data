@@ -1,0 +1,51 @@
+{
+  "id": "zai-org/glm-5.3-flash",
+  "name": "GLM 5.3 Flash",
+  "created_by": "zai",
+  "source": "official",
+  "family": "glm-5.3",
+  "description": "GLM-5.3-Flash is a native multimodal model from Z.ai.",
+  "status": "active",
+  "release_date": "2026-08-26",
+  "context_window": 1048576,
+  "max_output_tokens": 131072,
+  "model_type": "chat",
+  "capabilities": {
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true,
+    "structured_output": true,
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.15,
+    "output": 0.5
+  },
+  "endpoints": [
+    "chat_completions"
+  ],
+  "last_updated": "2026-08-27",
+  "_generated": {
+    "name": "42f9a08b",
+    "family": "9f217d9a",
+    "description": "a9886a26",
+    "status": "379ac110",
+    "release_date": "7d843204",
+    "context_window": "7d28a051",
+    "max_output_tokens": "f7de594e",
+    "model_type": "d669f408",
+    "capabilities": "60af2306",
+    "modalities": "6399757e",
+    "pricing": "c74fbef8",
+    "endpoints": "d8fa1080"
+  }
+}

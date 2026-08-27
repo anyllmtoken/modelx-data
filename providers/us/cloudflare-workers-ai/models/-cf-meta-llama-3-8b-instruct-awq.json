@@ -3,7 +3,7 @@
   "name": "llama-3-8b-instruct-awq",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-08-26",
+  "last_updated": "2026-08-27",
   "family": "llama-3",
   "capabilities": {
     "streaming": true,

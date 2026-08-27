@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/nemotron-3-embed-8b-bf16",
+  "name": "nemotron-3-embed-8b-bf16",
+  "created_by": "fireworks",
+  "source": "official",
+  "context_window": 32700,
+  "parameters": 8,
+  "page_url": "https://fireworks.ai/models/fireworks/nemotron-3-embed-8b-bf16",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "last_updated": "2026-08-27",
+  "_generated": {
+    "name": "d7c2147a",
+    "context_window": "e1ea274b",
+    "parameters": "c9f0f895",
+    "page_url": "e2d18977",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e"
+  }
+}

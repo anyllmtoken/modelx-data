@@ -3,7 +3,7 @@
   "name": "Kimi-K2-Thinking",
   "created_by": "moonshot",
   "source": "official",
-  "last_updated": "2026-08-26",
+  "last_updated": "2026-08-27",
   "capabilities": {
     "streaming": true,
     "tool_call": true
@@ -17,7 +17,7 @@
     "release_date": "0c1b20df",
     "context_window": "4a1d32eb",
     "license": "ddb0b7bc",
-    "parameters": "b4d168b4",
+    "parameters": "24146db4",
     "architecture": "8832ea0f",
     "open_weight": "b326b506",
     "tools": "f0c1dc7e",
@@ -29,7 +29,7 @@
   "release_date": "2025-11-04",
   "context_window": 262144,
   "license": "other",
-  "parameters": 1058,
+  "parameters": 1026,
   "architecture": "transformer",
   "open_weight": true,
   "tools": [

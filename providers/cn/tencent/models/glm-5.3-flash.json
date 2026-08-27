@@ -1,0 +1,35 @@
+{
+  "id": "glm-5.3-flash",
+  "name": "glm-5.3-flash",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "glm-5.3",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.8,
+    "output": 2.8,
+    "cached_input": 0.23
+  },
+  "last_updated": "2026-08-27",
+  "_generated": {
+    "name": "c99f2343",
+    "family": "9f217d9a",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "53af11ac"
+  }
+}

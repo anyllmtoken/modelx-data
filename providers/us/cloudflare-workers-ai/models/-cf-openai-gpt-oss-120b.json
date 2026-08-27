@@ -3,17 +3,18 @@
   "name": "gpt-oss-120b",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-26",
+  "last_updated": "2026-08-27",
   "family": "gpt-oss",
   "capabilities": {
     "streaming": true,
     "tool_call": true,
-    "reasoning": true
+    "reasoning": true,
+    "vision": true
   },
   "_generated": {
     "name": "e8458743",
     "family": "82d0cb0b",
-    "capabilities": "a281e83a",
+    "capabilities": "45192957",
     "model_type": "d669f408",
     "parameters": "da4fb5c6",
     "status": "379ac110",

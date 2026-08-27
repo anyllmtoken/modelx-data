@@ -1,0 +1,16 @@
+{
+  "id": "deepseek-ai/deepseek-v4-pro-0813",
+  "name": "deepseek-v4-pro-0813",
+  "created_by": "deepseek",
+  "source": "official",
+  "family": "deepseek",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-08-27",
+  "_generated": {
+    "name": "5d47bedd",
+    "family": "4b81b92d",
+    "capabilities": "0fa77dc6"
+  }
+}

@@ -4,7 +4,7 @@
   "created_by": "google",
   "source": "official",
   "family": "gemini-3.1",
-  "description": "The Interactions API is now generally available. We recommend using this API for access to all the latest features and models. Home Gemini API Docs Send feedback Gemini 3.1 Flash-Lite Gemini 3.1 Flash-Lite is a low-latency, cost-effective multimodal model optimized for high-frequency, lightweight tasks. The model supports text, image, video, audio, and PDF inputs, and is designed for high-volume agentic workflows, simple data extraction, and applications where latency and API cost are the primary constraints.",
+  "description": "The model supports text, image, video, audio, and PDF inputs, and is designed for high-volume agentic workflows, simple data extraction, and applications where latency and API cost are the primary constraints.",
   "status": "active",
   "knowledge_cutoff": "January 2025",
   "context_window": 1048576,
@@ -81,7 +81,7 @@
   "_generated": {
     "name": "d9e5c54d",
     "family": "ea4a1a23",
-    "description": "48eb8ed7",
+    "description": "0a7f497d",
     "status": "379ac110",
     "knowledge_cutoff": "6d0954e2",
     "context_window": "7d28a051",
@@ -99,7 +99,7 @@
     "deprecation_date": "06e017fa",
     "successor": "9a3c773f"
   },
-  "last_updated": "2026-08-26",
+  "last_updated": "2026-08-27",
   "deprecation_date": "May 7, 2027",
   "successor": "gemini-3.5-flash-lite"
 }
