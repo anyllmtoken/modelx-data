@@ -3,7 +3,7 @@
   "name": "GPT-Realtime Mini",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-08-27",
+  "last_updated": "2026-08-28",
   "family": "gpt-realtime",
   "description": "GPT-Realtime Mini is capable of responding to audio and text inputs in realtime over WebRTC, WebSocket, or SIP connections.",
   "status": "deprecated",

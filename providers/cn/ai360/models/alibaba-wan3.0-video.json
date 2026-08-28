@@ -1,0 +1,36 @@
+{
+  "id": "alibaba/wan3.0-video",
+  "name": "alibaba/wan3.0-video",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "wan3.0",
+  "context_window": 32000,
+  "model_type": "video",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 5
+  },
+  "last_updated": "2026-08-28",
+  "_generated": {
+    "name": "0c9debdf",
+    "family": "cc825771",
+    "context_window": "10e4d788",
+    "model_type": "4d1b75ca",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "383111d1"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "id": "deepseek-v4-flash正式版",
+  "id": "deepseek-v4-flash预览版",
   "name": "deepseek-v4-flash正式版",
   "created_by": "bytedance",
   "source": "official",
@@ -23,7 +23,7 @@
     "output": 9,
     "cached_input": 0.1
   },
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-28",
   "_generated": {
     "name": "113d7939",
     "family": "4b81b92d",

@@ -1,0 +1,38 @@
+{
+  "id": "google/gemini-omni-flash/v1.1/text-to-video",
+  "name": "Gemini Omni Flash 1.1 Text to Video",
+  "created_by": "google",
+  "source": "official",
+  "description": "Gemini Omni Flash 1.1 is Google's multimodal video model.",
+  "status": "active",
+  "release_date": "2026-08-25",
+  "model_type": "video",
+  "page_url": "https://fal.run/google/gemini-omni-flash/v1.1/text-to-video",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "audio"
+    ],
+    "output": [
+      "video"
+    ]
+  },
+  "endpoints": [
+    "video"
+  ],
+  "last_updated": "2026-08-28",
+  "_generated": {
+    "name": "111acca3",
+    "description": "729e9ac6",
+    "status": "379ac110",
+    "release_date": "1f9d2687",
+    "model_type": "4d1b75ca",
+    "page_url": "b39075cb",
+    "capabilities": "d3117eb0",
+    "modalities": "135102b7",
+    "endpoints": "7a78c070"
+  }
+}

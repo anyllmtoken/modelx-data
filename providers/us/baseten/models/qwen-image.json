@@ -3,7 +3,7 @@
   "name": "qwen-image",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-08-27",
+  "last_updated": "2026-08-28",
   "family": "qwen",
   "capabilities": {
     "streaming": true

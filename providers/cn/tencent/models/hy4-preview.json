@@ -1,0 +1,35 @@
+{
+  "id": "hy4-preview",
+  "name": "hy4-preview",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "hunyuan",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 6,
+    "output": 18,
+    "cached_input": 0.3
+  },
+  "last_updated": "2026-08-28",
+  "_generated": {
+    "name": "035ee3d2",
+    "family": "39786cc8",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "7df5bcd4"
+  }
+}

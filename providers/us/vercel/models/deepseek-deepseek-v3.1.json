@@ -3,7 +3,7 @@
   "name": "deepseek-v3.1",
   "created_by": "deepseek",
   "source": "official",
-  "last_updated": "2026-08-27",
+  "last_updated": "2026-08-28",
   "family": "deepseek",
   "context_window": 163800,
   "capabilities": {

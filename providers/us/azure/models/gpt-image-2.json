@@ -10,8 +10,13 @@
     "vision": true
   },
   "modalities": {
-    "input": ["text", "image"],
-    "output": ["text"]
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
   },
   "_generated": {
     "name": "c79be345",
@@ -20,5 +25,5 @@
     "capabilities": "8a3b232e",
     "modalities": "6399757e"
   },
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-08-28"
 }

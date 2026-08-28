@@ -1,0 +1,59 @@
+{
+  "id": "gemini-omni-flash-preview",
+  "name": "gemini-omni-flash-preview",
+  "created_by": "google",
+  "source": "official",
+  "status": "active",
+  "deprecation_date": "September 30, 2026",
+  "license": "proprietary",
+  "capabilities": {
+    "streaming": true,
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.5,
+    "output": 9,
+    "tiers": [
+      {
+        "label": "Text tokens",
+        "unit": "Per 1M tokens",
+        "columns": [
+          "Input",
+          "Cached input",
+          "Output"
+        ],
+        "rows": [
+          {
+            "label": "Standard",
+            "values": [
+              1.5,
+              null,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "successor": "gemini-omni-1.1-flash",
+  "last_updated": "2026-08-28",
+  "_generated": {
+    "name": "5df9da7f",
+    "status": "379ac110",
+    "deprecation_date": "6e4485aa",
+    "license": "9186c466",
+    "capabilities": "8a3b232e",
+    "modalities": "6399757e",
+    "pricing": "eb961e11",
+    "successor": "77f576ba"
+  }
+}

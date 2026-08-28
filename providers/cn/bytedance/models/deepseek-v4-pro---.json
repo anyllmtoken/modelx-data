@@ -1,5 +1,5 @@
 {
-  "id": "deepseek-v4-pro正式版",
+  "id": "deepseek-v4-pro预览版",
   "name": "deepseek-v4-pro正式版",
   "created_by": "bytedance",
   "source": "official",
@@ -23,7 +23,7 @@
     "output": 27,
     "cached_input": 0.3
   },
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-28",
   "_generated": {
     "name": "ca1f2dbd",
     "family": "4b81b92d",

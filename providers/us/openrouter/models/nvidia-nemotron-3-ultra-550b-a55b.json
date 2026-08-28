@@ -5,8 +5,8 @@
   "source": "official",
   "description": "NVIDIA Nemotron 3 Ultra is an open frontier-reasoning and orchestration model from NVIDIA, with 55B active parameters out of 550B total (MoE).",
   "release_date": "2026-06-04",
-  "context_window": 512288,
-  "max_output_tokens": 461059,
+  "context_window": 262144,
+  "max_output_tokens": 16384,
   "parameters": 550,
   "active_parameters": 55,
   "model_type": "chat",
@@ -25,9 +25,9 @@
     ]
   },
   "pricing": {
-    "input": 0.6,
-    "output": 3.6,
-    "cached_input": 0.2
+    "input": 0.5,
+    "output": 2.2,
+    "cached_input": 0.1
   },
   "tools": [
     "function_calling"
@@ -36,16 +36,16 @@
     "name": "29a3e767",
     "description": "3975a265",
     "release_date": "054ba895",
-    "context_window": "978591cd",
-    "max_output_tokens": "a26f5406",
+    "context_window": "4a1d32eb",
+    "max_output_tokens": "c76fe1d8",
     "parameters": "01f78be6",
     "active_parameters": "b53b3a3d",
     "model_type": "d669f408",
     "tagline": "3975a265",
     "capabilities": "f533f522",
     "modalities": "68e53d93",
-    "pricing": "14a8a5b9",
+    "pricing": "682ce974",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-27"
+  "last_updated": "2026-08-28"
 }
