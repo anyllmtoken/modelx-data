@@ -3,7 +3,7 @@
   "name": "Qwen3-1.7B",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-08-28",
+  "last_updated": "2026-08-29",
   "capabilities": {
     "streaming": true,
     "tool_call": true

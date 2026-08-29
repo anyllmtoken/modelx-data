@@ -1,0 +1,42 @@
+{
+  "id": "qwen/qwen3.5-9b:batch",
+  "name": "Qwen: Qwen3.5-9B (batch)",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3.5",
+  "description": "Qwen3.5-9B is a multimodal foundation model from the Qwen3.5 family, designed to deliver strong reasoning, coding, and visual understanding in an efficient 9B-parameter architecture.",
+  "release_date": "2026-03-10",
+  "context_window": 262144,
+  "max_output_tokens": 235929,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "video"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.17,
+    "output": 0.25
+  },
+  "last_updated": "2026-08-29",
+  "_generated": {
+    "name": "f0cc9a1e",
+    "family": "d548f421",
+    "description": "9e4bfec6",
+    "release_date": "49946764",
+    "context_window": "4a1d32eb",
+    "max_output_tokens": "7ad80673",
+    "capabilities": "f533f522",
+    "modalities": "3ad4060a",
+    "pricing": "0c2bbabf"
+  }
+}

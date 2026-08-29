@@ -3,7 +3,7 @@
   "name": "qwen3-5-35b-a3b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-08-29",
   "family": "qwen3",
   "parameters": 35,
   "active_parameters": 3,
@@ -13,8 +13,12 @@
     "streaming": true
   },
   "modalities": {
-    "input": ["text"],
-    "output": ["text"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
   },
   "_generated": {
     "name": "693d3295",

@@ -3,7 +3,7 @@
   "name": "llava-1.5-7b-hf",
   "created_by": "llava-hf",
   "source": "official",
-  "last_updated": "2026-08-28",
+  "last_updated": "2026-08-29",
   "capabilities": {
     "streaming": true,
     "vision": true

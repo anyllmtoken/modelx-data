@@ -9,15 +9,15 @@
     "streaming": true
   },
   "pricing": {
-    "input": 3,
-    "output": 15
+    "input": 0.26,
+    "output": 4.4
   },
-  "last_updated": "2026-08-28",
+  "last_updated": "2026-08-29",
   "_generated": {
     "name": "a35855aa",
     "family": "309daa86",
     "page_url": "77f60bd8",
     "capabilities": "0fa77dc6",
-    "pricing": "7939f0ff"
+    "pricing": "ef5dd26e"
   }
 }
