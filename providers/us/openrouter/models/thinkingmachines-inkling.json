@@ -22,11 +22,11 @@
     ]
   },
   "pricing": {
-    "input": 0.95,
+    "input": 1,
     "output": 4.05,
-    "cached_input": 0.16
+    "cached_input": 0.17
   },
-  "last_updated": "2026-08-29",
+  "last_updated": "2026-08-30",
   "_generated": {
     "name": "868209f4",
     "description": "f2a134f0",
@@ -34,8 +34,8 @@
     "context_window": "7d28a051",
     "capabilities": "f533f522",
     "modalities": "05efe8aa",
-    "pricing": "4bb9bb77",
-    "max_output_tokens": "4a1d32eb"
+    "pricing": "2b9ec52a",
+    "max_output_tokens": "552badfe"
   },
-  "max_output_tokens": 262144
+  "max_output_tokens": 471859
 }

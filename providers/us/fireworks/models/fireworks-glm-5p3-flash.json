@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/glm-5p3-flash",
+  "name": "glm-5p3-flash",
+  "created_by": "zhipu",
+  "source": "official",
+  "family": "glm-5",
+  "context_window": 1040000,
+  "page_url": "https://fireworks.ai/models/fireworks/glm-5p3-flash",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.15,
+    "output": 0.5,
+    "cached_input": 0.029
+  },
+  "last_updated": "2026-08-30",
+  "_generated": {
+    "name": "7a758289",
+    "family": "309daa86",
+    "context_window": "1bf8ad8b",
+    "page_url": "57076ecb",
+    "capabilities": "0fa77dc6",
+    "pricing": "0d16e9fb"
+  }
+}
