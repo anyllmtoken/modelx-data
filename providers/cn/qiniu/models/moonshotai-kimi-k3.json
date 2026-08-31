@@ -15,7 +15,8 @@
   "modalities": {
     "input": [
       "text",
-      "image"
+      "image",
+      "video"
     ],
     "output": [
       "text"
@@ -24,14 +25,14 @@
   "pricing": {
     "output": 100
   },
-  "last_updated": "2026-08-30",
+  "last_updated": "2026-08-31",
   "_generated": {
     "name": "851ed684",
     "family": "9126e350",
     "context_window": "7d28a051",
     "model_type": "d669f408",
     "capabilities": "0946b777",
-    "modalities": "6399757e",
+    "modalities": "3ad4060a",
     "pricing": "59d9016e"
   }
 }

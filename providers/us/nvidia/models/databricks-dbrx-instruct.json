@@ -3,7 +3,7 @@
   "name": "dbrx-instruct",
   "created_by": "databricks",
   "source": "official",
-  "last_updated": "2026-08-30",
+  "last_updated": "2026-08-31",
   "capabilities": {
     "streaming": true,
     "tool_call": true
