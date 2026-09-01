@@ -1,6 +1,6 @@
 {
   "id": "deepseek/deepseek-v4-flash-0731",
-  "name": "Deepseek V4 Flash 0731",
+  "name": "DeepSeek V4 Flash 0731",
   "created_by": "deepseek",
   "source": "official",
   "family": "deepseek",
@@ -33,9 +33,9 @@
   "endpoints": [
     "chat_completions"
   ],
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-01",
   "_generated": {
-    "name": "dbd883be",
+    "name": "6f8808f5",
     "family": "4b81b92d",
     "description": "b4fa0f05",
     "status": "379ac110",

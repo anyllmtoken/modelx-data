@@ -1,6 +1,6 @@
 {
   "id": "qwen/qwen3.6-35b-a3b",
-  "name": "Qwen3.6-35B-A3B",
+  "name": "Qwen3.6 35B A3B",
   "created_by": "alibaba",
   "source": "official",
   "family": "qwen3.6",
@@ -40,7 +40,7 @@
     "function_calling"
   ],
   "_generated": {
-    "name": "31e51c67",
+    "name": "45dcbea4",
     "family": "1bc2d26f",
     "description": "4af49555",
     "status": "379ac110",
@@ -57,5 +57,5 @@
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-31"
+  "last_updated": "2026-09-01"
 }

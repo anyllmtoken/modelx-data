@@ -3,7 +3,7 @@
   "name": "glm-4p7-flash",
   "created_by": "zhipu",
   "source": "official",
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-01",
   "context_window": 202000,
   "capabilities": {
     "streaming": true

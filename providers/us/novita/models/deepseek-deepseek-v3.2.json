@@ -1,6 +1,6 @@
 {
   "id": "deepseek/deepseek-v3.2",
-  "name": "Deepseek V3.2",
+  "name": "DeepSeek V3.2",
   "created_by": "deepseek",
   "source": "official",
   "family": "deepseek",
@@ -36,7 +36,7 @@
     "function_calling"
   ],
   "_generated": {
-    "name": "91911386",
+    "name": "da28e7f5",
     "family": "4b81b92d",
     "description": "bda07f93",
     "status": "379ac110",
@@ -51,5 +51,5 @@
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-31"
+  "last_updated": "2026-09-01"
 }

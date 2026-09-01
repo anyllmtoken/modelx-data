@@ -3,7 +3,7 @@
   "name": "gemma-sea-lion-v4-27b-it",
   "created_by": "aisingapore",
   "source": "official",
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-01",
   "capabilities": {
     "streaming": true
   },

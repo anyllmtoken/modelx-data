@@ -3,7 +3,7 @@
   "name": "uform-gen2-qwen-500m",
   "created_by": "unum",
   "source": "official",
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-01",
   "capabilities": {
     "streaming": true,
     "vision": true

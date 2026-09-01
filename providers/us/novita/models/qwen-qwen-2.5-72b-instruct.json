@@ -1,6 +1,6 @@
 {
   "id": "qwen/qwen-2.5-72b-instruct",
-  "name": "Qwen 2.5 72B Instruct",
+  "name": "Qwen2.5 72B Instruct",
   "created_by": "alibaba",
   "source": "official",
   "family": "qwen",
@@ -36,7 +36,7 @@
     "function_calling"
   ],
   "_generated": {
-    "name": "cb6ef854",
+    "name": "6f8faa2f",
     "family": "a3af76f3",
     "description": "38907f0e",
     "status": "379ac110",
@@ -52,5 +52,5 @@
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-31"
+  "last_updated": "2026-09-01"
 }

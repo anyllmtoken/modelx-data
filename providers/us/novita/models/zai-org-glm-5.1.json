@@ -1,6 +1,6 @@
 {
   "id": "zai-org/glm-5.1",
-  "name": "GLM-5.1",
+  "name": "GLM 5.1",
   "created_by": "zai",
   "source": "official",
   "family": "glm-5.1",
@@ -36,7 +36,7 @@
     "function_calling"
   ],
   "_generated": {
-    "name": "751e8f2b",
+    "name": "0de058b2",
     "family": "feb32a37",
     "description": "7b8be372",
     "status": "379ac110",
@@ -51,5 +51,5 @@
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-31"
+  "last_updated": "2026-09-01"
 }

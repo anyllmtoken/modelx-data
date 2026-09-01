@@ -1,6 +1,6 @@
 {
   "id": "paddlepaddle/paddleocr-vl",
-  "name": "PaddleOCR-VL",
+  "name": "PaddleOCR VL",
   "created_by": "paddlepaddle",
   "source": "official",
   "status": "active",
@@ -29,7 +29,7 @@
     "chat_completions"
   ],
   "_generated": {
-    "name": "761f54c3",
+    "name": "48bc3df6",
     "status": "379ac110",
     "release_date": "b0368c63",
     "context_window": "c76fe1d8",
@@ -40,5 +40,5 @@
     "pricing": "70332ab4",
     "endpoints": "d8fa1080"
   },
-  "last_updated": "2026-08-31"
+  "last_updated": "2026-09-01"
 }

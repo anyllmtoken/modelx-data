@@ -3,7 +3,7 @@
   "name": "Mistral Medium 3",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-01",
   "family": "mistral-medium",
   "capabilities": {
     "streaming": true,

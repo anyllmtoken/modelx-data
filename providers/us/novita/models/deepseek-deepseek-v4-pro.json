@@ -1,6 +1,6 @@
 {
   "id": "deepseek/deepseek-v4-pro",
-  "name": "Deepseek V4 Pro",
+  "name": "DeepSeek V4 Pro",
   "created_by": "deepseek",
   "source": "official",
   "family": "deepseek",
@@ -36,7 +36,7 @@
     "function_calling"
   ],
   "_generated": {
-    "name": "693bb9f4",
+    "name": "2da236ad",
     "family": "4b81b92d",
     "description": "b019dd77",
     "status": "379ac110",
@@ -51,5 +51,5 @@
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-31"
+  "last_updated": "2026-09-01"
 }

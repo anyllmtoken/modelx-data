@@ -1,6 +1,6 @@
 {
   "id": "moonshotai/kimi-k2-0905",
-  "name": "Kimi K2 0905",
+  "name": "Kimi K2 Instruct 0905",
   "created_by": "moonshot",
   "source": "official",
   "family": "kimi-k2",
@@ -36,7 +36,7 @@
     "function_calling"
   ],
   "_generated": {
-    "name": "739b6e84",
+    "name": "f632be59",
     "family": "0f7256d5",
     "description": "7d8ee1e8",
     "status": "379ac110",
@@ -51,5 +51,5 @@
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-31"
+  "last_updated": "2026-09-01"
 }

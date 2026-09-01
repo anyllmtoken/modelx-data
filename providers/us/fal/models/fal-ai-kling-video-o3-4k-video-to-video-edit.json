@@ -1,0 +1,20 @@
+{
+  "id": "fal-ai/kling-video/o3/4k/video-to-video/edit",
+  "name": "Kling Video 4K Video to Video Edit",
+  "created_by": "fal",
+  "source": "official",
+  "description": "Kling's Native 4K is a video generation model that directly outputs professional-grade 4K video in one step, eliminating the need for post-production upscaling",
+  "status": "active",
+  "release_date": "2026-08-31",
+  "model_type": "other",
+  "page_url": "https://fal.run/fal-ai/kling-video/o3/4k/video-to-video/edit",
+  "last_updated": "2026-09-01",
+  "_generated": {
+    "name": "42deec32",
+    "description": "2e0bb796",
+    "status": "379ac110",
+    "release_date": "539967f1",
+    "model_type": "ddb0b7bc",
+    "page_url": "18019516"
+  }
+}

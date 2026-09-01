@@ -19,7 +19,7 @@
       "text"
     ]
   },
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-01",
   "_generated": {
     "name": "c44a8f4e",
     "family": "48c385a0",
@@ -28,10 +28,10 @@
     "page_url": "eb6968e7",
     "capabilities": "8a3b232e",
     "modalities": "68e53d93",
-    "pricing": "ee3a716d"
+    "pricing": "15e4cd1a"
   },
   "pricing": {
-    "embedding_image_token": 1.8,
-    "embedding_token": 0.7
+    "embedding_image_token": 0.5,
+    "embedding_token": 0.5
   }
 }

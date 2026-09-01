@@ -1,6 +1,6 @@
 {
   "id": "qwen/qwen3.5-397b-a17b",
-  "name": "Qwen3.5-397B-A17B",
+  "name": "Qwen3.5 397B A17B",
   "created_by": "alibaba",
   "source": "official",
   "family": "qwen3.5",
@@ -40,7 +40,7 @@
     "function_calling"
   ],
   "_generated": {
-    "name": "9116762c",
+    "name": "e9c3360e",
     "family": "d548f421",
     "description": "bb251c9f",
     "status": "379ac110",
@@ -57,5 +57,5 @@
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-08-31"
+  "last_updated": "2026-09-01"
 }

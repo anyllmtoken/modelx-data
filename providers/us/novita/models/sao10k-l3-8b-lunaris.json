@@ -1,6 +1,6 @@
 {
   "id": "sao10k/l3-8b-lunaris",
-  "name": "Sao10k L3 8B Lunaris\t",
+  "name": "Llama 3 8B Lunaris",
   "created_by": "sao10k",
   "source": "official",
   "description": "A generalist / roleplaying model merge based on Llama 3.",
@@ -31,7 +31,7 @@
     "chat_completions"
   ],
   "_generated": {
-    "name": "c01b9caf",
+    "name": "1e301c08",
     "description": "eb81f7cd",
     "status": "379ac110",
     "release_date": "93e1ab23",
@@ -45,5 +45,5 @@
     "pricing": "d3db3c2d",
     "endpoints": "d8fa1080"
   },
-  "last_updated": "2026-08-31"
+  "last_updated": "2026-09-01"
 }
