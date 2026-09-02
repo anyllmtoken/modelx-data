@@ -3,7 +3,7 @@
   "name": "qwen-v2p5-7b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "family": "qwen",
   "context_window": 131000,
   "capabilities": {

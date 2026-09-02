@@ -3,7 +3,7 @@
   "name": "gemma-2b-it",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "family": "gemma-2b",
   "context_window": 8190,
   "capabilities": {

@@ -3,7 +3,7 @@
   "name": "Mistral 7B Instruct",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "model_type": "chat",
   "capabilities": {
     "streaming": true

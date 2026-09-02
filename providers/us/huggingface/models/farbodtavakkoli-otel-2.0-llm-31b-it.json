@@ -7,21 +7,23 @@
   "release_date": "2026-07-23",
   "context_window": 262144,
   "license": "apache-2.0",
-  "parameters": 32,
+  "parameters": 31,
   "page_url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
   "capabilities": {
     "streaming": true,
     "tool_call": true
   },
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "_generated": {
     "name": "b2e9e01b",
     "description": "023e09d4",
     "release_date": "26fc75d3",
     "context_window": "4a1d32eb",
     "license": "60245731",
-    "parameters": "6364d3f0",
+    "parameters": "c16a5320",
     "page_url": "49629704",
-    "capabilities": "48995a4e"
-  }
+    "capabilities": "48995a4e",
+    "architecture": "8832ea0f"
+  },
+  "architecture": "transformer"
 }

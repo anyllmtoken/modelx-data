@@ -3,7 +3,7 @@
   "name": "distilbert-sst-2-int8",
   "created_by": "huggingface",
   "source": "official",
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "capabilities": {
     "streaming": true
   },

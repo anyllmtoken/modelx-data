@@ -3,7 +3,7 @@
   "name": "Stable Image Search and Recolor",
   "created_by": "stability",
   "source": "official",
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "model_type": "image",
   "capabilities": {
     "vision": true

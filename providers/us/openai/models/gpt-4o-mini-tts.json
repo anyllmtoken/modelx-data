@@ -3,7 +3,7 @@
   "name": "GPT-4o Mini TTS",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "family": "gpt-4o",
   "status": "active",
   "model_type": "tts",
