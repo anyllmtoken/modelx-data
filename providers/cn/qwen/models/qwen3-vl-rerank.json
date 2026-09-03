@@ -31,7 +31,7 @@
     "modalities": "68e53d93",
     "pricing": "15e4cd1a"
   },
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "pricing": {
     "embedding_image_token": 0.5,
     "embedding_token": 0.5

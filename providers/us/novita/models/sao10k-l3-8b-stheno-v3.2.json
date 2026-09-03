@@ -12,7 +12,6 @@
   "parameters": 8,
   "tagline": "Sao10K/L3-8B-Stheno-v3.2 is a highly skilled actor that excels at fully immersing itself in any role assigned.",
   "capabilities": {
-    "tool_call": true,
     "streaming": true
   },
   "modalities": {
@@ -43,11 +42,11 @@
     "model_type": "d669f408",
     "parameters": "c9f0f895",
     "tagline": "13baadcc",
-    "capabilities": "43d67186",
+    "capabilities": "0fa77dc6",
     "modalities": "68e53d93",
     "pricing": "d3db3c2d",
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-03"
 }

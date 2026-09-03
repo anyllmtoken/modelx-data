@@ -1,0 +1,38 @@
+{
+  "id": "qwen-qwen3.8-flash-next",
+  "name": "Qwen3.8 Flash",
+  "created_by": "aliyun",
+  "source": "official",
+  "family": "qwen",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "video"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "output": 3
+  },
+  "last_updated": "2026-09-03",
+  "_generated": {
+    "name": "6bc18700",
+    "family": "a3af76f3",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "0946b777",
+    "modalities": "3ad4060a",
+    "pricing": "b0f16cb8"
+  }
+}

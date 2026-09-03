@@ -1,0 +1,20 @@
+{
+  "id": "ditto--ai/qwen3guard-gen-4b",
+  "name": "Qwen3guard Gen 4b",
+  "created_by": "ditto--ai",
+  "source": "official",
+  "family": "qwen3",
+  "status": "active",
+  "model_type": "other",
+  "parameters": 4,
+  "page_url": "https://replicate.com/ditto--ai/qwen3guard-gen-4b",
+  "last_updated": "2026-09-03",
+  "_generated": {
+    "name": "2b3163bb",
+    "family": "48c385a0",
+    "status": "379ac110",
+    "model_type": "ddb0b7bc",
+    "parameters": "a87ff679",
+    "page_url": "b3a76f06"
+  }
+}

@@ -12,7 +12,6 @@
   "parameters": 70,
   "tagline": "Euryale L3.1 70B v2.2 is a model focused on creative roleplay from Sao10k.",
   "capabilities": {
-    "tool_call": true,
     "reasoning": true,
     "structured_output": true,
     "streaming": true
@@ -45,11 +44,11 @@
     "model_type": "d669f408",
     "parameters": "7cbbc409",
     "tagline": "ea98cc67",
-    "capabilities": "2fe47005",
+    "capabilities": "38d30f34",
     "modalities": "68e53d93",
     "pricing": "00195da4",
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-03"
 }

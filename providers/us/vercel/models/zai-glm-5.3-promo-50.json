@@ -1,0 +1,27 @@
+{
+  "id": "zai/glm-5.3-promo-50",
+  "name": "glm-5.3-promo-50",
+  "created_by": "zhipu",
+  "source": "official",
+  "family": "glm-5.3",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.7,
+    "output": 2.2
+  },
+  "last_updated": "2026-09-03",
+  "_generated": {
+    "name": "ae96cd22",
+    "family": "9f217d9a",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "a281e83a",
+    "pricing": "2129f601"
+  }
+}

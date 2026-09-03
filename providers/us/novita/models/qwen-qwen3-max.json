@@ -13,6 +13,7 @@
   "tagline": "Qwen/qwen3-max, Enhanced with specialized upgrades in agent programming and tool calling.",
   "capabilities": {
     "tool_call": true,
+    "reasoning": true,
     "structured_output": true,
     "streaming": true
   },
@@ -44,11 +45,11 @@
     "max_output_tokens": "297ce0b3",
     "model_type": "d669f408",
     "tagline": "47385cca",
-    "capabilities": "01bdfc89",
+    "capabilities": "2fe47005",
     "modalities": "68e53d93",
     "pricing": "6a15bb59",
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-03"
 }
