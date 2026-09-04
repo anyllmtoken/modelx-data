@@ -3,7 +3,7 @@
   "name": "ling-3.0-flash-fin",
   "created_by": "inclusionai",
   "source": "official",
-  "context_window": 256000,
+  "context_window": 262100,
   "model_type": "chat",
   "capabilities": {
     "streaming": true,
@@ -14,10 +14,10 @@
     "input": 0,
     "output": 0
   },
-  "last_updated": "2026-09-03",
+  "last_updated": "2026-09-04",
   "_generated": {
     "name": "f986c074",
-    "context_window": "2fd324cb",
+    "context_window": "b23f4471",
     "model_type": "d669f408",
     "capabilities": "a281e83a",
     "pricing": "9a7a9781"

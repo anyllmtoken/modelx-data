@@ -3,7 +3,7 @@
   "name": "wan-v2.6-r2v-flash",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-09-03",
+  "last_updated": "2026-09-04",
   "capabilities": {
     "streaming": true
   },

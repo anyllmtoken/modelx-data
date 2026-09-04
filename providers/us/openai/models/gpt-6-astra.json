@@ -1,0 +1,66 @@
+{
+  "id": "gpt-6-astra",
+  "name": "gpt-6-astra",
+  "created_by": "openai",
+  "source": "official",
+  "status": "active",
+  "knowledge_cutoff": "2026-04",
+  "context_window": 1050000,
+  "max_output_tokens": 128000,
+  "max_input_tokens": 922000,
+  "model_type": "chat",
+  "license": "proprietary",
+  "performance": 5,
+  "reasoning": 5,
+  "speed": 4,
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-6-astra",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "structured_output": true,
+    "json_mode": false,
+    "fine_tuning": false,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "endpoints": [
+    "responses",
+    "chat_completions",
+    "batch"
+  ],
+  "tools": [
+    "function_calling"
+  ],
+  "reasoning_tokens": true,
+  "open_weight": false,
+  "last_updated": "2026-09-04",
+  "_generated": {
+    "name": "1d7a352e",
+    "status": "379ac110",
+    "knowledge_cutoff": "58654c5c",
+    "context_window": "f170ebb2",
+    "max_output_tokens": "34434798",
+    "max_input_tokens": "9399a9ae",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "performance": "e4da3b7f",
+    "reasoning": "e4da3b7f",
+    "speed": "a87ff679",
+    "page_url": "23d9f2b2",
+    "capabilities": "b210e5fb",
+    "modalities": "6399757e",
+    "endpoints": "88e8abb4",
+    "tools": "f0c1dc7e",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "68934a3e"
+  }
+}

@@ -25,6 +25,7 @@
     "input": [
       "text",
       "image",
+      "video",
       "audio"
     ],
     "output": [
@@ -89,11 +90,11 @@
     "model_type": "d669f408",
     "tagline": "9fee8828",
     "capabilities": "29b57eef",
-    "modalities": "a8211f74",
+    "modalities": "0b49b61e",
     "pricing": "3ca1bf6d",
     "open_weight": "68934a3e",
     "tools": "f0c1dc7e",
     "endpoints": "20e16908"
   },
-  "last_updated": "2026-09-03"
+  "last_updated": "2026-09-04"
 }

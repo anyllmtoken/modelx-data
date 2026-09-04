@@ -3,7 +3,7 @@
   "name": "stable-diffusion-xl-base-1.0",
   "created_by": "stability",
   "source": "official",
-  "last_updated": "2026-09-03",
+  "last_updated": "2026-09-04",
   "capabilities": {
     "streaming": true
   },
