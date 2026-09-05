@@ -3,7 +3,7 @@
   "name": "Wan 2 6 Image",
   "created_by": "unknown",
   "source": "official",
-  "last_updated": "2026-09-04",
+  "last_updated": "2026-09-05",
   "context_window": 32000,
   "capabilities": {
     "streaming": true

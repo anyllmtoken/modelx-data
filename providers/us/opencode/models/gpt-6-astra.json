@@ -1,0 +1,16 @@
+{
+  "id": "gpt-6-astra",
+  "name": "GPT 6 Astra",
+  "created_by": "openai",
+  "source": "official",
+  "status": "active",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-09-05",
+  "_generated": {
+    "name": "aeab3e7b",
+    "status": "379ac110",
+    "capabilities": "0fa77dc6"
+  }
+}

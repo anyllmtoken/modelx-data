@@ -3,15 +3,29 @@
   "name": "GLM-Z1-32B-0414",
   "created_by": "zhipu",
   "source": "official",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-09-05",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "tool_call": true
   },
   "_generated": {
     "name": "caad9b2f",
-    "capabilities": "0fa77dc6"
+    "capabilities": "48995a4e",
+    "model_type": "d669f408",
+    "family": "cb6bfc11",
+    "parameters": "182be0c5",
+    "release_date": "69fc7fbd",
+    "context_window": "f4376436",
+    "license": "3c4c3ba5",
+    "page_url": "af67e882",
+    "architecture": "8832ea0f"
   },
   "model_type": "chat",
   "family": "glm",
-  "parameters": 32
+  "parameters": 33,
+  "release_date": "2025-04-08",
+  "context_window": 32768,
+  "license": "mit",
+  "page_url": "https://huggingface.co/zai-org/GLM-Z1-32B-0414",
+  "architecture": "transformer"
 }
