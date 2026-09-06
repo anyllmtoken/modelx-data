@@ -3,7 +3,7 @@
   "name": "gpt-oss-120b",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-09-05",
+  "last_updated": "2026-09-06",
   "model_type": "chat",
   "capabilities": {
     "streaming": true

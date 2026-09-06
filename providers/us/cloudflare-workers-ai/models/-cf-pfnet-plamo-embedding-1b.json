@@ -3,7 +3,7 @@
   "name": "plamo-embedding-1b",
   "created_by": "pfnet",
   "source": "official",
-  "last_updated": "2026-09-05",
+  "last_updated": "2026-09-06",
   "model_type": "embed",
   "capabilities": {
     "streaming": true

@@ -3,7 +3,7 @@
   "name": "Ministral-3B",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-09-05",
+  "last_updated": "2026-09-06",
   "family": "ministral",
   "capabilities": {
     "streaming": true

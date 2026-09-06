@@ -3,7 +3,7 @@
   "name": "mixtral-8x7b",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-09-05",
+  "last_updated": "2026-09-06",
   "family": "mixtral",
   "context_window": 32700,
   "capabilities": {

@@ -3,16 +3,15 @@
   "name": "Mistral-Small-24B-Instruct-2501",
   "created_by": "unsloth",
   "source": "official",
-  "last_updated": "2026-03-24",
+  "last_updated": "2026-09-06",
   "alias": "unsloth/Mistral-Small-24B-Instruct",
   "capabilities": {
     "streaming": true,
-    "tool_call": true,
-    "fine_tuning": true
+    "tool_call": true
   },
   "_generated": {
     "name": "3da8d5c4",
-    "capabilities": "5780d00a",
+    "capabilities": "48995a4e",
     "model_type": "d669f408",
     "parameters": "1ff1de77",
     "page_url": "f8e584d5",
@@ -36,9 +35,15 @@
   "tagline": "We have a free Google Colab Tesla T4 notebook for Mistral (7B) here: https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Mistral_v0.3_(7B)-Conversational.ipynb",
   "architecture": "transformer",
   "open_weight": true,
-  "tools": ["function_calling"],
+  "tools": [
+    "function_calling"
+  ],
   "modalities": {
-    "input": ["text"],
-    "output": ["text"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
   }
 }

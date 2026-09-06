@@ -3,7 +3,7 @@
   "name": "GPT-4o Mini (18)",
   "created_by": "openai",
   "source": "official",
-  "last_updated": "2026-09-05",
+  "last_updated": "2026-09-06",
   "family": "gpt-4o",
   "description": "GPT-4o mini (“o” for “omni”) is a fast, affordable small model for focused tasks.",
   "status": "deprecated",
