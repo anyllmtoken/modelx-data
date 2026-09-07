@@ -1,0 +1,27 @@
+{
+  "id": "AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+  "name": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+  "created_by": "aeon-7",
+  "source": "official",
+  "description": "**[Early Access for Paid Patreon Subscribers](https://www.patreon.com/AeonForge7/posts/early-access-8-167981227)** — NVFP4 GDNFP8 LLMC weights and serve recipes.",
+  "release_date": "2026-08-15",
+  "license": "apache-2.0",
+  "parameters": 28,
+  "page_url": "https://huggingface.co/AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+  "architecture": "transformer",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "last_updated": "2026-09-07",
+  "_generated": {
+    "name": "1af45374",
+    "description": "6f58af98",
+    "release_date": "0c1f85d2",
+    "license": "60245731",
+    "parameters": "33e75ff0",
+    "page_url": "500c4452",
+    "architecture": "8832ea0f",
+    "capabilities": "48995a4e"
+  }
+}
