@@ -1,0 +1,16 @@
+{
+  "id": "lucataco/florence-2-large",
+  "name": "Florence 2 Large",
+  "created_by": "lucataco",
+  "source": "official",
+  "status": "active",
+  "model_type": "other",
+  "page_url": "https://replicate.com/lucataco/florence-2-large",
+  "last_updated": "2026-09-09",
+  "_generated": {
+    "name": "d8aca4a1",
+    "status": "379ac110",
+    "model_type": "ddb0b7bc",
+    "page_url": "bd0dd463"
+  }
+}

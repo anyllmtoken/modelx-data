@@ -1,0 +1,34 @@
+{
+  "id": "qwen/qwen-image-3.0-pro",
+  "name": "qwen/qwen-image-3.0-pro",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.016,
+    "output": 0.2
+  },
+  "last_updated": "2026-09-09",
+  "_generated": {
+    "name": "0112e989",
+    "family": "a3af76f3",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "d9cfecae"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "deepseek-v4-flash-vision-exp",
+  "name": "deepseek-v4-flash-vision-exp",
+  "created_by": "deepseek",
+  "source": "official",
+  "family": "deepseek",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-09-09",
+  "_generated": {
+    "name": "07cd6df9",
+    "family": "4b81b92d",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}
