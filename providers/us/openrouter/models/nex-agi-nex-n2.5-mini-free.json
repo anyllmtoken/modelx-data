@@ -14,13 +14,14 @@
   },
   "modalities": {
     "input": [
-      "text"
+      "text",
+      "image"
     ],
     "output": [
       "text"
     ]
   },
-  "last_updated": "2026-09-09",
+  "last_updated": "2026-09-10",
   "_generated": {
     "name": "78c67960",
     "description": "d1f9ed2a",
@@ -28,6 +29,6 @@
     "context_window": "4a1d32eb",
     "max_output_tokens": "7ad80673",
     "capabilities": "f533f522",
-    "modalities": "68e53d93"
+    "modalities": "6399757e"
   }
 }

@@ -9,7 +9,7 @@
   "release_date": "2026-08-27",
   "deprecation_date": "2098-12-31",
   "context_window": 1310720,
-  "max_output_tokens": 943718,
+  "max_output_tokens": 131072,
   "capabilities": {
     "tool_call": true,
     "structured_output": true,
@@ -26,11 +26,11 @@
     ]
   },
   "pricing": {
-    "input": 0.075,
-    "output": 0.25,
-    "cached_input": 0.015
+    "input": 0.07,
+    "output": 0.233,
+    "cached_input": 0.014
   },
-  "last_updated": "2026-09-09",
+  "last_updated": "2026-09-10",
   "_generated": {
     "name": "36d5de33",
     "family": "cb6bfc11",
@@ -39,9 +39,9 @@
     "release_date": "0890bbf8",
     "deprecation_date": "a93a4314",
     "context_window": "32886eaa",
-    "max_output_tokens": "7843f47e",
+    "max_output_tokens": "f7de594e",
     "capabilities": "f533f522",
     "modalities": "3ad4060a",
-    "pricing": "22fde1f3"
+    "pricing": "554d16c0"
   }
 }

@@ -1,9 +1,9 @@
 {
   "id": "bria/increase-resolution",
-  "name": "Bria Increase Resolution Image",
+  "name": "Bria Increase Resolution: Upscale Images up to 4x Without Losing Detail | fal",
   "created_by": "bria",
   "source": "official",
-  "description": "Upscales image resolution to improve sharpness and size while preserving the original content",
+  "description": "Upscale any image 2x or 4x, up to 8192×8192, with Bria Increase Resolution.",
   "status": "active",
   "release_date": "2026-09-07",
   "model_type": "image",
@@ -23,10 +23,10 @@
   "endpoints": [
     "images"
   ],
-  "last_updated": "2026-09-09",
+  "last_updated": "2026-09-10",
   "_generated": {
-    "name": "106bd2ce",
-    "description": "953e1dbf",
+    "name": "8c6bdee3",
+    "description": "23943947",
     "status": "379ac110",
     "release_date": "30330f20",
     "model_type": "db8857fe",

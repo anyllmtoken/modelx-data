@@ -3,7 +3,7 @@
   "name": "neural-chat-7b-v3-3",
   "created_by": "intel",
   "source": "official",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-09-10",
   "capabilities": {
     "streaming": true,
     "tool_call": true
@@ -15,11 +15,13 @@
     "page_url": "727e9638",
     "release_date": "bcff3ad5",
     "context_window": "f4376436",
-    "license": "60245731"
+    "license": "60245731",
+    "architecture": "8832ea0f"
   },
   "parameters": 7.2,
   "page_url": "https://huggingface.co/Intel/neural-chat-7b-v3-3",
   "release_date": "2023-12-09",
   "context_window": 32768,
-  "license": "apache-2.0"
+  "license": "apache-2.0",
+  "architecture": "transformer"
 }
