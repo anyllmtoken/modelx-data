@@ -6,7 +6,7 @@
   "family": "deepseek-chat",
   "description": "DeepSeek-V4-Pro hybrid model with both non-thinking and thinking (default) modes.",
   "status": "active",
-  "release_date": "2026-08-13",
+  "release_date": "2026-09-10",
   "context_window": 1000000,
   "max_output_tokens": 384000,
   "model_type": "chat",
@@ -28,9 +28,9 @@
     ]
   },
   "pricing": {
-    "input": 0.22,
-    "output": 0.66,
-    "cached_input": 0.007
+    "input": 0.15,
+    "output": 0.6,
+    "cached_input": 0.003
   },
   "open_weight": true,
   "endpoints": [
@@ -41,6 +41,7 @@
     "function_calling"
   ],
   "snapshots": [
+    "deepseek-v4-pro-2026-09-10",
     "deepseek-v4-pro-2026-08-13",
     "deepseek-v4-pro-2026-07-31",
     "deepseek-v4-pro-2026-04-24"
@@ -50,7 +51,7 @@
     "family": "fbd79fd9",
     "description": "7178a6ca",
     "status": "379ac110",
-    "release_date": "2a7fa61f",
+    "release_date": "b057cbf8",
     "context_window": "8155bc54",
     "max_output_tokens": "c58e26bd",
     "model_type": "d669f408",
@@ -59,10 +60,10 @@
     "tagline": "7178a6ca",
     "capabilities": "ef996ff1",
     "modalities": "68e53d93",
-    "pricing": "cbee7ae4",
+    "pricing": "56c766bc",
     "open_weight": "b326b506",
     "endpoints": "772bacef",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-09-05"
+  "last_updated": "2026-09-11"
 }

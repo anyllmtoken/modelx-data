@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/kimi-pluto-v1",
+  "name": "kimi-pluto-v1",
+  "created_by": "moonshot",
+  "source": "official",
+  "family": "kimi",
+  "context_window": 1040000,
+  "page_url": "https://fireworks.ai/models/fireworks/kimi-pluto-v1",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "last_updated": "2026-09-11",
+  "_generated": {
+    "name": "bd854358",
+    "family": "0740f86b",
+    "context_window": "1bf8ad8b",
+    "page_url": "83d6380b",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e"
+  }
+}

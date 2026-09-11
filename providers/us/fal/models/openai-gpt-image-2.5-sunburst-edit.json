@@ -1,6 +1,6 @@
 {
   "id": "openai/gpt-image-2.5/sunburst/edit",
-  "name": "Gpt Image 2.5 Sunburst Edit ",
+  "name": "GPT Image 2.5 Sunburst Edit ",
   "created_by": "openai",
   "source": "official",
   "family": "gpt-image-2.5",
@@ -24,9 +24,9 @@
   "endpoints": [
     "images"
   ],
-  "last_updated": "2026-09-10",
+  "last_updated": "2026-09-11",
   "_generated": {
-    "name": "21585afc",
+    "name": "856b7268",
     "family": "b65aa56d",
     "description": "8bef4a0b",
     "status": "379ac110",

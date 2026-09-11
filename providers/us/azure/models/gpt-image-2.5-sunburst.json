@@ -1,0 +1,27 @@
+{
+  "id": "gpt-image-2.5-sunburst",
+  "name": "gpt-image-2.5-sunburst",
+  "created_by": "openai",
+  "source": "official",
+  "family": "gpt-image-2.5",
+  "capabilities": {
+    "streaming": true,
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-09-11",
+  "_generated": {
+    "name": "90f6585f",
+    "family": "b65aa56d",
+    "capabilities": "8a3b232e",
+    "modalities": "6399757e"
+  }
+}

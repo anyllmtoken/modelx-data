@@ -1,6 +1,6 @@
 {
   "id": "openai/gpt-image-2.5/flare/text-to-image",
-  "name": "Gpt Image 2.5 Flare Text to Image",
+  "name": "GPT Image 2.5 Flare Text to Image",
   "created_by": "openai",
   "source": "official",
   "family": "gpt-image-2.5",
@@ -23,9 +23,9 @@
   "endpoints": [
     "images"
   ],
-  "last_updated": "2026-09-10",
+  "last_updated": "2026-09-11",
   "_generated": {
-    "name": "072556bb",
+    "name": "e7cd9324",
     "family": "b65aa56d",
     "description": "5228d643",
     "status": "379ac110",

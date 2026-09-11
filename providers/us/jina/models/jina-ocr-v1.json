@@ -18,13 +18,13 @@
     "output": []
   },
   "pricing": {
-    "input": 3
+    "input": 0.5
   },
   "endpoints": [
     "embeddings"
   ],
   "open_weight": true,
-  "last_updated": "2026-09-10",
+  "last_updated": "2026-09-11",
   "_generated": {
     "name": "dff0aa5f",
     "family": "fd36eff1",
@@ -35,7 +35,7 @@
     "model_type": "764cb3de",
     "license": "0b7dd534",
     "modalities": "e20ad98b",
-    "pricing": "cfcd0de0",
+    "pricing": "1621018b",
     "endpoints": "5845adda",
     "open_weight": "b326b506"
   }

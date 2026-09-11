@@ -1,0 +1,31 @@
+{
+  "id": "gpt-live-1",
+  "name": "GPT-Live 1 (1)",
+  "created_by": "openai",
+  "source": "official",
+  "description": "GPT-Live 1 is a full-duplex voice model for real-time conversations. It can listen and speak at the same time, and delegate reasoning and tool use to a backend agent.",
+  "status": "deprecated",
+  "license": "proprietary",
+  "page_url": "https://developers.openai.com/api/docs/models/gpt-live-1",
+  "tagline": "Our premier model for natural, expressive voice conversations with smooth interruption handling.",
+  "snapshots": [
+    "gpt-live-1"
+  ],
+  "pricing_notes": [
+    "Session duration is not rounded up to the next whole minute.",
+    "Backend Responses calls use the normal pricing for the configured model and tools."
+  ],
+  "open_weight": false,
+  "last_updated": "2026-09-11",
+  "_generated": {
+    "name": "550dbd4f",
+    "description": "f46dd1b6",
+    "status": "2e2f74dc",
+    "license": "9186c466",
+    "page_url": "ce4ae0f7",
+    "tagline": "402c738c",
+    "pricing_notes": "7429189c",
+    "open_weight": "68934a3e"
+  },
+  "alias": "gpt-live-1"
+}
