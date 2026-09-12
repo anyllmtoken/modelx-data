@@ -1,0 +1,32 @@
+{
+  "id": "tencent-hy4-preview",
+  "name": "tencent/Hy4-preview",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "siliconflow",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 6,
+    "output": 18
+  },
+  "last_updated": "2026-09-12",
+  "_generated": {
+    "name": "dddd7b25",
+    "family": "204baa33",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "pricing": "d0db174c"
+  }
+}

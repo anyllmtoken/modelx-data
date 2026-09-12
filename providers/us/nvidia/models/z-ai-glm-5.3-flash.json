@@ -1,0 +1,16 @@
+{
+  "id": "z-ai/glm-5.3-flash",
+  "name": "glm-5.3-flash",
+  "created_by": "zhipu",
+  "source": "official",
+  "family": "glm-5.3",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-09-12",
+  "_generated": {
+    "name": "c99f2343",
+    "family": "9f217d9a",
+    "capabilities": "0fa77dc6"
+  }
+}

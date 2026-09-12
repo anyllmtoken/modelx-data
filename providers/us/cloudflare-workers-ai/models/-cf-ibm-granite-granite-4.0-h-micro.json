@@ -3,15 +3,14 @@
   "name": "granite-4.0-h-micro",
   "created_by": "ibm",
   "source": "official",
-  "last_updated": "2026-09-11",
+  "last_updated": "2026-09-12",
   "capabilities": {
     "streaming": true,
-    "tool_call": true,
-    "reasoning": true
+    "tool_call": true
   },
   "_generated": {
     "name": "4074cf42",
-    "capabilities": "a281e83a",
+    "capabilities": "48995a4e",
     "status": "379ac110",
     "model_type": "d669f408",
     "page_url": "96adee47",

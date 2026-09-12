@@ -3,15 +3,13 @@
   "name": "detr-resnet-50",
   "created_by": "meta",
   "source": "official",
-  "last_updated": "2026-09-11",
+  "last_updated": "2026-09-12",
   "capabilities": {
-    "streaming": true,
-    "tool_call": true,
-    "reasoning": true
+    "streaming": true
   },
   "_generated": {
     "name": "73e9c2ac",
-    "capabilities": "a281e83a",
+    "capabilities": "0fa77dc6",
     "status": "379ac110",
     "model_type": "b815fc69",
     "page_url": "59dbfba8",

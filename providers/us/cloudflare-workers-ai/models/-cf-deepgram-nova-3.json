@@ -3,15 +3,13 @@
   "name": "nova-3",
   "created_by": "deepgram",
   "source": "official",
-  "last_updated": "2026-09-11",
+  "last_updated": "2026-09-12",
   "capabilities": {
-    "streaming": true,
-    "tool_call": true,
-    "reasoning": true
+    "streaming": true
   },
   "_generated": {
     "name": "c0803038",
-    "capabilities": "a281e83a",
+    "capabilities": "0fa77dc6",
     "status": "379ac110",
     "model_type": "5e12d29a",
     "page_url": "6d4befb4",

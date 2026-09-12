@@ -1,0 +1,35 @@
+{
+  "id": "kimi-k2.8-preview",
+  "name": "kimi-k2.8-preview",
+  "created_by": "tencent",
+  "source": "official",
+  "family": "kimi-k2.8",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 6.5,
+    "output": 27,
+    "cached_input": 1.7
+  },
+  "last_updated": "2026-09-12",
+  "_generated": {
+    "name": "9f0f13cb",
+    "family": "d557ad3d",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "40aef0e4"
+  }
+}

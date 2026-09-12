@@ -3,18 +3,16 @@
   "name": "qwq-32b",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-09-11",
+  "last_updated": "2026-09-12",
   "family": "qwq",
   "capabilities": {
     "streaming": true,
-    "tool_call": true,
-    "reasoning": true,
-    "vision": true
+    "reasoning": true
   },
   "_generated": {
     "name": "2d469a71",
     "family": "3a976110",
-    "capabilities": "45192957",
+    "capabilities": "b011c6b4",
     "model_type": "17475f7f",
     "parameters": "6364d3f0",
     "status": "379ac110",

@@ -1,0 +1,26 @@
+{
+  "id": "inclusionai/ling-3.0-flash-vl",
+  "name": "ling-3.0-flash-vl",
+  "created_by": "inclusionai",
+  "source": "official",
+  "context_window": 256000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "last_updated": "2026-09-12",
+  "_generated": {
+    "name": "c644682d",
+    "context_window": "2fd324cb",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "9a7a9781"
+  }
+}

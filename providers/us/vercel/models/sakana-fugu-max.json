@@ -1,0 +1,26 @@
+{
+  "id": "sakana/fugu-max",
+  "name": "fugu-max",
+  "created_by": "sakana",
+  "source": "official",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 2,
+    "output": 6
+  },
+  "last_updated": "2026-09-12",
+  "_generated": {
+    "name": "d00946d2",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "e205efd3"
+  }
+}

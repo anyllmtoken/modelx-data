@@ -1,0 +1,27 @@
+{
+  "id": "deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
+  "name": "deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
+  "created_by": "deepseek",
+  "source": "official",
+  "family": "deepseek",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-09-12",
+  "_generated": {
+    "name": "aad8c3f5",
+    "family": "4b81b92d",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}
