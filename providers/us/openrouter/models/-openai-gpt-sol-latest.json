@@ -1,9 +1,9 @@
 {
   "id": "~openai/gpt-sol-latest",
-  "name": "OpenAI GPT Sol Latest",
+  "name": "OpenAI: GPT Sol Latest",
   "created_by": "~openai",
   "source": "official",
-  "description": "This model always redirects to the latest model in the OpenAI GPT Sol family.",
+  "description": "This model always redirects to the latest model in the GPT Sol family.",
   "release_date": "2026-09-11",
   "context_window": 1050000,
   "max_output_tokens": 128000,
@@ -26,10 +26,10 @@
     "output": 10,
     "cached_input": 0.2
   },
-  "last_updated": "2026-09-12",
+  "last_updated": "2026-09-13",
   "_generated": {
-    "name": "897dd6ac",
-    "description": "a4bcc22e",
+    "name": "4deb3ef4",
+    "description": "0db5b592",
     "release_date": "6ff6abef",
     "context_window": "f170ebb2",
     "max_output_tokens": "34434798",

@@ -26,7 +26,7 @@
     "output": 4.05,
     "cached_input": 0.17
   },
-  "last_updated": "2026-09-12",
+  "last_updated": "2026-09-13",
   "_generated": {
     "name": "868209f4",
     "description": "f2a134f0",
@@ -35,7 +35,7 @@
     "capabilities": "f533f522",
     "modalities": "05efe8aa",
     "pricing": "2b9ec52a",
-    "max_output_tokens": "f4376436"
+    "max_output_tokens": "552badfe"
   },
-  "max_output_tokens": 32768
+  "max_output_tokens": 471859
 }
