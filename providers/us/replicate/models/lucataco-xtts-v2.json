@@ -1,0 +1,16 @@
+{
+  "id": "lucataco/xtts-v2",
+  "name": "Xtts V2",
+  "created_by": "lucataco",
+  "source": "official",
+  "status": "active",
+  "model_type": "audio",
+  "page_url": "https://replicate.com/lucataco/xtts-v2",
+  "last_updated": "2026-09-14",
+  "_generated": {
+    "name": "3a3155fd",
+    "status": "379ac110",
+    "model_type": "9f84c007",
+    "page_url": "58a8d050"
+  }
+}
