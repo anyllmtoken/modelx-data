@@ -1,0 +1,39 @@
+{
+  "id": "Bria/fibo-1.5",
+  "name": "fibo-1.5",
+  "created_by": "bria",
+  "source": "official",
+  "description": "FIBO 1.5 is Bria's JSON-native text-to-image model, distilled to a few sampling steps and post-trained for sharper realism and texture, with structured-prompt control over lighting, composition and camera.",
+  "status": "active",
+  "model_type": "image",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "images"
+  ],
+  "pricing_notes": [
+    "$0.0400 per image unit (0x0 default)"
+  ],
+  "open_weight": false,
+  "last_updated": "2026-09-15",
+  "_generated": {
+    "name": "2887e680",
+    "description": "9db24766",
+    "status": "379ac110",
+    "model_type": "db8857fe",
+    "capabilities": "0fa77dc6",
+    "modalities": "814867b9",
+    "endpoints": "9a7c17cc",
+    "pricing_notes": "05714ce8",
+    "open_weight": "68934a3e"
+  }
+}

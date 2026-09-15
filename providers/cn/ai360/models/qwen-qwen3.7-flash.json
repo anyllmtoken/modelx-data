@@ -1,0 +1,36 @@
+{
+  "id": "qwen/qwen3.7-flash",
+  "name": "qwen/qwen3.7-flash",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen3.7",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.2,
+    "output": 0.8
+  },
+  "last_updated": "2026-09-15",
+  "_generated": {
+    "name": "4d520d02",
+    "family": "d71bf7f7",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "9a9e4921"
+  }
+}
