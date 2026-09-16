@@ -1,0 +1,23 @@
+{
+  "id": "inference-net/schematron-v2-small",
+  "name": "schematron-v2-small",
+  "created_by": "inference-net",
+  "source": "official",
+  "context_window": 128000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.05,
+    "output": 0.23
+  },
+  "last_updated": "2026-09-16",
+  "_generated": {
+    "name": "ced9921a",
+    "context_window": "34434798",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "pricing": "37f0a93b"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "360zhinao/360zhinao-turbo-llm-geo",
+  "name": "360zhinao/360zhinao-turbo-llm-geo",
+  "created_by": "ai360",
+  "source": "official",
+  "family": "ai360",
+  "context_window": 116000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1,
+    "output": 2
+  },
+  "last_updated": "2026-09-16",
+  "_generated": {
+    "name": "7a12477f",
+    "family": "1d747135",
+    "context_window": "bc12202b",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "ac91204c"
+  }
+}
