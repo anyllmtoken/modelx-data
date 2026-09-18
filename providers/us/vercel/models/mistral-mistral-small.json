@@ -3,7 +3,7 @@
   "name": "mistral-small",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-09-17",
+  "last_updated": "2026-09-18",
   "family": "mistral-small",
   "context_window": 262100,
   "capabilities": {

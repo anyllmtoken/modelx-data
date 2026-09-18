@@ -1,0 +1,27 @@
+{
+  "id": "xingchenagi-xing4.0-29b",
+  "name": "XingChenAGI/Xing4.0-29B",
+  "created_by": "siliconflow",
+  "source": "official",
+  "family": "siliconflow",
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-09-18",
+  "_generated": {
+    "name": "e02127cc",
+    "family": "204baa33",
+    "model_type": "d669f408",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93"
+  }
+}
