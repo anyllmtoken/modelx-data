@@ -1,0 +1,28 @@
+{
+  "id": "zai/glm-5.3-flashx",
+  "name": "glm-5.3-flashx",
+  "created_by": "zhipu",
+  "source": "official",
+  "family": "glm-5.3",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.37,
+    "output": 1.25
+  },
+  "last_updated": "2026-09-19",
+  "_generated": {
+    "name": "30ba166d",
+    "family": "9f217d9a",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "22a48635"
+  }
+}

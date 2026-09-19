@@ -1,0 +1,39 @@
+{
+  "id": "bytedance/seedance-2.5/us/image-to-video",
+  "name": "Seedance 2.5 US Image to Video",
+  "created_by": "bytedance",
+  "source": "official",
+  "description": "US-hosted ByteDance Seedance 2.5 animates still images with synchronized audio and optional end-frame control.",
+  "status": "active",
+  "release_date": "2026-09-19",
+  "model_type": "video",
+  "page_url": "https://fal.run/bytedance/seedance-2.5/us/image-to-video",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "audio"
+    ],
+    "output": [
+      "video"
+    ]
+  },
+  "endpoints": [
+    "video"
+  ],
+  "last_updated": "2026-09-19",
+  "_generated": {
+    "name": "0f3d9553",
+    "description": "353c4fc8",
+    "status": "379ac110",
+    "release_date": "05663993",
+    "model_type": "4d1b75ca",
+    "page_url": "24f7cb1c",
+    "capabilities": "d3117eb0",
+    "modalities": "8ff0f40b",
+    "endpoints": "7a78c070"
+  }
+}
