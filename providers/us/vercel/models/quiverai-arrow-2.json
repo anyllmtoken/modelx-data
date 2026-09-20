@@ -1,0 +1,26 @@
+{
+  "id": "quiverai/arrow-2",
+  "name": "arrow-2",
+  "created_by": "quiverai",
+  "source": "official",
+  "context_window": 131100,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 4,
+    "output": 20
+  },
+  "last_updated": "2026-09-20",
+  "_generated": {
+    "name": "43a0df4a",
+    "context_window": "a683b9ae",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "7b432ec6"
+  }
+}

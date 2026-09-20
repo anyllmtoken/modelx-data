@@ -1,0 +1,24 @@
+{
+  "id": "mixedbread/toast-1",
+  "name": "toast-1",
+  "created_by": "mixedbread",
+  "source": "official",
+  "context_window": 131000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "pricing": {
+    "input": 0.3,
+    "output": 0.72
+  },
+  "last_updated": "2026-09-20",
+  "_generated": {
+    "name": "e1cf16fa",
+    "context_window": "834bd590",
+    "model_type": "d669f408",
+    "capabilities": "48995a4e",
+    "pricing": "564c65ed"
+  }
+}

@@ -7,10 +7,16 @@
   "model_type": "embed",
   "page_url": "https://replicate.com/krthr/clip-embeddings",
   "modalities": {
-    "input": ["text"],
-    "output": ["text"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
   },
-  "endpoints": ["embeddings"],
+  "endpoints": [
+    "embeddings"
+  ],
   "_generated": {
     "name": "13f42af6",
     "status": "379ac110",
@@ -19,5 +25,5 @@
     "modalities": "68e53d93",
     "endpoints": "5845adda"
   },
-  "last_updated": "2026-06-18"
+  "last_updated": "2026-09-20"
 }

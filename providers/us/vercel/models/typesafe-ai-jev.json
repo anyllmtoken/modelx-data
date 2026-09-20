@@ -10,10 +10,12 @@
     "input": 0.04,
     "output": 0
   },
-  "last_updated": "2026-09-19",
+  "last_updated": "2026-09-20",
   "_generated": {
     "name": "41585d58",
     "capabilities": "0fa77dc6",
-    "pricing": "52a74acf"
-  }
+    "pricing": "52a74acf",
+    "context_window": "10e4d788"
+  },
+  "context_window": 32000
 }
