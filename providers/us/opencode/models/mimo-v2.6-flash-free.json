@@ -1,0 +1,18 @@
+{
+  "id": "mimo-v2.6-flash-free",
+  "name": "MiMo-V2.6-Flash Free",
+  "created_by": "xiaomi",
+  "source": "official",
+  "family": "mimo",
+  "status": "active",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-09-22",
+  "_generated": {
+    "name": "a9aceac4",
+    "family": "1a23786e",
+    "status": "379ac110",
+    "capabilities": "0fa77dc6"
+  }
+}
