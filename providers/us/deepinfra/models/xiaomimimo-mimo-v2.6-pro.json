@@ -1,0 +1,57 @@
+{
+  "id": "XiaomiMiMo/MiMo-V2.6-Pro",
+  "name": "MiMo-V2.6-Pro",
+  "created_by": "xiaomimimo",
+  "source": "official",
+  "family": "mimo",
+  "description": "MiMo-V2.6-Pro is the flagship of Xiaomi's MiMo-V2.6 series: a sparse Mixture-of-Experts model with 1.02T total and 42B activated parameters, natively omnimodal across text, image, video and audio, with a 1M-token context window. Trained with large-scale mixed reinforcement learning and groupwise agentic grading, it is built for demanding agentic work including long-horizon coding, multi-tool agents and cybersecurity tasks.",
+  "status": "active",
+  "context_window": 1048576,
+  "model_type": "chat",
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "json_mode": true,
+    "reasoning": true,
+    "vision": true,
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.435,
+    "output": 0.87,
+    "cached_input": 0.0036
+  },
+  "endpoints": [
+    "chat_completions"
+  ],
+  "tools": [
+    "function_calling"
+  ],
+  "reasoning_tokens": true,
+  "open_weight": true,
+  "last_updated": "2026-09-23",
+  "_generated": {
+    "name": "27bfb30b",
+    "family": "1a23786e",
+    "description": "b26e49b3",
+    "status": "379ac110",
+    "context_window": "7d28a051",
+    "model_type": "d669f408",
+    "capabilities": "d0cb1dc1",
+    "modalities": "6399757e",
+    "pricing": "d353cb25",
+    "endpoints": "d8fa1080",
+    "tools": "f0c1dc7e",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "b326b506"
+  }
+}
