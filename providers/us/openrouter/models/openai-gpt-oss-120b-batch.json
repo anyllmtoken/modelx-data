@@ -22,10 +22,10 @@
     ]
   },
   "pricing": {
-    "input": 0.15,
-    "output": 0.6
+    "input": 0.03,
+    "output": 0.136
   },
-  "last_updated": "2026-09-21",
+  "last_updated": "2026-09-24",
   "_generated": {
     "name": "92362984",
     "family": "82d0cb0b",
@@ -35,6 +35,6 @@
     "max_output_tokens": "242f56a4",
     "capabilities": "f533f522",
     "modalities": "68e53d93",
-    "pricing": "89a9c6e2"
+    "pricing": "436c235d"
   }
 }

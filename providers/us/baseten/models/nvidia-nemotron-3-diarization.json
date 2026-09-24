@@ -1,0 +1,25 @@
+{
+  "id": "nvidia-nemotron-3-diarization",
+  "name": "nvidia-nemotron-3-diarization",
+  "created_by": "nvidia",
+  "source": "official",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-09-24",
+  "_generated": {
+    "name": "55dd783b",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}
