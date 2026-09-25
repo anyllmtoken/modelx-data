@@ -30,7 +30,7 @@
   "pricing_notes": [
     "Jointly trained by Cursor and SpaceXAI; Long context (>256k input tokens) is billed at 2x standard rates, up to 500k; Fast mode is available at 2x pricing; Fast mode for long context (>256k) is billed at 3x standard rates"
   ],
-  "last_updated": "2026-09-24",
+  "last_updated": "2026-09-25",
   "_generated": {
     "name": "da4ebcf1",
     "family": "1b9c0a81",

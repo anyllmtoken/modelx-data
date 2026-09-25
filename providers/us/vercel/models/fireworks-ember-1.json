@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/ember-1",
+  "name": "ember-1",
+  "created_by": "fireworks",
+  "source": "official",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 3,
+    "output": 15
+  },
+  "last_updated": "2026-09-25",
+  "_generated": {
+    "name": "1a6e738f",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "7939f0ff"
+  }
+}

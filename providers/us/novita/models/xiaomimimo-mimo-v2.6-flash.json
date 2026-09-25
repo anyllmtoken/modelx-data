@@ -1,0 +1,51 @@
+{
+  "id": "xiaomimimo/mimo-v2.6-flash",
+  "name": "MiMo V2.6 Flash",
+  "created_by": "xiaomi",
+  "source": "official",
+  "family": "mimo",
+  "description": "MiMo V2.6 Flash is Xiaomi's cost-efficient open-source reasoning model for high-frequency calls and large-scale professional workflows.",
+  "status": "active",
+  "release_date": "2026-09-24",
+  "context_window": 1048576,
+  "max_output_tokens": 131072,
+  "model_type": "chat",
+  "capabilities": {
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true,
+    "structured_output": true,
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.14,
+    "output": 0.28
+  },
+  "endpoints": [
+    "chat_completions"
+  ],
+  "last_updated": "2026-09-25",
+  "_generated": {
+    "name": "cc3fcb72",
+    "family": "1a23786e",
+    "description": "54e83216",
+    "status": "379ac110",
+    "release_date": "0f588381",
+    "context_window": "7d28a051",
+    "max_output_tokens": "f7de594e",
+    "model_type": "d669f408",
+    "capabilities": "60af2306",
+    "modalities": "6399757e",
+    "pricing": "5d28482e",
+    "endpoints": "d8fa1080"
+  }
+}
