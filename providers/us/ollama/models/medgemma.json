@@ -12,12 +12,16 @@
   "tagline": "MedGemma is a collection of Gemma 3 variants that are trained for performance on medical text and image comprehension.",
   "capabilities": {
     "streaming": true,
-    "vision": true,
-    "fine_tuning": true
+    "vision": true
   },
   "modalities": {
-    "input": ["text", "image"],
-    "output": ["text"]
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
   },
   "_generated": {
     "name": "1c8471d1",
@@ -28,8 +32,8 @@
     "page_url": "4995443a",
     "open_weight": "b326b506",
     "tagline": "9a4cf10b",
-    "capabilities": "91e36286",
+    "capabilities": "8a3b232e",
     "modalities": "6399757e"
   },
-  "last_updated": "2026-04-16"
+  "last_updated": "2026-09-26"
 }

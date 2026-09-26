@@ -14,11 +14,15 @@
   "model_type": "chat",
   "tagline": "Kimi K2.7 Code is Moonshot AI&#39;s coding-focused agentic model built upon Kimi K2.6, with substantial improvements on real-world long-horizon coding tasks and roughly 30% lower thinking-token usage.",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
   },
   "modalities": {
     "input": [
-      "text"
+      "text",
+      "image"
     ],
     "output": [
       "text"
@@ -39,9 +43,9 @@
     "open_weight": "b326b506",
     "model_type": "d669f408",
     "tagline": "3897a058",
-    "capabilities": "0fa77dc6",
-    "modalities": "68e53d93",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-09-25"
+  "last_updated": "2026-09-26"
 }

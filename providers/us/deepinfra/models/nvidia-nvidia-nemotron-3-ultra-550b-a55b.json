@@ -15,13 +15,11 @@
     "structured_output": true,
     "json_mode": true,
     "reasoning": true,
-    "vision": true,
     "streaming": true
   },
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"
@@ -47,13 +45,13 @@
     "reasoning_tokens": "b326b506",
     "open_weight": "b326b506",
     "tagline": "2408bec4",
-    "capabilities": "d0cb1dc1",
-    "modalities": "6399757e",
+    "capabilities": "a17ad43b",
+    "modalities": "68e53d93",
     "pricing": "682ce974",
     "tools": "f0c1dc7e",
     "endpoints": "d8fa1080",
     "quantization": "0e8a48ee"
   },
-  "last_updated": "2026-09-25",
+  "last_updated": "2026-09-26",
   "quantization": "fp4"
 }

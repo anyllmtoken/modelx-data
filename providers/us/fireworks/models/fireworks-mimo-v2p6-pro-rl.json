@@ -1,0 +1,26 @@
+{
+  "id": "fireworks/mimo-v2p6-pro-rl",
+  "name": "mimo-v2p6-pro-rl",
+  "created_by": "fireworks",
+  "source": "official",
+  "family": "mimo",
+  "context_window": 1040000,
+  "page_url": "https://fireworks.ai/models/fireworks/mimo-v2p6-pro-rl",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "last_updated": "2026-09-26",
+  "_generated": {
+    "name": "c9ae2d52",
+    "family": "1a23786e",
+    "context_window": "1bf8ad8b",
+    "page_url": "18539e7f",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e"
+  }
+}

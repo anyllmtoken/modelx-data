@@ -1,0 +1,25 @@
+{
+  "id": "stealth/pixel-canary",
+  "name": "pixel-canary",
+  "created_by": "stealth",
+  "source": "official",
+  "context_window": 262100,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "last_updated": "2026-09-26",
+  "_generated": {
+    "name": "560ae3bd",
+    "context_window": "b23f4471",
+    "model_type": "d669f408",
+    "capabilities": "8d009641",
+    "pricing": "9a7a9781"
+  }
+}
