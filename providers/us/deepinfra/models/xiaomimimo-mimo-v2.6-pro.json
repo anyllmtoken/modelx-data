@@ -26,7 +26,7 @@
     ]
   },
   "pricing": {
-    "input": 0.435,
+    "input": 0.43,
     "output": 0.87,
     "cached_input": 0.0036
   },
@@ -38,7 +38,7 @@
   ],
   "reasoning_tokens": true,
   "open_weight": true,
-  "last_updated": "2026-09-26",
+  "last_updated": "2026-09-27",
   "_generated": {
     "name": "27bfb30b",
     "family": "1a23786e",
@@ -48,7 +48,7 @@
     "model_type": "d669f408",
     "capabilities": "d0cb1dc1",
     "modalities": "6399757e",
-    "pricing": "d353cb25",
+    "pricing": "4c8f6438",
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e",
     "reasoning_tokens": "b326b506",
