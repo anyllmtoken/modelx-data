@@ -23,9 +23,9 @@
     ]
   },
   "pricing": {
-    "input": 0.08,
-    "output": 0.2,
-    "cached_input": 0.04
+    "input": 0.06,
+    "output": 0.16,
+    "cached_input": 0.03
   },
   "endpoints": [
     "chat_completions"
@@ -34,7 +34,7 @@
     "function_calling"
   ],
   "open_weight": true,
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-09-29",
   "_generated": {
     "name": "25b9efb1",
     "description": "e05c77f0",
@@ -43,7 +43,7 @@
     "model_type": "d669f408",
     "capabilities": "a17ad43b",
     "modalities": "68e53d93",
-    "pricing": "9c908ad1",
+    "pricing": "5bc11bc2",
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e",
     "open_weight": "b326b506",

@@ -15,8 +15,7 @@
     "input": [
       "text",
       "image",
-      "video",
-      "audio"
+      "video"
     ],
     "output": [
       "text"
@@ -27,14 +26,14 @@
     "output": 0.2,
     "cached_input": 0.002
   },
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-09-29",
   "_generated": {
     "name": "194a8dc4",
     "description": "77d2429a",
     "release_date": "4b63df80",
     "context_window": "7d28a051",
     "capabilities": "f533f522",
-    "modalities": "c569b149",
+    "modalities": "3ad4060a",
     "pricing": "8b2b5f55",
     "max_output_tokens": "7843f47e"
   },

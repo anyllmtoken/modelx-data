@@ -16,8 +16,7 @@
     "input": [
       "text",
       "image",
-      "video",
-      "audio"
+      "video"
     ],
     "output": [
       "text"
@@ -28,7 +27,7 @@
     "output": 4.25,
     "cached_input": 0.15
   },
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-09-29",
   "_generated": {
     "name": "24a05e89",
     "description": "374e2013",
@@ -36,7 +35,7 @@
     "context_window": "7d28a051",
     "max_output_tokens": "7843f47e",
     "capabilities": "f533f522",
-    "modalities": "c569b149",
+    "modalities": "3ad4060a",
     "pricing": "a0f59bdb"
   }
 }

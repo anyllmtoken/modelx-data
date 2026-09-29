@@ -4,7 +4,7 @@
   "created_by": "xiaomi",
   "source": "official",
   "family": "mimo",
-  "context_window": 1000000,
+  "context_window": 1100000,
   "model_type": "chat",
   "capabilities": {
     "streaming": true,
@@ -16,11 +16,11 @@
     "input": 0.14,
     "output": 0.28
   },
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-09-29",
   "_generated": {
     "name": "68e2ef66",
     "family": "1a23786e",
-    "context_window": "8155bc54",
+    "context_window": "6d81e421",
     "model_type": "d669f408",
     "capabilities": "a19166f1",
     "pricing": "5d28482e"

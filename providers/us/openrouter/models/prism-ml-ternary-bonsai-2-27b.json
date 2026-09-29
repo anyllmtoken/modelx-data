@@ -24,9 +24,10 @@
   },
   "pricing": {
     "input": 0.075,
-    "output": 0.5
+    "output": 0.5,
+    "cached_input": 0.038
   },
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-09-29",
   "_generated": {
     "name": "43bacb71",
     "description": "7009b2c7",
@@ -36,6 +37,6 @@
     "parameters": "02e74f10",
     "capabilities": "f533f522",
     "modalities": "6399757e",
-    "pricing": "4b54a625"
+    "pricing": "37fcdcb8"
   }
 }
