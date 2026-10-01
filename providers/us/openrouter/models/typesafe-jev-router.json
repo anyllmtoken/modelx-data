@@ -17,12 +17,18 @@
       "text"
     ]
   },
-  "last_updated": "2026-09-30",
+  "last_updated": "2026-10-01",
   "_generated": {
     "name": "ccd804b0",
     "description": "47df2bf6",
     "release_date": "be1d3a3a",
     "context_window": "8155bc54",
-    "modalities": "b7a3ac68"
+    "modalities": "b7a3ac68",
+    "capabilities": "f533f522"
+  },
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
   }
 }
