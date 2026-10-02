@@ -22,11 +22,11 @@
     ]
   },
   "pricing": {
-    "input": 0.004,
-    "output": 0.131,
-    "cached_input": 0.001
+    "input": 0.008,
+    "output": 1.28,
+    "cached_input": 0.008
   },
-  "last_updated": "2026-10-01",
+  "last_updated": "2026-10-02",
   "_generated": {
     "name": "7b09d092",
     "family": "4b81b92d",
@@ -36,6 +36,6 @@
     "max_output_tokens": "7843f47e",
     "capabilities": "f533f522",
     "modalities": "68e53d93",
-    "pricing": "b939feff"
+    "pricing": "4f63e58f"
   }
 }

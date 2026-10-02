@@ -34,7 +34,7 @@
   ],
   "reasoning_tokens": true,
   "open_weight": true,
-  "last_updated": "2026-10-01",
+  "last_updated": "2026-10-02",
   "_generated": {
     "name": "a56e166a",
     "status": "379ac110",
@@ -46,6 +46,8 @@
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e",
     "reasoning_tokens": "b326b506",
-    "open_weight": "b326b506"
-  }
+    "open_weight": "b326b506",
+    "description": "7bcc13f7"
+  },
+  "description": "Hy4 preview is a 770B-parameter Mixture-of-Experts flagship model from the Tencent Hy Team, with 49B parameters activated per token and a 1M-token context window. It uses Gated DeepSeek Sparse Attention with IndexCache, and is post-trained for software engineering, office and data analysis, game development, and scientific research."
 }

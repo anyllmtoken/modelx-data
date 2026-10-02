@@ -11,11 +11,13 @@
     "input": 0.5,
     "output": 6
   },
-  "last_updated": "2026-10-01",
+  "last_updated": "2026-10-02",
   "_generated": {
     "name": "72843016",
     "family": "d937426a",
     "capabilities": "0fa77dc6",
-    "pricing": "6495e615"
-  }
+    "pricing": "6495e615",
+    "context_window": "486c0401"
+  },
+  "context_window": 8200
 }
