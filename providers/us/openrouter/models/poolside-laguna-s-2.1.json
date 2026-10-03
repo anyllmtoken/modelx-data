@@ -24,7 +24,7 @@
     "output": 0.18,
     "cached_input": 0.009
   },
-  "last_updated": "2026-10-02",
+  "last_updated": "2026-10-03",
   "_generated": {
     "name": "11bdc74d",
     "description": "18856b21",
@@ -33,6 +33,10 @@
     "max_output_tokens": "f7de594e",
     "capabilities": "05723a3e",
     "modalities": "68e53d93",
-    "pricing": "0b04fc94"
-  }
+    "pricing": "0b04fc94",
+    "status": "2e2f74dc",
+    "deprecation_date": "00fadcba"
+  },
+  "status": "deprecated",
+  "deprecation_date": "2026-10-31"
 }
