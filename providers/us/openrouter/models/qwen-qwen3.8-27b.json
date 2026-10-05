@@ -25,11 +25,11 @@
     ]
   },
   "pricing": {
-    "input": 0.42,
-    "output": 3,
+    "input": 0.425,
+    "output": 2.55,
     "cached_input": 0.085
   },
-  "last_updated": "2026-10-04",
+  "last_updated": "2026-10-05",
   "_generated": {
     "name": "a4c705e6",
     "family": "e102ad6a",
@@ -40,6 +40,6 @@
     "parameters": "02e74f10",
     "capabilities": "f533f522",
     "modalities": "3ad4060a",
-    "pricing": "5e877a26"
+    "pricing": "47149589"
   }
 }
