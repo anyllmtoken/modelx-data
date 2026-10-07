@@ -9,9 +9,7 @@
   "parameters": 9,
   "page_url": "https://ollama.com/library/nimble",
   "capabilities": {
-    "streaming": true,
-    "tool_call": true,
-    "reasoning": true
+    "streaming": true
   },
   "modalities": {
     "input": [
@@ -22,7 +20,7 @@
     ]
   },
   "open_weight": true,
-  "last_updated": "2026-10-06",
+  "last_updated": "2026-10-07",
   "_generated": {
     "name": "a9acee05",
     "description": "54f70a0c",
@@ -30,7 +28,7 @@
     "license": "60245731",
     "parameters": "45c48cce",
     "page_url": "9cd68397",
-    "capabilities": "a281e83a",
+    "capabilities": "0fa77dc6",
     "modalities": "68e53d93",
     "open_weight": "b326b506",
     "reasoning_tokens": "b326b506"

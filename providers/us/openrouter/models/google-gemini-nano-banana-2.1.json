@@ -1,0 +1,40 @@
+{
+  "id": "google/gemini-nano-banana-2.1",
+  "name": "Google: Nano Banana 2.1",
+  "created_by": "google",
+  "source": "official",
+  "description": "Nano Banana 2.1 (Gemini Nano Banana 2.1) is Google's image generation and editing model on the Flash tier, succeeding Nano Banana 2 and Nano Banana Pro.",
+  "release_date": "2026-10-06",
+  "context_window": 65536,
+  "max_output_tokens": 58982,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "image",
+      "text"
+    ],
+    "output": [
+      "image",
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1.5,
+    "output": 7.5
+  },
+  "last_updated": "2026-10-07",
+  "_generated": {
+    "name": "06248548",
+    "description": "46260739",
+    "release_date": "684e6a7f",
+    "context_window": "297ce0b3",
+    "max_output_tokens": "432a5944",
+    "capabilities": "f533f522",
+    "modalities": "f5e0517a",
+    "pricing": "c99e0f75"
+  }
+}

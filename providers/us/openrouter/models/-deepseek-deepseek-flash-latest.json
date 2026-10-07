@@ -7,7 +7,7 @@
   "description": "This model always redirects to the latest model in the DeepSeek Flash family.",
   "release_date": "2026-09-14",
   "context_window": 1048576,
-  "max_output_tokens": 943718,
+  "max_output_tokens": 393216,
   "capabilities": {
     "tool_call": true,
     "structured_output": true,
@@ -23,20 +23,20 @@
     ]
   },
   "pricing": {
-    "input": 0.003,
-    "output": 2.4,
-    "cached_input": 0.003
+    "input": 0.045,
+    "output": 0.3,
+    "cached_input": 0.021
   },
-  "last_updated": "2026-10-06",
+  "last_updated": "2026-10-07",
   "_generated": {
     "name": "fcd3d98f",
     "family": "4b81b92d",
     "description": "395186cf",
     "release_date": "d5789345",
     "context_window": "7d28a051",
-    "max_output_tokens": "7843f47e",
+    "max_output_tokens": "628f482c",
     "capabilities": "f533f522",
     "modalities": "6399757e",
-    "pricing": "d305f026"
+    "pricing": "7a5de144"
   }
 }

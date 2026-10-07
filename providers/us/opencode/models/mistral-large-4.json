@@ -1,0 +1,18 @@
+{
+  "id": "mistral-large-4",
+  "name": "Mistral Large 4",
+  "created_by": "unknown",
+  "source": "official",
+  "family": "mistral-large",
+  "status": "active",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-10-07",
+  "_generated": {
+    "name": "54b26252",
+    "family": "70f9d51d",
+    "status": "379ac110",
+    "capabilities": "0fa77dc6"
+  }
+}

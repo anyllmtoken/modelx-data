@@ -9,20 +9,18 @@
   "parameters": 27,
   "page_url": "https://ollama.com/library/clef",
   "capabilities": {
-    "streaming": true,
-    "vision": true
+    "streaming": true
   },
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"
     ]
   },
   "open_weight": true,
-  "last_updated": "2026-10-06",
+  "last_updated": "2026-10-07",
   "_generated": {
     "name": "892616d3",
     "description": "ef95eebc",
@@ -30,8 +28,8 @@
     "license": "60245731",
     "parameters": "02e74f10",
     "page_url": "bf04e948",
-    "capabilities": "8a3b232e",
-    "modalities": "6399757e",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
     "open_weight": "b326b506"
   }
 }

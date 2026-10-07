@@ -1,0 +1,42 @@
+{
+  "id": "mistralai/mistral-large-4-0",
+  "name": "Mistral: Mistral Large 4",
+  "created_by": "mistral",
+  "source": "official",
+  "family": "mistral-large",
+  "description": "Mistral Large 4 is a frontier multimodal (text and image input) model from Mistral AI built for reasoning, coding, and agentic workloads.",
+  "release_date": "2026-10-06",
+  "context_window": 524288,
+  "max_output_tokens": 262144,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.68,
+    "output": 2.09,
+    "cached_input": 0.07
+  },
+  "last_updated": "2026-10-07",
+  "_generated": {
+    "name": "08cf55c2",
+    "family": "70f9d51d",
+    "description": "111b4f7b",
+    "release_date": "684e6a7f",
+    "context_window": "bcabf6a1",
+    "max_output_tokens": "4a1d32eb",
+    "capabilities": "f533f522",
+    "modalities": "6399757e",
+    "pricing": "2b6c2cb2"
+  }
+}

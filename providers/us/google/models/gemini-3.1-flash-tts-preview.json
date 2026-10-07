@@ -93,7 +93,14 @@
     "pricing": "39389cbc",
     "open_weight": "68934a3e",
     "tools": "f0c1dc7e",
-    "endpoints": "20e16908"
+    "endpoints": "20e16908",
+    "deprecation_date": "4497c8ce",
+    "successor": "b37c1b76"
   },
-  "last_updated": "2026-10-06"
+  "last_updated": "2026-10-07",
+  "deprecation_date": "November 17, 2026",
+  "successor": [
+    "gemini-3.8-flash-tts",
+    "gemini-3.8-flash-lite-tts"
+  ]
 }

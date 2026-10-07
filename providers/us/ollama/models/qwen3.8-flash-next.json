@@ -12,14 +12,11 @@
   "page_url": "https://ollama.com/library/qwen3.8-flash-next",
   "capabilities": {
     "streaming": true,
-    "vision": true,
-    "tool_call": true,
-    "reasoning": true
+    "tool_call": true
   },
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"
@@ -27,7 +24,7 @@
   },
   "reasoning_tokens": true,
   "open_weight": true,
-  "last_updated": "2026-10-06",
+  "last_updated": "2026-10-07",
   "_generated": {
     "name": "f530a95f",
     "family": "e102ad6a",
@@ -37,8 +34,8 @@
     "parameters": "3def184a",
     "active_parameters": "1679091c",
     "page_url": "6bdf4466",
-    "capabilities": "a19166f1",
-    "modalities": "6399757e",
+    "capabilities": "48995a4e",
+    "modalities": "68e53d93",
     "reasoning_tokens": "b326b506",
     "open_weight": "b326b506"
   }

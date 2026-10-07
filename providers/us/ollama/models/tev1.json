@@ -9,9 +9,7 @@
   "parameters": 4,
   "page_url": "https://ollama.com/library/tev1",
   "capabilities": {
-    "streaming": true,
-    "tool_call": true,
-    "reasoning": true
+    "streaming": true
   },
   "modalities": {
     "input": [
@@ -22,7 +20,7 @@
     ]
   },
   "open_weight": true,
-  "last_updated": "2026-10-06",
+  "last_updated": "2026-10-07",
   "_generated": {
     "name": "c3564c34",
     "description": "e43f4ee6",
@@ -30,7 +28,7 @@
     "license": "3c4c3ba5",
     "parameters": "a87ff679",
     "page_url": "ecce48a4",
-    "capabilities": "a281e83a",
+    "capabilities": "0fa77dc6",
     "modalities": "68e53d93",
     "open_weight": "b326b506",
     "reasoning_tokens": "b326b506"

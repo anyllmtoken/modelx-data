@@ -3,7 +3,7 @@
   "name": "gemini-2.5-pro-preview-tts",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-10-06",
+  "last_updated": "2026-10-07",
   "family": "gemini-2.5",
   "status": "active",
   "context_window": 8192,
@@ -87,11 +87,18 @@
     "page_url": "19f7a0fe",
     "open_weight": "68934a3e",
     "description": "6e4ef196",
-    "tagline": "c50b5638"
+    "tagline": "c50b5638",
+    "deprecation_date": "4497c8ce",
+    "successor": "b37c1b76"
   },
   "license": "proprietary",
   "page_url": "https://ai.google.dev/gemini-api/docs/models/gemini-2.5-pro-preview-tts",
   "open_weight": false,
   "description": "Our premium engine for studio-quality speech synthesis, offering high-fidelity and sophisticated audio generation. Gemini 2.5 Pro TTS is best for long-form content, professional narrations, and complex creative workflows that require the highest level of vocal clarity and natural prosody.",
-  "tagline": "Our premium engine for studio-quality speech synthesis, offering high-fidelity and sophisticated audio generation."
+  "tagline": "Our premium engine for studio-quality speech synthesis, offering high-fidelity and sophisticated audio generation.",
+  "deprecation_date": "November 17, 2026",
+  "successor": [
+    "gemini-3.8-flash-tts",
+    "gemini-3.8-flash-lite-tts"
+  ]
 }
