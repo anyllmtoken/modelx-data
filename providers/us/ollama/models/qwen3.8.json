@@ -10,11 +10,15 @@
   "parameters": 27,
   "page_url": "https://ollama.com/library/qwen3.8",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
   },
   "modalities": {
     "input": [
-      "text"
+      "text",
+      "image"
     ],
     "output": [
       "text"
@@ -22,7 +26,7 @@
   },
   "reasoning_tokens": true,
   "open_weight": true,
-  "last_updated": "2026-10-07",
+  "last_updated": "2026-10-08",
   "_generated": {
     "name": "e102ad6a",
     "family": "e102ad6a",
@@ -31,8 +35,8 @@
     "license": "6327aaea",
     "parameters": "02e74f10",
     "page_url": "9606f198",
-    "capabilities": "0fa77dc6",
-    "modalities": "68e53d93",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
     "reasoning_tokens": "b326b506",
     "open_weight": "b326b506"
   }

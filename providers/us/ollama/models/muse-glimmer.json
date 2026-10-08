@@ -9,11 +9,15 @@
   "parameters": 30,
   "page_url": "https://ollama.com/library/muse-glimmer",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
   },
   "modalities": {
     "input": [
-      "text"
+      "text",
+      "image"
     ],
     "output": [
       "text"
@@ -21,7 +25,7 @@
   },
   "reasoning_tokens": true,
   "open_weight": true,
-  "last_updated": "2026-10-07",
+  "last_updated": "2026-10-08",
   "_generated": {
     "name": "2c89749f",
     "description": "13c36669",
@@ -29,8 +33,8 @@
     "license": "60245731",
     "parameters": "34173cb3",
     "page_url": "d67a8a89",
-    "capabilities": "0fa77dc6",
-    "modalities": "68e53d93",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
     "reasoning_tokens": "b326b506",
     "open_weight": "b326b506"
   }

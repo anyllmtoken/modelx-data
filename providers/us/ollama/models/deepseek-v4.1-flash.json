@@ -10,11 +10,15 @@
   "parameters": 8,
   "page_url": "https://ollama.com/library/deepseek-v4.1-flash",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
   },
   "modalities": {
     "input": [
-      "text"
+      "text",
+      "image"
     ],
     "output": [
       "text"
@@ -22,7 +26,7 @@
   },
   "reasoning_tokens": true,
   "open_weight": true,
-  "last_updated": "2026-10-07",
+  "last_updated": "2026-10-08",
   "_generated": {
     "name": "7473ca5f",
     "family": "4b81b92d",
@@ -31,8 +35,8 @@
     "license": "6327aaea",
     "parameters": "c9f0f895",
     "page_url": "ee1eb0b0",
-    "capabilities": "0fa77dc6",
-    "modalities": "68e53d93",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
     "reasoning_tokens": "b326b506",
     "open_weight": "b326b506"
   }

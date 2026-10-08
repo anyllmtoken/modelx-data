@@ -9,18 +9,20 @@
   "parameters": 9,
   "page_url": "https://ollama.com/library/clef-flash",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "vision": true
   },
   "modalities": {
     "input": [
-      "text"
+      "text",
+      "image"
     ],
     "output": [
       "text"
     ]
   },
   "open_weight": true,
-  "last_updated": "2026-10-07",
+  "last_updated": "2026-10-08",
   "_generated": {
     "name": "4aea082f",
     "description": "f7094173",
@@ -28,8 +30,8 @@
     "license": "60245731",
     "parameters": "45c48cce",
     "page_url": "f1345dc6",
-    "capabilities": "0fa77dc6",
-    "modalities": "68e53d93",
+    "capabilities": "8a3b232e",
+    "modalities": "6399757e",
     "open_weight": "b326b506"
   }
 }

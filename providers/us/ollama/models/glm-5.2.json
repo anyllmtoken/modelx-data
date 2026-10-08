@@ -14,7 +14,9 @@
   "model_type": "chat",
   "tagline": "GLM-5.2 is Z.ai’s flagship model for the era of long-horizon tasks.",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "tool_call": true,
+    "reasoning": true
   },
   "modalities": {
     "input": [
@@ -39,9 +41,9 @@
     "open_weight": "b326b506",
     "model_type": "d669f408",
     "tagline": "8e542dff",
-    "capabilities": "0fa77dc6",
+    "capabilities": "a281e83a",
     "modalities": "68e53d93",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-10-07"
+  "last_updated": "2026-10-08"
 }

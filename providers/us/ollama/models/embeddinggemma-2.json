@@ -9,18 +9,20 @@
   "license": "open-weight",
   "page_url": "https://ollama.com/library/embeddinggemma-2",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "vision": true
   },
   "modalities": {
     "input": [
-      "text"
+      "text",
+      "image"
     ],
     "output": [
       "text"
     ]
   },
   "open_weight": true,
-  "last_updated": "2026-10-07",
+  "last_updated": "2026-10-08",
   "_generated": {
     "name": "63549a23",
     "family": "764cb3de",
@@ -28,8 +30,8 @@
     "context_window": "4a1d32eb",
     "license": "6327aaea",
     "page_url": "11ee8ca8",
-    "capabilities": "0fa77dc6",
-    "modalities": "68e53d93",
+    "capabilities": "8a3b232e",
+    "modalities": "6399757e",
     "open_weight": "b326b506"
   }
 }

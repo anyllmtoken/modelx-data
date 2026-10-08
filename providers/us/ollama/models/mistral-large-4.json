@@ -9,18 +9,21 @@
   "license": "open-weight",
   "page_url": "https://ollama.com/library/mistral-large-4",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "vision": true,
+    "tool_call": true
   },
   "modalities": {
     "input": [
-      "text"
+      "text",
+      "image"
     ],
     "output": [
       "text"
     ]
   },
   "open_weight": true,
-  "last_updated": "2026-10-07",
+  "last_updated": "2026-10-08",
   "_generated": {
     "name": "6709d633",
     "family": "70f9d51d",
@@ -28,8 +31,8 @@
     "release_date": "684e6a7f",
     "license": "6327aaea",
     "page_url": "2c268c40",
-    "capabilities": "0fa77dc6",
-    "modalities": "68e53d93",
+    "capabilities": "fc36814c",
+    "modalities": "6399757e",
     "open_weight": "b326b506"
   }
 }

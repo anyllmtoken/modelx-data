@@ -13,11 +13,15 @@
   "model_type": "chat",
   "tagline": "NVIDIA Nemotron 3 Nano Omni is a multimodal large language model that unifies video, audio, image, and text understanding to support enterprise-grade Q&amp;A, summarization, transcription, and documen",
   "capabilities": {
-    "streaming": true
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
   },
   "modalities": {
     "input": [
-      "text"
+      "text",
+      "image"
     ],
     "output": [
       "text"
@@ -37,9 +41,9 @@
     "open_weight": "b326b506",
     "model_type": "d669f408",
     "tagline": "9433e281",
-    "capabilities": "0fa77dc6",
-    "modalities": "68e53d93",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
     "tools": "f0c1dc7e"
   },
-  "last_updated": "2026-10-07"
+  "last_updated": "2026-10-08"
 }

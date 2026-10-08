@@ -3,15 +3,21 @@
   "name": "Stable Image Core 1.0",
   "created_by": "stability",
   "source": "official",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-10-08",
   "model_type": "image",
   "modalities": {
-    "input": ["text"],
-    "output": ["image"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
   },
   "_generated": {
     "name": "cf8ba905",
     "model_type": "db8857fe",
-    "modalities": "814867b9"
-  }
+    "modalities": "814867b9",
+    "page_url": "c0c1550b"
+  },
+  "page_url": "https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-stability-ai-stable-image-core-1-0"
 }

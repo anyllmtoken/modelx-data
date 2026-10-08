@@ -3,15 +3,21 @@
   "name": "Stable Image Ultra 1.0",
   "created_by": "stability",
   "source": "official",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-10-08",
   "model_type": "image",
   "modalities": {
-    "input": ["text"],
-    "output": ["image"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
   },
   "_generated": {
     "name": "8a413616",
     "model_type": "db8857fe",
-    "modalities": "814867b9"
-  }
+    "modalities": "814867b9",
+    "page_url": "d7b536e4"
+  },
+  "page_url": "https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-stability-ai-stable-image-ultra-1-0"
 }
