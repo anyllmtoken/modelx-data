@@ -3,7 +3,7 @@
   "name": "Mistral-Nemo-Instruct-2407",
   "created_by": "mistral",
   "source": "official",
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-09",
   "family": "mistral",
   "description": "12B model trained jointly by Mistral AI and NVIDIA, it significantly outperforms existing models smaller or similar in size.",
   "status": "active",
@@ -26,7 +26,7 @@
     ]
   },
   "pricing": {
-    "input": 0.019,
+    "input": 0.029,
     "output": 0.03
   },
   "tools": [
@@ -48,7 +48,7 @@
     "license": "60245731",
     "capabilities": "ef09f446",
     "modalities": "68e53d93",
-    "pricing": "7ea71113",
+    "pricing": "6563e788",
     "tools": "f0c1dc7e",
     "endpoints": "d8fa1080",
     "quantization": "640679f9",

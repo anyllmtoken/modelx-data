@@ -3,7 +3,7 @@
   "name": "Stable Diffusion 3.5 Large",
   "created_by": "stability",
   "source": "official",
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-09",
   "model_type": "image",
   "capabilities": {
     "vision": true
