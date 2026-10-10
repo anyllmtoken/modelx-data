@@ -32,7 +32,6 @@
   "pricing": {
     "input": 0.5,
     "output": 9,
-    "cached_input": 0.125,
     "batch_input": 0.25,
     "batch_output": 4.5,
     "tiers": [
@@ -49,7 +48,7 @@
             "label": "Standard",
             "values": [
               0.5,
-              0.125,
+              null,
               9
             ]
           },
@@ -72,7 +71,7 @@
   "tools": [
     "function_calling"
   ],
-  "last_updated": "2026-10-09",
+  "last_updated": "2026-10-10",
   "_generated": {
     "name": "6fd0ef91",
     "family": "d937426a",
@@ -83,7 +82,7 @@
     "page_url": "f0218676",
     "capabilities": "29b57eef",
     "modalities": "a8211f74",
-    "pricing": "54859a0a",
+    "pricing": "e45b0c5c",
     "endpoints": "20e16908",
     "tools": "f0c1dc7e"
   }

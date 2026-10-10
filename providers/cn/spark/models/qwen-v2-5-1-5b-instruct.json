@@ -1,0 +1,36 @@
+{
+  "id": "qwen-v2-5-1-5b-instruct",
+  "name": "Qwen_v2.5_1.5b_Instruct",
+  "created_by": "qwen",
+  "source": "official",
+  "family": "qwen",
+  "context_window": 8000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2,
+    "output": 8
+  },
+  "last_updated": "2026-10-10",
+  "_generated": {
+    "name": "09c0a324",
+    "family": "a3af76f3",
+    "context_window": "67ff32d4",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "9d7f5a51"
+  }
+}

@@ -3,10 +3,10 @@
   "name": "Qwen: Qwen3 235B A22B Thinking 2507",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-10-09",
+  "last_updated": "2026-10-10",
   "family": "qwen3",
   "description": "Qwen3-235B-A22B-Thinking-2507 is a high-performance, open-weight Mixture-of-Experts (MoE) language model optimized for complex reasoning tasks.",
-  "context_window": 131072,
+  "context_window": 128000,
   "modalities": {
     "input": [
       "text"
@@ -17,28 +17,27 @@
   },
   "capabilities": {
     "tool_call": true,
-    "structured_output": true,
     "reasoning": true
   },
   "pricing": {
-    "input": 0.23,
-    "output": 2.3
+    "input": 0.45,
+    "output": 3.5
   },
   "_generated": {
     "name": "e4d0e053",
     "family": "48c385a0",
     "description": "13d8134d",
-    "context_window": "f7de594e",
+    "context_window": "34434798",
     "modalities": "68e53d93",
-    "capabilities": "f533f522",
-    "pricing": "a4649b73",
+    "capabilities": "05723a3e",
+    "pricing": "5284926c",
     "model_type": "d669f408",
     "parameters": "577ef115",
     "active_parameters": "b6d767d2",
     "release_date": "fc8e67ab",
     "tagline": "13d8134d",
     "tools": "f0c1dc7e",
-    "max_output_tokens": "242f56a4",
+    "max_output_tokens": "c76fe1d8",
     "status": "2e2f74dc",
     "deprecation_date": "2020d4ea"
   },
@@ -51,7 +50,7 @@
   "tools": [
     "function_calling"
   ],
-  "max_output_tokens": 117964,
+  "max_output_tokens": 16384,
   "status": "deprecated",
   "deprecation_date": "2026-10-09"
 }
