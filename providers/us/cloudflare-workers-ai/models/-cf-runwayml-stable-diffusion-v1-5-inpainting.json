@@ -3,7 +3,7 @@
   "name": "stable-diffusion-v1-5-inpainting",
   "created_by": "runway",
   "source": "official",
-  "last_updated": "2026-10-11",
+  "last_updated": "2026-10-12",
   "capabilities": {
     "streaming": true
   },
