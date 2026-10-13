@@ -1,0 +1,42 @@
+{
+  "id": "meta/muse-wonder",
+  "name": "Meta: Muse Wonder",
+  "created_by": "meta",
+  "source": "official",
+  "description": "Muse Wonder is a frontier reasoning model from Meta, designed for complex personal and professional agentic tasks.",
+  "release_date": "2026-10-12",
+  "context_window": 1048576,
+  "max_output_tokens": 943718,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "video",
+      "audio"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 4,
+    "output": 20,
+    "cached_input": 0.2
+  },
+  "last_updated": "2026-10-13",
+  "_generated": {
+    "name": "23727792",
+    "description": "125114f9",
+    "release_date": "a847d25d",
+    "context_window": "7d28a051",
+    "max_output_tokens": "7843f47e",
+    "capabilities": "f533f522",
+    "modalities": "c569b149",
+    "pricing": "775f1e21"
+  }
+}

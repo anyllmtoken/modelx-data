@@ -1,0 +1,36 @@
+{
+  "id": "bytedance/doubao-seed-2-1-lite",
+  "name": "bytedance/doubao-seed-2-1-lite",
+  "created_by": "bytedance",
+  "source": "official",
+  "family": "ai360",
+  "context_window": 1024000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.8,
+    "output": 2.7
+  },
+  "last_updated": "2026-10-13",
+  "_generated": {
+    "name": "137d2ee2",
+    "family": "1d747135",
+    "context_window": "7695f674",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "6c26d5b2"
+  }
+}
