@@ -25,7 +25,7 @@
   "endpoints": [
     "chat_completions"
   ],
-  "last_updated": "2026-10-13",
+  "last_updated": "2026-10-14",
   "_generated": {
     "name": "bc098e81",
     "description": "756e9809",
@@ -36,6 +36,11 @@
     "model_type": "d669f408",
     "capabilities": "3d69c795",
     "modalities": "68e53d93",
-    "endpoints": "d8fa1080"
+    "endpoints": "d8fa1080",
+    "pricing": "8eb8395f"
+  },
+  "pricing": {
+    "input": 0.3,
+    "output": 0.9
   }
 }

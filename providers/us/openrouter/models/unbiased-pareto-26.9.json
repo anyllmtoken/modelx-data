@@ -1,0 +1,39 @@
+{
+  "id": "unbiased/pareto-26.9",
+  "name": "Pareto 26.9",
+  "created_by": "unbiased",
+  "source": "official",
+  "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
+  "release_date": "2026-10-13",
+  "context_window": 262144,
+  "max_output_tokens": 131072,
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 2.5,
+    "output": 7.5,
+    "cached_input": 0.25
+  },
+  "last_updated": "2026-10-14",
+  "_generated": {
+    "name": "f0262059",
+    "description": "6d5e4d16",
+    "release_date": "e531adb9",
+    "context_window": "4a1d32eb",
+    "max_output_tokens": "f7de594e",
+    "capabilities": "ad177261",
+    "modalities": "6399757e",
+    "pricing": "7db711ab"
+  }
+}

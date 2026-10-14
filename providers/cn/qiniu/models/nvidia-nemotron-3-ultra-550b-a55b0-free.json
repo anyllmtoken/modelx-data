@@ -1,0 +1,37 @@
+{
+  "id": "nvidia-nemotron-3-ultra-550b-a55b0-free",
+  "name": "Nemotron 3 Ultra 550b a55b Free",
+  "created_by": "nvidia",
+  "source": "official",
+  "family": "qiniu",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0
+  },
+  "last_updated": "2026-10-14",
+  "_generated": {
+    "name": "a5b9f359",
+    "family": "7b458690",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "0946b777",
+    "modalities": "68e53d93",
+    "pricing": "9a7a9781"
+  }
+}
