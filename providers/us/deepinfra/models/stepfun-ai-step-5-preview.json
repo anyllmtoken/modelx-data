@@ -1,0 +1,57 @@
+{
+  "id": "stepfun-ai/Step-5-Preview",
+  "name": "Step-5-Preview",
+  "created_by": "stepfun",
+  "source": "official",
+  "description": "Step 5 Preview is StepFun's flagship model for agentic work. It is a sparse Mixture-of-Experts model with 600B total parameters and 27B active per token, a 1M-token context window, and text and image input. It delivers frontier-level performance in software engineering, long-horizon agentic execution with repeated tool calls, and professional knowledge work, with particular strength in finance.",
+  "status": "active",
+  "context_window": 1048576,
+  "model_type": "chat",
+  "license": "apache-2.0",
+  "capabilities": {
+    "tool_call": true,
+    "structured_output": true,
+    "json_mode": true,
+    "reasoning": true,
+    "vision": true,
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 1,
+    "output": 2.7,
+    "cached_input": 0.05
+  },
+  "endpoints": [
+    "chat_completions"
+  ],
+  "tools": [
+    "function_calling"
+  ],
+  "reasoning_tokens": true,
+  "open_weight": true,
+  "last_updated": "2026-10-15",
+  "_generated": {
+    "name": "5662b08a",
+    "description": "c0b86986",
+    "status": "379ac110",
+    "context_window": "7d28a051",
+    "model_type": "d669f408",
+    "license": "60245731",
+    "capabilities": "d0cb1dc1",
+    "modalities": "6399757e",
+    "pricing": "a7f103bd",
+    "endpoints": "d8fa1080",
+    "tools": "f0c1dc7e",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "b326b506"
+  }
+}

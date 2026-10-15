@@ -7,7 +7,7 @@
   "description": "Wan 3.0 is the latest generation AI video model, delivering enhanced motion smoothness, superior scene fidelity, and greater visual coherence.",
   "status": "active",
   "release_date": "2026-08-03",
-  "model_type": "video",
+  "model_type": "other",
   "page_url": "https://fal.run/alibaba/wan-3.0/reference-to-video",
   "capabilities": {
     "vision": true
@@ -24,14 +24,14 @@
   "endpoints": [
     "video"
   ],
-  "last_updated": "2026-10-14",
+  "last_updated": "2026-10-15",
   "_generated": {
     "name": "57e3a5c3",
     "family": "2aadc089",
     "description": "a6be552e",
     "status": "379ac110",
     "release_date": "a67868bc",
-    "model_type": "4d1b75ca",
+    "model_type": "ddb0b7bc",
     "page_url": "2c59f9c0",
     "capabilities": "d3117eb0",
     "modalities": "85fd0565",

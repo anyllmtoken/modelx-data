@@ -1,0 +1,40 @@
+{
+  "id": "google/embeddinggemma-2",
+  "name": "embeddinggemma-2",
+  "created_by": "google",
+  "source": "official",
+  "family": "embed",
+  "description": "EmbeddingGemma 2 is a 740M parameter multimodal embedding model from Google DeepMind that maps text (incl. code), images, video and audio, alone or interleaved, into a single 768-dimensional vector space, with task prompts and Matryoshka truncation to 512, 256 or 128 dimensions for search, retrieval, classification and clustering.",
+  "status": "active",
+  "model_type": "embed",
+  "license": "gemma",
+  "capabilities": {
+    "vision": true,
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "endpoints": [
+    "embeddings"
+  ],
+  "open_weight": true,
+  "last_updated": "2026-10-15",
+  "_generated": {
+    "name": "63549a23",
+    "family": "764cb3de",
+    "description": "f53d6cde",
+    "status": "379ac110",
+    "model_type": "764cb3de",
+    "license": "3fe02b16",
+    "capabilities": "5f5c7516",
+    "modalities": "68e53d93",
+    "endpoints": "5845adda",
+    "open_weight": "b326b506"
+  }
+}
