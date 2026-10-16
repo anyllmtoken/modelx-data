@@ -1,0 +1,14 @@
+{
+  "id": "stepfun-ai/step-5-preview",
+  "name": "step-5-preview",
+  "created_by": "stepfun",
+  "source": "official",
+  "capabilities": {
+    "streaming": true
+  },
+  "last_updated": "2026-10-16",
+  "_generated": {
+    "name": "5a31b3dc",
+    "capabilities": "0fa77dc6"
+  }
+}

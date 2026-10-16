@@ -22,7 +22,7 @@
     ]
   },
   "open_weight": true,
-  "last_updated": "2026-10-15",
+  "last_updated": "2026-10-16",
   "_generated": {
     "name": "892616d3",
     "description": "ef95eebc",
@@ -32,6 +32,8 @@
     "page_url": "bf04e948",
     "capabilities": "8a3b232e",
     "modalities": "6399757e",
-    "open_weight": "b326b506"
-  }
+    "open_weight": "b326b506",
+    "release_date": "df39b194"
+  },
+  "release_date": "2026-10-04"
 }

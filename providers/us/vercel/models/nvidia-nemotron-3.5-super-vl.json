@@ -1,0 +1,26 @@
+{
+  "id": "nvidia/nemotron-3.5-super-vl",
+  "name": "nemotron-3.5-super-vl",
+  "created_by": "nvidia",
+  "source": "official",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.1,
+    "output": 0.5
+  },
+  "last_updated": "2026-10-16",
+  "_generated": {
+    "name": "b4e72254",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "dcd14f44"
+  }
+}

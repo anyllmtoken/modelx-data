@@ -1,0 +1,25 @@
+{
+  "id": "nvidia-nemotron-35-super-vl-launch",
+  "name": "nvidia-nemotron-35-super-vl-launch",
+  "created_by": "nvidia",
+  "source": "official",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-10-16",
+  "_generated": {
+    "name": "c2df5bf8",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

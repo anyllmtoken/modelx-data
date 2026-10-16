@@ -1,0 +1,20 @@
+{
+  "id": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "name": "nemotron-3.5-super-vl-120b-a12b",
+  "created_by": "nvidia",
+  "source": "official",
+  "parameters": 120,
+  "active_parameters": 12,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "vision": true
+  },
+  "last_updated": "2026-10-16",
+  "_generated": {
+    "name": "ba081c8f",
+    "parameters": "da4fb5c6",
+    "active_parameters": "c20ad4d7",
+    "capabilities": "1a260abc"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "nvidia/nemotron-3-5-super/text",
+  "name": "NVIDIA Nemotron 3.5 Super Text",
+  "created_by": "nvidia",
+  "source": "official",
+  "description": "Chat and reason with NVIDIA Nemotron 3.5 Super, a hybrid Mamba-Transformer mixture-of-experts model with optional step-by-step thinking.",
+  "status": "active",
+  "release_date": "2026-10-15",
+  "model_type": "other",
+  "page_url": "https://fal.run/nvidia/nemotron-3-5-super/text",
+  "capabilities": {
+    "reasoning": true
+  },
+  "last_updated": "2026-10-16",
+  "_generated": {
+    "name": "d21aa923",
+    "description": "eeadb0b5",
+    "status": "379ac110",
+    "release_date": "b3e9e1a3",
+    "model_type": "ddb0b7bc",
+    "page_url": "aed4bebd",
+    "capabilities": "7107421f"
+  }
+}

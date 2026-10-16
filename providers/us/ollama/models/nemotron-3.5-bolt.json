@@ -1,0 +1,41 @@
+{
+  "id": "nemotron-3.5-bolt",
+  "name": "nemotron-3.5-bolt",
+  "created_by": "nvidia",
+  "source": "official",
+  "description": "Nemotron 3.5 Bolt is NVIDIA’s compact vision-language model for local coding, reasoning, and tool use.",
+  "context_window": 262144,
+  "license": "open-weight",
+  "parameters": 74,
+  "page_url": "https://ollama.com/library/nemotron-3.5-bolt",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "reasoning_tokens": true,
+  "open_weight": true,
+  "last_updated": "2026-10-16",
+  "_generated": {
+    "name": "51672fea",
+    "description": "12e0584c",
+    "context_window": "4a1d32eb",
+    "license": "6327aaea",
+    "parameters": "ad61ab14",
+    "page_url": "0c6662b8",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "b326b506"
+  }
+}

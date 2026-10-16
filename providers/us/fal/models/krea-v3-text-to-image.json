@@ -1,0 +1,37 @@
+{
+  "id": "krea/v3/text-to-image",
+  "name": "Krea 3 Text to Image",
+  "created_by": "krea",
+  "source": "official",
+  "description": "Generates images from text prompts with optional prompt expansion, configurable output dimensions, and seed control.",
+  "status": "active",
+  "release_date": "2026-10-14",
+  "model_type": "image",
+  "page_url": "https://fal.run/krea/v3/text-to-image",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "images"
+  ],
+  "last_updated": "2026-10-16",
+  "_generated": {
+    "name": "6343395b",
+    "description": "31fdd0f1",
+    "status": "379ac110",
+    "release_date": "b735ec37",
+    "model_type": "db8857fe",
+    "page_url": "7aeb0eaa",
+    "capabilities": "d3117eb0",
+    "modalities": "814867b9",
+    "endpoints": "9a7c17cc"
+  }
+}
