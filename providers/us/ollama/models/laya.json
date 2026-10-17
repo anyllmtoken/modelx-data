@@ -18,7 +18,7 @@
     ]
   },
   "open_weight": true,
-  "last_updated": "2026-10-16",
+  "last_updated": "2026-10-17",
   "_generated": {
     "name": "5d488706",
     "description": "b31d6518",
@@ -26,6 +26,8 @@
     "page_url": "feb8d4ad",
     "capabilities": "0fa77dc6",
     "modalities": "68e53d93",
-    "open_weight": "b326b506"
-  }
+    "open_weight": "b326b506",
+    "context_window": "77441296"
+  },
+  "context_window": 8192
 }
