@@ -10,15 +10,15 @@
     "vision": true
   },
   "pricing": {
-    "input": 0.95,
-    "output": 2.56
+    "input": 1,
+    "output": 2.7
   },
-  "last_updated": "2026-10-17",
+  "last_updated": "2026-10-18",
   "_generated": {
     "name": "5a31b3dc",
     "context_window": "8155bc54",
     "model_type": "d669f408",
     "capabilities": "8a3b232e",
-    "pricing": "12e34951"
+    "pricing": "41103e0d"
   }
 }
