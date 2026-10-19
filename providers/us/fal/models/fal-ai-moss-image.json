@@ -1,0 +1,38 @@
+{
+  "id": "fal-ai/moss-image",
+  "name": "MOSS Image",
+  "created_by": "fal",
+  "source": "official",
+  "description": "MOSS-Image-SFT is a text-to-image model specializing in Chinese and English text rendering and structured layout control for precise text placement and object arrangement.",
+  "status": "active",
+  "release_date": "2026-10-18",
+  "model_type": "image",
+  "page_url": "https://fal.run/fal-ai/moss-image",
+  "capabilities": {
+    "vision": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "images"
+  ],
+  "last_updated": "2026-10-19",
+  "_generated": {
+    "name": "c285cc05",
+    "description": "33a5230c",
+    "status": "379ac110",
+    "release_date": "899c841f",
+    "model_type": "db8857fe",
+    "page_url": "29d701db",
+    "capabilities": "2c435f66",
+    "modalities": "814867b9",
+    "endpoints": "9a7c17cc"
+  }
+}
