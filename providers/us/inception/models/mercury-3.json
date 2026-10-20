@@ -1,0 +1,56 @@
+{
+  "id": "mercury-3",
+  "name": "Mercury 3",
+  "created_by": "inception",
+  "source": "official",
+  "family": "mercury",
+  "description": "Mercury 3",
+  "status": "active",
+  "context_window": 1000000,
+  "max_output_tokens": 131072,
+  "model_type": "chat",
+  "license": "proprietary",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "json_mode": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0,
+    "output": 0,
+    "cached_input": 0
+  },
+  "endpoints": [
+    "chat_completions"
+  ],
+  "tools": [
+    "function_calling"
+  ],
+  "open_weight": false,
+  "last_updated": "2026-10-20",
+  "_generated": {
+    "name": "13c22f2c",
+    "family": "428b012e",
+    "description": "13c22f2c",
+    "status": "379ac110",
+    "context_window": "8155bc54",
+    "max_output_tokens": "f7de594e",
+    "model_type": "d669f408",
+    "license": "9186c466",
+    "capabilities": "cec66b87",
+    "modalities": "68e53d93",
+    "pricing": "d7e97780",
+    "endpoints": "d8fa1080",
+    "tools": "f0c1dc7e",
+    "open_weight": "68934a3e"
+  }
+}

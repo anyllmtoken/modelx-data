@@ -3,10 +3,10 @@
   "name": "imagen-4.0-ultra-generate-preview-06-06",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-20",
   "status": "deprecated",
   "deprecation_date": "February 17, 2026",
-  "successor": "imagen-4.0-ultra-generate-001",
+  "successor": "gemini-nano-banana-2.1",
   "model_type": "image",
   "modalities": {
     "input": [
@@ -20,7 +20,7 @@
     "name": "f00a008b",
     "status": "2e2f74dc",
     "deprecation_date": "5ce78d92",
-    "successor": "1f64ce27",
+    "successor": "061ea1f0",
     "model_type": "db8857fe",
     "modalities": "814867b9",
     "family": "becf3f6b",

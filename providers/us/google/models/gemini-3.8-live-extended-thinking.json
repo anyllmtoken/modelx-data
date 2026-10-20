@@ -21,7 +21,6 @@
     "input": [
       "text",
       "image",
-      "video",
       "audio"
     ],
     "output": [
@@ -37,7 +36,7 @@
   "tools": [
     "function_calling"
   ],
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-20",
   "_generated": {
     "name": "38322614",
     "family": "d937426a",
@@ -47,7 +46,7 @@
     "license": "9186c466",
     "page_url": "9ffb59f5",
     "capabilities": "29b57eef",
-    "modalities": "0b49b61e",
+    "modalities": "a8211f74",
     "endpoints": "20e16908",
     "tools": "f0c1dc7e"
   }

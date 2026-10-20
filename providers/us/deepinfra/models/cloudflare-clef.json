@@ -24,7 +24,7 @@
     "chat_completions"
   ],
   "open_weight": true,
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-20",
   "_generated": {
     "name": "892616d3",
     "status": "379ac110",
@@ -33,6 +33,8 @@
     "modalities": "68e53d93",
     "pricing": "683fabfa",
     "endpoints": "d8fa1080",
-    "open_weight": "b326b506"
-  }
+    "open_weight": "b326b506",
+    "context_window": "1332bd1d"
+  },
+  "context_window": 65537
 }

@@ -3,7 +3,7 @@
   "name": "LTX Video (preview)",
   "created_by": "fal",
   "source": "official",
-  "description": "Generate videos from prompts using LTX Video",
+  "description": "Generate videos from prompts using LTX Video 0.9.1",
   "status": "active",
   "release_date": "2024-10-04",
   "model_type": "video",
@@ -23,7 +23,7 @@
   "last_seen_at": "2026-06-22",
   "_generated": {
     "name": "862e0aae",
-    "description": "c763a7e5",
+    "description": "e7357385",
     "status": "379ac110",
     "release_date": "ae0faeae",
     "model_type": "4d1b75ca",
@@ -33,5 +33,5 @@
     "endpoints": "7a78c070",
     "last_seen_at": "1413cbcd"
   },
-  "last_updated": "2026-10-19"
+  "last_updated": "2026-10-20"
 }

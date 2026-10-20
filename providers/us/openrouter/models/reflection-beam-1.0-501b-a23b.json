@@ -23,11 +23,11 @@
     ]
   },
   "pricing": {
-    "input": 1,
-    "output": 3,
-    "cached_input": 0.1
+    "input": 0.3,
+    "output": 1,
+    "cached_input": 0.04
   },
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-20",
   "_generated": {
     "name": "086ada14",
     "description": "ad728dae",
@@ -38,6 +38,6 @@
     "active_parameters": "37693cfc",
     "capabilities": "f533f522",
     "modalities": "68e53d93",
-    "pricing": "055450c1"
+    "pricing": "7ab22123"
   }
 }

@@ -25,12 +25,12 @@
     "modalities": "94e5e9ab",
     "open_weight": "68934a3e",
     "deprecation_date": "26413246",
-    "successor": "b7b2c62c"
+    "successor": "2999ebc0"
   },
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-20",
   "deprecation_date": "June 30, 2026",
   "successor": [
-    "veo-3.1-fast-generate-preview",
+    "gemini-omni-1.1-flash",
     "the GA models on the Gemini Enterprise Agent Platf",
     "m"
   ]
