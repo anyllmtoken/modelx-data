@@ -25,9 +25,9 @@
     ]
   },
   "pricing": {
-    "input": 0.04,
-    "output": 0.15,
-    "cached_input": 0.004
+    "input": 0.2,
+    "output": 0.75,
+    "cached_input": 0.02
   },
   "endpoints": [
     "chat_completions"
@@ -36,7 +36,7 @@
     "function_calling"
   ],
   "open_weight": false,
-  "last_updated": "2026-10-20",
+  "last_updated": "2026-10-21",
   "_generated": {
     "name": "9d9d0244",
     "family": "428b012e",
@@ -48,7 +48,7 @@
     "license": "9186c466",
     "capabilities": "cec66b87",
     "modalities": "68e53d93",
-    "pricing": "eac6e5c7",
+    "pricing": "6051276e",
     "endpoints": "d8fa1080",
     "tools": "f0c1dc7e",
     "open_weight": "68934a3e"

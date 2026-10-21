@@ -1,0 +1,38 @@
+{
+  "id": "bria/fibo-2/edit",
+  "name": "Fibo 2.0 Edit",
+  "created_by": "bria",
+  "source": "official",
+  "description": "Fibo 2.0 Edit makes targeted, instruction-based edits from up to four images.",
+  "status": "active",
+  "release_date": "2026-10-19",
+  "model_type": "image",
+  "page_url": "https://fal.run/bria/fibo-2/edit",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "images"
+  ],
+  "last_updated": "2026-10-21",
+  "_generated": {
+    "name": "278415a5",
+    "description": "c04bae6e",
+    "status": "379ac110",
+    "release_date": "24f81a75",
+    "model_type": "db8857fe",
+    "page_url": "808afdaf",
+    "capabilities": "d3117eb0",
+    "modalities": "bbf9b8bb",
+    "endpoints": "9a7c17cc"
+  }
+}

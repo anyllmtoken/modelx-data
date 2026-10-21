@@ -1,0 +1,39 @@
+{
+  "id": "bria/fibo-2/generate",
+  "name": "Fibo 2.0 Generate",
+  "created_by": "bria",
+  "source": "official",
+  "description": "Fibo 2.0 Generate is Bria's text-to-image model, strongest on reasoning and knowledge-heavy prompts the ones that need real understanding, not just a style match.",
+  "status": "active",
+  "release_date": "2026-10-19",
+  "model_type": "image",
+  "page_url": "https://fal.run/bria/fibo-2/generate",
+  "capabilities": {
+    "vision": true,
+    "reasoning": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "images"
+  ],
+  "last_updated": "2026-10-21",
+  "_generated": {
+    "name": "52fbfd37",
+    "description": "aa9709fc",
+    "status": "379ac110",
+    "release_date": "24f81a75",
+    "model_type": "db8857fe",
+    "page_url": "efe4740c",
+    "capabilities": "608cdb4f",
+    "modalities": "814867b9",
+    "endpoints": "9a7c17cc"
+  }
+}

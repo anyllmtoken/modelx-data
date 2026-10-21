@@ -7,10 +7,16 @@
   "model_type": "video",
   "page_url": "https://replicate.com/prunaai/p-video-animate",
   "modalities": {
-    "input": ["text"],
-    "output": ["video"]
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
   },
-  "endpoints": ["video"],
+  "endpoints": [
+    "video"
+  ],
   "_generated": {
     "name": "58d807a1",
     "status": "379ac110",
@@ -19,5 +25,5 @@
     "modalities": "94e5e9ab",
     "endpoints": "7a78c070"
   },
-  "last_updated": "2026-06-18"
+  "last_updated": "2026-10-21"
 }

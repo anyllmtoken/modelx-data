@@ -1,0 +1,37 @@
+{
+  "id": "spark-x2.6",
+  "name": "Spark-X2.6",
+  "created_by": "spark",
+  "source": "official",
+  "family": "spark",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 0.9,
+    "output": 3.6,
+    "cached_input": 0.08
+  },
+  "last_updated": "2026-10-21",
+  "_generated": {
+    "name": "cf8d1f8b",
+    "family": "92678943",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "f53f3a8f"
+  }
+}

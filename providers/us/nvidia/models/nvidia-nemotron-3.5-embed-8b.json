@@ -1,0 +1,17 @@
+{
+  "id": "nvidia/nemotron-3.5-embed-8b",
+  "name": "nemotron-3.5-embed-8b",
+  "created_by": "nvidia",
+  "source": "official",
+  "parameters": 8,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true
+  },
+  "last_updated": "2026-10-21",
+  "_generated": {
+    "name": "d0b38f21",
+    "parameters": "c9f0f895",
+    "capabilities": "48995a4e"
+  }
+}
