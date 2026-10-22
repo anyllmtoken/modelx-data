@@ -1,0 +1,23 @@
+{
+  "id": "cohere/rerank-v5-fast",
+  "name": "rerank-v5-fast",
+  "created_by": "cohere",
+  "source": "official",
+  "family": "rerank",
+  "context_window": 32800,
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.02,
+    "output": 0
+  },
+  "last_updated": "2026-10-22",
+  "_generated": {
+    "name": "bb22fcd4",
+    "family": "477930e6",
+    "context_window": "74a190a6",
+    "capabilities": "0fa77dc6",
+    "pricing": "8d85a56c"
+  }
+}

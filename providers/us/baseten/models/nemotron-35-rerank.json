@@ -1,0 +1,25 @@
+{
+  "id": "nemotron-35-rerank",
+  "name": "nemotron-35-rerank",
+  "created_by": "nvidia",
+  "source": "official",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-10-22",
+  "_generated": {
+    "name": "b043944c",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

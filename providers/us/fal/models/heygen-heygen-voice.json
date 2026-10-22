@@ -1,0 +1,33 @@
+{
+  "id": "heygen/heygen-voice",
+  "name": "HeyGen Voice",
+  "created_by": "heygen",
+  "source": "official",
+  "description": "HeyGen Voice turns text into natural speech with a library voice or an instant clone from a reference clip.",
+  "status": "active",
+  "release_date": "2026-10-20",
+  "model_type": "tts",
+  "page_url": "https://fal.run/heygen/heygen-voice",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
+  },
+  "endpoints": [
+    "audio_speech"
+  ],
+  "last_updated": "2026-10-22",
+  "_generated": {
+    "name": "dde69903",
+    "description": "8e098406",
+    "status": "379ac110",
+    "release_date": "d322d85c",
+    "model_type": "4e16a2cf",
+    "page_url": "8a556b96",
+    "modalities": "601e776d",
+    "endpoints": "0d745ead"
+  }
+}

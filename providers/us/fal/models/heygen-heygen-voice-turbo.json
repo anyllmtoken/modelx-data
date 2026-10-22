@@ -1,0 +1,33 @@
+{
+  "id": "heygen/heygen-voice/turbo",
+  "name": "HeyGen Voice Turbo",
+  "created_by": "heygen",
+  "source": "official",
+  "description": "HeyGen Voice Turbo is the fast, low-cost tier of HeyGen Voice, with library voices and instant cloning from a reference clip.",
+  "status": "active",
+  "release_date": "2026-10-20",
+  "model_type": "tts",
+  "page_url": "https://fal.run/heygen/heygen-voice/turbo",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "audio"
+    ]
+  },
+  "endpoints": [
+    "audio_speech"
+  ],
+  "last_updated": "2026-10-22",
+  "_generated": {
+    "name": "c62f789f",
+    "description": "4ce0bc79",
+    "status": "379ac110",
+    "release_date": "d322d85c",
+    "model_type": "4e16a2cf",
+    "page_url": "131ab76c",
+    "modalities": "601e776d",
+    "endpoints": "0d745ead"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "nvidia/Nemotron-3.5-Rerank-8B-BF16",
+  "name": "Nemotron-3.5-Rerank-8B-BF16",
+  "created_by": "nvidia",
+  "source": "official",
+  "description": "Nemotron-3.5-Rerank-8B-BF16 is an 8B-parameter reranking model from NVIDIA that scores the relevance of documents to a query, for reordering the candidates retrieved by an embedding model. It supports long inputs up to 32k tokens and pairs naturally with the Nemotron-3.5-Embed models in multilingual RAG pipelines.",
+  "status": "active",
+  "model_type": "rerank",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "endpoints": [
+    "rerank"
+  ],
+  "open_weight": true,
+  "last_updated": "2026-10-22",
+  "_generated": {
+    "name": "71818967",
+    "description": "cba56eb0",
+    "status": "379ac110",
+    "model_type": "477930e6",
+    "modalities": "68e53d93",
+    "endpoints": "9a7b4962",
+    "open_weight": "b326b506"
+  }
+}

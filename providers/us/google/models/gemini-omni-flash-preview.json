@@ -3,7 +3,7 @@
   "name": "gemini-omni-flash-preview",
   "created_by": "google",
   "source": "official",
-  "status": "active",
+  "status": "deprecated",
   "deprecation_date": "October 22, 2026",
   "license": "proprietary",
   "capabilities": {
@@ -45,10 +45,10 @@
     ]
   },
   "successor": "gemini-omni-1.1-flash",
-  "last_updated": "2026-10-21",
+  "last_updated": "2026-10-22",
   "_generated": {
     "name": "5df9da7f",
-    "status": "379ac110",
+    "status": "2e2f74dc",
     "deprecation_date": "29188781",
     "license": "9186c466",
     "capabilities": "8a3b232e",

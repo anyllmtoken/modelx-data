@@ -3,8 +3,8 @@
   "name": "veo-3.1-generate-preview",
   "created_by": "google",
   "source": "official",
-  "last_updated": "2026-10-21",
-  "status": "active",
+  "last_updated": "2026-10-22",
+  "status": "deprecated",
   "context_window": 1024,
   "model_type": "video",
   "capabilities": {
@@ -29,7 +29,7 @@
   ],
   "_generated": {
     "name": "102deb3f",
-    "status": "379ac110",
+    "status": "2e2f74dc",
     "context_window": "021bbc7e",
     "model_type": "4d1b75ca",
     "capabilities": "8a3b232e",
