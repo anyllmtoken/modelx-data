@@ -1,0 +1,24 @@
+{
+  "id": "deepseek-ai/deepseek-v4p1-flash-1017/",
+  "name": "",
+  "created_by": "deepseek",
+  "source": "official",
+  "context_window": 1040000,
+  "page_url": "https://fireworks.ai/models/deepseek-ai/deepseek-v4p1-flash-1017/",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.3,
+    "output": 1.2,
+    "cached_input": 0.006
+  },
+  "last_updated": "2026-10-23",
+  "_generated": {
+    "name": "9d4568c0",
+    "context_window": "1bf8ad8b",
+    "page_url": "cfeb5f33",
+    "capabilities": "0fa77dc6",
+    "pricing": "a9b69dbc"
+  }
+}
