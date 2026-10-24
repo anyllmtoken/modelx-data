@@ -1,0 +1,28 @@
+{
+  "id": "moonshotai/kimi-k3.1-pro",
+  "name": "kimi-k3.1-pro",
+  "created_by": "moonshot",
+  "source": "official",
+  "family": "kimi-k3.1",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 2,
+    "output": 10
+  },
+  "last_updated": "2026-10-24",
+  "_generated": {
+    "name": "72a705c5",
+    "family": "90fce409",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "783da94d"
+  }
+}

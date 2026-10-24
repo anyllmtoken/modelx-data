@@ -1,0 +1,29 @@
+{
+  "id": "bytedance/video-upscaler",
+  "name": "Video Upscaler",
+  "created_by": "bytedance",
+  "source": "official",
+  "status": "active",
+  "model_type": "image",
+  "page_url": "https://replicate.com/bytedance/video-upscaler",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "images"
+  ],
+  "last_updated": "2026-10-24",
+  "_generated": {
+    "name": "fa490116",
+    "status": "379ac110",
+    "model_type": "db8857fe",
+    "page_url": "f897d11b",
+    "modalities": "814867b9",
+    "endpoints": "9a7c17cc"
+  }
+}

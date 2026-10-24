@@ -3,7 +3,7 @@
   "name": "rerank-v4.0-fast",
   "created_by": "cohere",
   "source": "official",
-  "last_updated": "2026-10-23",
+  "last_updated": "2026-10-24",
   "description": "A lighter version of rerank-v4.0-pro for low latency and high throughput use-cases. For new projects, use rerank-v5.0-fast .",
   "status": "active",
   "model_type": "rerank",

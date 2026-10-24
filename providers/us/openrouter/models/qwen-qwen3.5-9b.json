@@ -3,7 +3,7 @@
   "name": "Qwen: Qwen3.5-9B",
   "created_by": "qwen",
   "source": "official",
-  "last_updated": "2026-10-23",
+  "last_updated": "2026-10-24",
   "family": "qwen3.5",
   "description": "Qwen3.5-9B is a multimodal foundation model from the Qwen3.5 family, designed to deliver strong reasoning, coding, and visual understanding in an efficient 9B-parameter architecture.",
   "context_window": 262144,
@@ -23,9 +23,8 @@
     "reasoning": true
   },
   "pricing": {
-    "input": 0.08,
-    "output": 0.13,
-    "cached_input": 0.04
+    "input": 0.17,
+    "output": 0.25
   },
   "_generated": {
     "name": "6d3a11ee",
@@ -34,13 +33,13 @@
     "context_window": "4a1d32eb",
     "modalities": "3ad4060a",
     "capabilities": "f533f522",
-    "pricing": "e67ef2fa",
+    "pricing": "0c2bbabf",
     "model_type": "d669f408",
     "parameters": "45c48cce",
     "release_date": "49946764",
     "tagline": "9e4bfec6",
     "tools": "f0c1dc7e",
-    "max_output_tokens": "297ce0b3",
+    "max_output_tokens": "7ad80673",
     "status": "2e2f74dc",
     "deprecation_date": "2ba1fb27"
   },
@@ -51,7 +50,7 @@
   "tools": [
     "function_calling"
   ],
-  "max_output_tokens": 65536,
+  "max_output_tokens": 235929,
   "status": "deprecated",
   "deprecation_date": "2026-10-21"
 }
