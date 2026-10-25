@@ -3,7 +3,7 @@
   "name": "Morph: Morph V3 Fast",
   "created_by": "morph",
   "source": "official",
-  "last_updated": "2026-10-24",
+  "last_updated": "2026-10-25",
   "description": "Morph's fastest apply model for code edits.",
   "context_window": 262144,
   "max_output_tokens": 131072,
