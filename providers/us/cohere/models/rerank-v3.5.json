@@ -3,7 +3,7 @@
   "name": "rerank-v3.5",
   "created_by": "cohere",
   "source": "official",
-  "last_updated": "2026-10-25",
+  "last_updated": "2026-10-26",
   "description": "A performance upgrade to Rerank v3 series. Supports English and the same non-English languages as embed-multilingual-v3.0 .",
   "status": "active",
   "model_type": "rerank",
