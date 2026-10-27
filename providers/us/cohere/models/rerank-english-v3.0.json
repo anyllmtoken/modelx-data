@@ -3,7 +3,7 @@
   "name": "rerank-english-v3.0",
   "created_by": "cohere",
   "source": "official",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-27",
   "description": "Our third-generation flagship model. English only.",
   "status": "active",
   "model_type": "rerank",

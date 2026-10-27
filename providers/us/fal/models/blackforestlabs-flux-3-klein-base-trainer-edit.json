@@ -1,0 +1,24 @@
+{
+  "id": "blackforestlabs/flux-3/klein/base/trainer/edit",
+  "name": "FLUX 3 Klein Edit LoRA Trainer",
+  "created_by": "blackforestlabs",
+  "source": "official",
+  "description": "Fine-tune FLUX 3 Image Klein on before/after image pairs to teach it a custom edit, with up to 10 input images per pair.",
+  "status": "active",
+  "release_date": "2026-10-26",
+  "model_type": "other",
+  "page_url": "https://fal.run/blackforestlabs/flux-3/klein/base/trainer/edit",
+  "capabilities": {
+    "vision": true
+  },
+  "last_updated": "2026-10-27",
+  "_generated": {
+    "name": "70503d21",
+    "description": "36ac07b2",
+    "status": "379ac110",
+    "release_date": "28277fd5",
+    "model_type": "ddb0b7bc",
+    "page_url": "b2bb1495",
+    "capabilities": "d3117eb0"
+  }
+}

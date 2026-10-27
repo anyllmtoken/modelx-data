@@ -3,7 +3,7 @@
   "name": "GPT-6.1 series",
   "created_by": "openai",
   "source": "official",
-  "description": "NEW gpt-6.1-sol",
+  "description": "NEW gpt-6.1-sol , NEW gpt-6.1-terra",
   "capabilities": {
     "streaming": true
   },
@@ -15,10 +15,10 @@
       "text"
     ]
   },
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-27",
   "_generated": {
     "name": "5f36e4ea",
-    "description": "40eb103b",
+    "description": "2af7290b",
     "capabilities": "0fa77dc6",
     "modalities": "68e53d93"
   }

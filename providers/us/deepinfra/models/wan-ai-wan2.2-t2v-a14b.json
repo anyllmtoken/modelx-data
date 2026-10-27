@@ -3,7 +3,7 @@
   "name": "Wan2.2-T2V-A14B",
   "created_by": "wan-ai",
   "source": "official",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-27",
   "family": "Wan2.2",
   "description": "Wan2.2 T2V A14B is a 14B-parameter text-to-video model by Wan-AI with a Mixture-of-Experts design: a high-noise expert lays out the scene and motion, and a low-noise expert refines the detail. It generates 5-second 720p (1280×720) clips at 16 fps from text prompts.",
   "status": "active",

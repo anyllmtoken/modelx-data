@@ -1,0 +1,37 @@
+{
+  "id": "blackforestlabs/flux-3/klein/base/text-to-image/lora",
+  "name": "FLUX 3 Klein Base Text to Image LoRA",
+  "created_by": "blackforestlabs",
+  "source": "official",
+  "description": "Generate images with FLUX 3 Image Klein base and up to 3 custom LoRAs.",
+  "status": "active",
+  "release_date": "2026-10-26",
+  "model_type": "image",
+  "page_url": "https://fal.run/blackforestlabs/flux-3/klein/base/text-to-image/lora",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "image"
+    ]
+  },
+  "endpoints": [
+    "images"
+  ],
+  "last_updated": "2026-10-27",
+  "_generated": {
+    "name": "eb37def5",
+    "description": "4b81dee6",
+    "status": "379ac110",
+    "release_date": "28277fd5",
+    "model_type": "db8857fe",
+    "page_url": "9187e221",
+    "capabilities": "d3117eb0",
+    "modalities": "814867b9",
+    "endpoints": "9a7c17cc"
+  }
+}

@@ -8,11 +8,13 @@
   "context_window": 262144,
   "model_type": "chat",
   "capabilities": {
+    "vision": true,
     "streaming": true
   },
   "modalities": {
     "input": [
-      "text"
+      "text",
+      "image"
     ],
     "output": [
       "text"
@@ -27,15 +29,15 @@
     "chat_completions"
   ],
   "open_weight": true,
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-27",
   "_generated": {
     "name": "cf6fa4fb",
     "description": "dee89099",
     "status": "379ac110",
     "context_window": "4a1d32eb",
     "model_type": "d669f408",
-    "capabilities": "0fa77dc6",
-    "modalities": "68e53d93",
+    "capabilities": "5f5c7516",
+    "modalities": "6399757e",
     "pricing": "1b3c678b",
     "endpoints": "d8fa1080",
     "open_weight": "b326b506"

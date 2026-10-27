@@ -1,0 +1,24 @@
+{
+  "id": "fireworks/qwen3p8-flash-next-fp8/",
+  "name": "",
+  "created_by": "qwen",
+  "source": "official",
+  "context_window": 262000,
+  "page_url": "https://fireworks.ai/models/fireworks/qwen3p8-flash-next-fp8/",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 1,
+    "output": 1,
+    "cached_input": 1
+  },
+  "last_updated": "2026-10-27",
+  "_generated": {
+    "name": "9d4568c0",
+    "context_window": "4ed74017",
+    "page_url": "5f9e7f2f",
+    "capabilities": "0fa77dc6",
+    "pricing": "cb03f68e"
+  }
+}

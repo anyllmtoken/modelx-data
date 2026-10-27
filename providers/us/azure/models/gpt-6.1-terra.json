@@ -1,0 +1,36 @@
+{
+  "id": "gpt-6.1-terra",
+  "name": "gpt-6.1-terra",
+  "created_by": "openai",
+  "source": "official",
+  "description": "- Reasoning - Responses API . - Multi-agent orchestration (preview). - Chat Completions API. - Structured outputs. - Text and image processing. - Functions, tools, and parallel tool calling. - Computer use - Full summary of capabilities .",
+  "knowledge_cutoff": "2026-06",
+  "context_window": 1050000,
+  "max_output_tokens": 128000,
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true,
+    "reasoning": true,
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "last_updated": "2026-10-27",
+  "_generated": {
+    "name": "17d7f603",
+    "description": "a8b42985",
+    "knowledge_cutoff": "cb890cbe",
+    "context_window": "f170ebb2",
+    "max_output_tokens": "34434798",
+    "capabilities": "781c5d26",
+    "modalities": "6399757e"
+  }
+}

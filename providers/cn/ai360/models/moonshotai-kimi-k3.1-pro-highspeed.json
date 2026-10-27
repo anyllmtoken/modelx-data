@@ -1,0 +1,36 @@
+{
+  "id": "moonshotai/kimi-k3.1-pro-highspeed",
+  "name": "moonshotai/kimi-k3.1-pro-highspeed",
+  "created_by": "moonshot",
+  "source": "official",
+  "family": "kimi-k3.1",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "structured_output": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "pricing": {
+    "input": 26,
+    "output": 136
+  },
+  "last_updated": "2026-10-27",
+  "_generated": {
+    "name": "26ea4039",
+    "family": "90fce409",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "1d6c1abb",
+    "modalities": "68e53d93",
+    "pricing": "0da816ea"
+  }
+}
