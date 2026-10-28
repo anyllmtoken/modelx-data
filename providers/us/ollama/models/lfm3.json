@@ -1,0 +1,39 @@
+{
+  "id": "lfm3",
+  "name": "lfm3",
+  "created_by": "liquid",
+  "source": "official",
+  "description": "LFM3-1.7B is a tri-hybrid model for local agents and specialized applications.",
+  "context_window": 262144,
+  "license": "open-weight",
+  "parameters": 1.7,
+  "page_url": "https://ollama.com/library/lfm3",
+  "capabilities": {
+    "streaming": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "reasoning_tokens": true,
+  "open_weight": true,
+  "last_updated": "2026-10-28",
+  "_generated": {
+    "name": "9987df1b",
+    "description": "2d15d686",
+    "context_window": "4a1d32eb",
+    "license": "6327aaea",
+    "parameters": "7fd3cdaa",
+    "page_url": "3b8d0547",
+    "capabilities": "a281e83a",
+    "modalities": "68e53d93",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "b326b506"
+  }
+}

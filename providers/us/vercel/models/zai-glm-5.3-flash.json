@@ -14,15 +14,15 @@
   },
   "pricing": {
     "input": 0.04,
-    "output": 0.08
+    "output": 0.07
   },
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "_generated": {
     "name": "c99f2343",
     "family": "9f217d9a",
     "context_window": "8155bc54",
     "model_type": "d669f408",
     "capabilities": "a19166f1",
-    "pricing": "6a26528c"
+    "pricing": "9543cadd"
   }
 }

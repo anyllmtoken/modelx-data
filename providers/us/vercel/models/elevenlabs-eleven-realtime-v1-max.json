@@ -1,0 +1,19 @@
+{
+  "id": "elevenlabs/eleven-realtime-v1-max",
+  "name": "eleven-realtime-v1-max",
+  "created_by": "elevenlabs",
+  "source": "official",
+  "capabilities": {
+    "streaming": true
+  },
+  "pricing": {
+    "input": 0.9,
+    "output": 4.5
+  },
+  "last_updated": "2026-10-28",
+  "_generated": {
+    "name": "b0288c4c",
+    "capabilities": "0fa77dc6",
+    "pricing": "5069a627"
+  }
+}

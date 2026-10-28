@@ -22,13 +22,15 @@
     "input": 1,
     "output": 2
   },
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "_generated": {
     "name": "715f77d9",
     "family": "1d747135",
     "model_type": "d669f408",
     "capabilities": "1d6c1abb",
     "modalities": "68e53d93",
-    "pricing": "ac91204c"
-  }
+    "pricing": "ac91204c",
+    "context_window": "762e98db"
+  },
+  "context_window": 64000
 }

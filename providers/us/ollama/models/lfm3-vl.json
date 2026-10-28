@@ -1,0 +1,41 @@
+{
+  "id": "lfm3-vl",
+  "name": "lfm3-vl",
+  "created_by": "liquid",
+  "source": "official",
+  "description": "LFM3-VL-2B is a vision-language model for on-device visual understanding.",
+  "context_window": 128000,
+  "license": "open-weight",
+  "parameters": 2,
+  "page_url": "https://ollama.com/library/lfm3-vl",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "reasoning_tokens": true,
+  "open_weight": true,
+  "last_updated": "2026-10-28",
+  "_generated": {
+    "name": "1713b245",
+    "description": "032f528d",
+    "context_window": "34434798",
+    "license": "6327aaea",
+    "parameters": "c81e728d",
+    "page_url": "957425be",
+    "capabilities": "a19166f1",
+    "modalities": "6399757e",
+    "reasoning_tokens": "b326b506",
+    "open_weight": "b326b506"
+  }
+}

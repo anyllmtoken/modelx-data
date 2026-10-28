@@ -4,7 +4,7 @@
   "created_by": "deepseek",
   "source": "official",
   "family": "deepseek",
-  "context_window": 1000000,
+  "context_window": 1048576,
   "model_type": "chat",
   "capabilities": {
     "streaming": true,
@@ -20,17 +20,17 @@
     ]
   },
   "pricing": {
-    "input": 2,
-    "output": 8
+    "input": 1,
+    "output": 2
   },
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "_generated": {
     "name": "943cc5c4",
     "family": "4b81b92d",
-    "context_window": "8155bc54",
+    "context_window": "7d28a051",
     "model_type": "d669f408",
     "capabilities": "1d6c1abb",
     "modalities": "68e53d93",
-    "pricing": "9d7f5a51"
+    "pricing": "ac91204c"
   }
 }
