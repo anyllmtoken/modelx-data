@@ -53,7 +53,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.3,
           "output": 0.6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "360zhinao/360zhinao-pro",
@@ -81,7 +81,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "360zhinao/360zhinao-turbo-llm-aisearch-summary",
@@ -109,7 +109,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "360zhinao/360zhinao-turbo-llm-geo",
@@ -137,7 +137,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "360zhinao-pro-qwen-plus",
@@ -165,7 +165,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 16
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "360zhinao-search-summary",
@@ -193,7 +193,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "360zhinao-turbo-32k-agent",
@@ -221,7 +221,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "360zhinao-turbo-and-doubao-seed-1-8",
@@ -249,7 +249,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "360zhinao-turbo-doubao-seed-1-8-thinking-minimal",
@@ -277,7 +277,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "360zhinao-turbo-doubao-seed-1-8",
@@ -305,7 +305,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "360zhinao-turbo-doubao-seed-2-0-lite",
@@ -332,7 +332,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "context_window": 64000
       },
       {
@@ -361,7 +361,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "alibaba/qwen-plus-latest",
@@ -389,7 +389,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "alibaba/qwen-plus",
@@ -417,7 +417,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 2
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "Qwen-Plus offers balanced capabilities: inference quality, cost, and speed are between Qwen-Max and Qwen-Flash, making it ideal for medium-complexity tasks. [Usage](https://www.alibabacloud.com/help/en/document_detail/2841718.html#24e54b27d4agt) \\| [Thinking](https://www.alibabacloud.com/help/en/document_detail/2870973.html) \\| [API reference](https://www.alibabacloud.com/help/en/document_detail/2712576.html) \\| [Try online](https://modelstudio.console.alibabacloud.com/?tab=playground#/efm/prompt) > Qwen3.5 Plus supports text, image, and video inputs. Its performance on plain text tasks is comparable to that of Qwen3 Max, while offering superior efficiency at a lower cost. Its multimodal capabilities are a significant improvement over the Qwen3 VL series. #### International If you select the [International](https://www.alibabacloud.com/help/en/document_detail/3004398.html#080da663a75xh) deployment scope, model inference compute resources are dynamically scheduled worldwide, excluding the Chinese mainland. Static data is stored in your selected region. Supported region: Singapore.",
         "tagline": "A balanced model with inference performance, cost, and speed between Qwen-Max and Qwen-Flash, ideal for moderately complex tasks.",
         "max_output_tokens": 32768,
@@ -450,7 +450,7 @@ export const providers: ProviderWithModels[] = [
           "input": 3,
           "output": 9
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "alibaba/qwen2.5-coder-7b-instruct",
@@ -478,7 +478,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "alibaba/qwen3.7-plus",
@@ -507,7 +507,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 131072,
         "license": "apache-2.0",
         "open_weight": true
@@ -538,7 +538,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bytedance/doubao-seed-1-8",
@@ -566,7 +566,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bytedance/doubao-seed-2-0-code",
@@ -594,7 +594,7 @@ export const providers: ProviderWithModels[] = [
           "input": 3.2,
           "output": 16
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bytedance/doubao-seed-2-0-lite",
@@ -622,7 +622,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.6,
           "output": 3.6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bytedance/doubao-seed-2-0-mini",
@@ -650,7 +650,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.2,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bytedance/doubao-seed-2-0-pro",
@@ -678,7 +678,7 @@ export const providers: ProviderWithModels[] = [
           "input": 3.2,
           "output": 16
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bytedance/doubao-seed-2-1-lite",
@@ -706,7 +706,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 2.7
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bytedance/doubao-seed-2-1-pro",
@@ -734,7 +734,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6,
           "output": 30
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bytedance/doubao-seed-2-1-turbo",
@@ -762,7 +762,7 @@ export const providers: ProviderWithModels[] = [
           "input": 3,
           "output": 15
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bytedance/doubao-seed-evolving",
@@ -791,7 +791,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6,
           "output": 30
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "coding",
@@ -847,7 +847,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek/deepseek-chat",
@@ -876,7 +876,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "DeepSeek-V3.2 in non-thinking mode. Best for general chat, code, and tool use.",
         "tagline": "DeepSeek-V3.2 in non-thinking mode.",
         "max_output_tokens": 8000,
@@ -909,7 +909,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.5,
           "output": 6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek/deepseek-r1",
@@ -937,7 +937,35 @@ export const providers: ProviderWithModels[] = [
           "input": 1.5,
           "output": 6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
+      },
+      {
+        "id": "deepseek/deepseek-v4-flash-internal",
+        "name": "deepseek/deepseek-v4-flash-internal",
+        "created_by": "deepseek",
+        "source": "official",
+        "family": "deepseek",
+        "context_window": 1000000,
+        "model_type": "chat",
+        "capabilities": {
+          "streaming": true,
+          "tool_call": true,
+          "structured_output": true,
+          "json_mode": true
+        },
+        "modalities": {
+          "input": [
+            "text"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "pricing": {
+          "input": 3,
+          "output": 9
+        },
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek/deepseek-v4-flash-vision-exp",
@@ -965,7 +993,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek/deepseek-v4-flash",
@@ -995,7 +1023,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "DeepSeek-V4 hybrid model with both non-thinking and thinking (default) modes.",
         "tagline": "DeepSeek-V4-Flash hybrid model with both non-thinking and thinking (default) modes.",
         "max_output_tokens": 384000,
@@ -1030,7 +1058,7 @@ export const providers: ProviderWithModels[] = [
           "input": 9,
           "output": 27
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "DeepSeek-V4 hybrid model with both non-thinking and thinking (default) modes.",
         "tagline": "DeepSeek-V4-Pro hybrid model with both non-thinking and thinking (default) modes.",
         "max_output_tokens": 384000,
@@ -1063,7 +1091,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek/deepseek-v4.1-flash",
@@ -1091,7 +1119,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-r1-0528",
@@ -1119,7 +1147,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 16
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-r1",
@@ -1147,7 +1175,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.5,
           "output": 6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v3-360gpt-pro",
@@ -1175,7 +1203,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v3.1-terminus",
@@ -1203,7 +1231,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 12
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v3.1",
@@ -1231,7 +1259,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 12
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v3.2-exp",
@@ -1259,7 +1287,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v3.2-speciale",
@@ -1287,7 +1315,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v3.2",
@@ -1315,7 +1343,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v4-pro",
@@ -1371,7 +1399,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "doubao-seed-1-6",
@@ -1399,7 +1427,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "glm-4.5",
@@ -1427,7 +1455,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 12
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kimi-k2",
@@ -1455,7 +1483,7 @@ export const providers: ProviderWithModels[] = [
           "input": 13,
           "output": 54
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "minimax-minimax-m1",
@@ -1735,7 +1763,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "moonshotai/kimi-k2.6-test",
@@ -1763,7 +1791,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6.5,
           "output": 27
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "moonshotai/kimi-k2.6",
@@ -1792,7 +1820,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6.5,
           "output": 27
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "moonshotai/kimi-k2.7-code-highspeed",
@@ -1821,7 +1849,7 @@ export const providers: ProviderWithModels[] = [
           "input": 13,
           "output": 54
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "moonshotai/kimi-k2.7-code",
@@ -1850,7 +1878,7 @@ export const providers: ProviderWithModels[] = [
           "input": 13,
           "output": 54
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "moonshotai/kimi-k3.1-pro-highspeed",
@@ -1878,7 +1906,7 @@ export const providers: ProviderWithModels[] = [
           "input": 26,
           "output": 136
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "moonshotai/kimi-k3.1-pro",
@@ -1906,7 +1934,7 @@ export const providers: ProviderWithModels[] = [
           "input": 26,
           "output": 136
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "moonshotai/kimi-k3",
@@ -1934,7 +1962,7 @@ export const providers: ProviderWithModels[] = [
           "input": 26,
           "output": 136
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "openai/gpt-5.6-sol",
@@ -2045,7 +2073,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen/qwen-image-3.0-pro",
@@ -2073,7 +2101,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.02,
           "output": 0.25
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 6,
         "license": "apache-2.0"
       },
@@ -2103,7 +2131,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.02,
           "output": 0.18
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 6,
         "license": "apache-2.0"
       },
@@ -2133,7 +2161,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 4.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen/qwen3.6-flash",
@@ -2162,7 +2190,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.2,
           "output": 7.2
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "Qwen-Flash is the fastest and most cost-effective model in the Qwen series, designed for simple jobs. Qwen-Flash features flexible tiered pricing, resulting in more reasonable billing compared to Qwen-Turbo. [Usage](https://www.alibabacloud.com/help/en/document_detail/2841718.html#24e54b27d4agt) \\| [API reference](https://www.alibabacloud.com/help/en/document_detail/2712576.html) \\| [Try online](https://modelstudio.console.alibabacloud.com/?tab=playground#/efm/prompt) \\| [Thinking](https://www.alibabacloud.com/help/en/document_detail/2870973.html) #### International If you select the [International](https://www.alibabacloud.com/help/en/document_detail/3004398.html#080da663a75xh) deployment scope, model inference compute resources are dynamically scheduled worldwide, excluding the Chinese mainland. Static data is stored in your selected region. Supported region: Singapore.",
         "tagline": "Qwen-Flash is the fastest and most cost-effective model in the Qwen series, designed for simple jobs.",
         "max_output_tokens": 65536,
@@ -2196,7 +2224,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 12
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "Qwen-Plus offers balanced capabilities: inference quality, cost, and speed are between Qwen-Max and Qwen-Flash, making it ideal for medium-complexity tasks. [Usage](https://www.alibabacloud.com/help/en/document_detail/2841718.html#24e54b27d4agt) \\| [Thinking](https://www.alibabacloud.com/help/en/document_detail/2870973.html) \\| [API reference](https://www.alibabacloud.com/help/en/document_detail/2712576.html) \\| [Try online](https://modelstudio.console.alibabacloud.com/?tab=playground#/efm/prompt) > Qwen3.5 Plus supports text, image, and video inputs. Its performance on plain text tasks is comparable to that of Qwen3 Max, while offering superior efficiency at a lower cost. Its multimodal capabilities are a significant improvement over the Qwen3 VL series. #### International If you select the [International](https://www.alibabacloud.com/help/en/document_detail/3004398.html#080da663a75xh) deployment scope, model inference compute resources are dynamically scheduled worldwide, excluding the Chinese mainland. Static data is stored in your selected region. Supported region: Singapore.",
         "tagline": "Qwen-Plus offers balanced capabilities: inference quality, cost, and speed are between Qwen-Max and Qwen-Flash, making it ideal for medium-complexity tasks.",
         "max_output_tokens": 65536,
@@ -2230,7 +2258,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.2,
           "output": 0.8
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 131072,
         "license": "apache-2.0"
       },
@@ -2261,7 +2289,7 @@ export const providers: ProviderWithModels[] = [
           "input": 12,
           "output": 36
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 131072,
         "license": "apache-2.0",
         "open_weight": true
@@ -2293,7 +2321,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 131072,
         "license": "apache-2.0",
         "open_weight": true
@@ -2324,7 +2352,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen/qwen3.8-max",
@@ -2353,7 +2381,7 @@ export const providers: ProviderWithModels[] = [
           "input": 12,
           "output": 36
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 131072,
         "license": "apache-2.0"
       },
@@ -2383,7 +2411,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3-32b",
@@ -2411,7 +2439,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 20
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "scrollbar-width",
@@ -2467,7 +2495,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.35,
           "output": 8.1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "volcengine/doubao-seed-1-8",
@@ -2495,7 +2523,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "volcengine/doubao-seed-2-0-mini-260215",
@@ -2522,7 +2550,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.2,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "volcengine/doubao-seed-2-0-pro",
@@ -2550,7 +2578,7 @@ export const providers: ProviderWithModels[] = [
           "input": 3.2,
           "output": 16
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xiaomi/mimo-v2.5-pro",
@@ -2578,7 +2606,7 @@ export const providers: ProviderWithModels[] = [
           "input": 3.045,
           "output": 6.09
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 128000
       },
       {
@@ -2607,7 +2635,7 @@ export const providers: ProviderWithModels[] = [
           "input": 3.045,
           "output": 6.09
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 128000
       },
       {
@@ -2636,7 +2664,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xiaomi/mimo-v2.6-pro",
@@ -2664,7 +2692,7 @@ export const providers: ProviderWithModels[] = [
           "input": 3,
           "output": 6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "z-ai/glm-4.5",
@@ -2693,7 +2721,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 12
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "GLM-4.5 and GLM-4.5-Air are Z.AI's models, purpose-built as foundational models for agent-oriented applications. Both leverage a Mixture-of-Experts (MoE) architecture. GLM-4.5 has a total parameter count of 355B with 32B active parameters per forward pass, while GLM-4.5-Air adopts a more streamlined design with 106B total parameters and 12B active parameters.",
         "tagline": "The first-principle measure of AGI lies in integrating more general intelligence capabilities without compromising existing functions.",
         "max_output_tokens": 96000,
@@ -2730,7 +2758,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 12
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "GLM-4.5V is Z.AI's new generation of visual reasoning models based on the MOE architecture. With a total of 106B parameters and 12B activation parameters, it achieves SOTA performance among open-source VLMs of the same level in various benchmark tests, covering common tasks such as image, video, document understanding, and GUI tasks.",
         "tagline": "GLM-4.5V is Z.AI's new generation of visual reasoning models based on the MOE architecture.",
         "max_output_tokens": 16000,
@@ -2767,7 +2795,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 3
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "GLM-4.6V series are Z.ai's iterations in a multimodal large language model. GLM-4.6V scales its context window to 128k tokens in training, and achieves SoTA performance in visual understanding among models of similar parameter scales. Crucially, GLM-4.6V integrate native Function Calling capabilities for the first time. This effectively bridges the gap between \"visual perception\" and \"executable action,\" providing a unified technical foundation for multimodal agents in real-world business sce...",
         "tagline": "GLM-4.6V series are Z.ai's iterations in a multimodal large language model.",
         "max_output_tokens": 32000,
@@ -2801,7 +2829,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "GLM-4.7 Series are Z.AI's models, featuring upgrades in two key areas: enhanced programming capabilities and more stable multi-step reasoning/execution. It demonstrates significant improvements in executing complex agent tasks while delivering more natural conversational experiences and superior front-end aesthetics.",
         "tagline": "GLM-4.7 Series are Z.AI's models, featuring upgrades in two key areas: enhanced programming capabilities and more stable multi-step reasoning/execution.",
         "max_output_tokens": 128000,
@@ -2834,7 +2862,7 @@ export const providers: ProviderWithModels[] = [
           "input": 5,
           "output": 22
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "GLM-5-Turbo is a foundation model deeply optimized for the OpenClaw scenario. It has been specifically optimized for the core requirements of OpenClaw tasks since the training phase, enhancing key capabilities such as tool invocation, command following, timed and persistent tasks, and long-chain execution.",
         "tagline": "GLM-5-Turbo is a foundation model deeply optimized for the OpenClaw scenario.",
         "max_output_tokens": 128000,
@@ -2868,7 +2896,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6,
           "output": 24
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "GLM-5.1 is Z.AI’s latest flagship model, designed for long-horizon tasks. It can work continuously and autonomously on a single task for up to 8 hours, completing the full loop from planning and execution to iterative optimization and delivering production-grade results. <br /><br />In both general capability and coding performance, GLM-5.1 is overall aligned with Claude Opus 4.6. It demonstrates stronger sustained execution in long-horizon autonomous tasks, complex engineering optimization, ...",
         "tagline": "GLM-5.1 is Z.AI’s latest flagship model, designed for long-horizon tasks.",
         "max_output_tokens": 128000,
@@ -2930,7 +2958,7 @@ export const providers: ProviderWithModels[] = [
           "input": 8,
           "output": 28
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "GLM-5.2 is a flagship model built for the era of long-horizon tasks. With truly usable 1M-token context, it has been tested to handle project-scale engineering context, delivering more stable long-task execution, more reliable adherence to engineering standards, and higher success rates in development scenarios. A single task can complete the full development workflow—from requirements to deployable products across multiple platforms.",
         "tagline": "GLM-5.2 is a flagship model built for the era of long-horizon tasks.",
         "max_output_tokens": 128000,
@@ -2963,7 +2991,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 2.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "z-ai/glm-5.3",
@@ -2991,7 +3019,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 2.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "z-ai/glm-5",
@@ -3020,7 +3048,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.8,
           "output": 2.8
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "GLM-5 is Z.AI's new-generation foundation model, designed for Agentic Engineering, capable of providing reliable productivity in complex system engineering and long-range Agent tasks. In terms of Coding and Agent capabilities, GLM-5 has achieved state-of-the-art (SOTA) performance in open source, with its usability in real programming scenarios approaching that of Claude Opus 4.5.",
         "tagline": "GLM-5 is Z.AI's new-generation foundation model, designed for Agentic Engineering, capable of providing reliable productivity in complex system engineering and long-range Agent tasks.",
         "max_output_tokens": 128000,
@@ -3056,7 +3084,7 @@ export const providers: ProviderWithModels[] = [
           "input": 5,
           "output": 22
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "description": "GLM-5V-Turbo is Z.AI's first multimodal coding foundation model, built for vision-based coding tasks. It can natively process multimodal inputs such as images, video, and text, while also excelling at long-horizon planning, complex coding, and action execution. Deeply optimized for agent workflows, it works seamlessly with agents such as Claude Code and OpenClaw to complete the full loop of \"understand the environment → plan actions → execute tasks\".",
         "tagline": "GLM-5V-Turbo is Z.AI's first multimodal coding foundation model, built for vision-based coding tasks.",
         "max_output_tokens": 128000,
@@ -6740,7 +6768,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "aquila2-7b",
@@ -6767,7 +6795,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "aquilachat-34b",
@@ -6794,7 +6822,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "aquilachat-7b",
@@ -6821,7 +6849,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "aquilacode-34b",
@@ -6848,7 +6876,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bge-large-en-v1.5",
@@ -6873,7 +6901,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bge-large-zh-v1.5",
@@ -6898,7 +6926,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bge-m3",
@@ -6923,7 +6951,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bge-reranker-v2-m3",
@@ -6947,7 +6975,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "emu2",
@@ -6972,7 +7000,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       }
     ]
   },
@@ -7025,7 +7053,7 @@ export const providers: ProviderWithModels[] = [
           "input": 10,
           "output": 30
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baichuan-m2",
@@ -7053,7 +7081,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 20
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baichuan-m3-plus",
@@ -7081,7 +7109,7 @@ export const providers: ProviderWithModels[] = [
           "input": 5,
           "output": 9
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baichuan-m3",
@@ -7109,7 +7137,7 @@ export const providers: ProviderWithModels[] = [
           "input": 10,
           "output": 30
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baichuan-text-embedding",
@@ -7135,7 +7163,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baichuan2-53b",
@@ -7162,7 +7190,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 10
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baichuan2-turbo",
@@ -7189,7 +7217,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baichuan3-turbo-128k",
@@ -7216,7 +7244,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 24
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baichuan3-turbo",
@@ -7243,7 +7271,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 12
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baichuan4-air",
@@ -7270,7 +7298,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.98
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baichuan4-turbo",
@@ -7297,7 +7325,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 15
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baichuan4",
@@ -7324,7 +7352,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 100
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       }
     ]
   },
@@ -7447,7 +7475,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v3.1-250821",
@@ -7631,7 +7659,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v4",
@@ -7657,7 +7685,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 12
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "embedding-v1",
@@ -7894,7 +7922,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "ernie-5.0",
@@ -7946,7 +7974,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "ernie-5.1",
@@ -7972,7 +8000,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "ernie-char-8k",
@@ -8126,7 +8154,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "flux.1-schnell",
@@ -8176,7 +8204,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "glm-5.2",
@@ -8202,7 +8230,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "glm-5.3",
@@ -8228,7 +8256,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "glm-5",
@@ -8254,7 +8282,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "internvl3-38b",
@@ -8280,7 +8308,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "internvl3",
@@ -8332,7 +8360,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 6.5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "musesteamer-air-image",
@@ -8408,7 +8436,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 180
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "pp-structurev3",
@@ -8434,7 +8462,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 180
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qianfan-check-vl",
@@ -8543,7 +8571,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.45
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qianfan-toytalk",
@@ -9193,7 +9221,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3.5-27b",
@@ -9219,7 +9247,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3.5-35b-a3b",
@@ -9271,7 +9299,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3.5-397b-a17b",
@@ -9323,7 +9351,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 1.2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3.5",
@@ -12288,7 +12316,7 @@ export const providers: ProviderWithModels[] = [
           "function_calling"
         ],
         "snapshots": [],
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v4-pro-2026-04-24",
@@ -12378,7 +12406,7 @@ export const providers: ProviderWithModels[] = [
           "function_calling"
         ],
         "snapshots": [],
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       }
     ]
   },
@@ -12433,7 +12461,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "internlm2-20b",
@@ -12462,7 +12490,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "internlm2-7b-instruct",
@@ -12491,7 +12519,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "internlm2-7b",
@@ -12520,7 +12548,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "internlm3-8b-instruct",
@@ -12549,7 +12577,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "internlm3-8b",
@@ -12578,7 +12606,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "internlm3-code-8b",
@@ -12604,7 +12632,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "internvl3-256b",
@@ -12633,7 +12661,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": false,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "internvl3-38b",
@@ -12663,7 +12691,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "internvl3-78b",
@@ -12693,7 +12721,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "internvl3-8b",
@@ -12723,7 +12751,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       }
     ]
   },
@@ -12771,7 +12799,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-1.5",
@@ -12795,7 +12823,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-1.6",
@@ -12819,7 +12847,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-2.0-master",
@@ -12843,7 +12871,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-2.1-master",
@@ -12867,7 +12895,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-2.1",
@@ -12891,7 +12919,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-2.5-turbo",
@@ -12915,7 +12943,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-2.6",
@@ -12939,7 +12967,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-3.0-omni",
@@ -12963,7 +12991,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-3.0-turbo",
@@ -12987,7 +13015,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-3.0",
@@ -13011,7 +13039,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-image-1.0",
@@ -13035,7 +13063,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.025
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-image-1.5",
@@ -13059,7 +13087,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-image-2.0",
@@ -13083,7 +13111,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-image-2.1-new",
@@ -13107,7 +13135,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-image-2.1",
@@ -13131,7 +13159,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-image-3.0-omni",
@@ -13155,7 +13183,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-image-3.0",
@@ -13179,7 +13207,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-image-o1",
@@ -13203,7 +13231,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-o1",
@@ -13227,7 +13255,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       }
     ]
   },
@@ -13278,7 +13306,7 @@ export const providers: ProviderWithModels[] = [
           "output": 20,
           "cached_input": 0.04
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       }
     ]
   },
@@ -13623,7 +13651,7 @@ export const providers: ProviderWithModels[] = [
           "output": 4,
           "cached_input": 0.1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "minimax-m3",
@@ -14039,7 +14067,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 2.7
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bytedance-doubao-seed-2-1-pro",
@@ -14069,7 +14097,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 30
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "bytedance-doubao-seed-2-1-turbo",
@@ -14099,7 +14127,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 15
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-deepseek-v3.2-251201",
@@ -14384,7 +14412,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 3.6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "doubao-seed-2.0-mini",
@@ -14414,7 +14442,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "doubao-seed-2.0-pro",
@@ -14527,7 +14555,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2.1,
           "output": 8.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "minimax-minimax-m2.7",
@@ -14552,7 +14580,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2.1,
           "output": 8.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "minimax-minimax-m3.1-flash",
@@ -14582,7 +14610,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "minimax-minimax-m3",
@@ -14612,7 +14640,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 8.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "moonshotai-kimi-k2.5",
@@ -14673,7 +14701,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6.5,
           "output": 27
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "moonshotai-kimi-k2.7-code",
@@ -14702,7 +14730,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 27
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "moonshotai-kimi-k3-free",
@@ -14762,7 +14790,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 136
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "moonshotai-kimi-k3.1-pro",
@@ -14792,7 +14820,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 68
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "moonshotai-kimi-k3",
@@ -14822,7 +14850,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 100
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "nvidia-nemotron-3-ultra-550b-a55b0-free",
@@ -14851,7 +14879,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qiniu-conatus-free",
@@ -14880,7 +14908,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.5-plus",
@@ -14910,7 +14938,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 4.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.6-27b",
@@ -14971,7 +14999,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 12
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.7-flash",
@@ -15001,7 +15029,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 0.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.7-max",
@@ -15025,7 +15053,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 36
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.7-plus",
@@ -15055,7 +15083,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.8-flash-next",
@@ -15085,7 +15113,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.8-max",
@@ -15111,7 +15139,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 36
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen2.5-vl-7b-instruct",
@@ -15251,7 +15279,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.2,
           "output": 7.2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "stepfun-step-3.7-flash",
@@ -15337,7 +15365,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 18
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xiaomi-mimo-v2.6-flash",
@@ -15368,7 +15396,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xiaomi-mimo-v2.6-pro",
@@ -15399,7 +15427,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "z-ai-glm-5.1",
@@ -15427,7 +15455,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6,
           "output": 24
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "z-ai-glm-5.2",
@@ -15455,7 +15483,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 28
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "z-ai-glm-5.3-flash",
@@ -15485,7 +15513,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 2.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "z-ai-glm-5.3",
@@ -15513,7 +15541,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "output": 28
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "z-ai-glm-5",
@@ -15542,7 +15570,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 18
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       }
     ]
   },
@@ -15587,7 +15615,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "cosyvoice-v2",
@@ -15609,7 +15637,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "cosyvoice-v3-flash",
@@ -15631,7 +15659,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "cosyvoice-v3-plus",
@@ -15653,7 +15681,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "cosyvoice-v3.5-flash",
@@ -15675,7 +15703,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "cosy_tts_number": 0.8
         }
@@ -15700,7 +15728,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "Fun-ASR-Flash-8K-Realtime",
@@ -15714,7 +15742,7 @@ export const providers: ProviderWithModels[] = [
         "capabilities": {
           "streaming": true
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "Fun-ASR-Flash",
@@ -15735,7 +15763,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "fun-asr-mtl",
@@ -15757,7 +15785,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "Fun-ASR-Realtime",
@@ -15771,7 +15799,7 @@ export const providers: ProviderWithModels[] = [
         "capabilities": {
           "streaming": true
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "Fun-ASR",
@@ -15793,7 +15821,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "content_duration": 0.00022
         }
@@ -15820,7 +15848,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "content_duration": 0.00015
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "gummy-realtime-v1",
@@ -15836,7 +15864,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "content_duration": 0.00015
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "Legacy",
@@ -15857,7 +15885,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "mimo-v2.5-pro",
@@ -15880,7 +15908,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "paraformer-8k-v1",
@@ -15904,7 +15932,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "content_duration": 0.00008
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "paraformer-8k-v2",
@@ -15926,7 +15954,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "content_duration": 0.00008
         }
@@ -15953,7 +15981,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "content_duration": 0.00008
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "paraformer-realtime-8k-v1",
@@ -15967,7 +15995,7 @@ export const providers: ProviderWithModels[] = [
         "capabilities": {
           "streaming": true
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "content_duration": 0.00024
         }
@@ -15984,7 +16012,7 @@ export const providers: ProviderWithModels[] = [
         "capabilities": {
           "streaming": true
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "content_duration": 0.00024
         }
@@ -16001,7 +16029,7 @@ export const providers: ProviderWithModels[] = [
         "capabilities": {
           "streaming": true
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "content_duration": 0.00024
         }
@@ -16018,7 +16046,7 @@ export const providers: ProviderWithModels[] = [
         "capabilities": {
           "streaming": true
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "content_duration": 0.00024
         }
@@ -16034,7 +16062,7 @@ export const providers: ProviderWithModels[] = [
         "capabilities": {
           "streaming": true
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "paraformer-v1",
@@ -16058,7 +16086,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "content_duration": 0.00008
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "paraformer-v2",
@@ -16080,7 +16108,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "content_duration": 0.00008
         }
@@ -16104,7 +16132,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qvq-max",
@@ -16131,7 +16159,7 @@ export const providers: ProviderWithModels[] = [
         "tools": [
           "function_calling"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 8192,
         "pricing": {
           "input": 8,
@@ -16150,7 +16178,7 @@ export const providers: ProviderWithModels[] = [
           "streaming": true,
           "fine_tuning": true
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "Qwen-Audio-3.0-ASR-Flash-Filetrans",
@@ -16176,7 +16204,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "content_duration": 0.00022
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "Qwen-Audio-3.0-ASR-Flash-Streaming",
@@ -16202,7 +16230,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "content_duration": 0.00033
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "Qwen-Audio-3.0-ASR-Flash",
@@ -16228,7 +16256,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "content_duration": 0.00022
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-audio-3.0-realtime-flash",
@@ -16249,7 +16277,7 @@ export const providers: ProviderWithModels[] = [
           "audio_text_output_token": 30,
           "audio_output_token": 100
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-audio-3.0-realtime-plus",
@@ -16270,7 +16298,7 @@ export const providers: ProviderWithModels[] = [
           "audio_text_output_token": 40,
           "audio_output_token": 150
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-audio-3.0-tts-flash",
@@ -16293,7 +16321,7 @@ export const providers: ProviderWithModels[] = [
             "audio"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-audio-3.0-tts-plus",
@@ -16319,7 +16347,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "cosy_tts_number": 1.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-coder-plus-1106",
@@ -16478,7 +16506,7 @@ export const providers: ProviderWithModels[] = [
         "tools": [
           "function_calling"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 4096,
         "pricing": {
           "input": 0.25,
@@ -16491,7 +16519,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen-flash",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen",
         "context_window": 1000000,
         "max_output_tokens": 32768,
@@ -16537,7 +16565,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen-image-2.0-pro",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen",
         "model_type": "chat",
         "capabilities": {
@@ -16590,7 +16618,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "image_number": 0.2
         }
@@ -16633,7 +16661,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "qima_input_1k": 0.02,
           "qima_input_2k": 0.02,
@@ -16670,7 +16698,7 @@ export const providers: ProviderWithModels[] = [
           "qima_output_1k": 0.18,
           "qima_output_2k": 0.18
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-image-edit-max",
@@ -16696,7 +16724,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-image-edit-plus",
@@ -16722,7 +16750,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "image_number": 0.2
         }
@@ -16751,7 +16779,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-image-max",
@@ -16777,7 +16805,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "image_number": 0.5
         }
@@ -16806,14 +16834,14 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-image",
         "name": "qwen-image",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen",
         "capabilities": {
           "streaming": true,
@@ -16877,7 +16905,7 @@ export const providers: ProviderWithModels[] = [
         "tools": [
           "function_calling"
         ],
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-math-plus-0816",
@@ -17027,7 +17055,7 @@ export const providers: ProviderWithModels[] = [
         "tools": [
           "function_calling"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 8192,
         "pricing": {
           "input": 2.4,
@@ -17042,7 +17070,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen-mt-flash",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen",
         "model_type": "chat",
         "capabilities": {
@@ -17112,7 +17140,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen-mt-lite",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen",
         "model_type": "chat",
         "capabilities": {
@@ -17151,7 +17179,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen-mt-plus",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen",
         "context_window": 16384,
         "max_output_tokens": 8192,
@@ -17190,7 +17218,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen-mt-turbo",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen",
         "model_type": "chat",
         "capabilities": {
@@ -17257,7 +17285,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen-omni-turbo-realtime",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen",
         "capabilities": {
           "streaming": true,
@@ -17306,7 +17334,7 @@ export const providers: ProviderWithModels[] = [
         "tools": [
           "function_calling"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 2048,
         "pricing": {
           "text_input_token": 0.4,
@@ -17387,7 +17415,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen-plus-character-ja",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen",
         "context_window": 32000,
         "max_output_tokens": 512,
@@ -17425,7 +17453,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen-plus-character",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen",
         "context_window": 32768,
         "max_output_tokens": 4096,
@@ -17478,7 +17506,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen-plus",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen",
         "model_type": "chat",
         "capabilities": {
@@ -17549,7 +17577,7 @@ export const providers: ProviderWithModels[] = [
             "audio"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "input": 2.4,
           "output": 12
@@ -17577,7 +17605,7 @@ export const providers: ProviderWithModels[] = [
             "audio"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "text_input_token": 1.6,
           "qwen_tts_multi_output_token": 10
@@ -17630,7 +17658,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen-turbo",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen",
         "model_type": "chat",
         "capabilities": {
@@ -18484,7 +18512,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen2.5-omni-7b",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen2.5",
         "context_window": 32768,
         "max_output_tokens": 2048,
@@ -18694,7 +18722,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3-0.6b",
@@ -18794,14 +18822,14 @@ export const providers: ProviderWithModels[] = [
         "tools": [
           "function_calling"
         ],
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3-235b-a22b-instruct-2507",
         "name": "qwen3-235b-a22b-instruct-2507",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "alias": "qwen3-235b-a22b-instruct",
         "capabilities": {
@@ -18872,7 +18900,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-235b-a22b-thinking-2507",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "alias": "qwen3-235b-a22b-thinking",
         "capabilities": {
@@ -18943,7 +18971,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-235b-a22b",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "capabilities": {
           "streaming": true,
@@ -18974,7 +19002,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-30b-a3b-instruct-2507",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "alias": "qwen3-30b-a3b-instruct",
         "capabilities": {
@@ -19045,7 +19073,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-30b-a3b-thinking-2507",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "alias": "qwen3-30b-a3b-thinking",
         "capabilities": {
@@ -19116,7 +19144,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-30b-a3b",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "capabilities": {
           "streaming": true,
@@ -19170,7 +19198,7 @@ export const providers: ProviderWithModels[] = [
         "tools": [
           "function_calling"
         ],
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3-4b",
@@ -19235,14 +19263,14 @@ export const providers: ProviderWithModels[] = [
         "tools": [
           "function_calling"
         ],
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "Qwen3-ASR-Flash-Filetrans",
         "name": "qwen3-asr-flash-filetrans",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "model_type": "chat",
         "capabilities": {
@@ -19274,7 +19302,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-asr-flash-realtime",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "model_type": "audio",
         "capabilities": {
@@ -19320,7 +19348,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "content_duration": 0.00022
         }
@@ -19330,7 +19358,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-coder-30b-a3b-instruct",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "capabilities": {
           "streaming": true,
@@ -19366,7 +19394,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-coder-480b-a35b-instruct",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "capabilities": {
           "streaming": true,
@@ -19402,7 +19430,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-coder-flash",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "capabilities": {
           "streaming": true,
@@ -19439,7 +19467,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-coder-next",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "context_window": 256000,
         "max_output_tokens": 65536,
@@ -19474,7 +19502,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-coder-plus",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "context_window": 1000000,
         "max_output_tokens": 65536,
@@ -19516,7 +19544,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-livetranslate-flash-realtime",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "context_window": 53248,
         "max_output_tokens": 4096,
@@ -19547,7 +19575,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-livetranslate-flash",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "context_window": 53248,
         "max_output_tokens": 4096,
@@ -19617,7 +19645,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-max",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "context_window": 262144,
         "max_output_tokens": 65536,
@@ -19663,7 +19691,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-next-80b-a3b-instruct",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "capabilities": {
           "streaming": true,
@@ -19694,7 +19722,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-next-80b-a3b-thinking",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "capabilities": {
           "streaming": true,
@@ -19778,7 +19806,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-omni-flash-realtime",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "context_window": 65536,
         "max_output_tokens": 16384,
@@ -19819,7 +19847,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-omni-flash",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "context_window": 65536,
         "max_output_tokens": 32768,
@@ -19883,7 +19911,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3-tts-flash-realtime",
@@ -19907,7 +19935,7 @@ export const providers: ProviderWithModels[] = [
             "audio"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "cosy_tts_number": 1
         }
@@ -19934,7 +19962,7 @@ export const providers: ProviderWithModels[] = [
             "audio"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "cosy_tts_number": 0.8
         }
@@ -19944,7 +19972,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-tts-instruct-flash-realtime",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "model_type": "tts",
         "capabilities": {
@@ -19973,7 +20001,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3-tts-instruct-flash",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3",
         "model_type": "tts",
         "capabilities": {
@@ -20324,7 +20352,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "embedding_image_token": 1.8,
           "embedding_token": 0.7
@@ -20422,7 +20450,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "embedding_image_token": 0.5,
           "embedding_token": 0.5
@@ -20433,7 +20461,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3.5-122b-a10b",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3.5",
         "context_window": 256000,
         "max_output_tokens": 64000,
@@ -20470,7 +20498,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3.5-27b",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3.5",
         "context_window": 256000,
         "max_output_tokens": 64000,
@@ -20506,7 +20534,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3.5-35b-a3b",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3.5",
         "context_window": 256000,
         "max_output_tokens": 64000,
@@ -20543,7 +20571,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3.5-397b-a17b",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3.5",
         "context_window": 262144,
         "max_output_tokens": 65536,
@@ -20584,7 +20612,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3.5-flash",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3.5",
         "context_window": 1000000,
         "max_output_tokens": 65536,
@@ -20638,7 +20666,7 @@ export const providers: ProviderWithModels[] = [
           "streaming": true,
           "fine_tuning": true
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "translate_audio_input_token": 40,
           "translate_vision_input_token": 3.3,
@@ -20659,7 +20687,7 @@ export const providers: ProviderWithModels[] = [
           "streaming": true,
           "fine_tuning": true
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3.5-omni-flash-realtime",
@@ -20692,7 +20720,7 @@ export const providers: ProviderWithModels[] = [
         "endpoints": [
           "chat"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "omni_audio_input_token": 27,
           "omni_audio_output_token": 107,
@@ -20729,7 +20757,7 @@ export const providers: ProviderWithModels[] = [
         "endpoints": [
           "chat"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 65536,
         "pricing": {
           "omni_audio_input_token": 18,
@@ -20775,7 +20803,7 @@ export const providers: ProviderWithModels[] = [
         "endpoints": [
           "chat"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "tools": [
           "function_calling"
         ],
@@ -20818,7 +20846,7 @@ export const providers: ProviderWithModels[] = [
         "endpoints": [
           "chat"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 65536,
         "pricing": {
           "omni_audio_input_token": 53,
@@ -20838,7 +20866,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwen3.5-plus",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwen3.5",
         "context_window": 1000000,
         "model_type": "chat",
@@ -20935,7 +20963,7 @@ export const providers: ProviderWithModels[] = [
         "endpoints": [
           "chat"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 65536,
         "tools": [
           "function_calling"
@@ -20973,7 +21001,7 @@ export const providers: ProviderWithModels[] = [
         "endpoints": [
           "chat"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "reasoning_tokens": true,
         "tools": [
           "function_calling"
@@ -21019,7 +21047,7 @@ export const providers: ProviderWithModels[] = [
         "endpoints": [
           "chat"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "tools": [
           "function_calling"
         ],
@@ -21059,7 +21087,7 @@ export const providers: ProviderWithModels[] = [
         "endpoints": [
           "chat"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 65536,
         "tools": [
           "function_calling"
@@ -21110,7 +21138,7 @@ export const providers: ProviderWithModels[] = [
           "input_token_batch_chat": 0.2,
           "output_token_batch_chat": 0.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3.7-max-preview",
@@ -21172,7 +21200,7 @@ export const providers: ProviderWithModels[] = [
         "tools": [
           "function_calling"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 131072,
         "pricing": {
           "input": 12,
@@ -21213,7 +21241,7 @@ export const providers: ProviderWithModels[] = [
         "tools": [
           "function_calling"
         ],
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "max_output_tokens": 131072,
         "pricing": {
           "input": 2,
@@ -21261,7 +21289,7 @@ export const providers: ProviderWithModels[] = [
           "input_token_batch_chat": 12,
           "output_token_batch_chat": 36
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3",
@@ -21357,7 +21385,7 @@ export const providers: ProviderWithModels[] = [
         "name": "qwq-plus",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "family": "qwq",
         "context_window": 131072,
         "max_output_tokens": 8192,
@@ -21412,7 +21440,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "text-embedding-v3",
@@ -21435,7 +21463,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "text-embedding-v4",
@@ -21458,7 +21486,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "embedding_token_batch": 0.25,
           "embedding_token": 0.5
@@ -21485,7 +21513,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "tongyi-embedding-vision-plus",
@@ -21508,7 +21536,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "wan-pro",
@@ -21587,7 +21615,7 @@ export const providers: ProviderWithModels[] = [
             "image"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "wan2.1-t2i-turbo",
@@ -21610,7 +21638,7 @@ export const providers: ProviderWithModels[] = [
             "image"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "wan2.1-vace-plus",
@@ -21807,7 +21835,7 @@ export const providers: ProviderWithModels[] = [
             "image"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "wan2.2-t2i-plus",
@@ -21830,14 +21858,14 @@ export const providers: ProviderWithModels[] = [
             "image"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "wan2.5-i2i-preview",
         "name": "wan2.5-i2i-preview",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "capabilities": {
           "streaming": true
         },
@@ -21881,7 +21909,7 @@ export const providers: ProviderWithModels[] = [
             "image"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "wan2.6-i2v",
@@ -21917,7 +21945,7 @@ export const providers: ProviderWithModels[] = [
         "name": "wan2.6-image",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "model_type": "image",
         "capabilities": {
           "streaming": true
@@ -21975,7 +22003,7 @@ export const providers: ProviderWithModels[] = [
         "name": "wan2.6-t2i",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "model_type": "image",
         "capabilities": {
           "streaming": true
@@ -22080,7 +22108,7 @@ export const providers: ProviderWithModels[] = [
             "image"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "wan2.7-image",
@@ -22103,7 +22131,7 @@ export const providers: ProviderWithModels[] = [
             "image"
           ]
         },
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "pricing": {
           "image_number": 0.2
         }
@@ -22142,7 +22170,7 @@ export const providers: ProviderWithModels[] = [
         "name": "wanx2.1-imageedit",
         "created_by": "qwen",
         "source": "official",
-        "last_updated": "2026-10-28",
+        "last_updated": "2026-10-29",
         "model_type": "image",
         "capabilities": {
           "streaming": true
@@ -22372,7 +22400,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 15
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "sensechat-character",
@@ -22398,7 +22426,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 12
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "sensechat-turbo-1202",
@@ -22480,7 +22508,7 @@ export const providers: ProviderWithModels[] = [
           "input": 10,
           "output": 60
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "sensechat",
@@ -22530,7 +22558,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 3.5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "sensenova-v6-omni",
@@ -22556,7 +22584,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 200
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "sensenova-v6-pro",
@@ -22583,7 +22611,7 @@ export const providers: ProviderWithModels[] = [
           "input": 3,
           "output": 9
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "sensenova-v6-reasoner",
@@ -22611,7 +22639,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 16
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "sensenova-v6-turbo",
@@ -22638,7 +22666,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.5,
           "output": 4.5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "sensenova-v6.5-pro",
@@ -22665,7 +22693,7 @@ export const providers: ProviderWithModels[] = [
           "input": 3,
           "output": 9
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "sensenova-v6.5-turbo",
@@ -22692,7 +22720,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.5,
           "output": 4.5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       }
     ]
   },
@@ -22735,7 +22763,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baai-bge-large-zh-v1.5",
@@ -22755,7 +22783,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baai-bge-m3",
@@ -22775,7 +22803,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baai-bge-reranker-v2-m3",
@@ -22795,7 +22823,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "baidu-ernie-image-turbo",
@@ -22843,7 +22871,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.5,
           "output": 4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-ai-deepseek-ocr",
@@ -22863,7 +22891,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-ai-deepseek-r1-0528-qwen3-8b",
@@ -22883,7 +22911,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-ai-deepseek-r1",
@@ -22907,7 +22935,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 16
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-ai-deepseek-v3.1-terminus",
@@ -22931,7 +22959,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 12
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-ai-deepseek-v3.2",
@@ -22955,7 +22983,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-ai-deepseek-v3",
@@ -22979,7 +23007,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-ai-deepseek-v4-flash",
@@ -23003,7 +23031,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-ai-deepseek-v4-pro",
@@ -23027,7 +23055,7 @@ export const providers: ProviderWithModels[] = [
           "input": 12,
           "output": 24
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-ai-deepseek-v4.1-flash",
@@ -23047,7 +23075,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "fnlp-moss-ttsd-v0.5",
@@ -23071,7 +23099,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 50
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "funaudiollm-cosyvoice2-0.5b",
@@ -23095,7 +23123,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 50
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "funaudiollm-sensevoicesmall",
@@ -23115,7 +23143,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "inclusionai-ling-flash-2.0",
@@ -23139,7 +23167,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "inclusionai-ling-mini-2.0",
@@ -23163,7 +23191,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.5,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kwai-kolors-kolors",
@@ -23183,7 +23211,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "meituan-longcat-longcat-2.0",
@@ -23207,7 +23235,7 @@ export const providers: ProviderWithModels[] = [
           "input": 5,
           "output": 20
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "minimaxai-minimax-m2.5",
@@ -23255,7 +23283,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6.5,
           "output": 27
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "nex-agi-nex-n2-pro",
@@ -23299,7 +23327,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "pro-baai-bge-m3",
@@ -23323,7 +23351,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.07,
           "output": 0.07
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "pro-baai-bge-reranker-v2-m3",
@@ -23347,7 +23375,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.07,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "pro-deepseek-ai-deepseek-r1",
@@ -23371,7 +23399,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 16
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "pro-deepseek-ai-deepseek-v3.1-terminus",
@@ -23395,7 +23423,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 12
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "pro-deepseek-ai-deepseek-v3.2",
@@ -23419,7 +23447,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "pro-deepseek-ai-deepseek-v3",
@@ -23443,7 +23471,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "pro-minimaxai-minimax-m2.5",
@@ -23491,7 +23519,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6.5,
           "output": 27
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "pro-qwen-qwen2.5-7b-instruct",
@@ -23515,7 +23543,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.35,
           "output": 0.35
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "pro-zai-org-glm-5.1",
@@ -23539,7 +23567,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6,
           "output": 28
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen-image-edit-2509",
@@ -23563,7 +23591,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen-image-edit",
@@ -23587,7 +23615,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen-image",
@@ -23611,7 +23639,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen2.5-14b-instruct",
@@ -23635,7 +23663,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.7,
           "output": 0.7
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen2.5-32b-instruct",
@@ -23659,7 +23687,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.26,
           "output": 1.26
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen2.5-72b-instruct-128k",
@@ -23683,7 +23711,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4.13,
           "output": 4.13
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen2.5-72b-instruct",
@@ -23707,7 +23735,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4.13,
           "output": 4.13
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen2.5-7b-instruct",
@@ -23727,7 +23755,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-14b",
@@ -23751,7 +23779,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.5,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-30b-a3b-instruct-2507",
@@ -23775,7 +23803,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.7,
           "output": 2.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-32b",
@@ -23799,7 +23827,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-8b",
@@ -23819,7 +23847,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-asr-1.7b",
@@ -23839,7 +23867,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-coder-30b-a3b-instruct",
@@ -23863,7 +23891,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.7,
           "output": 2.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-embedding-0.6b",
@@ -23887,7 +23915,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.07,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-embedding-4b",
@@ -23911,7 +23939,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.14,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-embedding-8b",
@@ -23935,7 +23963,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.28,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-omni-30b-a3b-captioner",
@@ -23959,7 +23987,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.7,
           "output": 2.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-omni-30b-a3b-instruct",
@@ -23983,7 +24011,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.7,
           "output": 2.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-omni-30b-a3b-thinking",
@@ -24007,7 +24035,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.7,
           "output": 2.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-reranker-0.6b",
@@ -24031,7 +24059,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.07,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-reranker-4b",
@@ -24055,7 +24083,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.14,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-reranker-8b",
@@ -24079,7 +24107,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.28,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-vl-30b-a3b-instruct",
@@ -24103,7 +24131,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.7,
           "output": 2.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-vl-30b-a3b-thinking",
@@ -24127,7 +24155,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.7,
           "output": 2.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-vl-32b-instruct",
@@ -24151,7 +24179,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-vl-32b-thinking",
@@ -24175,7 +24203,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 10
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-vl-8b-instruct",
@@ -24199,7 +24227,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.5,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-vl-8b-thinking",
@@ -24223,7 +24251,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.5,
           "output": 5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-vl-embedding-8b",
@@ -24247,7 +24275,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.7,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3-vl-reranker-8b",
@@ -24271,7 +24299,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.7,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.5-122b-a10b",
@@ -24295,7 +24323,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 16
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.5-27b",
@@ -24319,7 +24347,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.8,
           "output": 14.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.5-35b-a3b",
@@ -24343,7 +24371,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.6,
           "output": 12.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.5-397b-a17b",
@@ -24387,7 +24415,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.5-9b",
@@ -24411,7 +24439,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.5,
           "output": 12
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.6-27b",
@@ -24435,7 +24463,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.8,
           "output": 14.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.6-35b-a3b",
@@ -24459,7 +24487,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.6,
           "output": 12.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen-qwen3.8-27b",
@@ -24483,7 +24511,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.8,
           "output": 14.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "stepfun-ai-step-3.5-flash",
@@ -24507,7 +24535,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.7,
           "output": 2.1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "teleai-telespeechasr",
@@ -24551,7 +24579,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "tencent-hunyuan-mt-7b",
@@ -24571,7 +24599,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "tencent-hy4-preview",
@@ -24595,7 +24623,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6,
           "output": 18
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "thudm-glm-4-32b-0414",
@@ -24619,7 +24647,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.89,
           "output": 1.89
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "thudm-glm-4-9b-0414",
@@ -24639,7 +24667,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "thudm-glm-z1-9b-0414",
@@ -24659,7 +24687,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "tongyi-mai-z-image-turbo",
@@ -24683,7 +24711,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0.1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "tongyi-mai-z-image",
@@ -24707,7 +24735,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "wan-ai-wan2.2-i2v-a14b",
@@ -24731,7 +24759,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "wan-ai-wan2.2-t2v-a14b",
@@ -24755,7 +24783,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xingchenagi-xing4.0-29b",
@@ -24775,7 +24803,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xingchenagi-xingchenasr-diarize-v3.0",
@@ -24795,7 +24823,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xingchenagi-xingchenasr-v3.2-ultra",
@@ -24815,7 +24843,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xingchenagi-xingchenasr-v3.2",
@@ -24835,7 +24863,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xingchenagi-xingchengsr-v1.0",
@@ -24855,7 +24883,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "zai-org-glm-4.5-air",
@@ -24879,7 +24907,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "zai-org-glm-4.5v",
@@ -24903,7 +24931,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "zai-org-glm-5.2",
@@ -24927,7 +24955,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6,
           "output": 28
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "zai-org-glm-5.3-flash",
@@ -24947,7 +24975,7 @@ export const providers: ProviderWithModels[] = [
             "text"
           ]
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "zai-org-glm-5.3",
@@ -24971,7 +24999,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6,
           "output": 28
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       }
     ]
   },
@@ -25024,7 +25052,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "skywork-13b-chat",
@@ -25051,7 +25079,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "skywork-13b",
@@ -25078,7 +25106,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "skywork-coder-1.5b",
@@ -25104,7 +25132,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "skywork-coder-7b",
@@ -25130,7 +25158,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "skywork-moe",
@@ -25156,7 +25184,7 @@ export const providers: ProviderWithModels[] = [
           ]
         },
         "open_weight": true,
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       }
     ]
   },
@@ -25210,7 +25238,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "spark-x2.5-1.7b",
@@ -25238,7 +25266,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "spark-x2.5-4b",
@@ -25266,7 +25294,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "spark-x2.5",
@@ -25295,7 +25323,7 @@ export const providers: ProviderWithModels[] = [
           "output": 3.6,
           "cached_input": 0.14
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "spark-x2.6-4b",
@@ -25323,7 +25351,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "spark-x2.6",
@@ -25352,7 +25380,7 @@ export const providers: ProviderWithModels[] = [
           "output": 3.6,
           "cached_input": 0.08
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "starcode2-3b",
@@ -25492,7 +25520,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.6,
           "output": 4.8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xdeepseekv3",
@@ -25548,7 +25576,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2.1,
           "output": 8.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop35qwen2b",
@@ -25576,7 +25604,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.2,
           "output": 0.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop3qwen0b6",
@@ -25604,7 +25632,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.3,
           "output": 3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop3qwen14b",
@@ -25632,7 +25660,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 10
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop3qwen235b",
@@ -25688,7 +25716,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.2,
           "output": 12
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop3qwen30b",
@@ -25716,7 +25744,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.45,
           "output": 4.5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop3qwen30b2507",
@@ -25772,7 +25800,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.2,
           "output": 12
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop3qwen32bvl",
@@ -25800,7 +25828,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 8
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop3qwen4b",
@@ -25828,7 +25856,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.3,
           "output": 3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop3qwen80bnext",
@@ -25856,7 +25884,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.6,
           "output": 2.4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop3qwen8b",
@@ -25884,7 +25912,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.5,
           "output": 5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop3qwen8bembedding",
@@ -25909,7 +25937,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop3qwen8breranker",
@@ -25934,7 +25962,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xop3qwencodernext",
@@ -25962,7 +25990,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2.5,
           "output": 10
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopdeepseekocr",
@@ -25990,7 +26018,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopdeepseekv32",
@@ -26076,7 +26104,7 @@ export const providers: ProviderWithModels[] = [
           "output": 9,
           "cached_input": 0.1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopdeepseekv4pro",
@@ -26105,7 +26133,7 @@ export const providers: ProviderWithModels[] = [
           "output": 24,
           "cached_input": 1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopdeepseekv4pro0813",
@@ -26134,7 +26162,7 @@ export const providers: ProviderWithModels[] = [
           "output": 27,
           "cached_input": 0.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopglm47blth2",
@@ -26191,7 +26219,7 @@ export const providers: ProviderWithModels[] = [
           "output": 22,
           "cached_input": 1.2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopglm51",
@@ -26220,7 +26248,7 @@ export const providers: ProviderWithModels[] = [
           "output": 28,
           "cached_input": 1.6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopglm52",
@@ -26249,7 +26277,7 @@ export const providers: ProviderWithModels[] = [
           "output": 28,
           "cached_input": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopglm53",
@@ -26278,7 +26306,7 @@ export const providers: ProviderWithModels[] = [
           "output": 28,
           "cached_input": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopglmv47flash",
@@ -26306,7 +26334,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 1.5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xophunyuan7bmt",
@@ -26334,7 +26362,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.5,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xophunyuanocr",
@@ -26362,7 +26390,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopkimik25",
@@ -26391,7 +26419,7 @@ export const providers: ProviderWithModels[] = [
           "input": 4,
           "output": 21
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopkimik26",
@@ -26421,7 +26449,7 @@ export const providers: ProviderWithModels[] = [
           "output": 27,
           "cached_input": 1.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopkimik27code",
@@ -26450,7 +26478,7 @@ export const providers: ProviderWithModels[] = [
           "input": 6.5,
           "output": 27
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopkimik2blins",
@@ -26534,7 +26562,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0,
           "output": 0
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopqwen35397b",
@@ -26563,7 +26591,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.2,
           "output": 7.2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopqwen35v35b",
@@ -26621,7 +26649,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.08,
           "output": 6.48
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xopqwentti20b",
@@ -26704,7 +26732,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xqwen257bchat",
@@ -26732,7 +26760,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.5,
           "output": 1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xspark13b6k",
@@ -26844,7 +26872,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xsqwenv2s0b5c",
@@ -26872,7 +26900,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2,
           "output": 4
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xsqwenv2s1b5c",
@@ -26900,7 +26928,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "xssdxl",
@@ -28210,7 +28238,7 @@ export const providers: ProviderWithModels[] = [
           "output": 4,
           "cached_input": 0.02
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v4-flash-oem",
@@ -28266,7 +28294,7 @@ export const providers: ProviderWithModels[] = [
           "output": 4,
           "cached_input": 0.02
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v4-flash",
@@ -28294,7 +28322,7 @@ export const providers: ProviderWithModels[] = [
           "output": 2,
           "cached_input": 0.2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v4-pro-0813-正式版",
@@ -28322,7 +28350,7 @@ export const providers: ProviderWithModels[] = [
           "output": 13.5,
           "cached_input": 0.15
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v4-pro-oem",
@@ -28378,7 +28406,7 @@ export const providers: ProviderWithModels[] = [
           "output": 24,
           "cached_input": 1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v4.1-flash-1017",
@@ -28406,7 +28434,7 @@ export const providers: ProviderWithModels[] = [
           "output": 4,
           "cached_input": 0.02
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "deepseek-v4.1-flash",
@@ -28434,7 +28462,7 @@ export const providers: ProviderWithModels[] = [
           "output": 4,
           "cached_input": 0.02
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "glm-5-turbo",
@@ -28518,7 +28546,7 @@ export const providers: ProviderWithModels[] = [
           "output": 28,
           "cached_input": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "glm-5.3-flash",
@@ -28546,7 +28574,7 @@ export const providers: ProviderWithModels[] = [
           "output": 2.8,
           "cached_input": 0.23
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "glm-5.3-flashx",
@@ -28574,7 +28602,7 @@ export const providers: ProviderWithModels[] = [
           "output": 7,
           "cached_input": 0.57
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "glm-5.3",
@@ -28602,7 +28630,7 @@ export const providers: ProviderWithModels[] = [
           "output": 28,
           "cached_input": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "glm-5",
@@ -28658,7 +28686,7 @@ export const providers: ProviderWithModels[] = [
           "output": 22,
           "cached_input": 1.2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "hy-3d-3.0",
@@ -28805,7 +28833,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.3,
           "output": 1.2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "hy-mt2-plus",
@@ -28832,7 +28860,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.5,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "hy-mt2-pro",
@@ -28859,7 +28887,7 @@ export const providers: ProviderWithModels[] = [
           "input": 0.5,
           "output": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "hy-role-latest",
@@ -28886,7 +28914,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2.4,
           "output": 9.6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "hy-role",
@@ -28913,7 +28941,7 @@ export const providers: ProviderWithModels[] = [
           "input": 2.4,
           "output": 9.6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "hy-video-1.5",
@@ -28964,7 +28992,7 @@ export const providers: ProviderWithModels[] = [
           "input": 3,
           "output": 9
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "hy-vision-2.0-instruct",
@@ -28991,7 +29019,7 @@ export const providers: ProviderWithModels[] = [
           "input": 7.5,
           "output": 17.5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "hy-vision-video",
@@ -29018,7 +29046,7 @@ export const providers: ProviderWithModels[] = [
           "input": 3,
           "output": 9
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "hy3-preview",
@@ -29074,7 +29102,7 @@ export const providers: ProviderWithModels[] = [
           "output": 4,
           "cached_input": 0.25
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "hy4-preview",
@@ -29102,7 +29130,7 @@ export const providers: ProviderWithModels[] = [
           "output": 18,
           "cached_input": 0.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kimi-k2.5",
@@ -29158,7 +29186,7 @@ export const providers: ProviderWithModels[] = [
           "output": 27,
           "cached_input": 1.1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kimi-k2.7-code-highspeed",
@@ -29186,7 +29214,7 @@ export const providers: ProviderWithModels[] = [
           "output": 54,
           "cached_input": 2.6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kimi-k2.7-code",
@@ -29214,7 +29242,7 @@ export const providers: ProviderWithModels[] = [
           "output": 27,
           "cached_input": 1.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kimi-k2.8-preview",
@@ -29242,7 +29270,7 @@ export const providers: ProviderWithModels[] = [
           "output": 27,
           "cached_input": 1.7
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kimi-k3-pro-highspeed",
@@ -29298,7 +29326,7 @@ export const providers: ProviderWithModels[] = [
           "output": 136,
           "cached_input": 1.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kimi-k3.1-pro",
@@ -29326,7 +29354,7 @@ export const providers: ProviderWithModels[] = [
           "output": 68,
           "cached_input": 1.3
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kimi-k3",
@@ -29354,7 +29382,7 @@ export const providers: ProviderWithModels[] = [
           "output": 100,
           "cached_input": 2
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "kling-video-v2.1-master",
@@ -29502,7 +29530,7 @@ export const providers: ProviderWithModels[] = [
           "output": 6,
           "cached_input": 0.025
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "mimo-v2.6-flash",
@@ -29530,7 +29558,7 @@ export const providers: ProviderWithModels[] = [
           "output": 2,
           "cached_input": 0.02
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "mimo-v2.6-pro",
@@ -29558,7 +29586,7 @@ export const providers: ProviderWithModels[] = [
           "output": 6,
           "cached_input": 0.025
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "minimax-m2.5",
@@ -29614,7 +29642,7 @@ export const providers: ProviderWithModels[] = [
           "output": 8.4,
           "cached_input": 0.42
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "minimax-m3.1-flash",
@@ -29642,7 +29670,7 @@ export const providers: ProviderWithModels[] = [
           "output": 4,
           "cached_input": 0.1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "minimax-m3",
@@ -29670,7 +29698,7 @@ export const providers: ProviderWithModels[] = [
           "output": 8.4,
           "cached_input": 0.42
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3.5-flash",
@@ -29698,7 +29726,7 @@ export const providers: ProviderWithModels[] = [
           "output": 2,
           "cached_input": 0.02
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "qwen3.5-plus",
@@ -29726,7 +29754,7 @@ export const providers: ProviderWithModels[] = [
           "output": 4.8,
           "cached_input": 0.08
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "step-5-preview",
@@ -29754,7 +29782,7 @@ export const providers: ProviderWithModels[] = [
           "output": 20,
           "cached_input": 0.35
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "vidu-video-q3-pro",
@@ -29826,7 +29854,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "yt-video-fx",
@@ -29850,7 +29878,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "yt-video-humanactor",
@@ -29874,7 +29902,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 1
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "yt-vita",
@@ -29901,7 +29929,7 @@ export const providers: ProviderWithModels[] = [
           "input": 1.2,
           "output": 3.5
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       }
     ]
   },
@@ -32328,7 +32356,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 0.99
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       },
       {
         "id": "yi-vision-v2",
@@ -32356,7 +32384,7 @@ export const providers: ProviderWithModels[] = [
         "pricing": {
           "input": 6
         },
-        "last_updated": "2026-10-28"
+        "last_updated": "2026-10-29"
       }
     ]
   }

@@ -10,22 +10,18 @@
   "active_parameters": 42,
   "page_url": "https://ollama.com/library/muse-spark-open",
   "capabilities": {
-    "streaming": true,
-    "vision": true,
-    "tool_call": true,
-    "reasoning": true
+    "streaming": true
   },
   "modalities": {
     "input": [
-      "text",
-      "image"
+      "text"
     ],
     "output": [
       "text"
     ]
   },
   "open_weight": true,
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-29",
   "_generated": {
     "name": "6818a85c",
     "description": "e7f940ba",
@@ -34,8 +30,8 @@
     "parameters": "43fa7f58",
     "active_parameters": "a1d0c6e8",
     "page_url": "08000af2",
-    "capabilities": "a19166f1",
-    "modalities": "6399757e",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
     "open_weight": "b326b506",
     "reasoning_tokens": "b326b506"
   },

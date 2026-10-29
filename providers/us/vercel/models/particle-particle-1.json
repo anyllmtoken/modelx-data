@@ -1,0 +1,26 @@
+{
+  "id": "particle/particle-1",
+  "name": "particle-1",
+  "created_by": "particle",
+  "source": "official",
+  "context_window": 1000000,
+  "model_type": "chat",
+  "capabilities": {
+    "streaming": true,
+    "vision": true,
+    "tool_call": true,
+    "reasoning": true
+  },
+  "pricing": {
+    "input": 0.13,
+    "output": 0.5
+  },
+  "last_updated": "2026-10-29",
+  "_generated": {
+    "name": "6ec8687a",
+    "context_window": "8155bc54",
+    "model_type": "d669f408",
+    "capabilities": "a19166f1",
+    "pricing": "32f6dbf8"
+  }
+}

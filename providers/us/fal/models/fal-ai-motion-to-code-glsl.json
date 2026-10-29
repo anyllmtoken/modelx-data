@@ -1,0 +1,24 @@
+{
+  "id": "fal-ai/motion-to-code/glsl",
+  "name": "Motion To Code",
+  "created_by": "fal",
+  "source": "official",
+  "description": "Turn a prompt, an image or a reference video into a seamlessly looping GLSL shader, with a page that plays it live.",
+  "status": "active",
+  "release_date": "2026-10-27",
+  "model_type": "other",
+  "page_url": "https://fal.run/fal-ai/motion-to-code/glsl",
+  "capabilities": {
+    "vision": true
+  },
+  "last_updated": "2026-10-29",
+  "_generated": {
+    "name": "0bcd28a6",
+    "description": "725420a3",
+    "status": "379ac110",
+    "release_date": "6a3e5c81",
+    "model_type": "ddb0b7bc",
+    "page_url": "4c0efe3e",
+    "capabilities": "d3117eb0"
+  }
+}

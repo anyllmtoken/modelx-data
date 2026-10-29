@@ -9,26 +9,30 @@
   "page_url": "https://ollama.com/library/lfm3-audio",
   "capabilities": {
     "streaming": true,
+    "vision": true,
     "tool_call": true
   },
   "modalities": {
     "input": [
-      "text"
+      "text",
+      "image"
     ],
     "output": [
       "text"
     ]
   },
   "open_weight": true,
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-29",
   "_generated": {
     "name": "7e9ff3b6",
     "description": "a3713ef8",
     "license": "6327aaea",
     "parameters": "c81e728d",
     "page_url": "75058f09",
-    "capabilities": "48995a4e",
-    "modalities": "68e53d93",
-    "open_weight": "b326b506"
-  }
+    "capabilities": "fc36814c",
+    "modalities": "6399757e",
+    "open_weight": "b326b506",
+    "context_window": "34434798"
+  },
+  "context_window": 128000
 }
