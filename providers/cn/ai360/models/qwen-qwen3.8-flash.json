@@ -20,10 +20,10 @@
     ]
   },
   "pricing": {
-    "input": 1,
-    "output": 3
+    "input": 0.8,
+    "output": 2.7
   },
-  "last_updated": "2026-10-29",
+  "last_updated": "2026-10-30",
   "_generated": {
     "name": "8446d366",
     "family": "e102ad6a",
@@ -31,6 +31,6 @@
     "model_type": "d669f408",
     "capabilities": "1d6c1abb",
     "modalities": "68e53d93",
-    "pricing": "7fd03be2"
+    "pricing": "6c26d5b2"
   }
 }
