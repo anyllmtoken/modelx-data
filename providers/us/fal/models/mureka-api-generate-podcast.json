@@ -1,6 +1,6 @@
 {
   "id": "mureka/api/generate/podcast",
-  "name": "Mureka 9.5 Podcast Generation",
+  "name": "Mureka Podcast Generation",
   "created_by": "mureka",
   "source": "official",
   "description": "Generates podcast audio from an ordered sequence of conversation turns, with text and a voice selection for each turn.",
@@ -8,9 +8,9 @@
   "release_date": "2026-09-15",
   "model_type": "other",
   "page_url": "https://fal.run/mureka/api/generate/podcast",
-  "last_updated": "2026-10-30",
+  "last_updated": "2026-10-31",
   "_generated": {
-    "name": "9a4ba924",
+    "name": "a103e90a",
     "description": "4b1a4c82",
     "status": "379ac110",
     "release_date": "5ed4afcc",

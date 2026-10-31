@@ -1,0 +1,35 @@
+{
+  "id": "mimo-v2.6-pro",
+  "name": "mimo-v2.6-pro",
+  "created_by": "xiaomi",
+  "source": "official",
+  "family": "mimo",
+  "description": "Xiaomi&#39;s flagship MiMo-V2.6 checkpoint, with 1.02T total parameters, 42B active, omnimodal input, and a 1M token context.",
+  "release_date": "2026-09-22",
+  "license": "open-weight",
+  "page_url": "https://ollama.com/library/mimo-v2.6-pro",
+  "capabilities": {
+    "streaming": true
+  },
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "text"
+    ]
+  },
+  "open_weight": true,
+  "last_updated": "2026-10-31",
+  "_generated": {
+    "name": "e62ce7b2",
+    "family": "1a23786e",
+    "description": "65ee8ab2",
+    "release_date": "a771be49",
+    "license": "6327aaea",
+    "page_url": "1e8650cf",
+    "capabilities": "0fa77dc6",
+    "modalities": "68e53d93",
+    "open_weight": "b326b506"
+  }
+}

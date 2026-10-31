@@ -1,0 +1,38 @@
+{
+  "id": "tbc/mischief-1/image-to-video",
+  "name": "Mischief 1",
+  "created_by": "tbc",
+  "source": "official",
+  "description": "TBC mischief 1 is the world's first neuron-derived video model.",
+  "status": "active",
+  "release_date": "2026-10-28",
+  "model_type": "video",
+  "page_url": "https://fal.run/tbc/mischief-1/image-to-video",
+  "capabilities": {
+    "vision": true
+  },
+  "modalities": {
+    "input": [
+      "text",
+      "image"
+    ],
+    "output": [
+      "video"
+    ]
+  },
+  "endpoints": [
+    "video"
+  ],
+  "last_updated": "2026-10-31",
+  "_generated": {
+    "name": "ed8e9e28",
+    "description": "c17c9fad",
+    "status": "379ac110",
+    "release_date": "cbc52969",
+    "model_type": "4d1b75ca",
+    "page_url": "843a9de7",
+    "capabilities": "d3117eb0",
+    "modalities": "85fd0565",
+    "endpoints": "7a78c070"
+  }
+}
